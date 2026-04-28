@@ -1,0 +1,43 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# AI tooling — guard against accidental commits
+.claude/
+.cursor/
+.cursorrules
+.aider*
+.continue/
+.continuerc*
+.codeium/
+.codeium.env
+.github/copilot/
+CLAUDE.md
+AGENTS.md
+.mcp.json
+.clauderc
+openrouter*
+anthropic*
+openai*
+*.ai.md
+*.llm.md
+*.prompt.md
+.windsurf/
+.sourcery.yaml
+
+# Temporary / scratch
+*.tmp
+*.bak
+*.orig
+.cache/
+node_modules/

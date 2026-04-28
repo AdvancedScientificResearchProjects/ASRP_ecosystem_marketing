@@ -1,0 +1,3595 @@
+{
+  "elements": [
+    {
+      "id": "le-us",
+      "label": "ASRP LLC (Florida)",
+      "type": "legal-entity",
+      "icon": "🏢",
+      "description": "Advanced Scientific Research Projects LLC · Florida #L17000209665 · operational/commercial entity (Tesla Business Program, DARPA BAA, USD contracting)",
+      "jurisdiction": "USA · Florida",
+      "registry": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&searchTerm=ADVANCED%20SCIENTIFIC%20RESEARCH%20PROJECTS%20LLC",
+      "filed": "2017-10-10",
+      "isHub": true,
+      "labelRu": "ASRP LLC (Флорида)",
+      "descriptionRu": "Advanced Scientific Research Projects LLC · Florida #L17000209665 · операционная/коммерческая компания (Tesla Business Program, DARPA BAA, USD-контрактация)",
+      "tags": [
+        "legal-entity"
+      ]
+    },
+    {
+      "id": "le-kz",
+      "label": "ASRP ТОО ПНИР (Kazakhstan)",
+      "type": "legal-entity",
+      "icon": "🏢",
+      "description": "📌 Why ТОО ПНИР matters. Kazakhstan ТОО (BIN 240140033296, Baikonur, 27 Jan 2024) holds the patent portfolio — 8 patents, 6 Kazpatent + PCT 412362 + biophotonic + ASRP.art. This makes IP licensing a distinct revenue route from operational USD contracting via ASRP LLC (Florida). Kazakhstan jurisdiction is driven by founder-residency requirements and KZ corporate-regulation specifics. Phased consolidation — holding companies, shareholder agreements, joint-activity agreements — is in progress. UBO triad: Ovseannicova · Kapustin · Banchenko.",
+      "jurisdiction": "Kazakhstan · Baikonur",
+      "registry": "https://kyc.kz/search/bin/240140033296",
+      "isHub": true,
+      "labelRu": "ASRP ТОО ПНИР (Казахстан)",
+      "descriptionRu": "📌 Почему ТОО ПНИР важно. Казахстанское ТОО (БИН 240140033296, Байконыр, 27 янв. 2024) держит патентный портфель — 8 патентов, 6 Казпатент + PCT 412362 + биофотонный + ASRP.art. Это делает IP-лицензирование отдельным каналом выручки, не пересекающимся с операционным USD-контрактингом через ASRP LLC (Флорида). KZ-юрисдикция обусловлена требованиями к резидентности учредителей и спецификой корпоративного регулирования РК. Поэтапная консолидация — холдинги, акционерные соглашения, договоры о совместной деятельности — идёт. UBO-треугольник: Овсянникова · Капустин · Банченко.",
+      "tags": [
+        "legal-entity"
+      ]
+    },
+    {
+      "id": "le-uk",
+      "label": "ASRP UK entity (reinstatement)",
+      "type": "legal-entity",
+      "icon": "🏢",
+      "description": "Currently undergoing corporate-status reinstatement",
+      "jurisdiction": "United Kingdom",
+      "status": "reinstating",
+      "labelRu": "ASRP — UK-юрлицо (на восстановлении)",
+      "descriptionRu": "На стадии восстановления корпоративного статуса (reinstatement)",
+      "tags": [
+        "legal-entity"
+      ]
+    },
+    {
+      "id": "ubo-group",
+      "label": "ASRP Group (UBO control)",
+      "type": "legal-disclosure",
+      "icon": "⚖️",
+      "description": "Beneficial-ownership and joint strategic control rest with V. Ovseannicova, M. Kapustin, D. Banchenko regardless of formal jurisdictional registration",
+      "labelRu": "Группа ASRP (UBO-контроль / конечный бенефициар)",
+      "descriptionRu": "Бенефициарное владение и совместный стратегический контроль — В. Овсянникова, М. Капустин, Д. Банченко, независимо от формальной регистрации в юрисдикциях",
+      "tags": [
+        "legal-disclosure"
+      ]
+    },
+    {
+      "id": "p-vo",
+      "label": "Valeria A. Ovseannicova",
+      "type": "person · team",
+      "icon": "👤",
+      "role": "Co-Founder & CBE (Chief Biomedical Engineer)",
+      "location": "Kishenev, Moldova",
+      "description": "plasma/agri/yeast protocol authorship + reproduction",
+      "labelRu": "Овсянникова Валерия Александровна",
+      "descriptionRu": "Главный биомедицинский инженер — авторство и воспроизведение протоколов плазмы крови / агро / дрожжей",
+      "tags": [
+        "person · team"
+      ]
+    },
+    {
+      "id": "p-mk",
+      "label": "Mykhailo M. Kapustin",
+      "type": "person · team",
+      "icon": "👤",
+      "role": "Co-Founder & CTO",
+      "location": "Berlin, Germany",
+      "description": "AI Dream Match Search Model · platform engineering",
+      "labelRu": "Капустин Михаил Михайлович",
+      "descriptionRu": "AI Dream Match Search Model · платформенная инженерия",
+      "tags": [
+        "person · team"
+      ]
+    },
+    {
+      "id": "p-vb",
+      "label": "Vlada Bilovodenko",
+      "type": "person · team",
+      "icon": "👤",
+      "role": "Co-Founder & CRO (Chief Risk Officer)",
+      "location": "Berlin, Germany",
+      "description": "risk + compliance · whitepaper co-author",
+      "labelRu": "Биловоденко Влада",
+      "descriptionRu": "Риски + комплаенс · соавтор whitepaper",
+      "tags": [
+        "person · team"
+      ]
+    },
+    {
+      "id": "p-is",
+      "label": "Ivan V. Savelev",
+      "type": "person · team",
+      "icon": "👤",
+      "role": "CSO (Chief Scientific Officer)",
+      "location": "Russian Federation",
+      "description": "Senior Researcher · DNA Resonance Research Foundation",
+      "labelRu": "Савельев Иван Викторович",
+      "descriptionRu": "Старший исследователь · Фонд DNA Resonance Research",
+      "tags": [
+        "person · team"
+      ]
+    },
+    {
+      "id": "p-as",
+      "label": "Alireza Sepehri",
+      "type": "person · team",
+      "icon": "👤",
+      "role": "CPO (Chief Physics Officer)",
+      "location": "Iran",
+      "description": "physics co-author · whitepaper",
+      "labelRu": "Алиреза Сепехри",
+      "descriptionRu": "Соавтор по физике · whitepaper",
+      "tags": [
+        "person · team"
+      ]
+    },
+    {
+      "id": "p-ig",
+      "label": "Irina V. Grivtsova",
+      "type": "person · team",
+      "icon": "👤",
+      "role": "Founder & CEO of Stress Relief Center «Strategy»",
+      "location": "Tomsk, Russia",
+      "description": "Scientific European Society Hanover member · stress diagnostics",
+      "labelRu": "Гривцова Ирина Владимировна",
+      "descriptionRu": "Член Scientific European Society Hanover · диагностика и управление стрессом",
+      "tags": [
+        "person · team"
+      ]
+    },
+    {
+      "id": "p-db",
+      "label": "Denis Y. Banchenko",
+      "type": "person · team",
+      "icon": "👤",
+      "role": "Founder & CEO of ASRP",
+      "location": "Baikonur, Kazakhstan",
+      "description": "Banchenko-Technology architect · UAP-adjacent oncology hypothesis",
+      "labelRu": "Банченко Денис Юрьевич",
+      "descriptionRu": "Архитектор Banchenko-Technology · автор гипотезы темпоральной десинхронизации в UAP-смежной онкологии",
+      "tags": [
+        "person · team"
+      ]
+    },
+    {
+      "id": "p-cardillo",
+      "label": "Robert Cardillo",
+      "type": "person · external",
+      "icon": "👥",
+      "role": "Configuration Management (CCMP·CISCM) at NSWC IHD",
+      "location": "USA",
+      "description": "Posted the 11-case scientist-cluster LinkedIn analysis · April 2026",
+      "labelRu": "Роберт Кардилло",
+      "descriptionRu": "Опубликовал в LinkedIn анализ кластера 11 учёных · апрель 2026",
+      "tags": [
+        "person · external"
+      ]
+    },
+    {
+      "id": "p-nolan",
+      "label": "Dr. Garry Nolan",
+      "type": "person · external",
+      "icon": "👥",
+      "role": "Stanford · Life Sciences, Bioinformatics, Cancer Research",
+      "location": "Stanford, USA",
+      "description": "UAP-adjacent oncology · *The Phenomenon of Disclosure*",
+      "labelRu": "Д-р Гарри Нолан",
+      "descriptionRu": "UAP-смежная онкология · фильм «The Phenomenon of Disclosure»",
+      "tags": [
+        "person · external"
+      ]
+    },
+    {
+      "id": "p-dalton",
+      "label": "Calendar admin (Stanford)",
+      "type": "person · external",
+      "icon": "👥",
+      "role": "Admin to Dr. Garry Nolan",
+      "location": "Stanford, USA",
+      "description": "Manages Dr. Nolan's calendar; contact provided on request under NDA",
+      "labelRu": "Дайан Долтон",
+      "descriptionRu": "Управляет календарём д-ра Nolan; контакт по запросу под NDA",
+      "tags": [
+        "person · external"
+      ]
+    },
+    {
+      "id": "p-renwick",
+      "label": "NIH/NCI Contracting Specialist",
+      "type": "person · external",
+      "icon": "👥",
+      "role": "NIH/NCI Contracting Specialist",
+      "location": "Bethesda MD, USA",
+      "description": "Contact via official NIH SBIR portal · NCI SBIR FY26 track",
+      "labelRu": "Д-р Таня Ренвик",
+      "descriptionRu": "Контакт через официальный портал NIH SBIR · трек NCI SBIR FY26",
+      "tags": [
+        "person · external"
+      ]
+    },
+    {
+      "id": "p-natasha",
+      "label": "Natasha (Cortical Labs contact)",
+      "type": "person · external",
+      "icon": "👥",
+      "role": "Cortical Labs · review lead",
+      "location": "Melbourne, Australia",
+      "description": "Communicated 2026-Q2 about active review of ASRP plasma research",
+      "labelRu": "Наташа (Cortical Labs)",
+      "descriptionRu": "Сообщила в Q2 2026 о текущем рассмотрении плазма-исследования ASRP",
+      "tags": [
+        "person · external"
+      ]
+    },
+    {
+      "id": "pj-bot",
+      "label": "Arcanum12th_BOT",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟢 live",
+      "description": "Dreams journal + biosensor data → GFS",
+      "labelRu": "Arcanum12th_BOT — дневник снов",
+      "descriptionRu": "Дневник снов + биосенсорные данные → GFS",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-media",
+      "label": "ASRP.media",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟢 live",
+      "description": "Official media + science-popularising content",
+      "revenueSummary": "Advertisers + Amazon affiliates pay via CPM/CPC banners + deep-links; neurointerface sale already realised · ✅ realised",
+      "revenueSummaryRu": "Рекламодатели + Amazon-партнёрки платят через CPM/CPC-баннеры и deep-link; продажа нейроинтерфейса уже реализована · ✅ реализовано",
+      "labelRu": "ASRP.media — официальное СМИ",
+      "descriptionRu": "Официальное СМИ + научпоп-контент",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-science",
+      "label": "ASRP.science",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟢 live",
+      "description": "Peer-review scientific journal",
+      "labelRu": "ASRP.science — рецензируемый журнал",
+      "descriptionRu": "Рецензируемый научный журнал",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-tech",
+      "label": "asrp.tech",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟢 live",
+      "description": "Projects & patents portfolio site",
+      "labelRu": "asrp.tech — портфолио проектов и патентов",
+      "descriptionRu": "Сайт-портфолио проектов и патентов",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-arc12",
+      "label": "Arcanum12th.education",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟡 active-dev",
+      "description": "Educational platform · raw biological-data source (genetic, EEG, GSR, ANS)",
+      "revenueSummary": "B2C learners pay $9–499 courses + $5–50/mo subs + $29–99 certs; 30–70% rev-share with authors · email + YouTube + bot upsell · 🟡 active-dev",
+      "revenueSummaryRu": "B2C-ученики платят $9–499 за курсы + $5–50/мес подписки + $29–99 сертификаты; 30–70% rev-share с авторами · email + YouTube + апсейл из бота · 🟡 active-dev",
+      "labelRu": "Arcanum12th.education — образовательная платформа",
+      "descriptionRu": "Образовательная платформа · источник сырых биологических данных (генетика, ЭЭГ, GSR, ANS)",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-art",
+      "label": "ASRP.art",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟡 active-dev",
+      "description": "Neurophysiological art valuation (SPR)",
+      "revenueSummary": "Artists → galleries → collectors → auction houses pay for SPR scoring; bottom-up to top-tier auction houses (Phase-4 targets); paid SPR certification 3-6mo · 🟡 active-dev",
+      "revenueSummaryRu": "Художники → галереи → коллекционеры → аукционные дома платят за SPR-оценку; bottom-up к аукционным домам высшего эшелона (Phase-4); платная SPR-сертификация 3-6 мес · 🟡 active-dev",
+      "labelRu": "ASRP.art — нейрофизиологическая оценка искусства",
+      "descriptionRu": "Нейрофизиологическая оценка искусства (SPR)",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-drift",
+      "label": "ASRP.drift (PlayOne)",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟡 active-dev",
+      "description": "Neurointegration for team synchronisation",
+      "revenueSummary": "Clinical research + sports science + defense augmentation programs pay for resonant neurointegration via institutional partnerships post-validation · 🟡 active-dev",
+      "revenueSummaryRu": "Клинические исследования + спортивная наука + оборонные программы усиления платят за резонансную нейроинтеграцию через институциональные партнёрства после валидации · 🟡 active-dev",
+      "labelRu": "ASRP.drift (PlayOne) — нейроинтеграция",
+      "descriptionRu": "Нейроинтеграция для синхронизации команд",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-gfs",
+      "label": "GFS — Global Forecasting System",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟡 active-dev",
+      "description": "Dream + biosensor analysis → forecasts (B2G/B2B)",
+      "revenueSummary": "Governments + private desks + B2C bettors pay for forecasts via B2G direct + B2B API + ASRP.exchange UI · 🟡 active-dev",
+      "revenueSummaryRu": "Государства + частные дески + B2C-ставочники платят за прогнозы через B2G-канал + B2B API + UI ASRP.exchange · 🟡 active-dev",
+      "labelRu": "GFS — Глобальная система прогнозирования",
+      "descriptionRu": "Анализ снов + биосенсоров → прогнозы (B2G/B2B)",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-gms",
+      "label": "Global Mental System (GMS)",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟡 active-dev",
+      "description": "Cognitive process synchronisation · meta-cluster",
+      "revenueSummary": "End-users + content platforms + GMS-program enterprises pay tx fees on Kapusta.money + exchange commissions + Arcanum12th cert fees + premium subs · 🟡 active-dev",
+      "revenueSummaryRu": "Конечные пользователи + контент-платформы + корпорации с GMS-программами платят комиссии транзакций Kapusta.money + комиссии биржи + комиссии за сертификацию Arcanum12th + премиум-подписки · 🟡 active-dev",
+      "labelRu": "Global Mental System (GMS) — мета-кластер",
+      "descriptionRu": "Синхронизация когнитивных процессов · мета-кластер",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-bfs",
+      "label": "Body Food System",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟡 active-dev",
+      "description": "Genetics-based personalised nutrition",
+      "labelRu": "Body Food System — персональное питание по генетике",
+      "descriptionRu": "Персональное питание на основе генетики",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-inspira",
+      "label": "Inspira-X",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟡 active-dev",
+      "description": "Dual-channel pneumograph + ECG · DAAT Crystal stack",
+      "revenueSummary": "Backers + B2C wellness + B2B clinics pay for Inspira-X biofeedback device + DAAT-stack component via crowdfunding launch + direct sales · 🟡 active-dev",
+      "revenueSummaryRu": "Бэкеры + B2C wellness + B2B-клиники платят за прибор биообратной связи Inspira-X + компонент DAAT-стека через краудфандинг и прямые продажи · 🟡 active-dev",
+      "labelRu": "Inspira-X — двухканальный пневмограф + ЭКГ",
+      "descriptionRu": "Двухканальный пневмограф + ЭКГ · стек DAAT Crystal",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-dance",
+      "label": "ASRP.dance",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟡 active-dev",
+      "description": "Movement neuroscience · cortical activation",
+      "revenueSummary": "Neuro/rehab clinics + high-perf sports + wellness studios + cog-neuro labs pay for movement-cortex protocols via institutional pilots → whitelabel + Arcanum12th cert · 🟡 active-dev",
+      "revenueSummaryRu": "Неврологические/реабилитационные клиники + спорт высоких достижений + wellness-студии + лаборатории когнитивной нейронауки платят за моторно-кортикальные протоколы через институциональные пилоты → whitelabel + сертификация Arcanum12th · 🟡 active-dev",
+      "labelRu": "ASRP.dance — нейронаука движений",
+      "descriptionRu": "Нейронаука движений · активация коры через сложные движения",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-fashion",
+      "label": "ASRP.fashion",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟡 active-dev",
+      "description": "Living biocompatible textiles (plant/bacteria/fungi)",
+      "revenueSummary": "Premium fashion + wellness retail + medical textiles (anti-thrombosis) + space/defense R&D pay for living biocompatible textiles via designer pilots → bio-fabric licensing · 🟡 active-dev",
+      "revenueSummaryRu": "Премиум-fashion + wellness-ритейл + медтекстиль (антитромбоз) + космический/оборонный R&D платят за живые биосовместимые ткани через дизайнерские пилоты → лицензирование биотканей · 🟡 active-dev",
+      "labelRu": "ASRP.fashion — живые биосовместимые ткани",
+      "descriptionRu": "Живые биосовместимые ткани (растения/бактерии/грибы)",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-daat",
+      "label": "DAAT Crystal",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟡 active-dev",
+      "description": "Premium cognitive-enhancement device · crystal+Inspira-X+neurointerface",
+      "revenueSummary": "Premium B2C + B2B corporate-wellness pay for crystal+Inspira-X+neurointerface+ASRP.drift stack via asrp.tech / ASRPshop / Arcanum12th community · ✅ realised (founder-disclosed pilots)",
+      "revenueSummaryRu": "Премиум B2C + корпоративный wellness платят за стек кристалл+Inspira-X+нейроинтерфейс+ASRP.drift через asrp.tech / ASRPshop / сообщество Arcanum12th · ✅ реализовано (пилоты со слов основателя)",
+      "labelRu": "DAAT Crystal — премиум-устройство когнитивного усиления",
+      "descriptionRu": "Премиум-устройство когнитивного усиления · кристалл + Inspira-X + нейроинтерфейс",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-exch",
+      "label": "ASRP.exchange / ASRP Market",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟡 active-dev",
+      "description": "Consciousness-state marketplace",
+      "revenueSummary": "Bettors + Mental-Object holders + governments pay forecast/stake fees + listing/cert + B2G subscriptions; settled in Kapusta.money · 🟡 active-dev",
+      "revenueSummaryRu": "Ставочники + держатели Ментальных Объектов + государства платят за прогнозы/ставки + листинг/сертификацию + B2G-подписки; расчёты в Kapusta.money · 🟡 active-dev",
+      "labelRu": "ASRP.exchange / ASRP Market — биржа состояний сознания",
+      "descriptionRu": "Биржа состояний сознания",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-kapusta",
+      "label": "Kapusta.money",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟡 active-dev",
+      "description": "Rating-system substrate (NOT just a currency) · GFS-patent mechanism",
+      "labelRu": "Kapusta.money — субстрат рейтинговой системы",
+      "descriptionRu": "Субстрат системы рейтингов (НЕ просто валюта) · механизм описан в патенте GFS",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-shop",
+      "label": "ASRPshop",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟠 planned",
+      "description": "B2C storefront for DAAT crystals + ASRP.fashion",
+      "revenueSummary": "Premium B2C buyers pay direct for DAAT crystals + ASRP.fashion items via own storefront — domain reportedly acquired · 🟠 planned",
+      "revenueSummaryRu": "Премиум B2C-покупатели платят напрямую за DAAT-кристаллы + изделия ASRP.fashion через собственную витрину — домен предположительно приобретён · 🟠 planned",
+      "labelRu": "ASRPshop — B2C-витрина",
+      "descriptionRu": "B2C-витрина для DAAT-кристаллов + изделий ASRP.fashion",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-stock",
+      "label": "stock.asrp.* subdomain",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟠 planned",
+      "description": "Mental Objects database, neurointerface ingest",
+      "labelRu": "stock.asrp.* — БД ментальных объектов",
+      "descriptionRu": "База данных Ментальных Объектов · ингест через нейроинтерфейс",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-crowd",
+      "label": "Inspira-X crowdfunding",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🟠 planned",
+      "description": "Kickstarter-class campaign",
+      "revenueSummary": "Backers pre-pay for Inspira-X dual-channel pneumograph+ECG via Kickstarter-class campaign; donate link live at asrp.tech/ru/donate/asrp · 🟡 in preparation",
+      "revenueSummaryRu": "Бэкеры предоплачивают Inspira-X (двухканальный пневмограф + ЭКГ) через кампанию Kickstarter-уровня; донат-линк уже работает на asrp.tech/ru/donate/asrp · 🟡 в подготовке",
+      "labelRu": "Inspira-X — краудфандинг",
+      "descriptionRu": "Kickstarter-класс кампания",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-uap",
+      "label": "UAP_Reverse_Engineering_Study",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🔬 research",
+      "description": "Public reverse-engineering analysis (DoE first-reader)",
+      "revenueSummary": "DoD primes + DARPA + DoE + VA pay for reverse-engineering subcontracts via LinkedIn + open-repo timing · target ~$2M/yr entry R&D · 🎯 target",
+      "revenueSummaryRu": "Подрядчики DoD + DARPA + DoE + VA платят за субконтракты по реверс-инжинирингу через LinkedIn и публикации репозиториев · цель ~$2 млн/год входной R&D · 🎯 цель",
+      "labelRu": "UAP_Reverse_Engineering_Study — публичное исследование с реверс-инжинирингом",
+      "descriptionRu": "Публичное реверс-инжиниринг исследование (DoE — первый читатель)",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-plasma",
+      "label": "Hyperbolic_Field_BloodPlasma_Study",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🔬 research",
+      "description": "Reproduced by V. Ovseannicova · drove Cortical Labs engagement",
+      "revenueSummary": "Biocomputing (Cortical Labs Q2 2026) + medcentres + pharma license hyperbolic-field plasma protocols via LinkedIn engagement playbook · 🔄 active talks",
+      "revenueSummaryRu": "Биокомпьютинг (Cortical Labs Q2 2026) + медцентры + фарма лицензируют протоколы плазмы через LinkedIn-плейбук аутрича · 🔄 активные переговоры",
+      "labelRu": "Hyperbolic_Field_BloodPlasma_Study — исследование плазмы крови (гиперб. поле)",
+      "descriptionRu": "Воспроизведено В. Овсянниковой · вызвало вовлечение Cortical Labs",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-yeast",
+      "label": "Hyperbolic_Field_Yeast_Study",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🔬 research",
+      "description": "Stat. group-2 superiority · April 2026 cohort",
+      "labelRu": "Hyperbolic_Field_Yeast_Study — дрожжи",
+      "descriptionRu": "Стат. превосходство 2-й группы · апрель 2026",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-daat-rs",
+      "label": "Hyperbolic_Field_DAAT_Crystal_Study",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🔬 research-recruiting",
+      "description": "EEG / HRV / GSR / autonomic measurement protocol",
+      "labelRu": "Hyperbolic_Field_DAAT_Crystal_Study — исследование кристалла",
+      "descriptionRu": "Протокол измерений ЭЭГ / HRV / GSR / автономной нервной системы",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-plants",
+      "label": "Hyperbolic Field Plants Study",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🔬 OSF-pending",
+      "description": "Germination + growth kinetics · pre-registration planned 2026-04-22",
+      "labelRu": "Hyperbolic Field Plants Study — растения (OSF)",
+      "descriptionRu": "Прорастание + кинетика роста · предрегистрация запланирована 22.04.2026",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pj-caviar",
+      "label": "Hyperbolic Field Fish Caviar Study",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🔬 OSF-pending",
+      "description": "Aquaculture embryonic kinetics · pre-registration planned 2026-04-22",
+      "labelRu": "Hyperbolic Field Fish Caviar Study — икра рыбы (OSF)",
+      "descriptionRu": "Эмбриональная кинетика в аквакультуре · предрегистрация запланирована 22.04.2026",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "pat-fbhfs",
+      "label": "KZ 2025/1095.1 — Fractal Biomedical Hyperbolic Field System (FBHFS)",
+      "type": "patent",
+      "icon": "📜",
+      "description": "Kazpatent · scientific base for DAAT Crystal + ASRP.fashion + plasma study",
+      "labelRu": "KZ 2025/1095.1 — Фрактальная биомедицинская система гиперболических полей (FBHFS)",
+      "descriptionRu": "Казпатент · научная база DAAT Crystal + ASRP.fashion + плазменного исследования",
+      "tags": [
+        "patent"
+      ]
+    },
+    {
+      "id": "pat-inspira",
+      "label": "KZ 2025/0914.1 (No. 399693) — Inspira-X Respiratory Analysis",
+      "type": "patent",
+      "icon": "📜",
+      "description": "Kazpatent · formal exam done · substantive pending",
+      "labelRu": "KZ 2025/0914.1 — Inspira-X (анализ дыхания)",
+      "descriptionRu": "Казпатент · формальная экспертиза пройдена · ожидает substantive",
+      "tags": [
+        "patent"
+      ]
+    },
+    {
+      "id": "pat-drift",
+      "label": "KZ 413554 — ASRP.drift Neurointegration",
+      "type": "patent",
+      "icon": "📜",
+      "description": "Kazpatent · ASRP.drift AI peer-reviewed publication",
+      "labelRu": "KZ 413554 — ASRP.drift (нейроинтеграция)",
+      "descriptionRu": "Казпатент · рецензируемая публикация ASRP.drift AI",
+      "tags": [
+        "patent"
+      ]
+    },
+    {
+      "id": "pat-gfs",
+      "label": "GFS — Global Forecasting System (Kazpatent)",
+      "type": "patent",
+      "icon": "📜",
+      "description": "Kazpatent · documents Kapusta rating-substrate mechanism",
+      "labelRu": "Патент GFS (Казпатент)",
+      "descriptionRu": "Казпатент · документирует механизм Kapusta как rating-substrate",
+      "tags": [
+        "patent"
+      ]
+    },
+    {
+      "id": "pat-gms",
+      "label": "GMS — Global Mental System (Kazpatent)",
+      "type": "patent",
+      "icon": "📜",
+      "description": "Kazpatent · meta-cluster architecture",
+      "labelRu": "Патент GMS (Казпатент)",
+      "descriptionRu": "Казпатент · архитектура мета-кластера",
+      "tags": [
+        "patent"
+      ]
+    },
+    {
+      "id": "pat-banchenko-tech",
+      "label": "Banchenko-Technology Set (Kazpatent)",
+      "type": "patent",
+      "icon": "📜",
+      "description": "Kazpatent · combined methods (dream-sync, mnemonic sync, GFS, market)",
+      "labelRu": "Патент Banchenko-Technology Set",
+      "descriptionRu": "Казпатент · комбинированные методы (dream-sync, мнемоническая синхронизация, GFS, market)",
+      "tags": [
+        "patent"
+      ]
+    },
+    {
+      "id": "pat-bfs-us",
+      "label": "US Copyright TXu002116250 — Body Food System",
+      "type": "patent",
+      "icon": "📜",
+      "description": "US Copyright Office · Body Food System personalised-nutrition methodology",
+      "labelRu": "US Copyright TXu002116250 — система Body Food System",
+      "descriptionRu": "Бюро авторских прав США · методология персонализированного питания Body Food System",
+      "tags": [
+        "patent"
+      ]
+    },
+    {
+      "id": "pub-1",
+      "label": "Inspira-X Clinical Validation — Methodology for Correcting Breathing Patterns via Biofeedback",
+      "type": "publication",
+      "icon": "📄",
+      "status": "✅ Article",
+      "url": "https://www.researchgate.net/publication/404163473",
+      "description": "ResearchGate: https://www.researchgate.net/publication/404163473 · status: ✅ Article",
+      "labelRu": "Inspira-X — клиническая валидация (статья)",
+      "descriptionRu": "ResearchGate: 404163473 · опубликована в журнале",
+      "tags": [
+        "publication"
+      ]
+    },
+    {
+      "id": "pub-2",
+      "label": "BCI Systems and Neural Interfaces — ASRP Research Group Technical Review",
+      "type": "publication",
+      "icon": "📄",
+      "status": "🟡 Technical Report (journal article in preparation)",
+      "url": "https://www.researchgate.net/publication/396126506",
+      "description": "ResearchGate: https://www.researchgate.net/publication/396126506 · status: 🟡 Technical Report (journal article in preparation)",
+      "labelRu": "Технический обзор BCI и нейроинтерфейсов (отчёт ASRP)",
+      "descriptionRu": "ResearchGate: 396126506 · технический отчёт (готовится статья)",
+      "tags": [
+        "publication"
+      ]
+    },
+    {
+      "id": "pub-3",
+      "label": "Technological Transformations — GMS / GFS architectural whitepaper",
+      "type": "publication",
+      "icon": "📄",
+      "status": "✅ Article (Journal of Investment Banking and Finance, Jan 2025) · DOI 10.17605/OSF.IO/P9KHU",
+      "url": "https://www.researchgate.net/publication/388438082",
+      "description": "ResearchGate: https://www.researchgate.net/publication/388438082 · status: ✅ Article (Journal of Investment Banking and Finance, Jan 2025) · DOI 10.17605/OSF.IO/P9KHU",
+      "labelRu": "Архитектурная статья GMS / GFS",
+      "descriptionRu": "ResearchGate: 388438082 · Journal of Investment Banking and Finance, январь 2025",
+      "tags": [
+        "publication"
+      ]
+    },
+    {
+      "id": "pub-4",
+      "label": "Grivtsova stress diagnostics & management",
+      "type": "publication",
+      "icon": "📄",
+      "status": "✅ Article (American Journal of Medical and Clinical Research & Reviews, Jul-Aug 2024)",
+      "url": "https://www.researchgate.net/publication/394039715",
+      "description": "ResearchGate: https://www.researchgate.net/publication/394039715 · status: ✅ Article (American Journal of Medical and Clinical Research & Reviews, Jul-Aug 2024)",
+      "labelRu": "Гривцова — диагностика и управление стрессом",
+      "descriptionRu": "ResearchGate: 394039715 · American Journal of Medical and Clinical Research & Reviews, июль-август 2024",
+      "tags": [
+        "publication"
+      ]
+    },
+    {
+      "id": "pub-5",
+      "label": "Forecasting Social, Geopolitical and Economic Events — Banchenko-Technology",
+      "type": "publication",
+      "icon": "📄",
+      "status": "✅ Article · July 2024 · DOI 10.33425/2690-8077.1119 · 14 authors",
+      "url": "https://www.researchgate.net/publication/381995064",
+      "description": "ResearchGate: https://www.researchgate.net/publication/381995064 · status: ✅ Article · July 2024 · DOI 10.33425/2690-8077.1119 · 14 authors",
+      "labelRu": "Прогнозирование социально-геополитических событий — Banchenko-Technology",
+      "descriptionRu": "ResearchGate: 381995064 · июль 2024 · DOI 10.33425/2690-8077.1119 · 14 авторов",
+      "tags": [
+        "publication"
+      ]
+    },
+    {
+      "id": "pub-6",
+      "label": "Banchenko's Mnemonic Dream Synchronization Method (Blokhin Cell Concept)",
+      "type": "publication",
+      "icon": "📄",
+      "status": "✅ Article (after preprint 377492383)",
+      "url": "https://www.researchgate.net/publication/378492219",
+      "description": "ResearchGate: https://www.researchgate.net/publication/378492219 · status: ✅ Article (after preprint 377492383)",
+      "labelRu": "Метод мнемонической синхронизации сновидений Банченко",
+      "descriptionRu": "ResearchGate: 378492219 · опубликованная статья (после препринта 377492383)",
+      "tags": [
+        "publication"
+      ]
+    },
+    {
+      "id": "pub-7",
+      "label": "Banchenko-Market — Funding for Fundamental Science via Blockchain",
+      "type": "publication",
+      "icon": "📄",
+      "status": "✅ Article (journal accepted nonstandard framing after KZ/UA/US/UK rejections)",
+      "url": "https://www.researchgate.net/publication/378492156",
+      "description": "ResearchGate: https://www.researchgate.net/publication/378492156 · status: ✅ Article (journal accepted nonstandard framing after KZ/UA/US/UK rejections)",
+      "labelRu": "Banchenko-Market — финансирование фундаментальной науки на блокчейне",
+      "descriptionRu": "ResearchGate: 378492156 · журнал, согласившийся с нестандартной рамкой после отказов KZ/UA/US/UK",
+      "tags": [
+        "publication"
+      ]
+    },
+    {
+      "id": "pub-8",
+      "label": "Research on methods of inducing lucid dreaming (Banchenko Algorithm)",
+      "type": "publication",
+      "icon": "📄",
+      "status": "✅ Article (2023)",
+      "url": "https://www.researchgate.net/publication/370913525",
+      "description": "ResearchGate: https://www.researchgate.net/publication/370913525 · status: ✅ Article (2023)",
+      "labelRu": "Методы инициации осознанных сновидений (алгоритм Банченко)",
+      "descriptionRu": "ResearchGate: 370913525 · опубликована (2023)",
+      "tags": [
+        "publication"
+      ]
+    },
+    {
+      "id": "ch-tt-tech",
+      "label": "TikTok @asrp.tech",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "tiktok",
+      "reach": "6014 followers · 51.4K likes",
+      "url": "https://www.tiktok.com/@asrp.tech",
+      "description": "tiktok · 6014 followers · 51.4K likes",
+      "labelRu": "TikTok @asrp.tech — техно-канал",
+      "descriptionRu": "TikTok · 6014 подписчиков · 51,4K лайков",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-tt-media",
+      "label": "TikTok @asrp.media",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "tiktok",
+      "reach": "325 followers · 2499 likes",
+      "url": "https://www.tiktok.com/@asrp.media",
+      "description": "tiktok · 325 followers · 2499 likes",
+      "labelRu": "TikTok @asrp.media — медиа",
+      "descriptionRu": "TikTok · 325 подписчиков · 2499 лайков",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-tt-science",
+      "label": "TikTok @asrp.science",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "tiktok",
+      "reach": "20 followers · 353 likes",
+      "url": "https://www.tiktok.com/@asrp.science",
+      "description": "tiktok · 20 followers · 353 likes",
+      "labelRu": "TikTok @asrp.science — наука",
+      "descriptionRu": "TikTok · 20 подписчиков · 353 лайка",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-tt-art",
+      "label": "TikTok @asrp.art",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "tiktok",
+      "reach": "12 followers · 34 likes",
+      "url": "https://www.tiktok.com/@asrp.art",
+      "description": "tiktok · 12 followers · 34 likes",
+      "labelRu": "TikTok @asrp.art — искусство",
+      "descriptionRu": "TikTok · 12 подписчиков · 34 лайка",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-tt-arc",
+      "label": "TikTok @arcanum12th",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "tiktok",
+      "reach": "new",
+      "url": "https://www.tiktok.com/@arcanum12th",
+      "description": "tiktok · new",
+      "labelRu": "TikTok @arcanum12th — Arcanum12th",
+      "descriptionRu": "TikTok · новый",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-tt-vo",
+      "label": "TikTok @ovseannikova",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "tiktok",
+      "reach": "personal (V. Ovseannicova)",
+      "url": "https://www.tiktok.com/@ovseannikova",
+      "description": "tiktok · personal (V. Ovseannicova)",
+      "labelRu": "TikTok @ovseannikova — личный канал В. Овсянниковой",
+      "descriptionRu": "TikTok · личный (В. Овсянникова)",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-yt-tech",
+      "label": "YouTube @ASRPtech",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "youtube",
+      "reach": "447 subs · 22 videos · 27K views (since Jan 2018)",
+      "url": "https://www.youtube.com/@ASRPtech",
+      "description": "youtube · 447 subs · 22 videos · 27K views (since Jan 2018)",
+      "labelRu": "YouTube @ASRPtech — инжен. канал",
+      "descriptionRu": "YouTube · 447 подписчиков · 22 видео · 27K просмотров (с янв. 2018)",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-yt-art",
+      "label": "YouTube @ASRPart",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "youtube",
+      "reach": "active",
+      "url": "https://www.youtube.com/@ASRPart",
+      "description": "youtube · active",
+      "labelRu": "YouTube @ASRPart — арт-канал",
+      "descriptionRu": "YouTube · активный",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-yt-media",
+      "label": "YouTube @ASRPmedia",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "youtube",
+      "reach": "18 subs",
+      "url": "https://www.youtube.com/@ASRPmedia",
+      "description": "youtube · 18 subs",
+      "labelRu": "YouTube @ASRPmedia — медиа",
+      "descriptionRu": "YouTube · 18 подписчиков",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-yt-fashion",
+      "label": "YouTube @ASRPfashion",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "youtube",
+      "reach": "active",
+      "url": "https://www.youtube.com/@ASRPfashion",
+      "description": "youtube · active",
+      "labelRu": "YouTube @ASRPfashion — мода",
+      "descriptionRu": "YouTube · активный",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-yt-arc",
+      "label": "YouTube @Arcanum12th",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "youtube",
+      "reach": "active",
+      "url": "https://www.youtube.com/@Arcanum12th",
+      "description": "youtube · active",
+      "labelRu": "YouTube @Arcanum12th — Arcanum12th",
+      "descriptionRu": "YouTube · активный",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-tg-tech",
+      "label": "Telegram @ASRPtech",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "telegram",
+      "reach": "main announcements channel",
+      "url": "https://t.me/ASRPtech",
+      "description": "telegram · main announcements channel",
+      "labelRu": "Telegram @ASRPtech — техно-канал",
+      "descriptionRu": "Telegram · главный канал анонсов",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-tg-elec",
+      "label": "Telegram @electronics_MD",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "telegram",
+      "reach": "engineering updates",
+      "url": "https://t.me/electronics_MD",
+      "description": "telegram · engineering updates",
+      "labelRu": "Telegram @electronics_MD — электроника",
+      "descriptionRu": "Telegram · инженерные апдейты",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-li-co",
+      "label": "LinkedIn — ADVANCED SCIENTIFIC RESEARCH PROJECTS LLC",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "linkedin",
+      "reach": "company page · 50+ followers",
+      "url": "",
+      "description": "linkedin · company page · 50+ followers",
+      "labelRu": "LinkedIn — компания ASRP LLC",
+      "descriptionRu": "LinkedIn · корпоративная страница · 50+ подписчиков",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-li-co2",
+      "label": "LinkedIn — ASRP (second company)",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "linkedin",
+      "reach": "second company page",
+      "url": "",
+      "description": "linkedin · second company page",
+      "labelRu": "LinkedIn — вторая компания ASRP",
+      "descriptionRu": "LinkedIn · вторая корпоративная страница",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-li-art",
+      "label": "LinkedIn group — ASRP.art",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "linkedin",
+      "reach": "per-project group",
+      "url": "",
+      "description": "linkedin · per-project group",
+      "labelRu": "LinkedIn-группа — ASRP.art",
+      "descriptionRu": "LinkedIn-группа по проекту",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-li-science",
+      "label": "LinkedIn group — ASRP.science",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "linkedin",
+      "reach": "per-project group",
+      "url": "",
+      "description": "linkedin · per-project group",
+      "labelRu": "LinkedIn-группа — ASRP.science",
+      "descriptionRu": "LinkedIn-группа по проекту",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-fb",
+      "label": "Facebook /asrp.tech/",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "facebook",
+      "reach": "ASRP. AI technologies",
+      "url": "https://www.facebook.com/asrp.tech/",
+      "description": "facebook · ASRP. AI technologies",
+      "labelRu": "Facebook /asrp.tech/ — корп. страница",
+      "descriptionRu": "Facebook · «ASRP. AI-технологии»",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-x",
+      "label": "X (Twitter) @ASRPtech",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "x",
+      "reach": "news & announcements",
+      "url": "https://x.com/ASRPtech",
+      "description": "x · news & announcements",
+      "labelRu": "X (Twitter) @ASRPtech — новости",
+      "descriptionRu": "X (Twitter) · новости и анонсы",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-ig",
+      "label": "Instagram @asrp.media",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "instagram",
+      "reach": "media content (login-gated)",
+      "url": "https://www.instagram.com/asrp.media/",
+      "description": "instagram · media content (login-gated)",
+      "labelRu": "Instagram @asrp.media — медиа",
+      "descriptionRu": "Instagram · кросс-постинг медиа-контента (превью только после входа)",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-rg",
+      "label": "ResearchGate Lab",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "researchgate",
+      "reach": "academic profile",
+      "url": "https://www.researchgate.net/lab/Advanced-Scientific-Research-Projects-Denis-Banchenko",
+      "description": "researchgate · academic profile",
+      "labelRu": "ResearchGate Lab — академический профиль",
+      "descriptionRu": "ResearchGate · научный профиль",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "or-cortical",
+      "label": "Cortical Labs — active negotiations (2026-Q2)",
+      "type": "outreach",
+      "icon": "🤝",
+      "status": "🟢 active",
+      "description": "Outreach playbook: capability built (Valeria reproduces) → repo published → LinkedIn content during DishBrain hype window → inbound → review (Q2 2026)",
+      "labelRu": "Cortical Labs — активные переговоры (Q2 2026)",
+      "descriptionRu": "Playbook аутрича: компетенция выстроена (Валерия воспроизводит) → репо опубликован → LinkedIn-контент в окно хайпа DishBrain → входящий → review (Q2 2026)",
+      "tags": [
+        "outreach"
+      ]
+    },
+    {
+      "id": "or-nswc",
+      "label": "NSWC IHD — Cardillo LinkedIn engagement",
+      "type": "outreach",
+      "icon": "🤝",
+      "status": "🟢 active",
+      "description": "April 2026 · Cardillo posted 11-case scientist-cluster analysis · ASRP responded with UAP + plasma repos · feedback received",
+      "labelRu": "NSWC IHD — взаимодействие через Cardillo (LinkedIn)",
+      "descriptionRu": "Апрель 2026 · Cardillo опубликовал анализ кластера 11 учёных · ASRP ответили UAP + плазма репозиториями · обратная связь получена",
+      "tags": [
+        "outreach"
+      ]
+    },
+    {
+      "id": "or-stanford",
+      "label": "Stanford / Nolan Lab — admin handoff (Feb 2026)",
+      "type": "outreach",
+      "icon": "🤝",
+      "status": "🟢 active",
+      "description": "Feb 4 2026 LinkedIn DM · Nolan replied 'Sounds interesting' · directed to admin Dyan Dalton · detailed letter sent + plasma fibrin photo with T₊/T₀/T₋ legend",
+      "labelRu": "Stanford / лаборатория Nolan — передача админу (фев. 2026)",
+      "descriptionRu": "4 февраля 2026 · LinkedIn-DM · Nolan ответил «Sounds interesting» в течение 3 минут · направил к админу Дайан Долтон · отправлено развёрнутое письмо + фото фибрина с легендой T₊/T₀/T₋",
+      "tags": [
+        "outreach"
+      ]
+    },
+    {
+      "id": "or-nci",
+      "label": "NCI SBIR FY26 — submission then systemic cancellation",
+      "type": "outreach",
+      "icon": "🤝",
+      "status": "🟡 cancelled (not merit-based)",
+      "description": "Submitted 22 Aug 2025 (Notice 75N91025R00005) · NCI cancelled October 2025 due to SBIR/STTR statutory-authorization expiry · materials retained for re-submission",
+      "labelRu": "NCI SBIR FY26 — подача и системная отмена",
+      "descriptionRu": "Подача 22 августа 2025 (Notice 75N91025R00005) · NCI отменил конкурс в октябре 2025 из-за истечения авторизации SBIR/STTR · материалы сохранены для повторной подачи",
+      "tags": [
+        "outreach"
+      ]
+    },
+    {
+      "id": "or-doe",
+      "label": "DoE / Los Alamos — first-reader event",
+      "type": "outreach",
+      "icon": "🤝",
+      "status": "✅ tracked",
+      "description": "U.S. Department of Energy / Los Alamos National Laboratory segment was the first federal reader of the UAP_Reverse_Engineering_Study repo within hours of publication",
+      "labelRu": "DoE / Лос-Аламос — событие первого читателя",
+      "descriptionRu": "Сегмент Минэнерго США / Лос-Аламосской национальной лаборатории стал первым федеральным читателем UAP_Reverse_Engineering_Study репозитория в течение нескольких часов после публикации",
+      "tags": [
+        "outreach"
+      ]
+    },
+    {
+      "id": "or-investors",
+      "label": "Investor outreach log — pending material",
+      "type": "outreach",
+      "icon": "🤝",
+      "status": "🟠 pending",
+      "description": "Approximately ten interested investors / family offices in conversation; deck prevents close. Source list to be shared by founder.",
+      "labelRu": "Журнал аутрича к инвесторам — ожидает материалов",
+      "descriptionRu": "≈десяток заинтересованных инвесторов / семейных офисов в переговорах; deck блокирует закрытие · список будет передан CEO",
+      "tags": [
+        "outreach"
+      ]
+    },
+    {
+      "id": "inst-darpa",
+      "label": "DARPA",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "U.S. Defense Advanced Research Projects Agency",
+      "labelRu": "DARPA — Агентство передовых оборонных исследований США",
+      "descriptionRu": "U.S. Defense Advanced Research Projects Agency",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-tesla",
+      "label": "Tesla Inc.",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "Tesla Business Program · corporate enterprise accreditation",
+      "labelRu": "Tesla Inc. — Tesla Business Program",
+      "descriptionRu": "Tesla Business Program · корпоративная аккредитация",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-nih",
+      "label": "NIH / NCI",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "National Institutes of Health · National Cancer Institute",
+      "labelRu": "NIH / NCI — Национальный институт здравоохранения / онкологии",
+      "descriptionRu": "National Institutes of Health · National Cancer Institute",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-doe",
+      "label": "U.S. Department of Energy / LANL",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "Los Alamos National Laboratory · UAP-adjacent reverse-engineering history",
+      "labelRu": "Минэнерго США / Лос-Аламосская национальная лаборатория",
+      "descriptionRu": "Лос-Аламосская национальная лаборатория · историческая линия UAP-adjacent reverse-engineering",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-stanford",
+      "label": "Stanford University",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "Garry Nolan Lab — UAP-adjacent oncology research",
+      "labelRu": "Стэнфордский университет",
+      "descriptionRu": "Лаборатория Гарри Нолана — UAP-смежные онкологические исследования",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-cortical",
+      "label": "Cortical Labs",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "Melbourne biocomputing pioneer (DishBrain · neuron-silicon)",
+      "labelRu": "Cortical Labs — биокомпьютинг (Мельбурн)",
+      "descriptionRu": "Пионер биокомпьютинга в Мельбурне (DishBrain · нейрон-кремниевая платформа)",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-nswc",
+      "label": "NSWC IHD / NAVSEA",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "Naval Surface Warfare Center Indian Head Division · DoD RDT&E",
+      "labelRu": "NSWC IHD / NAVSEA — центр R&D ВМС США",
+      "descriptionRu": "Naval Surface Warfare Center Indian Head Division · центр R&D ВМС США",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-va",
+      "label": "U.S. Department of Veterans Affairs",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "Gulf War Syndrome veterans programmes",
+      "labelRu": "Министерство по делам ветеранов США",
+      "descriptionRu": "Программы по Gulf War Syndrome для ветеранов",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-boeing",
+      "label": "Boeing",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "DoD prime · congressional disclosures on reverse-engineering spend",
+      "labelRu": "Boeing — DoD prime",
+      "descriptionRu": "DoD prime · парламентские раскрытия о расходах на reverse-engineering",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-jinr",
+      "label": "JINR Dubna",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "Joint Institute for Nuclear Research · international (~31 member countries) · element-115 synthesis · institutional context",
+      "labelRu": "ОИЯИ Дубна — Объединённый институт ядерных исследований",
+      "descriptionRu": "Объединённый институт ядерных исследований (~31 страна-член) · синтез 115-го элемента · институциональный контекст",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-osf",
+      "label": "Open Science Framework (OSF)",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "Pre-registration platform for ASRP studies",
+      "labelRu": "Open Science Framework (OSF) — предрегистрация",
+      "descriptionRu": "Платформа предрегистрации для исследований ASRP",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-kazpatent",
+      "label": "Kazpatent",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "Kazakhstan patent office",
+      "labelRu": "Казпатент — патентное ведомство Казахстана",
+      "descriptionRu": "Патентное ведомство Казахстана",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-uspto",
+      "label": "USPTO / U.S. Copyright Office",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "U.S. patent and copyright registry",
+      "labelRu": "USPTO / Бюро авторских прав США",
+      "descriptionRu": "Патентное и авторско-правовое ведомство США",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-mewery",
+      "label": "Czech cellular-meat partner (name withheld)",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "Czech cultured-meat partner (placeholder pending public confirmation)",
+      "labelRu": "Чешский партнёр по клеточному мясу (имя не раскрывается)",
+      "descriptionRu": "Чешский партнёр по cultured meat (placeholder, ожидает публичного подтверждения)",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "acc-darpa",
+      "label": "DARPA BAA proposal-portal access",
+      "type": "accreditation",
+      "icon": "🏅",
+      "status": "active",
+      "granted": "2025-09-16",
+      "description": "Authenticated extranet account for BAA proposal submission · NOT a merit-based award — explicitly clarified",
+      "labelRu": "Доступ к порталу подачи заявок DARPA BAA",
+      "descriptionRu": "Аутентифицированный экстранет-аккаунт для подачи BAA-предложений · НЕ merit-based награда — явно уточнено",
+      "tags": [
+        "accreditation"
+      ]
+    },
+    {
+      "id": "acc-tesla",
+      "label": "Tesla Business Program accreditation",
+      "type": "accreditation",
+      "icon": "🏅",
+      "status": "active",
+      "granted": "2025-08-22",
+      "description": "Corporate-enterprise accreditation",
+      "labelRu": "Аккредитация Tesla Business Program",
+      "descriptionRu": "Корпоративная аккредитация",
+      "tags": [
+        "accreditation"
+      ]
+    },
+    {
+      "id": "fund-patrons",
+      "label": "Patrons (≈$165k cumulative)",
+      "type": "funding-source",
+      "icon": "💰",
+      "status": "✅ active",
+      "description": "Recurring philanthropic contributions across 7 tiers on asrp.tech/ru/patrons (Principal Philanthropist → Individual Contributor); cumulative confirmed ≈$165k; lead patron Alexander Ovsyannikov $100k; tradition-anchored on Medici / Carnegie / Rockefeller patronage references",
+      "labelRu": "Меценаты (≈$165 тыс. накоплено)",
+      "descriptionRu": "Регулярные меценатские взносы по 7 уровням на asrp.tech/ru/patrons (от Главного Филантропа до Индивидуального Вкладчика); накоплено подтверждено ≈$165 тыс.; ведущий меценат Александр Овсянников — $100 тыс.; традиция отсылает к Медичи / Карнеги / Рокфеллеру",
+      "tags": [
+        "funding-source"
+      ]
+    },
+    {
+      "id": "fund-investors",
+      "label": "Investors (non-equity)",
+      "type": "funding-source",
+      "icon": "💰",
+      "status": "✅ open",
+      "description": "Non-equity co-operation models — joint-activity agreements, advance-against-deliverable, structured loans — published on asrp.tech/ru/investors; deliberately preserves UBO control across the multi-jurisdiction group",
+      "labelRu": "Инвесторы (без долей)",
+      "descriptionRu": "Модели сотрудничества без передачи долей — договоры о совместной деятельности, авансы под deliverable, структурные займы — опубликованы на asrp.tech/ru/investors; намеренно сохраняют UBO-контроль в группе из нескольких юрисдикций",
+      "tags": [
+        "funding-source"
+      ]
+    },
+    {
+      "id": "fund-crowd",
+      "label": "Crowdfunding (Inspira-X)",
+      "type": "funding-source",
+      "icon": "💰",
+      "status": "🟡 planned",
+      "description": "Kickstarter-class crowdfunding campaign in preparation for Inspira-X dual-channel pneumograph+ECG; pre-launch donate link already live at asrp.tech/ru/donate/asrp; pre-orders feed device manufacturing run",
+      "labelRu": "Краудфандинг (Inspira-X)",
+      "descriptionRu": "Кампания краудфандинга Kickstarter-уровня готовится под Inspira-X (двухканальный пневмограф + ЭКГ); предлончевый донат-линк уже работает на asrp.tech/ru/donate/asrp; предзаказы финансируют производственный тираж",
+      "tags": [
+        "funding-source"
+      ]
+    },
+    {
+      "id": "fund-gov",
+      "label": "Government contracts",
+      "type": "funding-source",
+      "icon": "💰",
+      "status": "🎯 target",
+      "description": "U.S. and partner-jurisdiction civilian and defense tenders — DoD primes (Boeing-class subcontracts), VA (Gulf War Syndrome programmes), DARPA-class R&D (BAA portal active), NCI SBIR FY26 ready for re-submission post-statutory restoration",
+      "labelRu": "Госконтракты",
+      "descriptionRu": "Гражданские и оборонные тендеры в США и партнёрских юрисдикциях — подрядчики DoD (Boeing-класс), VA (программы Gulf War Syndrome), R&D уровня DARPA (портал BAA активен), NCI SBIR FY26 готов к повторной подаче после восстановления авторизации",
+      "tags": [
+        "funding-source"
+      ]
+    },
+    {
+      "id": "fund-grants",
+      "label": "Research grants",
+      "type": "funding-source",
+      "icon": "💰",
+      "status": "🔄 pipeline",
+      "description": "Research grants pipeline — UA/MD post-conflict soil-restoration grants for the agricultural study, royalty-model pilots with agri-holdings, foundation outbound (MJFF for neurodegenerative, cultured-meat foundations); structured as proposals → pilot → royalty",
+      "labelRu": "Научные гранты",
+      "descriptionRu": "Пайплайн научных грантов — гранты UA/MD на восстановление почв после конфликта под агроисследование, роялти-пилоты с агрохолдингами, аутбаунд в фонды (MJFF по нейродегенеративным, фонды клеточного мяса); схема: заявка → пилот → роялти",
+      "tags": [
+        "funding-source"
+      ]
+    },
+    {
+      "id": "fund-affiliate",
+      "label": "Affiliate / commission",
+      "type": "funding-source",
+      "icon": "💰",
+      "status": "✅ realised",
+      "description": "Realised affiliate / commission income via the cross-promotion pattern — ASRP.media + ASRP.science + Arcanum12th + YouTube banner placements; canonical worked example: neurointerface affiliate sale through ASRP.media banner (reader clicked, purchased, ASRP received commission)",
+      "labelRu": "Партнёрские комиссии",
+      "descriptionRu": "Реализованный партнёрский / комиссионный доход через паттерн кросс-промо — баннерные размещения в ASRP.media + ASRP.science + Arcanum12th + YouTube; канонический рабочий пример — партнёрская продажа нейроинтерфейса через баннер в ASRP.media (читатель перешёл, купил, ASRP получила комиссию)",
+      "tags": [
+        "funding-source"
+      ]
+    },
+    {
+      "id": "fund-direct",
+      "label": "Direct sales (DAAT crystals)",
+      "type": "funding-source",
+      "icon": "💰",
+      "status": "✅ realised",
+      "description": "Realised direct B2C/B2B sales — DAAT crystals (premium tier) sold via asrp.tech + (forthcoming) ASRPshop + Arcanum12th community; pilot signals: bank top-management cohort acquired the device, individual wearers include Forbes-list persons (founder-disclosed; institution and names not disclosed)",
+      "labelRu": "Прямые продажи (DAAT-кристаллы)",
+      "descriptionRu": "Реализованные прямые продажи B2C/B2B — DAAT-кристаллы (премиум-категория) через asrp.tech + (готовится) ASRPshop + сообщество Arcanum12th; пилотные сигналы: топ-менеджмент банка приобрёл устройство, среди индивидуальных носителей — люди из списка Forbes (со слов основателя; название учреждения и имена не раскрываются)",
+      "tags": [
+        "funding-source"
+      ]
+    },
+    {
+      "id": "ev-theta",
+      "label": "Theta Network Hackathon — Berlin",
+      "type": "event",
+      "icon": "📅",
+      "date": "2025-09-11",
+      "description": "GFS presented at European conference and hackathon",
+      "labelRu": "Theta Network Hackathon — Берлин",
+      "descriptionRu": "GFS представлен на европейской конференции и хакатоне",
+      "tags": [
+        "event"
+      ]
+    },
+    {
+      "id": "ev-astana",
+      "label": "AstanaHub / Digital Bridge 2025 — Industry 4.0 Pitch Battle",
+      "type": "event",
+      "icon": "📅",
+      "date": "2025",
+      "description": "GFS submitted; did not pass selection stage",
+      "labelRu": "AstanaHub / Digital Bridge 2025 — питч-баттл Industry 4.0",
+      "descriptionRu": "GFS подан на питчинг; не прошёл отборочный этап",
+      "tags": [
+        "event"
+      ]
+    },
+    {
+      "id": "ev-ecp",
+      "label": "ECP-2026-04-04 session",
+      "type": "event",
+      "icon": "📅",
+      "date": "2026-04-04",
+      "description": "Internal session producing the dataset later cited in plasma study",
+      "labelRu": "Сессия ECP-2026-04-04",
+      "descriptionRu": "Внутренняя сессия, давшая датасет для последующего плазма-исследования",
+      "tags": [
+        "event"
+      ]
+    },
+    {
+      "id": "th-temporal",
+      "label": "Temporal-desynchronization hypothesis",
+      "type": "theory-anchor",
+      "icon": "💡",
+      "scope": "ASRP-internal",
+      "description": "Primary pathogenic factor in UAP-adjacent oncology = temporal desynchronization of biological processes (NOT classical mutagenic damage); therapy = correction of process kinetics, not cytotoxic intervention",
+      "labelRu": "Гипотеза темпоральной десинхронизации",
+      "descriptionRu": "Первичный патогенный фактор в UAP-смежной онкологии = темпоральная десинхронизация биологических процессов (НЕ классическое мутагенное повреждение); терапия = коррекция кинетики процессов, не цитотоксическое воздействие",
+      "tags": [
+        "theory-anchor"
+      ]
+    },
+    {
+      "id": "th-3dt",
+      "label": "Three-Dimensional Time framework",
+      "type": "theory-anchor",
+      "icon": "💡",
+      "scope": "external",
+      "description": "World Scientific · DOI 10.1142/S2424942425500045 · mathematical formalism extending physical time from one to three dimensions; provides theoretical backbone for ASRP's T₊/T₀/T₋ kinetics notation",
+      "labelRu": "Three-Dimensional Time — математический формализм",
+      "descriptionRu": "World Scientific · DOI 10.1142/S2424942425500045 · математический формализм, расширяющий физическое время с одной размерности до трёх; даёт теоретическую основу для нотации T₊/T₀/T₋ кинетики",
+      "tags": [
+        "theory-anchor"
+      ]
+    },
+    {
+      "id": "th-channels",
+      "label": "Channel-19 / Channel-21 taxonomy",
+      "type": "theory-anchor",
+      "icon": "💡",
+      "scope": "ASRP-internal",
+      "description": "Channel-19 = acceleration kinetics (T₊, Δt > 0) · Channel-21 = deceleration kinetics (T₋, Δt < 0) · used internally; T-notation used in external correspondence (e.g. Nolan)",
+      "labelRu": "Внутренняя таксономия Channel-19 / Channel-21",
+      "descriptionRu": "Channel-19 = ускоренная кинетика (T₊, Δt > 0) · Channel-21 = замедленная кинетика (T₋, Δt < 0) · внутреннее обозначение; T-нотация — для внешней переписки (например, с Nolan)",
+      "tags": [
+        "theory-anchor"
+      ]
+    },
+    {
+      "id": "th-hyperbolic",
+      "label": "Hyperbolic Dispersion Materials for Cancer Detection",
+      "type": "theory-anchor",
+      "icon": "💡",
+      "scope": "external",
+      "description": "External peer-reviewed paper supporting the hyperbolic-fields × oncology framing",
+      "labelRu": "Гиперболические дисперсные материалы для детекции рака",
+      "descriptionRu": "Внешняя рецензируемая статья, поддерживающая связку «гиперболические поля × онкология»",
+      "tags": [
+        "theory-anchor"
+      ]
+    },
+    {
+      "id": "pat-biophoton",
+      "label": "KZ 2025/1097.1 — Biophotonic Neurodiagnostic System",
+      "type": "patent",
+      "icon": "📜",
+      "description": "Kazpatent · Formal exam done → Substantive · public repo at github.com/denisbanchenko/Kazpatent_Biophotonic_Neurodiagnostic_System_Patent",
+      "labelRu": "KZ 2025/1097.1 — Биофотонная нейродиагностическая система",
+      "descriptionRu": "Казпатент · формальная экспертиза пройдена → substantive · публичный репо: github.com/denisbanchenko/Kazpatent_Biophotonic_Neurodiagnostic_System_Patent",
+      "tags": [
+        "patent"
+      ]
+    },
+    {
+      "id": "pat-art",
+      "label": "KZ 2025/0592.1 + PCT 412362 — Axionetic Sensing Reactions Platform in Art (ASRP.art)",
+      "type": "patent",
+      "icon": "📜",
+      "description": "Kazpatent + PCT international · Substantive exam stage · scientific base for SPR (Sensing Platform of Reactions)",
+      "labelRu": "KZ 2025/0592.1 + PCT 412362 — Платформа Axionetic Sensing Reactions для искусства",
+      "descriptionRu": "Казпатент + PCT international · стадия substantive экспертизы · научная база для SPR (Sensing Platform of Reactions)",
+      "tags": [
+        "patent"
+      ]
+    },
+    {
+      "id": "p-aovs",
+      "label": "Alexander Ovsyannikov",
+      "type": "person · external",
+      "icon": "👥",
+      "labelRu": "Александр Овсянников (ведущий меценат, $100k)",
+      "role": "Principal Philanthropist (lead patron, $100k)",
+      "description": "Lead patron of ASRP — likely family relation to V. Ovseannicova",
+      "descriptionRu": "Ведущий меценат ASRP — вероятная семейная связь с В. Овсянниковой",
+      "tags": [
+        "person · external"
+      ]
+    },
+    {
+      "id": "p-burilova",
+      "label": "Tatyana Burilova",
+      "type": "person · external",
+      "icon": "👥",
+      "labelRu": "Татьяна Бурилова (соавтор pub-5/6 + меценат)",
+      "role": "Co-author on pub-5 + pub-6 · patron ($5k)",
+      "description": "Whitepaper co-author (Banchenko-Technology + dream-sync) AND patron tier $5k",
+      "descriptionRu": "Соавтор whitepaper (Banchenko-Technology + dream-sync) И меценат уровня $5k",
+      "tags": [
+        "person · external"
+      ]
+    },
+    {
+      "id": "p-shishkin",
+      "label": "Lev Shishkin",
+      "type": "person · external",
+      "icon": "👥",
+      "labelRu": "Лев Шишкин (соавтор pub-6 + меценат)",
+      "role": "Co-author on pub-6 · patron ($1k)",
+      "description": "Dream-synchronisation paper co-author + patron",
+      "descriptionRu": "Соавтор статьи по синхронизации сновидений + меценат",
+      "tags": [
+        "person · external"
+      ]
+    },
+    {
+      "id": "p-mutsalkhanova",
+      "label": "Olena Mutsalkhanova-Yushchenko",
+      "type": "person · external",
+      "icon": "👥",
+      "labelRu": "Олена Муцальханова-Ющенко (соавтор pub-5 + меценат)",
+      "role": "Co-author on pub-5 · patron ($1k)",
+      "description": "Banchenko-Technology forecasting paper co-author + patron",
+      "descriptionRu": "Соавтор Banchenko-Technology forecasting + меценат",
+      "tags": [
+        "person · external"
+      ]
+    },
+    {
+      "id": "p-kz",
+      "label": "Kyryl Zmiienko",
+      "type": "person · team",
+      "icon": "👤",
+      "labelRu": "Кирилл Змиенко (SAIE, AI-инженер)",
+      "role": "SAIE (Senior AI Engineer)",
+      "description": "Research analysis · plasma-data analyst · repositories · AI pipelines",
+      "descriptionRu": "Анализ исследований · аналитик данных по плазме крови · репозитории · AI-пайплайны",
+      "tags": [
+        "person · team"
+      ]
+    },
+    {
+      "id": "p-ak",
+      "label": "Andrii Kryliuk",
+      "type": "person · team",
+      "icon": "👤",
+      "labelRu": "Андрей Крылюк (LFED)",
+      "role": "LFED (Lead Front-End Developer)",
+      "descriptionRu": "Lead Front-End Developer",
+      "tags": [
+        "person · team"
+      ]
+    },
+    {
+      "id": "p-ag",
+      "label": "Aleksandr Gromyko",
+      "type": "person · team",
+      "icon": "👤",
+      "labelRu": "Александр Громыко (LBED)",
+      "role": "LBED (Lead Back-End Developer)",
+      "descriptionRu": "Lead Back-End Developer",
+      "tags": [
+        "person · team"
+      ]
+    },
+    {
+      "id": "tool-vidrush",
+      "label": "Vidrush — AI production class",
+      "type": "tooling-class",
+      "icon": "🛠️",
+      "description": "Text-prompt → full documentary video; reference example for ASRP content factory's AI production layer",
+      "labelRu": "Vidrush — класс AI-производства",
+      "descriptionRu": "Текстовый prompt → полное документальное видео; референсный пример для слоя AI-производства контент-завода ASRP",
+      "tags": [
+        "tooling-class"
+      ]
+    },
+    {
+      "id": "tool-dohoo",
+      "label": "DOHOO — multi-platform publisher class",
+      "type": "tooling-class",
+      "icon": "🛠️",
+      "description": "Cross-platform auto-posting with Video-to-Text + ChatGPT per-platform adaptation",
+      "labelRu": "DOHOO — класс мульти-платформенного паблишера",
+      "descriptionRu": "Кросс-платформенный авто-постинг с Video-to-Text + ChatGPT адаптацией под платформу",
+      "tags": [
+        "tooling-class"
+      ]
+    },
+    {
+      "id": "tool-pinterest",
+      "label": "Pinterest hourly-automation — SEO discovery class",
+      "type": "tooling-class",
+      "icon": "🛠️",
+      "description": "Hourly cron · 3 boards parallel · ≈15-day ramp-up to first US traffic",
+      "labelRu": "Pinterest почасовая автоматизация — класс SEO discovery",
+      "descriptionRu": "Hourly cron · 3 доски параллельно · ≈15-дневный ramp-up до первого US-трафика",
+      "tags": [
+        "tooling-class"
+      ]
+    },
+    {
+      "id": "ch-pinterest",
+      "label": "Pinterest boards (planned)",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "pinterest",
+      "reach": "planned per-project for asrp.art / asrp.fashion",
+      "description": "Per-project Pinterest boards · SEO automation engine via Pinterest hourly cron",
+      "labelRu": "Pinterest boards (планируется)",
+      "descriptionRu": "По-проектные Pinterest-доски · SEO-движок через hourly cron",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-medium",
+      "label": "Medium (planned per-project)",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "medium",
+      "reach": "planned",
+      "description": "Per-project long-form text publications",
+      "labelRu": "Medium (планируется по проектам)",
+      "descriptionRu": "Long-form публикации по проектам",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "ch-vk",
+      "label": "VK (planned)",
+      "type": "channel",
+      "icon": "📡",
+      "subtype": "vk",
+      "reach": "planned RU-speaking",
+      "description": "VK Clips + VK Video + VK Notes — RU-speaking audience for all projects",
+      "labelRu": "VK (планируется)",
+      "descriptionRu": "VK Clips + VK Video + VK Notes — русскоязычная аудитория",
+      "tags": [
+        "channel"
+      ]
+    },
+    {
+      "id": "inst-auction-tier1",
+      "label": "Top-tier auction house A (Phase-4)",
+      "type": "institution",
+      "icon": "🏛️",
+      "labelRu": "Аукционный дом высшего эшелона A (Phase-4) — имя не раскрывается до контакта",
+      "description": "Top-tier international auction house · ASRP.art Phase-4 institutional partnership target · name withheld pre-contact",
+      "descriptionRu": "Аукционный дом высшего эшелона · цель Фазы 4 для ASRP.art · имя не раскрывается",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-auction-tier2",
+      "label": "Top-tier auction house B (Phase-4)",
+      "type": "institution",
+      "icon": "🏛️",
+      "labelRu": "Аукционный дом высшего эшелона B (Phase-4) — имя не раскрывается до контакта",
+      "description": "Top-tier international auction house · ASRP.art Phase-4 target · name withheld pre-contact",
+      "descriptionRu": "Аукционный дом высшего эшелона · цель Фазы 4 для ASRP.art · имя не раскрывается",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-saatchi",
+      "label": "Saatchi (Gallery + Art)",
+      "type": "institution",
+      "icon": "🏛️",
+      "labelRu": "Saatchi — Gallery (Лондон) + Saatchi Art (онлайн-платформа)",
+      "description": "Saatchi Gallery (London brick-and-mortar) and Saatchi Art (online platform) · ASRP.art Phase-4 target · NOT the Saatchi & Saatchi advertising agency",
+      "descriptionRu": "Saatchi Gallery (Лондон) и Saatchi Art (онлайн-платформа) · цель Фазы 4 · НЕ рекламное агентство Saatchi & Saatchi",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-koniku",
+      "label": "Koniku",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "Biohybrid neural-silicon systems · Phase-4 ASRP.drift / DAAT cognitive-stack target",
+      "descriptionRu": "Биогибридные нейрон-кремниевые системы · цель Фазы 4 для ASRP.drift / DAAT",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-neurable",
+      "label": "Neurable",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "Consumer-grade neurointerface vendor · Phase-4 target",
+      "descriptionRu": "Потребительский нейроинтерфейс · цель Фазы 4",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "inst-paradromics",
+      "label": "Paradromics",
+      "type": "institution",
+      "icon": "🏛️",
+      "description": "High-bandwidth BCI implant vendor · Phase-4 target",
+      "descriptionRu": "Высокоскоростной BCI-имплант · цель Фазы 4",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "or-cmeat",
+      "label": "Cultured-meat outreach (private)",
+      "type": "outreach",
+      "icon": "🤝",
+      "status": "🟡 internal",
+      "description": "Track to FDA/EU-accredited and scaling cultured-meat producers; entry pitch: biological response modulation → shorter doubling time → lower media cost per kg",
+      "labelRu": "Аутрич по cultured-meat (приватный)",
+      "descriptionRu": "Аутрич к FDA/EU-аккредитованным и масштабирующим производителям cultured meat · pitch: модуляция биологического отклика → меньшее время удвоения → ниже стоимость среды на кг",
+      "tags": [
+        "outreach"
+      ]
+    },
+    {
+      "id": "inst-mjff",
+      "label": "Michael J. Fox Foundation",
+      "type": "institution",
+      "icon": "🏛️",
+      "labelRu": "Фонд Майкла Дж. Фокса",
+      "description": "Neurodegenerative-disease research foundation",
+      "descriptionRu": "Фонд исследования нейродегенеративных заболеваний",
+      "tags": [
+        "institution"
+      ]
+    },
+    {
+      "id": "or-mjff",
+      "label": "MJFF — neurodegenerative outreach (private)",
+      "type": "outreach",
+      "icon": "🤝",
+      "status": "🟡 tracked-private",
+      "description": "Feb 28 / Mar 2 2026 correspondence dates · no public signal yet",
+      "labelRu": "Аутрич MJFF — нейродегенеративные заболевания (приватный)",
+      "descriptionRu": "Корреспонденция 28 фев / 2 мар 2026 · публичного сигнала пока нет",
+      "tags": [
+        "outreach"
+      ]
+    },
+    {
+      "id": "ev-tg-forbes",
+      "label": "Telegram broadcast 2026-04-20 — Forbes-list wearers",
+      "type": "event",
+      "icon": "📅",
+      "date": "2026-04-20",
+      "description": "Founder broadcast post (views:288 · forwards:2) — named DAAT Crystal individual wearers from Forbes list (names not disclosed)",
+      "labelRu": "Telegram-broadcast 20.04.2026 — носители DAAT из Forbes",
+      "descriptionRu": "Broadcast-пост основателя (просмотры:288 · форварды:2) · названы индивидуальные носители DAAT Crystal из списка Forbes (имена не раскрыты)",
+      "tags": [
+        "event"
+      ]
+    },
+    {
+      "id": "th-qrl",
+      "label": "Quantum Resistant Ledger (QRL)",
+      "type": "theory-anchor",
+      "icon": "💡",
+      "scope": "external",
+      "description": "Quantum-resistant blockchain for secure transmission and storage of Mental Objects · substrate for Kapusta.money settlement layer",
+      "labelRu": "Quantum Resistant Ledger (QRL) — квантово-устойчивый блокчейн",
+      "descriptionRu": "Квантово-устойчивый блокчейн для безопасной передачи и хранения Ментальных Объектов · субстрат для расчётного слоя Kapusta.money",
+      "tags": [
+        "theory-anchor"
+      ]
+    },
+    {
+      "id": "pj-agri",
+      "label": "Hyperbolic_Field_Agricultural_Study",
+      "type": "project",
+      "icon": "🚀",
+      "status": "🔬 active field trials (Day 4+)",
+      "description": "Live agricultural field trials, Day-4+ measurements; double-blind activation",
+      "labelRu": "Hyperbolic_Field_Agricultural_Study — агро-полевые испытания (Day 4+)",
+      "descriptionRu": "Активные полевые испытания, измерения Day-4+ · double-blind активация",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "id": "p-chernobrov",
+      "label": "Vadim Chernobrov",
+      "type": "person · external",
+      "icon": "👥",
+      "labelRu": "Вадим Чернобров (Космопоиск)",
+      "role": "Kosmopoisk founder · field-data archive (post-landing measurements, quartz-resonator deviations)",
+      "description": "Field-research lineage referenced inside the UAP study (chernobrov-archive)",
+      "descriptionRu": "Линия полевых исследований, упоминаемая внутри UAP-репо (chernobrov-archive)",
+      "tags": [
+        "person · external"
+      ]
+    },
+    {
+      "id": "p-lazar",
+      "label": "Bob Lazar",
+      "type": "person · external",
+      "icon": "👥",
+      "labelRu": "Боб Лазар",
+      "role": "UAP reverse-engineering historical anchor",
+      "description": "Historical lineage anchor for UAP reverse-engineering claims (S-4, element-115)",
+      "descriptionRu": "Историческая линия для заявлений по реверс-инжинирингу UAP (S-4, элемент-115)",
+      "tags": [
+        "person · external"
+      ]
+    },
+    {
+      "id": "cluster-cmeat",
+      "label": "Cultured-meat target cluster",
+      "type": "cluster",
+      "icon": "🎯",
+      "labelRu": "Кластер целевых компаний по cultured meat",
+      "description": "UPSIDE Foods · GOOD Meat · BlueNalu · Mosa Meat · Aleph Farms · Meatly · MIRAI Foods · Czech cellular-meat partner (name withheld) — pitch: biological-response modulation → shorter doubling time → lower media cost per kg",
+      "descriptionRu": "UPSIDE Foods · GOOD Meat · BlueNalu · Mosa Meat · Aleph Farms · Meatly · MIRAI Foods · Czech cellular-meat partner (name withheld) — pitch: модуляция биологического отклика → меньшее время удвоения → ниже стоимость среды на кг",
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "id": "cluster-pharma",
+      "label": "Big-pharma / functional-foods cluster",
+      "type": "cluster",
+      "icon": "🎯",
+      "labelRu": "Кластер big-pharma / функциональных продуктов",
+      "description": "Nestlé Health Science · Danone · Abbott · DSM-Firmenich · Chr. Hansen · BASF · Glanbia — Phase-3 functional-drinks + Phase-5 pharma adjunct targets",
+      "descriptionRu": "Nestlé Health Science · Danone · Abbott · DSM-Firmenich · Chr. Hansen · BASF · Glanbia — цели Фазы 3 (functional drinks) + Фазы 5 (фарма-адъюванты)",
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "id": "cluster-bioreactor",
+      "label": "Bioreactor / algae-producers cluster",
+      "type": "cluster",
+      "icon": "🎯",
+      "labelRu": "Кластер биореакторов / производителей водорослей",
+      "description": "AlgaTech · Cyanotech · Earthrise — bioreactor and algae-production partners for Phase-3 scale-up of FBHFS biological products",
+      "descriptionRu": "AlgaTech · Cyanotech · Earthrise — биореакторы и производители водорослей · партнёры Фазы 3 для масштабирования биопродуктов FBHFS",
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "id": "cluster-seeds",
+      "label": "Seeds & agri-inputs cluster",
+      "type": "cluster",
+      "icon": "🎯",
+      "labelRu": "Кластер семян и агро-инпутов",
+      "description": "Syngenta · Bayer · Corteva · Limagrain · AeroFarms · Monterey Bay Mushrooms · Promyc · MycoTech — Phase-3 large-scale agri pilots for FBHFS",
+      "descriptionRu": "Syngenta · Bayer · Corteva · Limagrain · AeroFarms · Monterey Bay Mushrooms · Promyc · MycoTech — крупномасштабные агро-пилоты Фазы 3 для FBHFS",
+      "tags": [
+        "cluster"
+      ]
+    },
+    {
+      "id": "cluster-sports",
+      "label": "Sports-nutrition cluster",
+      "type": "cluster",
+      "icon": "🎯",
+      "labelRu": "Кластер спортивного питания",
+      "description": "Sports-nutrition brands as B2B targets for Inspira-X biofeedback + DAAT cognitive-stack adjunct positioning",
+      "descriptionRu": "Бренды спортивного питания как B2B-цели для biofeedback-комплемента Inspira-X + позиционирование когнитивного стека DAAT",
+      "tags": [
+        "cluster"
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "from": "p-vo",
+      "to": "ubo-group",
+      "type": "UBO of",
+      "direction": "directed"
+    },
+    {
+      "from": "p-mk",
+      "to": "ubo-group",
+      "type": "UBO of",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "ubo-group",
+      "type": "UBO of",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "le-us",
+      "type": "founder & CEO",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "le-kz",
+      "type": "formal sole executive (legal-technical only)",
+      "direction": "directed"
+    },
+    {
+      "from": "p-vo",
+      "to": "le-us",
+      "type": "co-founder",
+      "direction": "directed"
+    },
+    {
+      "from": "p-mk",
+      "to": "le-us",
+      "type": "co-founder",
+      "direction": "directed"
+    },
+    {
+      "from": "p-vb",
+      "to": "le-us",
+      "type": "co-founder",
+      "direction": "directed"
+    },
+    {
+      "from": "p-is",
+      "to": "le-us",
+      "type": "officer",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-bot",
+      "to": "pj-gfs",
+      "type": "feeds biosensor data to",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-arc12",
+      "to": "pj-gfs",
+      "type": "feeds raw biological data to (genetic / EEG / GSR / ANS)",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-arc12",
+      "to": "pj-bot",
+      "type": "courses + bot are dual data sources",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-bot",
+      "to": "pj-gms",
+      "type": "feeds dreams + biosensor → analytical layer",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-arc12",
+      "to": "pj-gms",
+      "type": "feeds biological data → analytical layer",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-gfs",
+      "to": "pj-exch",
+      "type": "publishes forecasts on",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-gfs",
+      "to": "pj-kapusta",
+      "type": "rating substrate · accuracy ↑/↓ ↔ Kapusta credit",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-kapusta",
+      "to": "pj-bot",
+      "type": "motivates biological sensors",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-kapusta",
+      "to": "pj-arc12",
+      "type": "promotes accurate contributors",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-daat",
+      "to": "pj-inspira",
+      "type": "bundle component (respiratory biosensor)",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-daat",
+      "to": "pj-drift",
+      "type": "AI interpretation layer",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-daat",
+      "to": "pj-shop",
+      "type": "sold via",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-fashion",
+      "to": "pj-shop",
+      "type": "sold via",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-art",
+      "to": "pj-gms",
+      "type": "objectifies SPR-certified states as Mental Objects",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-exch",
+      "to": "pj-stock",
+      "type": "uses subdomain for Mental Objects DB",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-exch",
+      "to": "pj-kapusta",
+      "type": "settles transactions in",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-inspira",
+      "to": "pj-crowd",
+      "type": "campaign target product",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-arc12",
+      "to": "pj-tech",
+      "type": "presented on the projects portfolio",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-media",
+      "to": "pj-tech",
+      "type": "directs traffic to portfolio",
+      "direction": "directed"
+    },
+    {
+      "from": "pat-fbhfs",
+      "to": "pj-daat",
+      "type": "covers",
+      "direction": "directed"
+    },
+    {
+      "from": "pat-fbhfs",
+      "to": "pj-fashion",
+      "type": "covers",
+      "direction": "directed"
+    },
+    {
+      "from": "pat-fbhfs",
+      "to": "pj-plasma",
+      "type": "scientific base",
+      "direction": "directed"
+    },
+    {
+      "from": "pat-inspira",
+      "to": "pj-inspira",
+      "type": "covers",
+      "direction": "directed"
+    },
+    {
+      "from": "pat-drift",
+      "to": "pj-drift",
+      "type": "covers",
+      "direction": "directed"
+    },
+    {
+      "from": "pat-gfs",
+      "to": "pj-gfs",
+      "type": "covers",
+      "direction": "directed"
+    },
+    {
+      "from": "pat-gms",
+      "to": "pj-gms",
+      "type": "covers",
+      "direction": "directed"
+    },
+    {
+      "from": "pat-bfs-us",
+      "to": "pj-bfs",
+      "type": "covers",
+      "direction": "directed"
+    },
+    {
+      "from": "pat-banchenko-tech",
+      "to": "pj-bot",
+      "type": "covers",
+      "direction": "directed"
+    },
+    {
+      "from": "le-kz",
+      "to": "pat-fbhfs",
+      "type": "owns",
+      "direction": "directed"
+    },
+    {
+      "from": "le-kz",
+      "to": "pat-inspira",
+      "type": "owns",
+      "direction": "directed"
+    },
+    {
+      "from": "le-kz",
+      "to": "pat-drift",
+      "type": "owns",
+      "direction": "directed"
+    },
+    {
+      "from": "le-kz",
+      "to": "pat-gfs",
+      "type": "owns",
+      "direction": "directed"
+    },
+    {
+      "from": "le-kz",
+      "to": "pat-gms",
+      "type": "owns",
+      "direction": "directed"
+    },
+    {
+      "from": "le-kz",
+      "to": "pat-banchenko-tech",
+      "type": "owns",
+      "direction": "directed"
+    },
+    {
+      "from": "le-us",
+      "to": "pat-bfs-us",
+      "type": "owns",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "pub-1",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "pub-2",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "pub-3",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "pub-4",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "pub-5",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "pub-6",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "pub-7",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "pub-8",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-vo",
+      "to": "pub-3",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-mk",
+      "to": "pub-3",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-vb",
+      "to": "pub-3",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-is",
+      "to": "pub-3",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-ig",
+      "to": "pub-3",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-vo",
+      "to": "pub-7",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-mk",
+      "to": "pub-7",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-vb",
+      "to": "pub-7",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-is",
+      "to": "pub-7",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-ig",
+      "to": "pub-7",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-as",
+      "to": "pub-3",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-ig",
+      "to": "pub-4",
+      "type": "first author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-mk",
+      "to": "pub-4",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-mk",
+      "to": "pub-6",
+      "type": "co-author (Kapustin Dream Match Search AI Model)",
+      "direction": "directed"
+    },
+    {
+      "from": "pub-1",
+      "to": "pj-inspira",
+      "type": "validates",
+      "direction": "directed"
+    },
+    {
+      "from": "pub-2",
+      "to": "pj-drift",
+      "type": "reviews",
+      "direction": "directed"
+    },
+    {
+      "from": "pub-3",
+      "to": "pj-gms",
+      "type": "describes",
+      "direction": "directed"
+    },
+    {
+      "from": "pub-3",
+      "to": "pj-gfs",
+      "type": "describes",
+      "direction": "directed"
+    },
+    {
+      "from": "pub-4",
+      "to": "pj-arc12",
+      "type": "method used in",
+      "direction": "directed"
+    },
+    {
+      "from": "pub-5",
+      "to": "pj-gfs",
+      "type": "founding methodology",
+      "direction": "directed"
+    },
+    {
+      "from": "pub-6",
+      "to": "pj-bot",
+      "type": "founding method (mnemonic dream sync)",
+      "direction": "directed"
+    },
+    {
+      "from": "pub-7",
+      "to": "pj-exch",
+      "type": "economic model",
+      "direction": "directed"
+    },
+    {
+      "from": "pub-7",
+      "to": "pj-kapusta",
+      "type": "blockchain-funding architecture",
+      "direction": "directed"
+    },
+    {
+      "from": "pub-8",
+      "to": "pj-bot",
+      "type": "early lucid-dream methodology",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-tech",
+      "to": "ch-tt-tech",
+      "type": "publishes via",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "pj-tech",
+      "to": "ch-yt-tech",
+      "type": "publishes via",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "pj-tech",
+      "to": "ch-tg-tech",
+      "type": "publishes via",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "pj-media",
+      "to": "ch-tt-media",
+      "type": "publishes via",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "pj-media",
+      "to": "ch-yt-media",
+      "type": "publishes via",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "pj-media",
+      "to": "ch-fb",
+      "type": "publishes via",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "pj-media",
+      "to": "ch-ig",
+      "type": "publishes via",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "pj-science",
+      "to": "ch-tt-science",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-art",
+      "to": "ch-tt-art",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-art",
+      "to": "ch-yt-art",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-art",
+      "to": "ch-li-art",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-arc12",
+      "to": "ch-tt-arc",
+      "type": "publishes via",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "pj-arc12",
+      "to": "ch-yt-arc",
+      "type": "publishes via",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "pj-fashion",
+      "to": "ch-yt-fashion",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "p-vo",
+      "to": "ch-tt-vo",
+      "type": "personal channel of",
+      "direction": "directed"
+    },
+    {
+      "from": "le-us",
+      "to": "ch-li-co",
+      "type": "company page",
+      "direction": "directed"
+    },
+    {
+      "from": "le-us",
+      "to": "ch-li-co2",
+      "type": "second company page",
+      "direction": "directed"
+    },
+    {
+      "from": "ch-rg",
+      "to": "p-db",
+      "type": "lab page hosted by",
+      "direction": "directed"
+    },
+    {
+      "from": "or-cortical",
+      "to": "p-natasha",
+      "type": "primary contact",
+      "direction": "directed"
+    },
+    {
+      "from": "or-stanford",
+      "to": "p-nolan",
+      "type": "target",
+      "direction": "directed"
+    },
+    {
+      "from": "or-stanford",
+      "to": "p-dalton",
+      "type": "operational contact (admin)",
+      "direction": "directed"
+    },
+    {
+      "from": "or-nci",
+      "to": "p-renwick",
+      "type": "submission contact",
+      "direction": "directed"
+    },
+    {
+      "from": "or-nswc",
+      "to": "p-cardillo",
+      "type": "engaged participant",
+      "direction": "directed"
+    },
+    {
+      "from": "or-cortical",
+      "to": "pj-plasma",
+      "type": "subject of engagement",
+      "direction": "directed"
+    },
+    {
+      "from": "or-cortical",
+      "to": "pj-uap",
+      "type": "secondary subject",
+      "direction": "directed"
+    },
+    {
+      "from": "or-stanford",
+      "to": "pj-plasma",
+      "type": "subject of letter (with T₊/T₀/T₋ photo)",
+      "direction": "directed"
+    },
+    {
+      "from": "or-stanford",
+      "to": "pj-uap",
+      "type": "scientific framing",
+      "direction": "directed"
+    },
+    {
+      "from": "or-doe",
+      "to": "pj-uap",
+      "type": "first-read event on the repo",
+      "direction": "directed"
+    },
+    {
+      "from": "or-nci",
+      "to": "pj-daat",
+      "type": "novel therapeutic technology submitted",
+      "direction": "directed"
+    },
+    {
+      "from": "or-cortical",
+      "to": "inst-cortical",
+      "type": "engaged with",
+      "direction": "directed"
+    },
+    {
+      "from": "or-stanford",
+      "to": "inst-stanford",
+      "type": "engaged with",
+      "direction": "directed"
+    },
+    {
+      "from": "or-nci",
+      "to": "inst-nih",
+      "type": "submitted to",
+      "direction": "directed"
+    },
+    {
+      "from": "or-doe",
+      "to": "inst-doe",
+      "type": "first-read by",
+      "direction": "directed"
+    },
+    {
+      "from": "or-nswc",
+      "to": "inst-nswc",
+      "type": "tracked at",
+      "direction": "directed"
+    },
+    {
+      "from": "le-kz",
+      "to": "inst-kazpatent",
+      "type": "files at",
+      "direction": "directed"
+    },
+    {
+      "from": "le-us",
+      "to": "inst-uspto",
+      "type": "files at",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-uap",
+      "to": "inst-jinr",
+      "type": "institutional context (element-115 synthesis)",
+      "direction": "directed"
+    },
+    {
+      "from": "inst-darpa",
+      "to": "acc-darpa",
+      "type": "granted",
+      "direction": "directed"
+    },
+    {
+      "from": "inst-tesla",
+      "to": "acc-tesla",
+      "type": "granted",
+      "direction": "directed"
+    },
+    {
+      "from": "le-us",
+      "to": "acc-darpa",
+      "type": "holds",
+      "direction": "directed"
+    },
+    {
+      "from": "le-us",
+      "to": "acc-tesla",
+      "type": "holds",
+      "direction": "directed"
+    },
+    {
+      "from": "fund-direct",
+      "to": "pj-daat",
+      "type": "revenue from",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "fund-affiliate",
+      "to": "pj-media",
+      "type": "revenue from",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "fund-crowd",
+      "to": "pj-inspira",
+      "type": "campaign for",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "fund-grants",
+      "to": "pj-plants",
+      "type": "potential funder",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "fund-grants",
+      "to": "pj-caviar",
+      "type": "potential funder",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "fund-gov",
+      "to": "pj-uap",
+      "type": "B2G target via DARPA/DoD",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "fund-gov",
+      "to": "pj-gfs",
+      "type": "B2G target",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "ev-theta",
+      "to": "pj-gfs",
+      "type": "presented",
+      "direction": "directed"
+    },
+    {
+      "from": "ev-astana",
+      "to": "pj-gfs",
+      "type": "submitted to",
+      "direction": "directed"
+    },
+    {
+      "from": "ev-ecp",
+      "to": "pj-plasma",
+      "type": "produced data for",
+      "direction": "directed"
+    },
+    {
+      "from": "th-temporal",
+      "to": "pj-plasma",
+      "type": "underpins",
+      "direction": "directed"
+    },
+    {
+      "from": "th-temporal",
+      "to": "pj-daat",
+      "type": "underpins (cancer therapeutic)",
+      "direction": "directed"
+    },
+    {
+      "from": "th-3dt",
+      "to": "th-temporal",
+      "type": "formal backbone for",
+      "direction": "directed"
+    },
+    {
+      "from": "th-3dt",
+      "to": "th-channels",
+      "type": "formal backbone for",
+      "direction": "directed"
+    },
+    {
+      "from": "th-channels",
+      "to": "pj-plasma",
+      "type": "applied in",
+      "direction": "directed"
+    },
+    {
+      "from": "th-hyperbolic",
+      "to": "pj-plasma",
+      "type": "external support for",
+      "direction": "directed"
+    },
+    {
+      "from": "th-hyperbolic",
+      "to": "pj-uap",
+      "type": "external support for",
+      "direction": "directed"
+    },
+    {
+      "from": "or-stanford",
+      "to": "th-temporal",
+      "type": "communicated to Nolan as core hypothesis",
+      "direction": "directed"
+    },
+    {
+      "from": "or-stanford",
+      "to": "th-channels",
+      "type": "communicated as plasma-fibrin T-notation",
+      "direction": "directed"
+    },
+    {
+      "from": "le-kz",
+      "to": "pat-biophoton",
+      "type": "owns",
+      "direction": "directed"
+    },
+    {
+      "from": "le-kz",
+      "to": "pat-art",
+      "type": "owns",
+      "direction": "directed"
+    },
+    {
+      "from": "pat-biophoton",
+      "to": "pj-inspira",
+      "type": "covers (neurodiagnostic complement)",
+      "direction": "directed"
+    },
+    {
+      "from": "pat-art",
+      "to": "pj-art",
+      "type": "covers",
+      "direction": "directed"
+    },
+    {
+      "from": "p-aovs",
+      "to": "fund-patrons",
+      "type": "lead patron",
+      "direction": "directed",
+      "amountUsd": 100000,
+      "moneyEdge": true
+    },
+    {
+      "from": "p-burilova",
+      "to": "fund-patrons",
+      "type": "patron",
+      "direction": "directed",
+      "amountUsd": 5000,
+      "moneyEdge": true
+    },
+    {
+      "from": "p-shishkin",
+      "to": "fund-patrons",
+      "type": "patron",
+      "direction": "directed",
+      "amountUsd": 1000,
+      "moneyEdge": true
+    },
+    {
+      "from": "p-mutsalkhanova",
+      "to": "fund-patrons",
+      "type": "patron",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "p-vb",
+      "to": "fund-patrons",
+      "type": "patron",
+      "direction": "directed",
+      "amountUsd": 10000,
+      "moneyEdge": true
+    },
+    {
+      "from": "p-ig",
+      "to": "fund-patrons",
+      "type": "patron",
+      "direction": "directed",
+      "amountUsd": 200,
+      "moneyEdge": true
+    },
+    {
+      "from": "p-kz",
+      "to": "le-us",
+      "type": "officer",
+      "direction": "directed"
+    },
+    {
+      "from": "p-ak",
+      "to": "le-us",
+      "type": "officer",
+      "direction": "directed"
+    },
+    {
+      "from": "p-ag",
+      "to": "le-us",
+      "type": "officer",
+      "direction": "directed"
+    },
+    {
+      "from": "p-kz",
+      "to": "pj-plasma",
+      "type": "data analysis (sole analyst on raw set)",
+      "direction": "directed"
+    },
+    {
+      "from": "p-kz",
+      "to": "pj-uap",
+      "type": "data analysis & repository",
+      "direction": "directed"
+    },
+    {
+      "from": "tool-vidrush",
+      "to": "pj-media",
+      "type": "AI production layer for",
+      "direction": "directed"
+    },
+    {
+      "from": "tool-dohoo",
+      "to": "pj-media",
+      "type": "fan-out publisher for",
+      "direction": "directed"
+    },
+    {
+      "from": "tool-pinterest",
+      "to": "pj-media",
+      "type": "SEO discovery for",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-art",
+      "to": "ch-pinterest",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-fashion",
+      "to": "ch-pinterest",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "tool-pinterest",
+      "to": "ch-pinterest",
+      "type": "operates",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-science",
+      "to": "ch-medium",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-tech",
+      "to": "ch-medium",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-tech",
+      "to": "ch-vk",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-media",
+      "to": "ch-vk",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-art",
+      "to": "inst-auction-tier1",
+      "type": "Phase-4 partnership target",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-art",
+      "to": "inst-auction-tier2",
+      "type": "Phase-4 partnership target",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-art",
+      "to": "inst-saatchi",
+      "type": "Phase-4 partnership target",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-daat",
+      "to": "inst-koniku",
+      "type": "Phase-4 cognitive-stack partner target",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-drift",
+      "to": "inst-neurable",
+      "type": "Phase-4 partner target",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-drift",
+      "to": "inst-paradromics",
+      "type": "Phase-4 partner target",
+      "direction": "directed"
+    },
+    {
+      "from": "or-cmeat",
+      "to": "inst-mewery",
+      "type": "primary contact (Czech pizza-meat partner)",
+      "direction": "directed"
+    },
+    {
+      "from": "or-cmeat",
+      "to": "pj-bfs",
+      "type": "supports BFS synergy",
+      "direction": "directed"
+    },
+    {
+      "from": "or-mjff",
+      "to": "inst-mjff",
+      "type": "engaged with",
+      "direction": "directed"
+    },
+    {
+      "from": "or-mjff",
+      "to": "fund-grants",
+      "type": "grant target",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "ev-tg-forbes",
+      "to": "pj-daat",
+      "type": "publicised B2C wearers of",
+      "direction": "directed"
+    },
+    {
+      "from": "ev-tg-forbes",
+      "to": "ch-tg-tech",
+      "type": "broadcast via",
+      "direction": "directed"
+    },
+    {
+      "from": "th-qrl",
+      "to": "pj-kapusta",
+      "type": "substrate for",
+      "direction": "directed"
+    },
+    {
+      "from": "th-qrl",
+      "to": "pj-exch",
+      "type": "settlement substrate for",
+      "direction": "directed"
+    },
+    {
+      "from": "pat-fbhfs",
+      "to": "pj-agri",
+      "type": "scientific base",
+      "direction": "directed"
+    },
+    {
+      "from": "th-channels",
+      "to": "pj-agri",
+      "type": "applied in",
+      "direction": "directed"
+    },
+    {
+      "from": "fund-grants",
+      "to": "pj-agri",
+      "type": "potential funder",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "pj-inspira",
+      "to": "pj-drift",
+      "type": "module of",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-daat-rs",
+      "to": "pj-daat",
+      "type": "validates",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-uap",
+      "to": "inst-boeing",
+      "type": "DoD prime engagement target (~$40M reverse-engineering benchmark)",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-uap",
+      "to": "inst-va",
+      "type": "Gulf War Syndrome track target",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-uap",
+      "to": "inst-doe",
+      "type": "engagement target (institutional)",
+      "direction": "directed"
+    },
+    {
+      "from": "inst-stanford",
+      "to": "inst-va",
+      "type": "Gulf War Syndrome programme adjacency",
+      "direction": "directed"
+    },
+    {
+      "from": "pub-1",
+      "to": "pj-daat",
+      "type": "validates respiratory biosensor in DAAT stack",
+      "direction": "directed"
+    },
+    {
+      "from": "p-ig",
+      "to": "pub-5",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-mk",
+      "to": "pub-5",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-is",
+      "to": "pub-5",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-vb",
+      "to": "pub-5",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-is",
+      "to": "pub-4",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-burilova",
+      "to": "pub-5",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-burilova",
+      "to": "pub-6",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-shishkin",
+      "to": "pub-6",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "p-mutsalkhanova",
+      "to": "pub-5",
+      "type": "co-author",
+      "direction": "directed"
+    },
+    {
+      "from": "fund-affiliate",
+      "to": "le-us",
+      "type": "revenue routes via",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "fund-direct",
+      "to": "le-us",
+      "type": "USD contracting through",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "fund-gov",
+      "to": "le-us",
+      "type": "B2G contracting through",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "fund-grants",
+      "to": "le-us",
+      "type": "grant disbursements via",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "fund-crowd",
+      "to": "le-us",
+      "type": "campaign proceeds to",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "pj-media",
+      "to": "pj-daat",
+      "type": "cross-promo affiliate banners → product",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "pj-media",
+      "to": "pj-shop",
+      "type": "cross-promo affiliate banners → storefront",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "ubo-group",
+      "to": "le-uk",
+      "type": "Group includes (UK reinstatement entity)",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "le-uk",
+      "type": "executive (group level)",
+      "direction": "directed"
+    },
+    {
+      "from": "ch-li-co",
+      "to": "or-cortical",
+      "type": "channel of",
+      "direction": "directed"
+    },
+    {
+      "from": "ch-li-co",
+      "to": "or-nswc",
+      "type": "channel of",
+      "direction": "directed"
+    },
+    {
+      "from": "ch-li-co",
+      "to": "or-stanford",
+      "type": "channel of",
+      "direction": "directed"
+    },
+    {
+      "from": "acc-tesla",
+      "to": "pj-daat",
+      "type": "B2B executive-wellness pitch context",
+      "direction": "directed"
+    },
+    {
+      "from": "th-3dt",
+      "to": "pub-3",
+      "type": "theoretical backbone cited in",
+      "direction": "directed"
+    },
+    {
+      "from": "p-chernobrov",
+      "to": "pj-uap",
+      "type": "archive cross-reference (chernobrov-archive)",
+      "direction": "directed"
+    },
+    {
+      "from": "p-lazar",
+      "to": "pj-uap",
+      "type": "research lineage anchor (S-4, element-115)",
+      "direction": "directed"
+    },
+    {
+      "from": "p-cardillo",
+      "to": "inst-nswc",
+      "type": "employed at",
+      "direction": "directed"
+    },
+    {
+      "from": "ubo-group",
+      "to": "le-us",
+      "type": "Group includes (US operational entity)",
+      "direction": "directed"
+    },
+    {
+      "from": "ubo-group",
+      "to": "le-kz",
+      "type": "Group includes (KZ patent-holding entity)",
+      "direction": "directed"
+    },
+    {
+      "from": "or-nci",
+      "to": "fund-grants",
+      "type": "submitted to programme",
+      "direction": "directed"
+    },
+    {
+      "from": "or-nci",
+      "to": "inst-nih",
+      "type": "submission to authority",
+      "direction": "directed"
+    },
+    {
+      "from": "p-db",
+      "to": "or-investors",
+      "type": "owner of pipeline",
+      "direction": "directed"
+    },
+    {
+      "from": "cluster-cmeat",
+      "to": "pj-bfs",
+      "type": "Phase-3/4 BFS target cluster",
+      "direction": "directed"
+    },
+    {
+      "from": "cluster-cmeat",
+      "to": "or-cmeat",
+      "type": "outreach pipeline",
+      "direction": "directed"
+    },
+    {
+      "from": "cluster-cmeat",
+      "to": "inst-mewery",
+      "type": "includes (named contact)",
+      "direction": "directed"
+    },
+    {
+      "from": "cluster-pharma",
+      "to": "pj-bfs",
+      "type": "Phase-3/5 BFS / functional-foods target",
+      "direction": "directed"
+    },
+    {
+      "from": "cluster-pharma",
+      "to": "fund-grants",
+      "type": "grant pipeline target",
+      "direction": "directed"
+    },
+    {
+      "from": "cluster-bioreactor",
+      "to": "pj-agri",
+      "type": "Phase-3 production scale-up",
+      "direction": "directed"
+    },
+    {
+      "from": "cluster-bioreactor",
+      "to": "pat-fbhfs",
+      "type": "applies under FBHFS protocols",
+      "direction": "directed"
+    },
+    {
+      "from": "cluster-seeds",
+      "to": "pj-agri",
+      "type": "Phase-3 agri pilots",
+      "direction": "directed"
+    },
+    {
+      "from": "cluster-seeds",
+      "to": "pj-plants",
+      "type": "Phase-3 large-scale field partners",
+      "direction": "directed"
+    },
+    {
+      "from": "cluster-sports",
+      "to": "pj-inspira",
+      "type": "biofeedback adjunct B2B target",
+      "direction": "directed"
+    },
+    {
+      "from": "cluster-sports",
+      "to": "pj-daat",
+      "type": "cognitive-stack adjunct positioning",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-dance",
+      "to": "pj-arc12",
+      "type": "taught at",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-dance",
+      "to": "pj-daat",
+      "type": "parallel cognitive-enhancement track (movement vs crystal)",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-yeast",
+      "to": "pj-arc12",
+      "type": "lab study by",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-yeast",
+      "to": "pj-plasma",
+      "type": "same hyperbolic-field protocol family",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-daat-rs",
+      "to": "pj-daat",
+      "type": "research backing the product",
+      "direction": "directed"
+    },
+    {
+      "from": "pj-daat-rs",
+      "to": "pat-fbhfs",
+      "type": "scientific basis under FBHFS patent",
+      "direction": "directed"
+    },
+    {
+      "from": "ch-tg-elec",
+      "to": "pj-tech",
+      "type": "engineering channel for technical audience",
+      "direction": "directed"
+    },
+    {
+      "from": "ch-li-science",
+      "to": "pj-science",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "ch-x",
+      "to": "pj-tech",
+      "type": "publishes via",
+      "direction": "directed"
+    },
+    {
+      "from": "ch-x",
+      "to": "pj-media",
+      "type": "broadcasts via",
+      "direction": "directed"
+    },
+    {
+      "from": "or-investors",
+      "to": "fund-investors",
+      "type": "feeds into",
+      "direction": "directed"
+    },
+    {
+      "from": "inst-va",
+      "to": "or-stanford",
+      "type": "Gulf War Syndrome programmes — cancer-treatment pathway target",
+      "direction": "directed"
+    },
+    {
+      "from": "inst-va",
+      "to": "pj-uap",
+      "type": "VA veterans-care funnel for UAP-adjacent oncology",
+      "direction": "directed"
+    },
+    {
+      "from": "inst-boeing",
+      "to": "pj-uap",
+      "type": "DoD reverse-engineering benchmark (~$40M illustrative)",
+      "direction": "directed"
+    },
+    {
+      "from": "inst-osf",
+      "to": "pj-plants",
+      "type": "preregistration platform",
+      "direction": "directed"
+    },
+    {
+      "from": "inst-osf",
+      "to": "pj-caviar",
+      "type": "preregistration platform",
+      "direction": "directed"
+    },
+    {
+      "from": "fund-patrons",
+      "to": "le-us",
+      "type": "funds",
+      "direction": "directed",
+      "amountUsd": 165000,
+      "moneyEdge": true
+    },
+    {
+      "from": "fund-investors",
+      "to": "le-us",
+      "type": "investor inflows (when activated)",
+      "direction": "directed",
+      "moneyEdge": true
+    },
+    {
+      "from": "le-kz",
+      "to": "pj-daat",
+      "type": "IP licensed via",
+      "direction": "directed",
+      "via": "pat-fbhfs",
+      "moneyEdge": true,
+      "ipLicense": true,
+      "ipFromKz": true
+    },
+    {
+      "from": "le-kz",
+      "to": "pj-fashion",
+      "type": "IP licensed via",
+      "direction": "directed",
+      "via": "pat-fbhfs",
+      "moneyEdge": true,
+      "ipLicense": true,
+      "ipFromKz": true
+    },
+    {
+      "from": "le-kz",
+      "to": "pj-plasma",
+      "type": "IP licensed via",
+      "direction": "directed",
+      "via": "pat-fbhfs",
+      "moneyEdge": true,
+      "ipLicense": true,
+      "ipFromKz": true
+    },
+    {
+      "from": "le-kz",
+      "to": "pj-inspira",
+      "type": "IP licensed via",
+      "direction": "directed",
+      "via": "pat-inspira",
+      "moneyEdge": true,
+      "ipLicense": true,
+      "ipFromKz": true
+    },
+    {
+      "from": "le-kz",
+      "to": "pj-drift",
+      "type": "IP licensed via",
+      "direction": "directed",
+      "via": "pat-drift",
+      "moneyEdge": true,
+      "ipLicense": true,
+      "ipFromKz": true
+    },
+    {
+      "from": "le-kz",
+      "to": "pj-gfs",
+      "type": "IP licensed via",
+      "direction": "directed",
+      "via": "pat-gfs",
+      "moneyEdge": true,
+      "ipLicense": true,
+      "ipFromKz": true
+    },
+    {
+      "from": "le-kz",
+      "to": "pj-gms",
+      "type": "IP licensed via",
+      "direction": "directed",
+      "via": "pat-gms",
+      "moneyEdge": true,
+      "ipLicense": true,
+      "ipFromKz": true
+    },
+    {
+      "from": "le-us",
+      "to": "pj-bfs",
+      "type": "IP licensed via",
+      "direction": "directed",
+      "via": "pat-bfs-us",
+      "moneyEdge": true,
+      "ipLicense": true,
+      "ipFromKz": false
+    },
+    {
+      "from": "le-kz",
+      "to": "pj-bot",
+      "type": "IP licensed via",
+      "direction": "directed",
+      "via": "pat-banchenko-tech",
+      "moneyEdge": true,
+      "ipLicense": true,
+      "ipFromKz": true
+    },
+    {
+      "from": "le-kz",
+      "to": "pj-art",
+      "type": "IP licensed via",
+      "direction": "directed",
+      "via": "pat-art",
+      "moneyEdge": true,
+      "ipLicense": true,
+      "ipFromKz": true
+    },
+    {
+      "from": "le-kz",
+      "to": "pj-agri",
+      "type": "IP licensed via",
+      "direction": "directed",
+      "via": "pat-fbhfs",
+      "moneyEdge": true,
+      "ipLicense": true,
+      "ipFromKz": true
+    }
+  ]
+}
