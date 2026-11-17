@@ -82,38 +82,31 @@ use the previous mixed layout and were left untouched by this update, and the
 
 | | Section | What is inside | Document |
 |---|---|---|---|
-| <img src="docs/assets/icons/ecosystem.svg" width="30" alt="ecosystem icon"> | **Ecosystem** | strategic thesis, six clusters, taxonomy / data-flow / money-flow diagrams, status of every component | [docs/ECOSYSTEM.md](docs/ECOSYSTEM.md) |
-| <img src="docs/assets/icons/research.svg" width="30" alt="research icon"> | **Research and IP** | flagship papers, patent applications with numbers and exam status, accreditations, timeline | [docs/RESEARCH_AND_IP.md](docs/RESEARCH_AND_IP.md) |
-| <img src="docs/assets/icons/whitepaper.svg" width="30" alt="whitepaper icon"> | **Whitepapers** | complete publication list, abstracts, authors, external scientific references | [whitepaper/README.md](whitepaper/README.md) |
-| <img src="docs/assets/icons/money.svg" width="30" alt="money icon"> | **Paths to money: research** | UAP reverse engineering, blood plasma / hyperbolic biomed, agricultural study, GFS forecasting | [docs/PATHS_TO_MONEY_RESEARCH.md](docs/PATHS_TO_MONEY_RESEARCH.md) |
-| <img src="docs/assets/icons/products.svg" width="30" alt="products icon"> | **Paths to money: products** | ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, cross-promotion, ASRP.dance, ASRP.fashion, DAAT Crystals, GMS | [docs/PATHS_TO_MONEY_PRODUCTS.md](docs/PATHS_TO_MONEY_PRODUCTS.md) |
-| <img src="docs/assets/icons/track.svg" width="30" alt="track record icon"> | **Track record** | nine documented cases, including the ones that did not work out | [docs/TRACK_RECORD.md](docs/TRACK_RECORD.md) |
-| <img src="docs/assets/icons/outreach.svg" width="30" alt="outreach icon"> | **Outreach** | engagement funnel and the log of external reactions | [docs/OUTREACH.md](docs/OUTREACH.md) |
-| <img src="docs/assets/icons/funding.svg" width="30" alt="funding icon"> | **Funding and patrons** | seven funding streams with status, patron tiers and current patrons, how to support | [docs/FUNDING.md](docs/FUNDING.md) |
-| <img src="docs/assets/icons/media.svg" width="30" alt="media icon"> | **Media and channels** | frequency ladder, content-factory pipeline, channel inventory with reach, press topics | [docs/MEDIA_AND_CHANNELS.md](docs/MEDIA_AND_CHANNELS.md) |
-| <img src="docs/assets/icons/markets.svg" width="30" alt="markets icon"> | **Target markets** | companies ASRP intends to approach, by vertical (targets, not partners) | [docs/TARGET_MARKETS.md](docs/TARGET_MARKETS.md) |
-| <img src="docs/assets/icons/roadmap.svg" width="30" alt="roadmap icon"> | **Roadmap** | five-phase product and R&D rollout | [docs/ROADMAP.md](docs/ROADMAP.md) |
-| <img src="docs/assets/icons/team.svg" width="30" alt="team icon"> | **Team** | leadership team and roles | [docs/TEAM.md](docs/TEAM.md) |
-| <img src="docs/assets/icons/legal.svg" width="30" alt="legal icon"> | **Legal entities** | Florida LLC and Kazakhstan LLP registry data, ownership and UBO note | [docs/LEGAL_ENTITIES.md](docs/LEGAL_ENTITIES.md) |
-| <img src="docs/assets/icons/terms.svg" width="30" alt="terms icon"> | **Partnerships and terms** | what we offer and seek per partner type, contacts, important notes, license | [docs/PARTNERSHIPS_AND_TERMS.md](docs/PARTNERSHIPS_AND_TERMS.md) |
-| <img src="docs/assets/icons/graph.svg" width="30" alt="graph icon"> | **Interactive graph** | browser map of entities and connections, money-flow notes, source data | [graph/](graph/README.md) |
-| <img src="docs/assets/icons/report.svg" width="30" alt="report icon"> | **Update report** | what moved where, loss check, open questions | [reports/MARKETING_UPDATE_REPORT.md](reports/MARKETING_UPDATE_REPORT.md) |
+| <img src="docs/assets/icons/ecosystem.svg" width="40" alt="ecosystem icon"> | **Ecosystem** | strategic thesis, six clusters, taxonomy / data-flow / money-flow diagrams, status of every component | [docs/ECOSYSTEM.md](docs/ECOSYSTEM.md) |
+| <img src="docs/assets/icons/research.svg" width="40" alt="research icon"> | **Research and IP** | flagship papers, patent applications with numbers and exam status, accreditations, timeline | [docs/RESEARCH_AND_IP.md](docs/RESEARCH_AND_IP.md) |
+| <img src="docs/assets/icons/whitepaper.svg" width="40" alt="whitepaper icon"> | **Whitepapers** | complete publication list, abstracts, authors, external scientific references | [whitepaper/README.md](whitepaper/README.md) |
+| <img src="docs/assets/icons/money.svg" width="40" alt="money icon"> | **Paths to money: research** | UAP reverse engineering, blood plasma / hyperbolic biomed, agricultural study, GFS forecasting | [docs/PATHS_TO_MONEY_RESEARCH.md](docs/PATHS_TO_MONEY_RESEARCH.md) |
+| <img src="docs/assets/icons/products.svg" width="40" alt="products icon"> | **Paths to money: products** | ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, cross-promotion, ASRP.dance, ASRP.fashion, DAAT Crystals, GMS | [docs/PATHS_TO_MONEY_PRODUCTS.md](docs/PATHS_TO_MONEY_PRODUCTS.md) |
+| <img src="docs/assets/icons/track.svg" width="40" alt="track record icon"> | **Track record** | nine documented cases, including the ones that did not work out | [docs/TRACK_RECORD.md](docs/TRACK_RECORD.md) |
+| <img src="docs/assets/icons/outreach.svg" width="40" alt="outreach icon"> | **Outreach** | engagement funnel and the log of external reactions | [docs/OUTREACH.md](docs/OUTREACH.md) |
+| <img src="docs/assets/icons/funding.svg" width="40" alt="funding icon"> | **Funding and patrons** | seven funding streams with status, patron tiers and current patrons, how to support | [docs/FUNDING.md](docs/FUNDING.md) |
+| <img src="docs/assets/icons/media.svg" width="40" alt="media icon"> | **Media and channels** | frequency ladder, content-factory pipeline, channel inventory with reach, press topics | [docs/MEDIA_AND_CHANNELS.md](docs/MEDIA_AND_CHANNELS.md) |
+| <img src="docs/assets/icons/markets.svg" width="40" alt="markets icon"> | **Target markets** | companies ASRP intends to approach, by vertical (targets, not partners) | [docs/TARGET_MARKETS.md](docs/TARGET_MARKETS.md) |
+| <img src="docs/assets/icons/roadmap.svg" width="40" alt="roadmap icon"> | **Roadmap** | five-phase product and R&D rollout | [docs/ROADMAP.md](docs/ROADMAP.md) |
+| <img src="docs/assets/icons/team.svg" width="40" alt="team icon"> | **Team** | leadership team and roles | [docs/TEAM.md](docs/TEAM.md) |
+| <img src="docs/assets/icons/legal.svg" width="40" alt="legal icon"> | **Legal entities** | Florida LLC and Kazakhstan LLP registry data, ownership and UBO note | [docs/LEGAL_ENTITIES.md](docs/LEGAL_ENTITIES.md) |
+| <img src="docs/assets/icons/terms.svg" width="40" alt="terms icon"> | **Partnerships and terms** | what we offer and seek per partner type, contacts, important notes, license | [docs/PARTNERSHIPS_AND_TERMS.md](docs/PARTNERSHIPS_AND_TERMS.md) |
+| <img src="docs/assets/icons/graph.svg" width="40" alt="graph icon"> | **Interactive graph** | browser map of entities and connections, money-flow notes, source data | [graph/](graph/README.md) |
+| <img src="docs/assets/icons/report.svg" width="40" alt="report icon"> | **Update report** | what moved where, loss check, open questions | [reports/MARKETING_UPDATE_REPORT.md](reports/MARKETING_UPDATE_REPORT.md) |
 
 Full list: [documentation index](docs/README.md).
 
----
-
-## What exists and at what stage
-
-<div align="center">
-<img src="docs/assets/infographics/maturity-map.en.svg" width="100%" alt="Four columns: Live 4, Active development 12, Planned 3, Research studies 7, each listing component names with a text status">
-</div>
-
-The figure repeats the component tables of [docs/ECOSYSTEM.md](docs/ECOSYSTEM.md). "Live" means a public
-service that is online. "Active development" is the project's own label for components with a working
-prototype, IP protection or an active pilot; it includes a YouTube channel and research-stage programmes,
-and it is not the same as a shipped product. Of the 7 studies, 4 have public repositories, 1 is recruiting
-in a private repository, and 2 are listed with preregistration planned.
+**On this page:** [Proof points](#proof-points) · [Ecosystem map](#ecosystem-map) · [Component status](#component-status) ·
+[Research and patents](#research-and-patents) · [Accreditations and timeline](#accreditations-and-timeline) ·
+[Legal entities](#legal-entities) · [Paths to money](#paths-to-money) · [Track record](#track-record) ·
+[Outreach](#outreach) · [Funding](#funding) · [Media and channels](#media-and-channels) ·
+[Target markets](#target-markets) · [Roadmap](#roadmap) · [Team](#team) · [Partnerships](#partnerships) ·
+[Interactive graph](#interactive-graph) · [Contact](#contact)
 
 ---
 
@@ -149,6 +142,458 @@ The full list of unverified statements and the questions they raise is in the
 | **Patron** | [Funding and patrons](docs/FUNDING.md) | <https://asrp.tech/en/patrons> · one-off donations: <https://asrp.tech/en/donate/asrp> · <https://asrp.tech/ru/donate/asrp> |
 | **Researcher** | [Research and IP](docs/RESEARCH_AND_IP.md), [whitepapers](whitepaper/README.md) | the open study repositories listed in [Proof points](#proof-points) |
 | **Media, course author** | [Media and channels](docs/MEDIA_AND_CHANNELS.md) | [Partnerships and terms](docs/PARTNERSHIPS_AND_TERMS.md) |
+
+---
+
+## Ecosystem map
+
+<!-- excerpt ECOSYSTEM 1 -->
+Two separate views for clarity: **what we have** (taxonomy) and **how money moves** (flow).
+
+### A. Taxonomy — main clusters
+
+![ASRP Ecosystem Taxonomy](assets/diagrams/01-taxonomy.png)
+
+> **Edu & Audience is also a raw-data source for the ecosystem.** Arcanum12th courses (extrasensory perception, expanded cognitive perception, TORO, bodybuilding, etc.) collect **raw biological data** from enrolled students: genetic analysis, EEG, electrodermal / skin-galvanic response, parasympathetic / autonomic nervous-system metrics, medical workup. Together with the Arcanum12th_BOT dream-and-biosensor stream, these flows feed the analytical layer that produces **scientific publications, GFS forecasts, and GMS consciousness-state tokens**. The clusters are not isolated silos — Edu → R&D → Content & Media → Commerce is a single data-and-revenue pipeline.
+
+![ASRP Data Flow — Raw Biosignals → Analytics → Outputs](assets/diagrams/18-data-flow.png)
+
+> The diagram above shows the **data semantics the taxonomy above does not**: Arcanum12 courses + Arcanum12th_BOT feed the analytical layer → three downstream outputs (publications, GFS forecasts, GMS tokens) → the **Kapusta rating substrate** closes the loop by filtering low-quality forecasts, promoting accurate contributors, and motivating biological sensors (documented in the GFS patent).
+
+### B. Money flow — who pays for what
+
+![Money flow](assets/diagrams/02-money-flow.png)
+
+> One dashed flow is shown explicitly: the bot supplies biosensor data to R&D (feeding GFS). The full flow chain from research to media and audience lives in the separate [Frequency Ladder](docs/MEDIA_AND_CHANNELS.md) diagram below.
+<!-- /excerpt -->
+
+Full page: [Ecosystem map and component status](docs/ECOSYSTEM.md).
+
+---
+
+## Component status
+
+<div align="center">
+<img src="docs/assets/infographics/maturity-map.en.svg" width="100%" alt="Four columns: Live 4, Active development 12, Planned 3, Research studies 7, each listing component names with a text status">
+</div>
+
+"Live" means a public service that is online. "Active development" is the project's own label for components
+with a working prototype, IP protection or an active pilot; it includes a YouTube channel and research-stage
+programmes, and it is not the same as a shipped product. Of the 7 studies, 4 have public repositories, 1 is
+recruiting in a private repository, and 2 are listed with preregistration planned. The tables below are the
+project's own, dated 2026-Q2.
+
+<!-- excerpt ECOSYSTEM 2 -->
+### Live & Ready to Scale
+
+| Component | Link | Purpose | Monetization |
+|---|---|---|---|
+| 🤖 **Arcanum12th_BOT** | [@Arcanum12th_BOT](https://t.me/Arcanum12th_BOT) | Dreams journal → lead & biosensor data for GFS | Lead gen, tripwire |
+| 📰 **ASRP.media** | [asrp.media](https://asrp.media) | Official media, science-popularising content | CPM/CPC ads, native, Amazon affiliate |
+| 🔬 **ASRP.science** | [asrp.science](https://asrp.science) | Peer-review scientific journal | Paid publications, subscriptions |
+| ⚙️ **asrp.tech** | [asrp.tech](https://asrp.tech) | Projects & patents portfolio | B2B leads, licensing inquiries |
+
+> ⚠️ EN/RU divergence in the source — see [open questions](reports/MARKETING_UPDATE_REPORT.md#open-questions).
+
+### Active Development
+
+> Products with working prototypes, IP protection, or active pilots.
+
+| Component | Link | Focus | Monetization Target |
+|---|---|---|---|
+| 🎓 **Arcanum12th.education** | [arcanum12th.education](https://arcanum12th.education) | Educational platform | Course sales, certification |
+| ▶️ **YouTube @ASRPtech** | [@ASRPtech](https://www.youtube.com/@ASRPtech) | Science & research video | AdSense, sponsorships |
+| 🎨 **ASRP.art** | [asrp.tech/projects](https://asrp.tech/ru/projects) · [repo](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art) | Neurophysiological art valuation | Art marketplaces, galleries |
+| 🧠 **ASRP.drift (PlayOne)** | [asrp.tech/projects](https://asrp.tech/ru/projects) | Neurointegration for team synchronization | B2B clinical, defense, sports |
+| 🌐 **GFS — Global Forecasting System** | [asrp.tech/projects](https://asrp.tech/ru/projects) · [repo (code private)](https://github.com/AdvancedScientificResearchProjects/gfs-model) | Dream + biosensor analysis → forecasts · **product narrative fully public** (see [GFS path to money](docs/PATHS_TO_MONEY_RESEARCH.md)) · source code private for security | B2G, B2B forecasts + Kapusta-rewarded user bets |
+| 🧘 **Global Mental System** | [asrp.tech/projects](https://asrp.tech/ru/projects) | Cognitive process synchronization | Enterprise performance, wellness |
+| 🥗 **Body Food System** | [patent repo](https://github.com/denisbanchenko/Kazpatent_Body_Food_System_Patent) | Genetics-based personalized nutrition (US Copyright TXu002116250) | B2C, licensing |
+| 💓 **Inspira-X** | [patent repo](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) · [asrp.tech](https://asrp.tech/ru/projects/inspira-x) | Dual-channel pneumograph + ECG, 22 breathing methodics · **primary placement: DAAT Crystal cognitive-enhancement stack** (respiratory biosensor) · also serves as an ASRP.drift module | DAAT Crystal bundle + medical B2B + crowdfunding planned |
+| 💃 **ASRP.dance** | [asrp.tech](https://asrp.tech/ru/projects/asrp.dance) | Movement neuroscience — cortical activation via ritual/complex motion sequences | B2B clinics, sports, wellness |
+| 👗 **ASRP.fashion** | [asrp.tech](https://asrp.tech/ru/projects/asrp.fashion) · [YouTube @ASRPfashion](https://www.youtube.com/@ASRPfashion) | Living biocompatible textiles grown from plants/bacteria/fungi under hyperbolic + quantum field exposure | Premium fashion, medical textiles, licensing |
+| 💎 **DAAT Crystal** (product) | [repo](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) · [asrp.tech](https://asrp.tech/ru/projects) | Premium cognitive-enhancement device (crystal + Inspira-X + neurointerface stack) | Premium B2C + B2B executive wellness |
+| 🔄 **ASRP.exchange / ASRP Market** | [asrp.tech](https://asrp.tech/ru/projects/asrp.exchange) | Consciousness-state marketplace (`/stock` subdomain = Mental Objects DB) | Exchange commissions, TX fees via Kapusta.money |
+
+### Planned
+
+> Domains acquired and product scope defined; technical launch pending.
+
+| Component | Status | Purpose |
+|---|---|---|
+| 🛒 **ASRPshop** | 🟡 Planned | B2C storefront for DAAT crystals and ASRP.fashion items |
+| 📊 **ASRP Market `/stock` subdomain** | 🟡 Planned | Consciousness-state database, connected to neurointerface ingest |
+| 🚀 **Inspira-X crowdfunding** | 🟡 Planned | Kickstarter-class campaign |
+
+### Meta-Cluster — Global Mental System (GMS)
+
+**GMS is an umbrella ecosystem that binds GFS, Arcanum12th, ASRP.Exchange, ASRP.art and Kapusta.money into a single consciousness-economy layer.**
+
+| Component | Link | Role in GMS |
+|---|---|---|
+| 🌐 **GFS** | [asrp.tech](https://asrp.tech/ru/projects/global_foresight_system) | Forecasts as tradable asset |
+| 🎓 **Arcanum12th** | [asrp.tech](https://asrp.tech/ru/projects/arcanum12th) | Certification of consciousness specialists |
+| 🔄 **ASRP.exchange** | [asrp.tech](https://asrp.tech/ru/projects/asrp.exchange) | Mental-state exchange (dreams, predictions, art) |
+| 🎨 **ASRP.art** | [asrp.tech](https://asrp.tech/ru/projects/asrp.art) | Consciousness-state art certification |
+| 💰 **Kapusta.money** | [asrp.tech](https://asrp.tech/ru/projects/kapusta.money) | **Rating-system substrate** (not just a settlement currency) — centralised + decentralised layers; status rises with accurate forecasts (+ more Kapusta credited), falls with inaccurate ones; produces three outcomes at scale: (a) accurate forecasts, (b) high-precision biological sensors (humans), (c) system reliability · mechanism documented in the GFS patent |
+
+### Research Repositories
+
+| Repository | Focus | Stage | Target Client |
+|---|---|---|---|
+| [UAP Reverse Engineering](https://github.com/AdvancedScientificResearchProjects/UAP_Reverse_Engineering_Study) | Aerospace reverse engineering | 🔐 Public w/ NDA-tier materials | Defense contractors, DoD |
+| [Hyperbolic Field Blood Plasma](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_BloodPlasma_Study) | Blood plasma coagulation | 🧪 Lab results published | Pharma, Stanford-class centers |
+| [Hyperbolic Field Agricultural](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Agricultural_Study) | Germination, plant yield | 🧪 Field trials (Day 4+) | Agri-holdings, UA/MD grants |
+| [Hyperbolic Field Yeast](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_SaccharomycesCerevisiae_Study) | Fermentation kinetics | 🧪 OSF registered | Food industry, biopharma |
+| [DAAT Crystal Study](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) | Crystal-human interaction, cognitive enhancement research | 🧪 Recruitment | Premium B2C + B2B — see [DAAT Crystal Path to Money](docs/PATHS_TO_MONEY_PRODUCTS.md) |
+| Hyperbolic Field Plants Study | Germination, growth kinetics, yield modulation on expanded species list | 🟡 OSF preregistration planned (2026-04-22) | Agri-holdings, food-security grants |
+| Hyperbolic Field Fish Caviar Study | Aquaculture embryonic-development kinetics under hyperbolic-field exposure | 🟡 OSF preregistration planned (2026-04-22) | Aquaculture industry, biopharma |
+
+> ⚠️ EN/RU divergence in the source — see [open questions](reports/MARKETING_UPDATE_REPORT.md#open-questions).
+
+> 🔐 Some materials require NDA.
+<!-- /excerpt -->
+
+---
+
+## Research and patents
+
+<!-- excerpt RESEARCH_AND_IP 1 -->
+**All patents are filed through Kazpatent (Republic of Kazakhstan).** Public documentation repositories for each patent are listed below.
+
+| # | Patent | App № | Status | Public Repo |
+|---|---|---|---|---|
+| 1 | **GFS — Global Forecasting System** | KZ 2025/1096.1 | ✅ Formal exam done → Substantive exam | [patent repo](https://github.com/denisbanchenko/Kazpatent_Global_Forecasting_System_Patent) |
+| 2 | **ASRP.drift — Advanced Synchro Resonance Platform** | KZ 413554 | 🟡 Registration pending | [patent repo](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent) |
+| 3 | **ASRP.art — Axionetic Sensing Reactions Platform in Art** | KZ 2025/0592.1 + PCT 412362 | ✅ Substantive exam | [patent repo](https://github.com/denisbanchenko/Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent) |
+| 4 | **Biophotonic Neurodiagnostic System** | KZ 2025/1097.1 | ✅ Formal exam done → Substantive | [patent repo](https://github.com/denisbanchenko/Kazpatent_Biophotonic_Neurodiagnostic_System_Patent) |
+| 5 | **Fractal Biomedical Hyperbolic Field System** | KZ 2025/1095.1 | ✅ Formal exam done → Substantive | [patent repo](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
+| 6 | **Inspira-X — Respiratory Analysis** | KZ 2025/0914.1 (399693) | ✅ Formal exam done → Substantive pending | [patent repo](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) |
+| 7 | **Body Food System** | US Copyright TXu002116250 | ✅ Registered (US) | [patent repo](https://github.com/denisbanchenko/Kazpatent_Body_Food_System_Patent) |
+
+> ⚠️ EN/RU divergence in the source — see [open questions](reports/MARKETING_UPDATE_REPORT.md#open-questions).
+
+**Inventors on patents:** Ovseannicova V.A. (MD), Kapustin M.M. (DE), Banchenko D.Y. (KZ).
+<!-- /excerpt -->
+
+Flagship papers and the complete publication list: [Scientific whitepapers](docs/RESEARCH_AND_IP.md#scientific-whitepapers) ·
+[whitepaper/README.md](whitepaper/README.md).
+
+---
+
+## Accreditations and timeline
+
+<!-- excerpt RESEARCH_AND_IP 2 -->
+**External credentials we hold — these are the trust signals an investor or prime contractor verifies before the first serious conversation.** The top-line headline is **active DARPA BAA proposal-portal access (U.S. defense R&D solicitations)** paired with a **Tesla Business Program accreditation (U.S. corporate enterprise)** — plus patent-office, copyright and peer-review signals below. The DARPA item grants authenticated access to submit and track Broad Agency Announcement proposals; it is not a merit-based award and should not be presented as one.
+
+| Authority | Program | Date | Reference |
+|---|---|---|---|
+| 🇺🇸 **DARPA** (U.S. Defense Advanced Research Projects Agency) | BAA Proposal-Portal Access | **16 Sep 2025** | Extranet account active (login provided under NDA) |
+| 🇺🇸 **Tesla, Inc.** | Tesla Business Program | **22 Aug 2025** | Registered entity: ASRP LLC (FL) · Email: `info@asrp.tech` |
+| 🇰🇿 **Kazpatent** (Ministry of Justice of RK) | 6 patent filings + 1 PCT | 2024–2026 | See [Research & Patents Portfolio](docs/RESEARCH_AND_IP.md#research--patents-portfolio) |
+| 🇺🇸 **U.S. Copyright Office** | Body Food System | 2024 | TXu002116250 |
+| 🌐 **OSF Registry** | Yeast study preregistration | 2026 | [osf.io/Jgt3h](https://osf.io/Jgt3h) |
+| 📝 **International Internal Medicine Journal** | ASRP.drift peer-reviewed publication | 2024 | Linked from [asrp.tech/projects/asrp.drift](https://asrp.tech/ru/projects/asrp.drift) |
+| 🧪 **ResearchGate** | Institutional lab page | Active | [researchgate.net](https://www.researchgate.net/lab/Advanced-Scientific-Research-Projects-Denis-Banchenko) |
+
+### Epochs — chronology of registrations, filings and events
+
+> The timeline below tracks **five event classes** — company registrations and re-instatements (SunBiz/KZ registries), patent filings and copyright registrations, scientific publications and preregistrations, accreditations (DARPA · Tesla · OSF), and public events (hackathons, pitch battles).
+
+![Accreditations & epochs timeline](assets/diagrams/03-accreditations-timeline.png)
+<!-- /excerpt -->
+
+---
+
+## Legal entities
+
+<!-- excerpt LEGAL_ENTITIES 0 stop=^#### -->
+**ASRP operates as a multi-jurisdiction group.** The three legal entities currently in scope are: the U.S. operational **ASRP LLC** (Florida, active since 2017), the Kazakhstan research-and-patent **ТОО** (Baikonur, 2024), and a **United Kingdom entity** (currently on corporate-status reinstatement). The Florida and Kazakhstan entities are verifiable through public registries; the UK entity is in the reinstatement stage and is documented here as part of the group's ongoing legal consolidation (see UBO note below).
+
+![Legal entities epochs](assets/diagrams/12-company-epochs.png)
+
+### Advanced Scientific Research Projects LLC (Florida, USA)
+
+| Field | Value |
+|---|---|
+| **Entity type** | Florida Limited Liability Company |
+| **Document #** | L17000209665 |
+| **FEI / EIN** | provided to verified counterparties · public via Florida SunBiz registry |
+| **Date Filed** | **10 October 2017** |
+| **Status** | ACTIVE |
+| **Last Event** | REINSTATEMENT — 10 Jun 2025 |
+| **Name change** | 28 Feb 2018 |
+| **Principal address** | 7901 4th St N, Ste 300, St. Petersburg, FL 33702 (changed 28 Feb 2026) |
+| **Registered Agent** | Registered Agents Inc |
+| **Authorized Members** | Valeria Ovseannicova · Mykhailo Kapustin · Denis Banchenko |
+| **Annual Reports** | 2024 (filed 10 Jun 2025) · 2025 (filed 10 Jun 2025) · 2026 (filed 28 Feb 2026) |
+| **Public registry** | [search.sunbiz.org — Florida Division of Corporations](https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=ADVANCEDSCIENTIFICRESEARCHPROJ%20L170002096650&aggregateId=flal-l17000209665-9ae2294a-abd3-46c7-944f-b49e0eb2f7f4&searchTerm=ADVANCED%20SCIENTIFIC%20RESEARCH%20PROJECTS%20LLC&listNameOrder=ADVANCEDSCIENTIFICRESEARCHPROJ%20L170002096650) |
+
+### ASRP LLP (Kazakhstan)
+
+| Field | Value |
+|---|---|
+| **Entity type** | Limited Liability Partnership |
+| **BIN** | 240140033296 |
+| **Registration** | **27 January 2024** |
+| **OKED** | 72199 — Other research and development in natural and technical sciences |
+| **Legal address** | Komarova St., 37, apt. 56, Baikonur, Kyzylorda region, 468320, Republic of Kazakhstan |
+| **KATO code** | 431910000 (Baikonur) |
+| **Director** | Denis Banchenko |
+| **Public registries** | [infostats.co](https://infostats.co/companies/kz/3235213) · [kyc.kz](https://kyc.kz/search/bin/240140033296) |
+
+> ⚠️ EN/RU divergence in the source — see [open questions](reports/MARKETING_UPDATE_REPORT.md#open-questions).
+
+> The Kazakhstan entity holds the **patent portfolio** (6 Kazpatent filings + 1 PCT); the Florida LLC is the **operational / commercial** entity (Tesla Business Program, DARPA BAA, USD contracting).
+<!-- /excerpt -->
+
+The ownership, UBO and corporate-affiliation disclaimer is on the full page:
+[Legal entities and registry verification](docs/LEGAL_ENTITIES.md#ownership-ubo-and-corporate-affiliation-disclaimer).
+
+---
+
+## Paths to money
+
+Each direction has its own funnel from research to revenue. The diagrams below are the project's own; click
+one to open the section with client, offer, proof and channel. Research tracks:
+
+<!-- excerpt PATHS_TO_MONEY_RESEARCH 0 mode=images -->
+<a href="docs/PATHS_TO_MONEY_RESEARCH.md#uap-reverse-engineering--defense-contracts"><img src="assets/diagrams/04-uap-funnel.png" width="100%" alt="UAP → Defense Contracts funnel"></a>
+
+<a href="docs/PATHS_TO_MONEY_RESEARCH.md#blood-plasma--hyperbolic-biomed--medical-centers"><img src="assets/diagrams/13-plasma-funnel.png" width="100%" alt="Blood Plasma funnel"></a>
+
+<a href="docs/PATHS_TO_MONEY_RESEARCH.md#agricultural-study--agri-grants--food-security"><img src="assets/diagrams/14-agri-funnel.png" width="100%" alt="Agri funnel"></a>
+
+<a href="docs/PATHS_TO_MONEY_RESEARCH.md#gfs--global-forecasting-system--forecast-sales"><img src="assets/diagrams/15-gfs-with-funding.png" width="100%" alt="GFS — forecasts + funding inflows"></a>
+
+<!-- /excerpt -->
+
+<!-- excerpt PATHS_TO_MONEY_RESEARCH 0 mode=headings -->
+- [UAP Reverse Engineering → Defense Contracts](docs/PATHS_TO_MONEY_RESEARCH.md#uap-reverse-engineering--defense-contracts)
+- [Blood Plasma / Hyperbolic Biomed → Medical Centers](docs/PATHS_TO_MONEY_RESEARCH.md#blood-plasma--hyperbolic-biomed--medical-centers)
+- [Agricultural Study → Agri Grants & Food Security](docs/PATHS_TO_MONEY_RESEARCH.md#agricultural-study--agri-grants--food-security)
+- [GFS — Global Forecasting System → Forecast Sales](docs/PATHS_TO_MONEY_RESEARCH.md#gfs--global-forecasting-system--forecast-sales)
+<!-- /excerpt -->
+
+Products and platforms:
+
+<!-- excerpt PATHS_TO_MONEY_PRODUCTS 4 mode=images -->
+<a href="docs/PATHS_TO_MONEY_PRODUCTS.md#cross-promotion-pattern"><img src="assets/diagrams/11-cross-promo.png" width="100%" alt="Cross-promotion money path"></a>
+
+<!-- /excerpt -->
+<!-- excerpt PATHS_TO_MONEY_PRODUCTS 7 mode=images -->
+<a href="docs/PATHS_TO_MONEY_PRODUCTS.md#daat-crystals--premium-cognitive-enhancement"><img src="assets/diagrams/08-cognitive-stack.png" width="100%" alt="Cognitive Enhancement Stack"></a>
+
+<a href="docs/PATHS_TO_MONEY_PRODUCTS.md#daat-crystals--premium-cognitive-enhancement"><img src="assets/diagrams/09-daat-loop.png" width="100%" alt="DAAT Crystal measurement loop"></a>
+
+<!-- /excerpt -->
+<!-- excerpt PATHS_TO_MONEY_PRODUCTS 8 mode=images -->
+<a href="docs/PATHS_TO_MONEY_PRODUCTS.md#gms--banchenko-market"><img src="assets/diagrams/10-banchenko-market.png" width="100%" alt="Banchenko-Market flow"></a>
+
+<!-- /excerpt -->
+
+- [ASRP.art → Objective Art Valuation](docs/PATHS_TO_MONEY_PRODUCTS.md#asrpart--objective-art-valuation)
+- [ASRP.drift → Neurointegrative Platform](docs/PATHS_TO_MONEY_PRODUCTS.md#asrpdrift--neurointegrative-platform)
+- [ASRP.media → Ads + Affiliate](docs/PATHS_TO_MONEY_PRODUCTS.md#asrpmedia--ads--affiliate)
+- [Arcanum12th → B2C Learning](docs/PATHS_TO_MONEY_PRODUCTS.md#arcanum12th--b2c-learning)
+- [Cross-Promotion Pattern](docs/PATHS_TO_MONEY_PRODUCTS.md#cross-promotion-pattern)
+- [ASRP.dance → Movement Neuroscience](docs/PATHS_TO_MONEY_PRODUCTS.md#asrpdance--movement-neuroscience)
+- [ASRP.fashion → Living Biocompatible Textiles](docs/PATHS_TO_MONEY_PRODUCTS.md#asrpfashion--living-biocompatible-textiles)
+- [DAAT Crystals → Premium Cognitive Enhancement](docs/PATHS_TO_MONEY_PRODUCTS.md#daat-crystals--premium-cognitive-enhancement)
+- [GMS → Banchenko-Market](docs/PATHS_TO_MONEY_PRODUCTS.md#gms--banchenko-market)
+
+---
+
+## Track record
+
+Nine documented cases, including the ones that did not work out. None of the external parties has confirmed
+them publicly; see [Proof points](#proof-points).
+
+<!-- excerpt TRACK_RECORD 0 mode=headings -->
+- [1. UAP repo → U.S. Department of Energy first-reader](docs/TRACK_RECORD.md#1-uap-repo--us-department-of-energy-first-reader)
+- [2. Blood-plasma study → Cortical Labs negotiations](docs/TRACK_RECORD.md#2-blood-plasma-study--cortical-labs-negotiations)
+- [3. GFS — early flags on major events](docs/TRACK_RECORD.md#3-gfs--early-flags-on-major-events)
+- [4. Agricultural Day-4 signal](docs/TRACK_RECORD.md#4-agricultural-day-4-signal)
+- [5. Kosmopoisk / Chernobrov archival cross-reference + Lazar lineage](docs/TRACK_RECORD.md#5-kosmopoisk--chernobrov-archival-cross-reference--lazar-lineage)
+- [6. Public events — GFS presentations](docs/TRACK_RECORD.md#6-public-events--gfs-presentations)
+- [7. DAAT Crystal pilots — bank executives + Forbes-list wearers](docs/TRACK_RECORD.md#7-daat-crystal-pilots--bank-executives--forbes-list-wearers)
+- [8. Neurointerface affiliate sale — proof-of-mechanism for cross-promotion](docs/TRACK_RECORD.md#8-neurointerface-affiliate-sale--proof-of-mechanism-for-cross-promotion)
+- [9. NCI SBIR FY26 — Pediatric & Rare Cancers application (Aug 2025 → Oct 2025 systemic cancellation)](docs/TRACK_RECORD.md#9-nci-sbir-fy26--pediatric--rare-cancers-application-aug-2025--oct-2025-systemic-cancellation)
+<!-- /excerpt -->
+
+---
+
+## Outreach
+
+<!-- excerpt OUTREACH 0 stop=^###\s1\. -->
+**External reactions to ASRP publications — profile-relevant actors who engaged with our repos. Log of observable public signals, updated as new events occur.**
+
+### Engagement strategy
+
+**The same funnel drives every contact — reverse-engineering competence → open scientific repository → preprint / journal publication → LinkedIn content wave timed to the target's own hype window → comment or direct outreach → inbound response → bilateral messaging → negotiation.** The three cases logged below (NSWC IHD, Cortical Labs, Stanford / Nolan Lab) are instances of this pipeline at different stages.
+
+![Engagement funnel](assets/diagrams/16-engagement-funnel.png)
+<!-- /excerpt -->
+
+Logged cases:
+
+<!-- excerpt OUTREACH 0 mode=headings -->
+- [Engagement strategy](docs/OUTREACH.md#engagement-strategy)
+- [1. NSWCIHD (U.S. Navy) — April 2026](docs/OUTREACH.md#1-nswcihd-us-navy--april-2026)
+- [2. Cortical Labs — ongoing since 2025](docs/OUTREACH.md#2-cortical-labs--ongoing-since-2025)
+- [3. Stanford / Nolan Lab — LinkedIn inbound → admin follow-up (Feb 2026)](docs/OUTREACH.md#3-stanford--nolan-lab--linkedin-inbound--admin-follow-up-feb-2026)
+- [4. Investor outreach log — pending source list](docs/OUTREACH.md#4-investor-outreach-log--pending-source-list)
+<!-- /excerpt -->
+
+---
+
+## Funding
+
+<!-- excerpt FUNDING 0 stop=^###\sCurrent -->
+**ASRP deliberately diversifies funding across 7 streams — this is how we survived 3+ years of research-heavy work and stay independent.**
+
+| Source | Status | Notes |
+|---|---|---|
+| 💝 **Patrons** | ✅ Active | 7 tiers on [asrp.tech/ru/patrons](https://asrp.tech/ru/patrons); lead patron $100 k; cumulative confirmed ≈$165 k |
+| 💼 **Investors (non-equity)** | ✅ Open | Co-operation models without share transfer — [asrp.tech/ru/investors](https://asrp.tech/ru/investors) |
+| 🚀 **Crowdfunding** | 🟡 Planned under Inspira-X | Kickstarter-class campaign in preparation; donate link already live at `asrp.tech/ru/donate/asrp` |
+| 🏛️ **Government contracts** | 🎯 Target | Civilian and defense tenders (DoD primes, VA, DARPA-class) |
+| 📜 **Research grants** | 🔄 In pipeline | Agri grants UA / MD; foundation outbound (neurodegenerative, cultured meat) |
+| 💼 **B2B licensing** | 🔄 In pipeline | Active talks — Cortical Labs (blood plasma) |
+| 📰 **Ads & Affiliate** | ✅ Active | ASRP.media CPM / CPC + Amazon affiliate via banner placements |
+
+> ⚠️ EN/RU divergence in the source — see [open questions](reports/MARKETING_UPDATE_REPORT.md#open-questions).
+
+### Funding stack
+
+![Funding Stack](assets/diagrams/06-funding-stack.png)
+<!-- /excerpt -->
+
+Patron tiers, current patrons and ways to support: [Funding sources and patrons](docs/FUNDING.md#current-patrons).
+
+---
+
+## Media and channels
+
+<!-- excerpt MEDIA_AND_CHANNELS 0 -->
+**Same research, different complexity, different audience.**
+
+![Frequency Ladder](assets/diagrams/07-frequency-ladder.png)
+
+- Journal builds credibility.
+- Media translates for general audience.
+- YouTube gives depth + monetization.
+- Short-form brings scale.
+- Bot + school convert attention into revenue.
+<!-- /excerpt -->
+
+<!-- excerpt MEDIA_AND_CHANNELS 1 mode=images -->
+<a href="docs/MEDIA_AND_CHANNELS.md#media-strategy--unified-content-factory"><img src="assets/diagrams/17-media-strategy.png" width="100%" alt="ASRP Media Strategy — Unified Content Factory"></a>
+
+<!-- /excerpt -->
+
+Content-factory pipeline, channel inventory with reach figures and press topics:
+[Media strategy and distribution channels](docs/MEDIA_AND_CHANNELS.md).
+
+---
+
+## Target markets
+
+Companies ASRP intends to approach, by vertical. These are outreach targets, not partners or clients.
+
+<!-- excerpt TARGET_MARKETS 0 mode=headings -->
+- [Cultured meat & cell-based nutrition](docs/TARGET_MARKETS.md#cultured-meat--cell-based-nutrition)
+- [Agri-holdings, seeds & mushroom verticals](docs/TARGET_MARKETS.md#agri-holdings-seeds--mushroom-verticals)
+- [Bioreactors — spirulina, chlorella, microalgae](docs/TARGET_MARKETS.md#bioreactors--spirulina-chlorella-microalgae)
+- [Pharma, supplements & probiotics](docs/TARGET_MARKETS.md#pharma-supplements--probiotics)
+- [Neurogenesis & biohybrid compute](docs/TARGET_MARKETS.md#neurogenesis--biohybrid-compute)
+- [Gut-healing functional beverages](docs/TARGET_MARKETS.md#gut-healing-functional-beverages)
+- [Military & defense wound-healing](docs/TARGET_MARKETS.md#military--defense-wound-healing)
+- [Sports nutrition — protein + recovery](docs/TARGET_MARKETS.md#sports-nutrition--protein--recovery)
+- [Body Food System synergy](docs/TARGET_MARKETS.md#body-food-system-synergy)
+<!-- /excerpt -->
+
+---
+
+## Roadmap
+
+<!-- excerpt ROADMAP 0 -->
+**5 phases — from research proof-of-concept to pharma and defense-grade deployments.**
+
+```text
+🧪 Phase 1  ·  0–3 months  ·  Prove the effect
+├─ ✅ Hyperbolic Field Blood Plasma Study (published)
+├─ 🔄 Yeast study (OSF registered)
+├─ 🔄 Agricultural field trials Day-4+
+├─ 🔄 Cortical Labs — ongoing talks continue
+└─ 🎯 Reproducibility dataset + peer-review submission
+
+💰 Phase 2  ·  3–9 months  ·  First revenue
+├─ 🎯 Probiotics & fermentation partnerships
+├─ 🎯 Sports-nutrition licensing talks
+├─ 🎯 ASRP.media growth + ASRPshop beta (soft launch to patrons & community)
+├─ 🎯 First B2G forecast sale (GFS)
+└─ 🎯 Inspira-X crowdfunding campaign
+
+🧬 Phase 3  ·  6–18 months  ·  Body Food System MVP
+├─ 🚀 BFS — genetics + microbiome integration
+├─ 🚀 Functional-drinks pilots: Nestlé Health Science, Danone
+├─ 🚀 Sports-nutrition pilots: Abbott Laboratories, DSM-Firmenich
+└─ 🚀 Arcanum12th.education full launch + subscription stack
+
+🧠 Phase 4  ·  12–24 months  ·  Neurogenesis & cognitive systems
+├─ 🎯 Cortical Labs joint research (extension of active talks)
+├─ 🎯 Koniku — biohybrid neural-silicon integration
+├─ 🎯 ASRP.art institutional partnerships (top-tier auction houses)
+└─ 🎯 GMS + Banchenko-Market pilot launch
+
+🏛 Phase 5  ·  2+ years  ·  Pharma, clinical, defense
+├─ 🌍 Pharma partnerships: scar-resorption ointments, oncology-adjunct protocols
+├─ 🌍 Gut-healing functional beverages (17-ch modulation)
+├─ 🌍 Military wound-healing protocols (Gulf War Syndrome track)
+└─ 🌍 DARPA-class R&D subcontracts (UAP reverse-engineering)
+```
+
+> Marketing operations (email campaigns, CRM rollout, YouTube AdSense, landing pages, annual reports) run in parallel across all phases and are tracked internally rather than duplicated here.
+<!-- /excerpt -->
+
+---
+
+## Team
+
+<!-- excerpt TEAM 0 -->
+> Source: [asrp.tech/ru/team](https://asrp.tech/ru/team) · the live site is the source of truth.
+>
+> **Relocation-ready.** Core team members are open to relocation contingent on partnership/funding outcomes — active tracks include Australia (via the Cortical Labs pipeline), United States (via DARPA BAA / Tesla / DoE tracks), United Kingdom (via the reinstated UK entity), and Canada.
+>
+> **Whitepaper authorship differs.** The flagship GMS/GFS and economic whitepapers credit seven co-authors — the four Leadership Team members listed here, plus Vlada Bilovodenko (CRO, per preprint credit), Alireza Sepehri (CPO, Iran, per preprint credit) and Irina Grivtsova (Stress Relief Center "Strategy", Tomsk). See [`whitepaper/README.md → Complete publication list`](whitepaper/README.md#-complete-publication-list--полный-список-публикаций) for every ASRP paper with authors and publication status.
+
+| Role | Name | Notes |
+|---|---|---|
+| **CBE, Co-Founder** | Valeria Ovseannicova | Chief Biomedical Engineer — plasma/agri/yeast protocol authorship, reproduction |
+| **CTO, Co-Founder** | Mykhailo Kapustin | Chief Technology Officer |
+| **CSO** | Ivan Savelyev | Chief Scientific Officer |
+| **SAIE** | Kyryl Zmiienko | Senior AI Engineer — research analysis, repositories, AI pipelines |
+| **LFED** | Andrii Kryliuk | Lead Front-End Developer |
+| **LBED** | Aleksandr Gromyko | Lead Backend Developer |
+| **CEO, Founder** | Denis Banchenko | Founder, strategic direction |
+<!-- /excerpt -->
+
+---
+
+## Partnerships
+
+<!-- excerpt PARTNERSHIPS_AND_TERMS 0 stop=^\*\*Contacts -->
+| Partnership Type | We Offer | We Seek |
+|---|---|---|
+| 🎓 Course Authors | Audience, platform, promotion | Experts with unique knowledge |
+| 🔬 Researchers | Journal, peer review, indexing | Quality research, reviewers |
+| 💼 Business & Investors | Patents, tech, pilot projects | Funding, implementation, scale |
+| 📢 Media & Influencers | Exclusive content, topics | Reach, promotion, cross-collabs |
+| 🏛️ Government / Defense | Reverse engineering, forecasting, biomed | Contracts, grants, facility access |
+<!-- /excerpt -->
+
+Contacts are [below](#contact); the important notes and the license are in
+[Partnerships, contacts and terms](docs/PARTNERSHIPS_AND_TERMS.md#important-notes).
 
 ---
 
@@ -194,18 +639,6 @@ ASRP_ecosystem_marketing/
 
 Rebuild the visuals: `python3 tools/build_visuals.py`. Re-run the loss check:
 `python3 tools/verify_no_loss.py`. Run the tests: `python3 -m unittest discover -s tests`.
-
----
-
-## Team and entities
-
-Leadership: Valeria Ovseannicova (CBE, Co-Founder), Mykhailo Kapustin (CTO, Co-Founder), Ivan Savelyev
-(CSO), Kyryl Zmiienko (SAIE), Andrii Kryliuk (LFED), Aleksandr Gromyko (LBED), Denis Banchenko (CEO,
-Founder). Roles and notes: [docs/TEAM.md](docs/TEAM.md).
-
-Entities: **ASRP LLC** (US / Florida, operational), ТОО «Перспективные Научно-Исследовательские
-Разработки» (Kazakhstan, patent-holding) and a UK entity at the reinstatement stage. Registry data and the
-ownership note: [docs/LEGAL_ENTITIES.md](docs/LEGAL_ENTITIES.md).
 
 ---
 

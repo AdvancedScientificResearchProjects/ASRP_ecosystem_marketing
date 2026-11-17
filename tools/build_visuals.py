@@ -17,75 +17,10 @@ token block below. Palette matches the ASRP study repositories.
 """
 import math
 import os
+import sys
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-FONT = "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
-
-# --- design tokens ---------------------------------------------------------------------------
-BG0, BG1, PANEL, LINE = "#070b18", "#0d1530", "#0b1430", "#2a3b78"
-INK, MUTED = "#e6ecff", "#8ea0d6"
-TEAL, VIOLET, GOLD, GREEN, AMBER, BLUE = "#4ecdc4", "#a78bfa", "#ffcf5c", "#34d399", "#ffa657", "#6f9bff"
-FS_KICKER, FS_BODY, FS_SMALL, FS_MIN = 14, 15, 13, 13  # px; nothing below FS_MIN
-RADIUS = 12
-
-
-def text_width(s, size, bold=False):
-    """Conservative width estimate (px) so that no label can be clipped."""
-    w = 0.0
-    for ch in s:
-        if ch == " ":
-            w += 0.30
-        elif ch in "il.,:;'|!·":
-            w += 0.30
-        elif ch in "mwMW@ШЩЖМЫЮшщжмыю":
-            w += 0.90
-        elif ch.isupper() or ch.isdigit():
-            w += 0.68
-        elif "а" <= ch <= "я" or ch == "ё":
-            w += 0.60
-        else:
-            w += 0.56
-    return w * size * (1.07 if bold else 1.0)
-
-
-def fit(s, size, box, bold=False, spacing=0.0):
-    w = text_width(s, size, bold) + spacing * len(s)
-    if w > box:
-        raise SystemExit("TEXT DOES NOT FIT (%.0f > %.0f px): %r" % (w, box, s))
-    return w
-
-
-def esc(s):
-    return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-
-
-def text(x, y, s, size=FS_BODY, fill=INK, anchor="start", weight=400, spacing=0, box=None):
-    if size < FS_MIN:
-        raise SystemExit("font below minimum: %r" % s)
-    if box is not None:
-        fit(s, size, box, weight >= 600, spacing)
-    ls = " letter-spacing='%s'" % spacing if spacing else ""
-    return ("<text x='%s' y='%s' font-family=\"%s\" font-size='%s' fill='%s' text-anchor='%s' "
-            "font-weight='%s'%s>%s</text>" % (x, y, FONT, size, fill, anchor, weight, ls, esc(s)))
-
-
-def svg_open(w, h, title, desc):
-    return ("<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 %d %d\" width=\"%d\" height=\"%d\" "
-            "role=\"img\" aria-labelledby=\"t d\">\n<title id=\"t\">%s</title>\n<desc id=\"d\">%s</desc>\n"
-            "<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='%s'/>"
-            "<stop offset='1' stop-color='%s'/></linearGradient>"
-            "<filter id='glow' x='-50%%' y='-50%%' width='200%%' height='200%%'><feGaussianBlur stdDeviation='3' "
-            "result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>\n"
-            "<rect width='%d' height='%d' rx='18' fill='url(#bg)'/>\n"
-            % (w, h, w, h, esc(title), esc(desc), BG0, BG1, w, h))
-
-
-def write(rel, content):
-    p = os.path.join(ROOT, rel)
-    os.makedirs(os.path.dirname(p), exist_ok=True)
-    open(p, "w", encoding="utf-8").write(content)
-    print("wrote", rel, len(content))
-
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from svgkit import *  # noqa: E402,F401,F403  (tokens, text(), fit(), svg_open(), write())
 
 # --- hero banner -----------------------------------------------------------------------------
 BANNER = {

@@ -88,8 +88,8 @@
  "stats": {
   "archive_sha256": "7fdfdf196292ee9ca3dc1e5fe3c4d6d69c55ca53ce2033cd04280d709d110bc4",
   "new_files": {
-   "README.md": 33244,
-   "README.ru.md": 26123,
+   "README.md": 63127,
+   "README.ru.md": 56656,
    "docs/ECOSYSTEM.md": 12161,
    "docs/ECOSYSTEM.ru.md": 12308,
    "docs/FUNDING.md": 3660,
@@ -127,8 +127,8 @@
   "segments_low": 9,
   "table_rows": {
    "old": 158,
-   "new_en": 234,
-   "new_ru": 234
+   "new_en": 318,
+   "new_ru": 318
   },
   "old_counts": {
    "chars": 152972,
