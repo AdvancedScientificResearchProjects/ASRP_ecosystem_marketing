@@ -60,3 +60,25 @@ If this repository is useful to you — research, investor walk-throughs, OSINT 
 → **<https://asrp.tech/ru/patrons>** · 7 patron tiers · from Principal Philanthropist to Individual Contributor
 
 → **<https://asrp.tech/ru/donate/asrp>** · one-off donations / Inspira-X crowdfunding pre-launch
+
+---
+
+## Evidence status
+
+Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or by a file in this repository; **STATED** = the project's own statement with a public link a reader can follow, not re-checked; **NOT VERIFIED** = no public evidence in this repository.
+
+| Statement on this page | Evidence | Status |
+|---|---|---|
+| ASRP funds itself from 7 streams | The Funding Sources table on this page has 7 rows (count of the file) | **VERIFIED** |
+| Patrons: "7 tiers" | The patron table on this page has 6 tier rows, not 7; the Support section names 7 tier names that differ from the table's names; public page asrp.tech/ru/patrons returned 200, its content was not compared | **NOT VERIFIED** |
+| The listed patron amounts add up to about $165 k (22 named patrons) | Re-added from the table: 100 + 20 + 15 + 10 + 5 + 5 + 7 x 1 + (400 + 500 + 500 + 200 + 5 x 100) = $164.1 k; 22 names; the page's "≈$165 k" is this sum rounded | **VERIFIED** |
+| The patrons actually paid these amounts ("cumulative confirmed") | Public list at asrp.tech/ru/patrons (returned 200); no payment records in this repository; the Russian version says "накопленно" without "confirmed" (EN/RU divergence in the source) | **STATED** |
+| Lead patron gave $100 k | Same public list; no payment record in this repository | **STATED** |
+| All listed patrons consented to public attribution | none on this page; no consent record in this repository | **NOT VERIFIED** |
+| Non-equity investor co-operation models are open | asrp.tech/ru/investors returned 200 (page exists; terms not checked) | **STATED** |
+| Crowdfunding donate link is live at asrp.tech/ru/donate/asrp | URL returned 200 on 2026-11-17 | **VERIFIED** |
+| A Kickstarter-class campaign under Inspira-X is in preparation | none on this page; RU version says only "Кампания готовится" (EN/RU divergence in the source) | **NOT VERIFIED** |
+| Research grants are in the pipeline (agri grants UA / MD; foundation outbound) | none on this page; no application or grantor named; RU version says only "аутбаунд в профильные фонды" (EN/RU divergence) | **NOT VERIFIED** |
+| B2B licensing: active talks with Cortical Labs (blood plasma) | none on this page; counterparty has not confirmed publicly | **NOT VERIFIED** |
+| ASRP.media ads (CPM / CPC) and Amazon affiliate are active | none on this page; no revenue or placement data in this repository | **NOT VERIFIED** |
+| Funding was diversified so ASRP "survived 3+ years" and is independent | none on this page | **NOT VERIFIED** |

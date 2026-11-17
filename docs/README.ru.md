@@ -34,8 +34,8 @@
 
 | | Материал | Что это |
 |---|---|---|
-| <img src="assets/icons/whitepaper.svg" width="30" alt="значок статей"> | [whitepaper/README.md](../whitepaper/README.md) | полный список публикаций, аннотации, авторы, внешние научные ссылки (прежняя смешанная вёрстка) |
-| <img src="assets/icons/graph.svg" width="30" alt="значок графа"> | [graph/README.md](../graph/README.md) · [graph/MONEY_FLOW.md](../graph/MONEY_FLOW.md) | интерактивный граф, его данные и генератор; заметки о потоках денег (прежняя смешанная вёрстка) |
+| <img src="assets/icons/whitepaper.svg" width="30" alt="значок статей"> | [whitepaper/README.ru.md](../whitepaper/README.ru.md) | полный список публикаций, аннотации, авторы, внешние научные ссылки |
+| <img src="assets/icons/graph.svg" width="30" alt="значок графа"> | [graph/README.ru.md](../graph/README.ru.md) · [graph/MONEY_FLOW.ru.md](../graph/MONEY_FLOW.ru.md) | интерактивный граф, его данные и генератор; заметки о потоках денег |
 | <img src="assets/icons/report.svg" width="30" alt="значок отчёта"> | [reports/MARKETING_UPDATE_REPORT.md](../reports/MARKETING_UPDATE_REPORT.md) | карта переноса, доказательства проверки на потери, непроверенные утверждения, открытые вопросы |
 | <img src="assets/icons/archive.svg" width="30" alt="значок архива"> | [archive/](../archive/README_2026-11-17_pre-marketing-update.md) | прежняя версия README, сохранена для истории |
 

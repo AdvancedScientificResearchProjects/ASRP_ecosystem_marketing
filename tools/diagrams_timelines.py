@@ -229,13 +229,13 @@ def acc_lanes(lang):
             e((2025, 6, 10), "■", "FL LLC reinstated", "FL LLC восстановлена"),
             e((2026, 2, 28), "■", "FL LLC 2026 report + address change", "Отчёт FL LLC 2026 + смена адреса"),
         ]},
-        {"name": "Patent / Copyright" if L else "Патенты / авт. право", "glyph": "▲", "color": VIOLET, "events": [
+        {"name": "Patent / Copyright" if L else "Патент", "glyph": "▲", "color": VIOLET, "events": [
             e((2024, None, None), "▲", "US Copyright · BFS", "Авт. право США · BFS"),
-            e((2024, 11, 27), "▲", "Kazpatent · GFS", "Казпатент · GFS"),
-            e((2025, 9, 20), "▲", "Kazpatent · Inspira-X", "Казпатент · Inspira-X"),
-            e((2025, 11, 8), "▲", "Kazpatent · Fractal + Biophotonic", "Казпатент · Fractal + Биофотон."),
-            e((2026, None, None), "▲", "Kazpatent · ASRP.art PCT", "Казпатент · ASRP.art PCT"),
-            e((2026, 3, 24), "▲", "Kazpatent · ASRP.drift", "Казпатент · ASRP.drift"),
+            e((2024, 11, 27), "▲", "Kazpatent · GFS", "Патент · GFS"),
+            e((2025, 9, 20), "▲", "Kazpatent · Inspira-X", "Патент · Inspira-X"),
+            e((2025, 11, 8), "▲", "Kazpatent · Fractal + Biophotonic", "Патенты · Fractal + Биофотон."),
+            e((2026, None, None), "▲", "Kazpatent · ASRP.art PCT", "Патент · ASRP.art PCT"),
+            e((2026, 3, 24), "▲", "Kazpatent · ASRP.drift", "Патент · ASRP.drift"),
         ]},
         {"name": "Paper / preprint" if L else "Статьи", "glyph": "●", "color": TEAL, "events": [
             e((2024, 1, None), "●", "Preprint · Dream Sync", "Препринт · Мнемоника"),
@@ -245,7 +245,7 @@ def acc_lanes(lang):
         ]},
         {"name": "Accreditation" if L else "Аккредитации", "glyph": "◆", "color": GOLD, "events": [
             e((2025, 8, 22), "◆", "Tesla Business Program", "Бизнес-программа Tesla"),
-            e((2025, 9, 16), "◆", "DARPA BAA portal access", "Доступ к порталу DARPA BAA"),
+            e((2025, 9, 16), "◆", "DARPA BAA accredited", "Аккредитация DARPA BAA"),
         ]},
         {"name": "Event" if L else "Событие", "glyph": "★", "color": GREEN, "events": [
             e((2025, 9, 11), "★", "Theta Hackathon · Berlin", "Хакатон · Берлин"),

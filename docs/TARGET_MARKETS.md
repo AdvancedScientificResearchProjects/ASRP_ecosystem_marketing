@@ -88,3 +88,21 @@ Positioning: **not** «direct muscle-mass boost» — framed as **improved prote
 BFS stacks genetics + microbiome + biological-response modulation into an adaptive, personalized nutrition layer.
 
 > Potential flagship product: **«adaptive nutrition + cognitive modulation system»** — BFS + Cortical Labs / Koniku gut-brain axis + Nestlé Health Science functional drinks. Combines three revenue streams (B2C nutrition, B2B microbiome tech, B2B cognitive-enhancement licensing — *subject to clinical validation*).
+
+---
+
+## Evidence status
+
+Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or by a file in this repository; **STATED** = the project's own statement with a public link a reader can follow, not re-checked; **NOT VERIFIED** = no public evidence in this repository.
+
+| Statement on this page | Evidence | Status |
+|---|---|---|
+| The named companies are outreach targets (their websites are linked) | Of the linked company websites, upsidefoods.com, chr-hansen.com and mycotechnology.com gave no response (000) and cropscience.bayer.com returned 403 (bot blocking); the rest returned 200. This shows the sites exist, nothing about contact | **VERIFIED** |
+| Czech pizza-meat partner: "contacted" (entry via existing relationship) | none on this page; company unnamed | **NOT VERIFIED** |
+| Cortical Labs: "active negotiations" (Blood Plasma Study, LinkedIn inbound) | none on this page; corticallabs.com returned 200 (site exists only); the counterparty has not confirmed any negotiation publicly | **NOT VERIFIED** |
+| Gut-healing beverages: "initial partner overlap" with Nestlé Health Science and Danone | none on this page; no contact or agreement is documented | **NOT VERIFIED** |
+| Military wound healing: DARPA BAA proposal-portal access "already active" | none on this page; no portal record in this repository | **NOT VERIFIED** |
+| Third-party status of targets: UPSIDE Foods FDA-cleared; GOOD Meat first approval Singapore then USA; Meatly UK-approved; Promyc rebranded after a 2024 reorganisation | Only company home pages are linked, no regulator or registry source; not checked | **NOT VERIFIED** |
+| Pitch KPI: biological response modulation gives shorter doubling time and lower media cost per kg | none on this page; no data or study linked | **NOT VERIFIED** |
+| Sports nutrition: improved protein absorption, accelerated recovery, optimized metabolism | none on this page; no study linked | **NOT VERIFIED** |
+| BFS stacks genetics, microbiome and biological-response modulation into an adaptive nutrition layer | none on this page; the page marks the flagship product as "potential" and "subject to clinical validation" | **NOT VERIFIED** |

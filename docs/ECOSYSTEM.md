@@ -136,3 +136,31 @@ Two separate views for clarity: **what we have** (taxonomy) and **how money move
 > ⚠️ EN/RU divergence in the source — see [open questions](../reports/MARKETING_UPDATE_REPORT.md#open-questions).
 
 > 🔐 Some materials require NDA.
+
+---
+
+## Evidence status
+
+Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or by a file in this repository; **STATED** = the project's own statement with a public link a reader can follow, not re-checked; **NOT VERIFIED** = no public evidence in this repository.
+
+| Statement on this page | Evidence | Status |
+|---|---|---|
+| asrp.media, asrp.science, asrp.tech, Arcanum12th_BOT, Arcanum12th.education and YouTube @ASRPtech are live | The listed URLs returned HTTP 200 on 2026-11-17; this shows the pages exist, not what they contain or their usage | **STATED** |
+| One account gives access to every service (media, journal, school, bot, marketplace layer) | none on this page | **NOT VERIFIED** |
+| ASRP.science is a peer-review scientific journal | Link asrp.science returned 200; no review process, issues or editorial board shown on this page | **STATED** |
+| The organisation holds active DARPA BAA proposal-portal access and a Tesla Business Program accreditation | Refers to the Research and IP page; there the DARPA login is described as provided under NDA and no public document is linked | **NOT VERIFIED** |
+| 6 Kazpatent filings, 1 PCT, 1 US Copyright and a peer-reviewed ASRP.drift publication | Project statement; patent repositories and the asrp.drift page (200) are linked from the Research and IP page; no registry record was checked | **STATED** |
+| Public repositories exist for the Body Food System and Inspira-X patents | Both GitHub URLs returned 200 on 2026-11-17 | **VERIFIED** |
+| Arcanum12th courses collect raw biological data from students (genetic analysis, EEG, skin-galvanic response, autonomic metrics, medical workup) that feeds publications, GFS forecasts and GMS tokens | none on this page | **NOT VERIFIED** |
+| The Kapusta rating mechanism (accuracy raises status, inaccuracy lowers it) is documented in the GFS patent | The GFS patent text is not on this page and was not read; the GFS patent repository is linked on the Research and IP page | **NOT VERIFIED** |
+| GFS product narrative is fully public and its source code is private | Linked repository gfs-model not publicly reachable (404); no public evidence of the code or of its privacy reasons | **NOT VERIFIED** |
+| The ASRP.art repository and the DAAT Crystal Study repository exist; the DAAT study is at the recruitment stage | Both repositories not publicly reachable (404); recruitment is not evidenced | **NOT VERIFIED** |
+| Products under Active Development have working prototypes, IP protection or active pilots | Only asrp.tech project pages (200) are linked; no prototype, pilot or protection document is shown | **NOT VERIFIED** |
+| Inspira-X is a dual-channel pneumograph plus ECG with 22 breathing methodics | Project page asrp.tech/ru/projects/inspira-x and patent repository returned 200; specifications not re-checked | **STATED** |
+| Four study repositories are public: UAP Reverse Engineering, Blood Plasma, Agricultural, Yeast | All four GitHub URLs returned 200 on 2026-11-17 | **VERIFIED** |
+| Blood plasma study: lab results published; Agricultural study: field trials at day 4+ | Repositories exist (200); their contents were not read | **STATED** |
+| UAP study is public with NDA-tier materials | Repository exists (200); the NDA-tier materials cannot be checked from public sources | **NOT VERIFIED** |
+| Yeast study is registered on OSF | Registry link osf.io/Jgt3h (given on the Research and IP page) returned 200; registration content not checked | **STATED** |
+| OSF preregistration of the Plants and Fish Caviar studies is planned for 2026-04-22 | Planned date is before the check date; no registration or link on this page | **NOT VERIFIED** |
+| Domains for ASRPshop, the /stock subdomain and Inspira-X crowdfunding are acquired and product scope is defined | none on this page | **NOT VERIFIED** |
+| Three passages (lines 35, 81, 136) are marked as differing between the English and Russian source texts | The two language versions differ; see the report linked in the page notes; the differing wording was not resolved | **NOT VERIFIED** |

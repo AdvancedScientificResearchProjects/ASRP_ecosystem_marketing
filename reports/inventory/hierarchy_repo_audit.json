@@ -1,7 +1,7 @@
 {
  "schema": "asrp.repo_audit.v1",
  "asrp_attribution": "Created and architected for ASRP by Denis Bachenko, CEO & Founder of Advanced Scientific Research Projects LLC.",
- "generated_at": "2026-11-17T13:10:05+00:00",
+ "generated_at": "2026-11-17T13:21:32+00:00",
  "repository_path": "(local checkout, path omitted)",
  "repository_name": "ASRP_ecosystem_marketing",
  "checks": {
@@ -18,12 +18,12 @@
    "detail": "No HTML/dashboard content found; visual-token check does not apply."
   },
   "agent_integration": {
-   "status": "WARNING",
-   "detail": "No .asrp/project.yaml found; run scripts/build_asrp_project_bootstrap.py to adopt (Directive XXI Part 9)."
+   "status": "PASS",
+   "detail": ".asrp/project.yaml present and Agent Hierarchy control plane resolved."
   },
   "model_vault_integration": {
-   "status": "NOT_APPLICABLE",
-   "detail": "No .asrp/project.yaml to check Model Vault linkage against."
+   "status": "WARNING",
+   "detail": "Model Vault status is 'NOT_FOUND' - agents in this project cannot query it."
   },
   "versioning": {
    "status": "PASS",
@@ -35,7 +35,7 @@
   },
   "documentation": {
    "status": "PASS",
-   "detail": "README.md (64012 bytes) and docs/ present."
+   "detail": "README.md (64234 bytes) and docs/ present."
   },
   "security": {
    "status": "PASS",
@@ -43,7 +43,7 @@
   },
   "errors": {
    "status": "PASS",
-   "detail": "All 119 relative link(s) in README.md resolve."
+   "detail": "All 117 relative link(s) in README.md resolve."
   },
   "provenance": {
    "status": "PASS",
@@ -51,10 +51,10 @@
   }
  },
  "summary_counts": {
-  "PASS": 8,
+  "PASS": 9,
   "WARNING": 1,
   "FAIL": 0,
-  "NOT_APPLICABLE": 2,
+  "NOT_APPLICABLE": 1,
   "TIMEOUT": 0
  },
  "overall": "WARNING",

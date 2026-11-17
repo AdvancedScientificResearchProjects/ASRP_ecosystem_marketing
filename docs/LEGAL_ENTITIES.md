@@ -72,3 +72,24 @@ These individuals act as co-owners and partners within a unified corporate and i
 Any discrepancies between the legal registration of specific companies and the actual ownership structure are attributable to the **current stage of corporate restructuring** and to the need to comply with the applicable legislation of the relevant jurisdictions (including, but not limited to, questions of tax residency, currency control and corporate law).
 
 The ASRP Group is executing a **phased model** of consolidating assets and legal structure — including the possible formation of holding companies, formalisation of cross-jurisdictional links (via share-ownership mechanisms, shareholders' agreements, joint-activity agreements and other instruments), and synchronisation of beneficial control. Until these processes are completed, all legal entities within the Group — regardless of their formal registration — are regarded as interconnected and operating within a unified economic model and in the interests of the ASRP Group.
+
+---
+
+## Evidence status
+
+Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or by a file in this repository; **STATED** = the project's own statement with a public link a reader can follow, not re-checked; **NOT VERIFIED** = no public evidence in this repository.
+
+| Statement on this page | Evidence | Status |
+|---|---|---|
+| Florida LLC, Document L17000209665, filed 10 Oct 2017, status ACTIVE, last event reinstatement 10 Jun 2025 | Link to search.sunbiz.org given; returned 403 to the automated request, record not checked | **STATED** |
+| Name change 28 Feb 2018; annual reports 2024 and 2025 filed 10 Jun 2025, 2026 filed 28 Feb 2026; principal address changed 28 Feb 2026 | Same SunBiz link (403), not checked | **STATED** |
+| Authorized members are Ovseannicova, Kapustin and Banchenko; Registered Agent is Registered Agents Inc | Same SunBiz link (403), not checked | **STATED** |
+| FEI / EIN is provided to verified counterparties and is public via SunBiz | none on this page; the number is not shown | **NOT VERIFIED** |
+| Kazakhstan entity: BIN 240140033296, registered 27 Jan 2024, OKED 72199, KATO 431910000, Baikonur address, director Banchenko | Registry links not reachable: infostats.co no response, kyc.kz 410 | **NOT VERIFIED** |
+| Name of the Kazakhstan entity: ASRP LLP in English, Перспективные Научно-Исследовательские Разработки (ТОО) in Russian | The two language versions differ; see the report linked in the page note; no registry name confirmed | **NOT VERIFIED** |
+| A United Kingdom entity exists and is under corporate-status reinstatement | none on this page; no registry link | **NOT VERIFIED** |
+| The Kazakhstan entity holds the patent portfolio (6 Kazpatent filings + 1 PCT) | The patent repositories are public (200) but are not linked here and do not show the applicant of record; no Kazpatent record | **NOT VERIFIED** |
+| The Florida LLC is the operational entity (Tesla Business Program, DARPA BAA, USD contracting) | none on this page | **NOT VERIFIED** |
+| The KZ entity is formally registered on Banchenko because of founder-residency and corporate-law constraints | none on this page; no legal opinion or registry extract | **NOT VERIFIED** |
+| The actual beneficial owners (UBO) are Ovseannicova, Kapustin and Banchenko, acting as co-owners | none on this page; no shareholder agreement, register entry or UBO declaration is linked | **NOT VERIFIED** |
+| A phased consolidation of assets and legal structure is being executed, including possible holding companies and cross-jurisdiction agreements | none on this page; worded as under way, no agreement or filing shown | **NOT VERIFIED** |

@@ -52,7 +52,7 @@
   [исследованиям](docs/PATHS_TO_MONEY_RESEARCH.ru.md) и [продуктам](docs/PATHS_TO_MONEY_PRODUCTS.ru.md);
   раунд с продажей долей здесь не описан, только модели сотрудничества без передачи долей. Меценатам:
   [asrp.tech/ru/patrons](https://asrp.tech/ru/patrons). Исследователям:
-  [Исследования, патенты и аккредитации](docs/RESEARCH_AND_IP.ru.md) и [научные статьи](whitepaper/README.md).
+  [Исследования, патенты и аккредитации](docs/RESEARCH_AND_IP.ru.md) и [научные статьи](whitepaper/README.ru.md).
 
 <div align="center">
 <img src="docs/assets/infographics/ecosystem-flow.ru.svg" width="100%" alt="Схема потоков: образование и аудитория питают R&amp;D, результаты R&amp;D идут в науку и медиа; доверие и охват к коммерции и выручка обратно в R&amp;D показаны пунктирными целевыми стрелками; финансирование от меценатов, грантов и инвесторов поступает в R&amp;D. В каждом блоке статус написан словами">
@@ -73,9 +73,7 @@
 ## Язык
 
 **[English](README.md) | Русский.** Каждая страница существует в двух языковых версиях: `*.md` (английская) и
-`*.ru.md` (русская); графика — `*.en.svg` / `*.ru.svg`. Языки в тексте не смешиваются. Исключения:
-[`whitepaper/README.md`](whitepaper/README.md) и страницы в [`graph/`](graph/README.md) пока содержат оба
-языка на одной странице.
+`*.ru.md` (русская); графика — `*.en.svg` / `*.ru.svg`. Языки в тексте не смешиваются.
 
 ---
 
@@ -85,7 +83,7 @@
 |:---:|---|---|
 | <img src="docs/assets/icons/ecosystem.svg" width="44" alt="значок экосистемы"> | **[Экосистема](docs/ECOSYSTEM.ru.md)** | стратегический тезис, шесть кластеров, схемы таксономии, потоков данных и денег, статус каждого компонента |
 | <img src="docs/assets/icons/research.svg" width="44" alt="значок исследований"> | **[Исследования и ИС](docs/RESEARCH_AND_IP.ru.md)** | флагманские статьи, патентные заявки с номерами и стадией экспертизы, аккредитации, хронология |
-| <img src="docs/assets/icons/whitepaper.svg" width="44" alt="значок статей"> | **[Научные статьи](whitepaper/README.md)** | полный список публикаций, аннотации, авторы, внешние научные ссылки |
+| <img src="docs/assets/icons/whitepaper.svg" width="44" alt="значок статей"> | **[Научные статьи](whitepaper/README.ru.md)** | полный список публикаций, аннотации, авторы, внешние научные ссылки |
 | <img src="docs/assets/icons/money.svg" width="44" alt="значок денег"> | **[Пути к деньгам: исследования](docs/PATHS_TO_MONEY_RESEARCH.ru.md)** | реверс-инжиниринг UAP, плазма крови и гиперболический биомед, агроисследование, прогнозирование GFS |
 | <img src="docs/assets/icons/products.svg" width="44" alt="значок продуктов"> | **[Пути к деньгам: продукты](docs/PATHS_TO_MONEY_PRODUCTS.ru.md)** | ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, кросс-промо, ASRP.dance, ASRP.fashion, кристаллы DAAT, GMS |
 | <img src="docs/assets/icons/track.svg" width="44" alt="значок кейсов"> | **[Кейсы](docs/TRACK_RECORD.ru.md)** | девять задокументированных случаев, включая те, что не получились |
@@ -97,7 +95,7 @@
 | <img src="docs/assets/icons/team.svg" width="44" alt="значок команды"> | **[Команда](docs/TEAM.ru.md)** | команда руководства и роли |
 | <img src="docs/assets/icons/legal.svg" width="44" alt="значок юрлиц"> | **[Юридические лица](docs/LEGAL_ENTITIES.ru.md)** | данные реестров по Florida LLC и казахстанскому ТОО, примечание о владении и UBO |
 | <img src="docs/assets/icons/terms.svg" width="44" alt="значок условий"> | **[Партнёрство и условия](docs/PARTNERSHIPS_AND_TERMS.ru.md)** | что предлагаем и что ищем по типам партнёров, контакты, важные примечания, лицензия |
-| <img src="docs/assets/icons/graph.svg" width="44" alt="значок графа"> | **[Интерактивный граф](graph/README.md)** | карта сущностей и связей в браузере, заметки о потоках денег, исходные данные |
+| <img src="docs/assets/icons/graph.svg" width="44" alt="значок графа"> | **[Интерактивный граф](graph/README.ru.md)** | карта сущностей и связей в браузере, заметки о потоках денег, исходные данные |
 
 Полный список: [указатель документации](docs/README.ru.md).
 
@@ -120,7 +118,7 @@
 |---|---|---|
 | Открытые репозитории исследований: [реверс-инжиниринг UAP](https://github.com/AdvancedScientificResearchProjects/UAP_Reverse_Engineering_Study), [плазма крови](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_BloodPlasma_Study), [агроисследование](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Agricultural_Study), [дрожжи](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_SaccharomycesCerevisiae_Study) | публичные репозитории GitHub | **ПРОВЕРЕНО**: публичные. Научные результаты внутри них здесь не рецензировались |
 | 6 заявок в Казпатент + 1 PCT, 1 регистрация авторского права в США (TXu002116250) | номера заявок и 7 публичных репозиториев с документацией в разделе [Исследования и ИС](docs/RESEARCH_AND_IP.ru.md#портфель-исследований-и-патентов) | Репозитории **ПРОВЕРЕНО**: публичные. Статус каждой заявки в реестре: **ЗАЯВЛЕНО** |
-| 8 канонических публикаций | записи ResearchGate и DOI в [whitepaper/README.md](whitepaper/README.md) | **ЗАЯВЛЕНО**. В списке 8 строк: 7 журнальных статей и 1 технический отчёт. DOI на OSF открывается, второй DOI перенаправляет на сайт издателя; ResearchGate отклоняет автоматические запросы |
+| 8 канонических публикаций | записи ResearchGate и DOI в [whitepaper/README.ru.md](whitepaper/README.ru.md) | **ЗАЯВЛЕНО**. В списке 8 строк: 7 журнальных статей и 1 технический отчёт. DOI на OSF открывается, второй DOI перенаправляет на сайт издателя; ResearchGate отклоняет автоматические запросы |
 | Юридические лица: Florida LLC `L17000209665`, казахстанское ТОО, БИН `240140033296` | ссылки на реестры в разделе [Юридические лица](docs/LEGAL_ENTITIES.ru.md) | **ЗАЯВЛЕНО**. Ни одну ссылку на реестр не удалось открыть автоматически (SunBiz отклоняет автоматические запросы, одна казахстанская ссылка удалена, вторая не ответила); нужна ручная проверка |
 | Интерактивный граф, 147 сущностей | [`graph/asrp_kumu.json`](graph/asrp_kumu.json), [онлайн-просмотр](https://asrp-graph.surge.sh/preview.html) | **ПРОВЕРЕНО** подсчётом по файлу данных (147 сущностей, 256 связей; в прежних текстах было 245 связей) |
 | Финансирование от меценатов, накоплено ≈$165 k от 22 названных меценатов | [asrp.tech/ru/patrons](https://asrp.tech/ru/patrons), таблица в разделе [Финансирование](docs/FUNDING.ru.md) | **ЗАЯВЛЕНО**. Перечисленные суммы дают $164,1 k. Исходник говорит о 7 уровнях, в его таблице их 6 |
@@ -128,7 +126,8 @@
 | Внешние контакты: переговоры с Cortical Labs (последнее заявленное состояние: компания изучает исследование), обмен сообщениями в LinkedIn с отдельными людьми из NSWC IHD и Stanford / лаборатории Nolan, предполагаемое первое прочтение репозитория UAP из сети Министерства энергетики США | [Аутрич](docs/OUTREACH.ru.md), [Кейсы](docs/TRACK_RECORD.ru.md) | **НЕ ПРОВЕРЕНО**. Ни один контрагент не подтверждал это публично; ни один из контактов не является партнёрством или контрактом |
 | Охват каналов, например TikTok `@asrp.tech` — 6 014 подписчиков | [Медиа и каналы](docs/MEDIA_AND_CHANNELS.ru.md) | **ЗАЯВЛЕНО** на 2 квартал 2026, повторно не измерялось |
 
-Полный список непроверенных утверждений и вопросов по ним — в
+Каждая подробная страница заканчивается своей таблицей «Статус подтверждений», которая делает то же самое
+для утверждений этой страницы. Полный список непроверенных утверждений — в
 [отчёте о проверке](reports/MARKETING_UPDATE_REPORT.md#not-verified).
 
 ---
@@ -140,7 +139,7 @@
 | **Инвестор** | [Коротко](#коротко), [Подтверждения](#подтверждения) | [Пути к деньгам: исследования](docs/PATHS_TO_MONEY_RESEARCH.ru.md) и [продукты](docs/PATHS_TO_MONEY_PRODUCTS.ru.md), [Финансирование](docs/FUNDING.ru.md), [Юридические лица](docs/LEGAL_ENTITIES.ru.md) |
 | **Партнёр B2B / B2G** | [Целевые рынки](docs/TARGET_MARKETS.ru.md), [Партнёрство и условия](docs/PARTNERSHIPS_AND_TERMS.ru.md) | [Кейсы](docs/TRACK_RECORD.ru.md), [Дорожная карта](docs/ROADMAP.ru.md) |
 | **Меценат** | [Финансирование и меценаты](docs/FUNDING.ru.md) | <https://asrp.tech/ru/patrons> · разовые пожертвования: <https://asrp.tech/ru/donate/asrp> |
-| **Исследователь** | [Исследования и ИС](docs/RESEARCH_AND_IP.ru.md), [научные статьи](whitepaper/README.md) | открытые репозитории исследований из раздела [Подтверждения](#подтверждения) |
+| **Исследователь** | [Исследования и ИС](docs/RESEARCH_AND_IP.ru.md), [научные статьи](whitepaper/README.ru.md) | открытые репозитории исследований из раздела [Подтверждения](#подтверждения) |
 | **Медиа, автор курса** | [Медиа и каналы](docs/MEDIA_AND_CHANNELS.ru.md) | [Партнёрство и условия](docs/PARTNERSHIPS_AND_TERMS.ru.md) |
 
 ---
@@ -295,7 +294,7 @@ YouTube-канал и программы на исследовательской
 ### Научные статьи
 
 <!-- excerpt RESEARCH_AND_IP 0 -->
-Бизнес-модель и научная основа ASRP задокументированы **семьёй рецензируемых публикаций на ResearchGate** — у каждой работы полный историй отказов (обычно 4–5 штук) до принятия в журнал. **Все канонические работы опубликованы в журналах**, кроме **технического отчёта по BCI / нейроинтерфейсам**, который сейчас выпущен как отчёт и в скором времени будет опубликован как статья. Три флагманских работы — ниже; полный список публикаций (8+ канонических работ с учётом разных версий) — в [`whitepaper/README.md → Полный список публикаций`](whitepaper/README.md#-complete-publication-list--полный-список-публикаций).
+Бизнес-модель и научная основа ASRP задокументированы **семьёй рецензируемых публикаций на ResearchGate** — у каждой работы полный историй отказов (обычно 4–5 штук) до принятия в журнал. **Все канонические работы опубликованы в журналах**, кроме **технического отчёта по BCI / нейроинтерфейсам**, который сейчас выпущен как отчёт и в скором времени будет опубликован как статья. Три флагманских работы — ниже; полный список публикаций (8+ канонических работ с учётом разных версий) — в [`whitepaper/README.ru.md → Полный список публикаций`](whitepaper/README.ru.md#-complete-publication-list--полный-список-публикаций).
 
 **Архитектурная статья GMS / GFS (октябрь 2024 → январь 2025):**
 > Banchenko D., Kapustin M., Bilovodenko V., Ovseannicova V., Savelev I., Sepehri A., Grivtsova I. *«Technological transformations, formation of GMS (Global Mental System) and GFS (Global Forecasting System) — right-brain technologies based on biological entities with consciousness, artificial intelligence, quantum computing, and blockchain: Banchenko-Market (Global Market of Lucid Dreams and Other Transcendental States of Consciousness)»* · Препринт: [RG 384668260](https://www.researchgate.net/publication/384668260) (October 2024) · Расширенный препринт: [RG 384706504](https://www.researchgate.net/publication/384706504) · **Опубликованная статья: [RG 388438082](https://www.researchgate.net/publication/388438082)** в *Journal of Investment Banking and Finance*, January 2025 · [DOI: 10.17605/OSF.IO/P9KHU](https://doi.org/10.17605/OSF.IO/P9KHU) · Лицензия: CC BY-NC-ND 4.0.
@@ -307,7 +306,7 @@ YouTube-канал и программы на исследовательской
 **Методология синхронизации сновидений (препринт, январь 2024 → опубликованная статья):**
 > Banchenko D., Kapustin M., Burilova T., Shishkin L. *«Application of the Banchenko Dream Synchronization Mnemonics Method for Joint Synchronization of Dream Elements (including Lucid Dreams) within the Blokhin Dream Network Concept and Analysis of Results based on the Kapustin Dream Match Search AI Model»* · Препринт: [RG 377492383](https://www.researchgate.net/publication/377492383) (January 2024) · **Опубликованная статья: [RG 378492219](https://www.researchgate.net/publication/378492219)** · Лицензия: CC BY-NC-ND 4.0.
 
-Полный список публикаций, полные двуязычные абстракты, роли авторов, карта соответствия с README и список фундаментальных методов — в [`whitepaper/README.md`](whitepaper/README.md).
+Полный список публикаций, полные двуязычные абстракты, роли авторов, карта соответствия с README и список фундаментальных методов — в [`whitepaper/README.ru.md`](whitepaper/README.ru.md).
 <!-- /excerpt -->
 
 ### Патентные заявки и авторское право
@@ -330,7 +329,7 @@ YouTube-канал и программы на исследовательской
 **Авторы патентов:** Овсянникова В.А. (MD), Капустин М.М. (DE), Банченко Д.Ю. (KZ).
 <!-- /excerpt -->
 
-Полный список публикаций: [whitepaper/README.md](whitepaper/README.md).
+Полный список публикаций: [whitepaper/README.ru.md](whitepaper/README.ru.md).
 
 ---
 
@@ -620,7 +619,7 @@ YouTube-канал и программы на исследовательской
 >
 > **Готовы к релокации.** Основной состав открыт к релокации при соответствующих партнёрствах и финансировании — активные треки: Австралия (через линию Cortical Labs), США (через DARPA BAA / Tesla / DoE), Великобритания (через восстановленное UK-юрлицо), Канада.
 >
-> **Состав авторов статьи отличается.** В составе авторов флагманских статей (GMS/GFS и экономической) семь соавторов — четверо из Leadership Team выше плюс Влада Биловоденко (CRO по препринту), Алиреза Сепехри (CPO, Иран — по препринту) и Ирина Гривцова (центр «Стратегия», Томск). Полный список всех статей ASRP с авторами и статусом публикации — в [`whitepaper/README.md → Полный список публикаций`](whitepaper/README.md#-complete-publication-list--полный-список-публикаций).
+> **Состав авторов статьи отличается.** В составе авторов флагманских статей (GMS/GFS и экономической) семь соавторов — четверо из Leadership Team выше плюс Влада Биловоденко (CRO по препринту), Алиреза Сепехри (CPO, Иран — по препринту) и Ирина Гривцова (центр «Стратегия», Томск). Полный список всех статей ASRP с авторами и статусом публикации — в [`whitepaper/README.ru.md → Полный список публикаций`](whitepaper/README.ru.md#-complete-publication-list--полный-список-публикаций).
 
 | Должность | Имя | Примечания |
 |---|---|---|
@@ -657,7 +656,7 @@ YouTube-канал и программы на исследовательской
 > 🌐 **Интерактивный граф экосистемы (браузер, EN/RU):** **<https://asrp-graph.surge.sh/preview.html>** — 147
 > сущностей · 256 связей (в прежних текстах было 245) · кликни для изучения связей, фильтр по типу, поиск, экспорт в PNG. Исходники: [`graph/`](graph/).
 
-Тот же граф с точки зрения потоков денег — в [`graph/MONEY_FLOW.md`](graph/MONEY_FLOW.md).
+Тот же граф с точки зрения потоков денег — в [`graph/MONEY_FLOW.ru.md`](graph/MONEY_FLOW.ru.md).
 
 ---
 
@@ -667,6 +666,8 @@ YouTube-канал и программы на исследовательской
 ASRP_ecosystem_marketing/
 ├── README.md / README.ru.md          # эта витрина на двух языках
 ├── CHANGELOG(.ru).md                 # история изменений
+├── LICENSE                           # все права защищены; исключения перечислены внутри
+├── .asrp/project.yaml                # манифест проекта ASRP
 ├── docs/
 │   ├── README(.ru).md                # указатель документации
 │   ├── ECOSYSTEM(.ru).md             # тезис, кластеры, схемы, статус компонентов
@@ -684,8 +685,8 @@ ASRP_ecosystem_marketing/
 │   ├── PARTNERSHIPS_AND_TERMS(.ru).md
 │   └── assets/                       # баннер, инфографика, схемы, значки (генерируемые SVG)
 ├── assets/diagrams/                  # исходные PNG-схемы
-├── whitepaper/                       # список публикаций и абстракты
-├── graph/                            # интерактивный граф: данные, просмотр, генератор
+├── whitepaper/                       # список публикаций и аннотации (README.md / README.ru.md)
+├── graph/                            # интерактивный граф: данные, просмотр, генератор, потоки денег
 ├── archive/                          # прежние версии README, сохранены дословно
 ├── reports/                          # отчёт о проверке, описи содержимого, результаты сверки
 ├── tools/                            # опись содержимого, проверка на потери, генераторы графики

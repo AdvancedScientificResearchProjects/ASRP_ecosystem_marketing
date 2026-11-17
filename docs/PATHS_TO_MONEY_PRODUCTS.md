@@ -131,3 +131,32 @@ This pattern applies consistently across **ASRP.science, ASRP.media, YouTube, Ar
 - **Offer:** Unified marketplace (ASRP.exchange / ASRP Market) + crypto settlement layer (Kapusta.money, quantum-resistant) + education & certification (Arcanum12th) + forecast layer (GFS) + art certification (ASRP.art).
 - **Proof:** All 5 components live or in active development; scientific foundation in the [whitepapers](RESEARCH_AND_IP.md); GMS umbrella page at [asrp.tech](https://asrp.tech/ru/projects/gms).
 - **Channel:** Transaction fees on Kapusta.money + exchange commissions + Arcanum12th certification fees + premium content subscriptions.
+
+---
+
+## Evidence status
+
+Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or by a file in this repository; **STATED** = the project's own statement with a public link a reader can follow, not re-checked; **NOT VERIFIED** = no public evidence in this repository.
+
+| Statement on this page | Evidence | Status |
+|---|---|---|
+| Global art market turnover is about $600 B / year | none on this page; no source cited | **NOT VERIFIED** |
+| ASRP.art is covered by Patent PCT 412362 | listed with its public patent repository (200) in RESEARCH_AND_IP.md, where the status is "Substantive exam"; no registry record is linked | **STATED** |
+| ASRP.art has a prototype platform, research base and bilingual podcast | asrp.tech project page returned 200; content not re-checked; the Axionetic_Sensing_Reactions_Platform_in_Art study repository returned 404 | **STATED** |
+| SPR yields objective, reproducible reaction metrics for artworks | none on this page; no data or protocol linked | **NOT VERIFIED** |
+| ASRP.drift: Patent KZ 413554 | listed in RESEARCH_AND_IP.md with a public patent repository (200) and status "Registration pending"; the page words it as a patent | **STATED** |
+| ASRP.drift has R&D prototypes | none on this page | **NOT VERIFIED** |
+| TikTok @asrp.media has 325 followers and 2.5K likes | tiktok.com/@asrp.media returned 200; counts not re-checked and can change | **STATED** |
+| Arcanum12th has about 10 courses in pilot, direct-sales infrastructure ready, listed price ranges | arcanum12th.education returned 200; courses and prices not re-checked | **STATED** |
+| A reader clicked an ASRP.media banner for a neurointerface device, bought it, and ASRP received the affiliate commission | none on this page; no commission statement or record | **NOT VERIFIED** |
+| ASRP.dance is at research-project stage with no published study; target is activation of normally inactive cortical areas | asrp.tech project page returned 200; the page itself says no study is published; activation is a target, not a result | **STATED** |
+| ASRP.fashion produces fully living biocompatible textiles grown from plants, bacteria and mycelium under hyperbolic and quantum fields | project page and YouTube @ASRPfashion returned 200; existence of the textiles not re-checked | **STATED** |
+| Synthetic garments strip charge from erythrocytes, raising thrombosis risk; living textiles preserve it ("anti-thrombosis apparel") | none on this page; the page says the supporting literature citation is pending and calls it a founder-stated mechanism | **NOT VERIFIED** |
+| Scientific base for ASRP.fashion is Patent KZ 2025/1095.1 (FBHFS) | listed in RESEARCH_AND_IP.md with a public patent repository (200), status "Formal exam done → Substantive" | **STATED** |
+| DAAT crystal is grown in about one month from copper sulfate in a non-stop hyperbolic-geometry field and preserves a "field signature" | none on this page; no protocol or measurement of a "field signature" | **NOT VERIFIED** |
+| DAAT crystal study (recruitment phase); target outcomes are working-memory expansion, noise reduction, cognitive-load capacity, results pending | Hyperbolic_Field_DAAT_Crystal_Study repository not publicly reachable (404); no results exist on this page | **NOT VERIFIED** |
+| Crystals already acquired by top management at a bank (testing phase, name undisclosed) | none on this page; institution unnamed, no purchase record | **NOT VERIFIED** |
+| Individual wearers include persons on the Forbes list (founder's Telegram post of 2026-04-20, 288 views, 2 forwards; names not disclosed) | no link to the post on this page; names withheld | **NOT VERIFIED** |
+| Scientific basis: neuroplasticity, neurogenesis (BDNF, NGF, IGF-1, VEGF), heart-brain coherence, neuroendocrine axes | none on this page; no citation links these mechanisms to the crystal | **NOT VERIFIED** |
+| ASRPshop domain reportedly acquired | none on this page; the page itself marks the URL as pending | **NOT VERIFIED** |
+| GMS: all 5 components are live or in active development | asrp.tech GMS page returned 200; component status not re-checked | **STATED** |

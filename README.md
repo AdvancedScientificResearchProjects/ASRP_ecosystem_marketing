@@ -72,8 +72,6 @@ isolated sales but publishes no revenue figures. Details:
 
 **English | [Русский](README.ru.md).** Every page exists in two language versions: `*.md` (English) and
 `*.ru.md` (Russian); graphics as `*.en.svg` / `*.ru.svg`. Languages are not mixed in the body text.
-Exceptions: [`whitepaper/README.md`](whitepaper/README.md) and the pages in [`graph/`](graph/README.md) still
-carry both languages on one page.
 
 ---
 
@@ -126,7 +124,8 @@ Check status legend: **VERIFIED** = checked by an automated request on 17 Novemb
 | External contacts: talks with Cortical Labs (last stated update: the company is reviewing the study), LinkedIn-level exchanges with individuals at NSWC IHD and Stanford / Nolan Lab, an inferred first read of the UAP repository from a U.S. Department of Energy network | [Outreach](docs/OUTREACH.md), [Track record](docs/TRACK_RECORD.md) | **NOT VERIFIED**. No counterparty has confirmed these publicly; none is a partnership or a contract |
 | Channel reach, e.g. TikTok `@asrp.tech` 6 014 followers | [Media and channels](docs/MEDIA_AND_CHANNELS.md) | **STATED** as of 2026-Q2, not re-measured |
 
-The full list of unverified statements and the questions they raise is in the
+Every detail page ends with its own "Evidence status" table that does the same for the statements on that
+page. The full list of unverified statements is in the
 [verification report](reports/MARKETING_UPDATE_REPORT.md#not-verified).
 
 ---
@@ -679,6 +678,8 @@ The money-flow reading of the same graph is in [`graph/MONEY_FLOW.md`](graph/MON
 ASRP_ecosystem_marketing/
 ├── README.md / README.ru.md          # this showcase, two languages
 ├── CHANGELOG(.ru).md                 # change history
+├── LICENSE                           # all rights reserved; exceptions listed inside
+├── .asrp/project.yaml                # ASRP project manifest
 ├── docs/
 │   ├── README(.ru).md                # documentation index
 │   ├── ECOSYSTEM(.ru).md             # thesis, clusters, diagrams, component status
@@ -696,8 +697,8 @@ ASRP_ecosystem_marketing/
 │   ├── PARTNERSHIPS_AND_TERMS(.ru).md
 │   └── assets/                       # banner, infographics, diagrams, icons (generated SVG)
 ├── assets/diagrams/                  # original PNG diagrams
-├── whitepaper/                       # publication list and abstracts
-├── graph/                            # interactive graph: data, viewer, generator
+├── whitepaper/                       # publication list and abstracts (README.md / README.ru.md)
+├── graph/                            # interactive graph: data, viewer, generator, money-flow notes
 ├── archive/                          # earlier README versions, kept verbatim
 ├── reports/                          # verification report, inventories, check output
 ├── tools/                            # inventory, no-loss check, visual generators

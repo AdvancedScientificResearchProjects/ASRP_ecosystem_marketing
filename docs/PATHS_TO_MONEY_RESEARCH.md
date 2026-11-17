@@ -80,3 +80,32 @@ Product and platform paths (ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, cross
 - **User funnel:** Arcanum12th_BOT + Arcanum12th courses collect dream and biosensor data (genetic, EEG, electrodermal, autonomic nervous-system) → GFS ingests → **Kapusta rating substrate** motivates, stimulates and filters: accurate forecasts raise contributor status + credit more Kapusta, inaccurate ones lower status → validated forecasts publish to **ASRP.exchange / ASRP Market** → users place stakes → on fulfilment, payouts split across taxes, team premiums, shareholders, and contributor rewards. Over large data the mechanism yields (a) accurate forecasts, (b) high-precision biological sensors, (c) system reliability — all documented in the GFS patent.
 - **Proof:** Historical forecast track with early flags on geopolitical events — **two non-trivial forecasts are currently on trajectory: (a) tactical-nuclear weapon employment risk, (b) extraterrestrial-contact signal**. Both were dismissed as fantasy when originally logged; current geopolitical context shows gradual convergence toward both (see Case Studies).
 - **Channel:** B2G direct, B2B terminal-style API, and B2C via the ASRP.exchange/Market betting UI.
+
+---
+
+## Evidence status
+
+Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or by a file in this repository; **STATED** = the project's own statement with a public link a reader can follow, not re-checked; **NOT VERIFIED** = no public evidence in this repository.
+
+| Statement on this page | Evidence | Status |
+|---|---|---|
+| UAP_Reverse_Engineering_Study repository is published | GitHub URL returned 200 on 2026-11-17 (repository now at ASRP_UAP_Reverse_Engineering_Study) | **VERIFIED** |
+| The U.S. Department of Energy read the UAP repository within hours of publication ("first tracked federal reader") | none on this page; GitHub does not show reader IP addresses to repository owners, so no checkable source exists | **NOT VERIFIED** |
+| Named engagement tracks exist with Boeing, Stanford (Nolan Lab), DoE / Los Alamos and VA | none on this page; no contract, correspondence or public statement by any of these parties is linked | **NOT VERIFIED** |
+| Passage on client tracks (EN and RU versions differ) | the two language versions differ; see the divergence note on the page and the open questions in reports/MARKETING_UPDATE_REPORT.md | **NOT VERIFIED** |
+| DoD reverse-engineering spend of about $40 M / year per technology line; a subcontractor could target about $2 M / year (illustrative, per founder) | none on this page; "congressional disclosure patterns" are not cited | **NOT VERIFIED** |
+| Cortical Labs: active negotiations, contact "Natasha" (2026-Q2, under review) | none on this page; private correspondence, no public statement by Cortical Labs | **NOT VERIFIED** |
+| Hyperbolic_Field_BloodPlasma_Study repository is public | GitHub URL returned 200 on 2026-11-17 (repository now at ASRP_Hyperbolic_Field_BloodPlasma_Study) | **VERIFIED** |
+| Plasma protocol reproduced by V. Ovseannicova after failed first attempts; raw data analysed by K. Zmiienko | public repository named on the page; contents not re-checked | **STATED** |
+| Cortical Labs did not respond to outreach, then engaged after a LinkedIn post timed to its announcement | none on this page; no post URL, message or reply is linked | **NOT VERIFIED** |
+| Working hypothesis: temporal desynchronization is the primary pathogenic factor in UAP-adjacent oncology; preliminary internal observations support further study (page states no regulatory or clinical-efficacy claim) | none on this page; observations are unpublished and not peer-reviewed, per the page itself | **NOT VERIFIED** |
+| Reproducible plasma-fibrin clot phenotypes (T+, T0, T-) obtained without thermal, chemical or ionizing exposure | public plasma repository (200); data not re-checked; the photo sent to Stanford is not in this repository | **STATED** |
+| Three-Dimensional Time paper is published in World Scientific (peer-reviewed) | DOI link on the page returned 403 on 2026-11-17 (publisher blocks automated clients; existence not confirmed) | **STATED** |
+| That framework gives "localized spacetime curvature at biological scales" a rigorous physics backbone | none on this page; the cited paper's applicability to biology is the project's own interpretation | **NOT VERIFIED** |
+| Kazakhstan hosts documented radiation and geophysical anomalies that overlap with hyperbolic-field research (radon ionization, geofault plasma, pre-seismic anomalies) | none on this page; no geophysics source is cited | **NOT VERIFIED** |
+| Ufology catalogues list the region as a high-density UAP-observation zone | two secondary links (nexusmagazine.com and a Reddit thread) returned 200; they prove the pages exist, not the claim | **STATED** |
+| Hyperbolic_Field_Agricultural_Study repository is public | GitHub URL returned 200 on 2026-11-17 (repository now at ASRP_Hyperbolic_Field_Agricultural_Study) | **VERIFIED** |
+| Hyperbolic-field treatment increases germination and yield (early Day-4 volume delta vs control; double-blind trials ongoing) | public agricultural repository (200); data and blinding not re-checked; no yield result is stated | **STATED** |
+| +10% soy yield on a 1 M-person food base gives extra supply for about 100 k people (projected) | none on this page; a projection with no stated inputs | **NOT VERIFIED** |
+| Two GFS forecasts are on trajectory: tactical-nuclear weapon employment and an extraterrestrial-contact signal; both were logged earlier and dismissed | none on this page; no dated forecast log is linked, and the gfs-model repository returned 404 (not publicly reachable) | **NOT VERIFIED** |
+| GFS mechanism yields accurate forecasts, high-precision biological sensors and system reliability ("documented in the GFS patent") | none on this page; a patent filing describes a design and does not show forecast accuracy | **NOT VERIFIED** |

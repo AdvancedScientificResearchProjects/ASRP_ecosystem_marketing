@@ -158,3 +158,24 @@ LinkedIn is the **highest-yield single channel** in the ASRP stack for three rea
 | 7 | «The exchange — how it works and how you earn on it» (ASRP.exchange expert comment) |
 
 > ⚠️ EN/RU divergence in the source — see [open questions](../reports/MARKETING_UPDATE_REPORT.md#open-questions).
+
+---
+
+## Evidence status
+
+Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or by a file in this repository; **STATED** = the project's own statement with a public link a reader can follow, not re-checked; **NOT VERIFIED** = no public evidence in this repository.
+
+| Statement on this page | Evidence | Status |
+|---|---|---|
+| The listed TikTok, YouTube, Telegram, Facebook, X and Instagram channels exist | All 16 channel URLs (6 TikTok, 5 YouTube, 2 Telegram, Facebook, X, Instagram) returned 200 on 2026-11-17 (Instagram preview is login-gated; ResearchGate returned 403, bot blocking) | **VERIFIED** |
+| TikTok reach: 6 014 / 325 / 20 / 12 followers and 51.4 K / 2 499 / 353 / 34 likes | Channel links in the table; figures are as of 2026-Q2 and were not re-measured | **STATED** |
+| YouTube @ASRPtech: 447 subscribers, 22 videos, 27 K views, since Jan 2018 | youtube.com/@ASRPtech returned 200; figures as of 2026-Q2, not re-measured; start date not checked | **STATED** |
+| YouTube @ASRPmedia: 18 subscribers | youtube.com/@ASRPmedia returned 200; figure as of 2026-Q2, not re-measured | **STATED** |
+| LinkedIn company page "ADVANCED SCIENTIFIC RESEARCH PROJECTS LLC" has 50+ followers; ASRP runs two LinkedIn company pages plus project groups | none on this page; no LinkedIn company URL is given | **NOT VERIFIED** |
+| ASRP's ResearchGate lab exists | Link on the page; returned 403 to the automated request (bot blocking), not checked | **STATED** |
+| Every project has its own presence on every available channel; the content factory runs as one system | none on this page; the page's own Gaps note says several per-project channels are not yet launched | **NOT VERIFIED** |
+| Pinterest automation runs hourly on 3 boards, US-heavy traffic, about 15 days to first measurable traffic | none on this page; no traffic data | **NOT VERIFIED** |
+| LLMs (ChatGPT, Perplexity, Gemini, Claude) cite ASRP research when asked about its fields | none on this page; no captured answers | **NOT VERIFIED** |
+| LinkedIn is the highest-yield channel; the Cortical Labs, NSWC IHD (Cardillo) and Stanford / Nolan contacts opened there | none on this page; no yield data; the contacts are described on OUTREACH.md, not confirmed by the counterparties | **NOT VERIFIED** |
+| Seven topics were featured in external media (listed under «О нас говорят») | Link to asrp.tech/ru/about returned 200; the page names no outlet, author or date for any item | **STATED** |
+| Press item 7: "The exchange — how it works and how you earn on it" | The Russian version of the same row reads "виды площадок и как на них зарабатывать" (EN/RU divergence in the source); no outlet named | **NOT VERIFIED** |

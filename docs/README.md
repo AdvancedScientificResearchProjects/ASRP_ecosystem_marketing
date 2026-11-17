@@ -34,8 +34,8 @@ Detail pages behind the [front-page README](../README.md). Statuses and figures 
 
 | | Material | What it is |
 |---|---|---|
-| <img src="assets/icons/whitepaper.svg" width="30" alt="whitepaper icon"> | [whitepaper/README.md](../whitepaper/README.md) | complete publication list, abstracts, authors, external scientific references (older mixed-language layout) |
-| <img src="assets/icons/graph.svg" width="30" alt="graph icon"> | [graph/README.md](../graph/README.md) · [graph/MONEY_FLOW.md](../graph/MONEY_FLOW.md) | interactive graph, its data and generator; money-flow notes (older mixed-language layout) |
+| <img src="assets/icons/whitepaper.svg" width="30" alt="whitepaper icon"> | [whitepaper/README.md](../whitepaper/README.md) | complete publication list, abstracts, authors, external scientific references |
+| <img src="assets/icons/graph.svg" width="30" alt="graph icon"> | [graph/README.md](../graph/README.md) · [graph/MONEY_FLOW.md](../graph/MONEY_FLOW.md) | interactive graph, its data and generator; money-flow notes |
 | <img src="assets/icons/report.svg" width="30" alt="report icon"> | [reports/MARKETING_UPDATE_REPORT.md](../reports/MARKETING_UPDATE_REPORT.md) | migration map, loss-check evidence, unverified claims, open questions |
 | <img src="assets/icons/archive.svg" width="30" alt="archive icon"> | [archive/](../archive/README_2026-11-17_pre-marketing-update.md) | earlier README version, kept for the record |
 

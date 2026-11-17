@@ -6,9 +6,29 @@
    "reason": "Badge 'updated 2026-Q2' replaced by two badges ('content as of 2026-Q2' and 'structure updated 2026-11'): after a November 2026 restructuring a single 'updated Q2' badge would misdate the page, while dropping the Q2 date would hide that the content is that old. The old badge is preserved in the archive."
   },
   {
-   "check": "H7_broken_links",
-   "match": "../QUESTIONS.md",
-   "reason": "Pre-existing broken link in whitepaper/README.md (the file QUESTIONS.md is not in the repository at the tag either). whitepaper/ is out of scope of this update and was not edited; listed in the report as an open question."
+   "check": "H3_numbers_missing_graph_readme",
+   "match": "138",
+   "reason": "graph/README.md contradicted itself about the size of the graph (147/245/16 in the header, 115/138/14 and average degree 2.4 in the body). All counts are now computed from graph/asrp_kumu.json (147 entities, 256 connections, 16 types, average degree 3.5). The stale numbers remain in the archived original."
+  },
+  {
+   "check": "H3_numbers_missing_graph_readme",
+   "match": "2.4",
+   "reason": "Stale average degree, replaced by the value computed from graph/asrp_kumu.json (3.5). See the waiver for 138."
+  },
+  {
+   "check": "H3_numbers_missing_graph_readme",
+   "match": "245",
+   "reason": "Stale connection count, replaced by the value computed from graph/asrp_kumu.json (256). See the waiver for 138."
+  },
+  {
+   "check": "H4_identifiers_missing_whitepaper",
+   "match": "ASRP.exchange **/** ASRP Market",
+   "reason": "Not a loss: the old code span contained the bilingual separator itself. Both new pages carry it as `ASRP.exchange / ASRP Market`."
+  },
+  {
+   "check": "H4_identifiers_missing",
+   "match": "whitepaper/README.md → Полный список публикаций",
+   "reason": "Link label on Russian pages now names the Russian twin: `whitepaper/README.ru.md → Полный список публикаций`. The page it points to exists in both languages since the whitepaper page was split."
   }
  ]
 }

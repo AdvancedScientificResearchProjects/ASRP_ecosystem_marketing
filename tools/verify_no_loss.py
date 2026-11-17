@@ -46,6 +46,14 @@ ARCHIVE = "archive/README_2026-11-17_pre-marketing-update.md"
 TAG = "pre-marketing-update-2026-11"
 THRESHOLD = 0.8
 WAIVERS = "reports/inventory/waivers.json"
+# (label, archived original, English page, Russian page, table-row divisor)
+EXTRA_PAIRS = [
+    ("whitepaper", "archive/whitepaper_README_2026-11-17.md", "whitepaper/README.md", "whitepaper/README.ru.md", 1),
+    ("graph_readme", "archive/graph_README_2026-11-17.md", "graph/README.md", "graph/README.ru.md", 1),
+    # the original MONEY_FLOW already held a full English block and a full Russian block: each twin
+    # is expected to carry half of its table rows
+    ("money_flow", "archive/graph_MONEY_FLOW_2026-11-17.md", "graph/MONEY_FLOW.md", "graph/MONEY_FLOW.ru.md", 2),
+]
 WORD_RE = re.compile(r"[^\W_]+", re.UNICODE)
 
 
@@ -73,7 +81,9 @@ def new_files():
 def tracked_markdown():
     out = subprocess.run(["git", "ls-files", "-co", "--exclude-standard", "*.md"],
                          capture_output=True, text=True).stdout.split("\n")
-    return [f for f in out if f and not f.startswith("archive/")]
+    # archive/ holds originals as they were; reports/inventory/ holds this script's own output, which
+    # quotes old link text
+    return [f for f in out if f and not f.startswith(("archive/", "reports/inventory/"))]
 
 
 def anchors_of(path):
@@ -223,28 +233,32 @@ def main():
     def grams(ws, n):
         return [tuple(ws[i:i + n]) for i in range(len(ws) - n + 1)]
 
-    corp = {}
-    for key, txt in (("en", en), ("ru", ru)):
-        ws = words(txt)
-        corp[key] = {n: set(grams(ws, n)) for n in (1, 2, 3)}
-    low = []
-    counted = {"en": 0, "ru": 0, "mixed": 0}
-    for s in old["segments"]:
-        ws = words(s["text"])
-        if not ws:
-            continue
-        counted[s["lang"] if s["lang"] in counted else "mixed"] += 1
-        total = hit = 0
-        for sc, run in runs(ws):
-            n = min(3, len(run))
-            for g in grams(run, n):
-                total += 1
-                if g in corp[sc][n] or (sc == "en" and g in corp["ru"][n]):
-                    hit += 1
-        cov = hit / total if total else 1.0
-        if cov < THRESHOLD:
-            low.append({"line": s["line"], "lang": s["lang"], "coverage": round(cov, 2),
-                        "text": s["text"][:220]})
+    def low_segments(segments, en_txt, ru_txt):
+        corp = {}
+        for key, txt in (("en", en_txt), ("ru", ru_txt)):
+            ws = words(txt)
+            corp[key] = {n: set(grams(ws, n)) for n in (1, 2, 3)}
+        low = []
+        counted = {"en": 0, "ru": 0, "mixed": 0}
+        for s in segments:
+            ws = words(s["text"])
+            if not ws:
+                continue
+            counted[s["lang"] if s["lang"] in counted else "mixed"] += 1
+            total = hit = 0
+            for sc, run in runs(ws):
+                n = min(3, len(run))
+                for g in grams(run, n):
+                    total += 1
+                    if g in corp[sc][n] or (sc == "en" and g in corp["ru"][n]):
+                        hit += 1
+            cov = hit / total if total else 1.0
+            if cov < THRESHOLD:
+                low.append({"line": s["line"], "lang": s["lang"], "coverage": round(cov, 2),
+                            "text": s["text"][:220]})
+        return low, counted
+
+    low, counted = low_segments(old["segments"], en, ru)
     res["soft"]["S2_low_coverage_segments"] = low
     res["stats"]["segments_checked"] = counted
     res["stats"]["segments_low"] = len(low)
@@ -255,6 +269,26 @@ def main():
     res["stats"]["table_rows"] = {"old": len(old["table_rows"]), "new_en": rows(en), "new_ru": rows(ru)}
     res["soft"]["S3_table_rows_short"] = [
         k for k in ("new_en", "new_ru") if res["stats"]["table_rows"][k] < len(old["table_rows"])]
+
+    # Other pages that were split into language twins: same hard checks, per page.
+    for label, archive, en_page, ru_page, div in EXTRA_PAIRS:
+        if not (os.path.exists(archive) and os.path.exists(ru_page)):
+            continue
+        o = inventory(read(archive))
+        e_txt, r_txt = read(en_page), read(ru_page)
+        both = e_txt + "\n" + r_txt
+        res["hard"]["H2_urls_missing_" + label] = [u for u in o["urls"] if u not in both]
+        res["hard"]["H3_numbers_missing_" + label] = [x for x in o["numbers"] if not token_present(x, both)]
+        miss = []
+        for k in ("dates", "emails", "handles", "code_spans"):
+            miss += ["%s: %s" % (k, x) for x in o[k] if x not in both]
+        res["hard"]["H4_identifiers_missing_" + label] = miss
+        res["soft"]["S1_names_missing_" + label] = [n for n in o["names"] if n not in both]
+        res["soft"]["S2_low_coverage_segments_" + label], _ = low_segments(o["segments"], e_txt, r_txt)
+        n_old = len(o["table_rows"]) // div
+        res["soft"]["S3_table_rows_short_" + label] = [
+            "%s: %d < %d" % (pg, len(inventory(tx)["table_rows"]), n_old)
+            for pg, tx in ((en_page, e_txt), (ru_page, r_txt)) if len(inventory(tx)["table_rows"]) < n_old]
 
     res["stats"]["old_counts"] = old["counts"]
 
@@ -286,7 +320,7 @@ def main():
              "S1": len(old["names"]), "S2": sum(counted.values()), "S3": len(old["table_rows"]), "S4": "-"}
     for kind in ("hard", "soft"):
         for k, v in res[kind].items():
-            lines.append("| `%s` | %s | %s | %d |" % (k, kind, sizes.get(k[:2], "-"), len(v)))
+            lines.append("| `%s` | %s | %s | %d |" % (k, kind, sizes.get(k[:2], "-") if k.count("_") < 4 and not k.endswith(("whitepaper", "graph_readme", "money_flow")) else "-", len(v)))
     lines += ["", "Table rows: old %(old)d, new EN %(new_en)d, new RU %(new_ru)d." % res["stats"]["table_rows"], ""]
     for kind in ("hard", "soft"):
         for k, v in res[kind].items():

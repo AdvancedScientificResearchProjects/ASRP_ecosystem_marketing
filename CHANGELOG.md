@@ -19,7 +19,11 @@
 - All 17 diagrams redrawn as separate English and Russian SVG files in one style
   (`tools/build_diagrams.py`); the original PNG files stay in `assets/diagrams/`.
 - Links to the earlier section anchors keep working through invisible anchors at the matching sections.
-- Not changed: `whitepaper/`, `graph/`, `assets/diagrams/`.
+- `whitepaper/` and `graph/` pages split into English and Russian twins; graph counts recomputed from the
+  data file (147 entities, 256 connections, 16 types).
+- Every detail page ends with an "Evidence status" table: statement, evidence, check status.
+- Added `LICENSE`, `.asrp/project.yaml` and a ready-to-enable CI workflow (`tools/ci/verify.yml`) that runs
+  the tests on every pull request.
 - Details, evidence and open questions: [reports/MARKETING_UPDATE_REPORT.md](reports/MARKETING_UPDATE_REPORT.md) (in Russian).
 
 ## 2026-04-28 — `cfd1940`

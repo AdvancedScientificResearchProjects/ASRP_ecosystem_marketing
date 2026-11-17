@@ -1,0 +1,45 @@
+# Based on the dry-run output of ASRP_Agents_Hierarchy/scripts/build_asrp_project_bootstrap.py
+# (2026-11-17), written by hand with one deliberate difference: this repository is public, so the
+# absolute local checkout path the generator records is replaced by a relative one, and the Agent
+# Hierarchy path is given as a sibling checkout. Statuses are the ones the generator reported.
+schema: asrp.project_bootstrap.v1
+asrp_attribution: Created and architected for ASRP by Denis Bachenko, CEO & Founder of Advanced Scientific Research Projects LLC.
+generated_at: '2026-11-17T13:16:54+00:00'
+project:
+  name: ASRP_ecosystem_marketing
+  path: .
+  repository_id: ASRP_ecosystem_marketing
+control_plane:
+  agent_hierarchy:
+    status: FOUND
+    path: ../ASRP_Agents_Hierarchy
+  model_vault:
+    status: NOT_FOUND
+    path: null
+repository_standard:
+  adopted: true
+  version: 1.0.0
+  reference_standard_doc: ASRP_Agents_Hierarchy/docs/standards/ASRP_REPOSITORY_STANDARD.md
+project_agent_profile:
+  status: NOT_BOUND
+  path: null
+  schema: null
+  central_source: null
+  central_available: false
+default_orchestrators: []
+project_agents_and_overlays:
+  runtime_specific_agent_dirs_detected: []
+  note: These are project-specific overlays/personas, never a duplicate of the canonical agent army (Directive XXI Part 8). They are reported for discovery, not modified.
+tools_data_hardware:
+  detected_manifest_files: []
+runtime_bootstrap_files:
+  CLAUDE.md: false
+  AGENTS.md: false
+  opencode_config: false
+quality_gates:
+  tests: python3 -m unittest discover -s tests
+  no_loss_check: python3 tools/verify_no_loss.py
+  visuals:
+    - python3 tools/build_visuals.py
+    - python3 tools/build_diagrams.py
+  readme_excerpts: python3 tools/build_readme_excerpts.py

@@ -69,3 +69,27 @@
 > Parallel log covering investor, venture-capital and family-office meetings (structure mirrors the Cortical Labs / Stanford entries above). Each row will capture: date, fund / individual, channel, ASRP offer, response, status. **Content to be populated once the founder shares the full list** — founder stated on 2026-04-22: «с какими инвесторами провели переговоры, с какими инвестфондами были переговоры, что нам сказали» (English translation: "which investors we held negotiations with, which investment funds we negotiated with, what they told us").
 
 > **Methodology.** Each entry captures an observable public signal (a comment, like, engagement, or documented inbound). Active outreach pipelines (MJFF, cultured-meat companies, etc.) with no public reaction yet are tracked internally and promoted here when a public signal appears.
+
+---
+
+## Evidence status
+
+Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or by a file in this repository; **STATED** = the project's own statement with a public link a reader can follow, not re-checked; **NOT VERIFIED** = no public evidence in this repository.
+
+| Statement on this page | Evidence | Status |
+|---|---|---|
+| A LinkedIn post by Robert Cardillo on an 11-case cluster of deaths and disappearances of scientists ("Gabriella Rev A" framework) exists | the post URL returned 200 on 2026-11-17; proves the post exists only | **STATED** |
+| Robert Cardillo works in Configuration Management at NSWC Indian Head Division | none on this page beyond the post link | **NOT VERIFIED** |
+| NSWC IHD facts: about 1,900 federal employees, largest DoD energetics laboratory, budget in the ~$1 B range | none on this page; "public DoD budget disclosures" are not linked | **NOT VERIFIED** |
+| The NSWC IHD actor interacted with ASRP at comment level in the post thread (page marks this provisional) | the post URL returned 200, which does not show who commented; the basis is the founder telling a colleague to "look at the comments" | **NOT VERIFIED** |
+| ASRP supplied the UAP and Blood Plasma repository references; feedback was received | none on this page; no comment text, screenshot or reply | **NOT VERIFIED** |
+| Cortical Labs is an established biocomputing company in Melbourne with the DishBrain platform | none on this page ("publicly discoverable"); no link | **NOT VERIFIED** |
+| Hyperbolic_Field_BloodPlasma_Study repository is public | GitHub URL returned 200 on 2026-11-17 | **VERIFIED** |
+| Cortical Labs engaged after the LinkedIn wave: two-way messaging active, active negotiations (2026-Q2) | none on this page; private correspondence, no statement by Cortical Labs | **NOT VERIFIED** |
+| Dr. Garry Nolan replied to the CEO's LinkedIn message within 3 minutes on 4 Feb 2026 (quoted texts at 11:39 and 11:42) | none on this page; private LinkedIn messages, no screenshot in this repository | **NOT VERIFIED** |
+| Dr. Nolan is publicly engaged on UAP-related oncology and immunology (*The Phenomenon of Disclosure*) | none on this page; no link | **NOT VERIFIED** |
+| A same-day letter to Ms. Dalton and a photo of three plasma-fibrin tubes (T0, T+, T-) were sent; effects reproducible without thermal, chemical or ionizing exposure | none on this page; letter and photo are not in this repository | **NOT VERIFIED** |
+| Response from Dr. Nolan's office is awaited (2026-Q2) | none on this page | **NOT VERIFIED** |
+| The ASRP pathogenic hypothesis (temporal desynchronization) and NCI SBIR FY26 track were presented to Nolan's office | none on this page; the NCI claims are assessed on TRACK_RECORD | **NOT VERIFIED** |
+| Founder held negotiations with investors and investment funds (source list pending, per founder statement of 2026-04-22) | none on this page; the investor log has no entries | **NOT VERIFIED** |
+| Active outreach pipelines exist with MJFF and cultured-meat companies, tracked internally | none on this page; internal tracking is not public | **NOT VERIFIED** |

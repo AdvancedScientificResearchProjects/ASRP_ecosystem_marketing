@@ -69,3 +69,30 @@ See [`whitepaper/README.md`](../whitepaper/README.md) for the **complete publica
 > The timeline below tracks **five event classes** — company registrations and re-instatements (SunBiz/KZ registries), patent filings and copyright registrations, scientific publications and preregistrations, accreditations (DARPA · Tesla · OSF), and public events (hackathons, pitch battles).
 
 ![Accreditations & epochs timeline](assets/diagrams/03-accreditations-timeline.en.svg)
+
+---
+
+## Evidence status
+
+Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or by a file in this repository; **STATED** = the project's own statement with a public link a reader can follow, not re-checked; **NOT VERIFIED** = no public evidence in this repository.
+
+| Statement on this page | Evidence | Status |
+|---|---|---|
+| The business model and science are documented in peer-reviewed publications on ResearchGate | Six ResearchGate links on the page returned 403 to the automated request; review status not checked | **STATED** |
+| Each canonical work was rejected typically 4-5 times before acceptance | none on this page | **NOT VERIFIED** |
+| The complete publication list has 8+ canonical works | whitepaper/README.md lists 8 canonical works (table rows 1-8) | **VERIFIED** |
+| Every canonical work is journal-published except the BCI / Neural-Interfaces Technical Report | The status column of whitepaper/README.md says so; the file is the project's own, journal pages not checked | **STATED** |
+| GMS / GFS whitepaper: preprint October 2024, article in Journal of Investment Banking and Finance in January 2025, DOI 10.17605/OSF.IO/P9KHU | DOI link returned 200 (an OSF record); RG 384668260, 384706504, 388438082 returned 403; journal issue not linked | **STATED** |
+| Banchenko-Market economic whitepaper (2024) was refused by venues in KZ, UA, US (Stanford-affiliated) and UK (Oxford-affiliated) before acceptance | RG 378492156 returned 403; no refusal letters or named venues | **NOT VERIFIED** |
+| Dream-synchronisation methodology: preprint January 2024, then a published article | RG 377492383 and 378492219 returned 403; journal not named on this page | **STATED** |
+| Seven public documentation repositories exist for the patents and the copyright | All seven denisbanchenko/Kazpatent_* URLs returned 200 on 2026-11-17 | **VERIFIED** |
+| All patents are filed through Kazpatent under the listed application numbers (KZ 2025/1096.1, 413554, 2025/0592.1 with PCT 412362, 2025/1097.1, 2025/1095.1, 2025/0914.1) | Repositories are the project's own; no Kazpatent register record is linked and none was checked | **STATED** |
+| Examination stages: GFS, Biophotonic, Fractal and Inspira-X formal exam done; ASRP.art substantive exam; ASRP.drift registration pending | Project statement as of 2026-Q2, repositories linked (200); no Kazpatent correspondence shown | **STATED** |
+| Body Food System is registered as US Copyright TXu002116250 (2024) | Number given; repository returned 200; no U.S. Copyright Office record linked or checked | **STATED** |
+| Inventors on the patents are Ovseannicova V.A., Kapustin M.M. and Banchenko D.Y. | Project statement; repositories linked, contents not read | **STATED** |
+| Patent stages differ between the English and Russian versions (GFS, Inspira-X) | The two language versions differ: Russian says reply to formal exam sent (GFS) and pending (Inspira-X); not resolved | **NOT VERIFIED** |
+| DARPA BAA proposal-portal access, active, dated 16 Sep 2025 | Login provided under NDA; no public document | **NOT VERIFIED** |
+| Tesla Business Program accreditation dated 22 Aug 2025, registered entity ASRP LLC (FL) | none on this page beyond the entity name and a contact email | **NOT VERIFIED** |
+| OSF preregistration of the Yeast study, 2026 | osf.io/Jgt3h returned 200; registration content not checked | **STATED** |
+| Peer-reviewed ASRP.drift publication in the International Internal Medicine Journal, 2024 | Linked asrp.tech project page returned 200; the journal article itself is not linked | **STATED** |
+| ResearchGate institutional lab page is active | Lab URL returned 403 to the automated request | **STATED** |
