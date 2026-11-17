@@ -8,13 +8,13 @@
 
 </div>
 
-Detail pages behind the [showcase README](../README.md). Each page was migrated verbatim from the pre-2026-11 root README (snapshot `cfd1940`, archived in [`archive/`](../archive/README_2026-11-17_pre-marketing-update.md)); statuses and figures are as stated in that source, mostly dated 2026-Q2. Every page has a Russian twin (`*.ru.md`).
+Detail pages behind the [front-page README](../README.md). Statuses and figures are as of 2026-Q2 unless a date is given, and are stated by the project. Every page has a Russian twin (`*.ru.md`).
 
 ---
 
 ## Pages
 
-| | Page | Sections of the old README it holds |
+| | Page | What it covers |
 |---|---|---|
 | <img src="assets/icons/ecosystem.svg" width="30" alt="ecosystem icon"> | [Ecosystem map and component status](ECOSYSTEM.md) | About, strategic thesis, core clusters, ecosystem map, component status, GMS meta-cluster, research repositories |
 | <img src="assets/icons/research.svg" width="30" alt="research icon"> | [Research, patents and accreditations](RESEARCH_AND_IP.md) | Scientific whitepapers, research and patents portfolio, accreditations and credentials, epochs timeline |
@@ -37,7 +37,7 @@ Detail pages behind the [showcase README](../README.md). Each page was migrated 
 | <img src="assets/icons/whitepaper.svg" width="30" alt="whitepaper icon"> | [whitepaper/README.md](../whitepaper/README.md) | complete publication list, abstracts, authors, external scientific references (older mixed-language layout) |
 | <img src="assets/icons/graph.svg" width="30" alt="graph icon"> | [graph/README.md](../graph/README.md) · [graph/MONEY_FLOW.md](../graph/MONEY_FLOW.md) | interactive graph, its data and generator; money-flow notes (older mixed-language layout) |
 | <img src="assets/icons/report.svg" width="30" alt="report icon"> | [reports/MARKETING_UPDATE_REPORT.md](../reports/MARKETING_UPDATE_REPORT.md) | migration map, loss-check evidence, unverified claims, open questions |
-| <img src="assets/icons/archive.svg" width="30" alt="archive icon"> | [archive/](../archive/README_2026-11-17_pre-marketing-update.md) | the previous root README, byte-for-byte |
+| <img src="assets/icons/archive.svg" width="30" alt="archive icon"> | [archive/](../archive/README_2026-11-17_pre-marketing-update.md) | earlier README version, kept for the record |
 
 ## Visual assets
 

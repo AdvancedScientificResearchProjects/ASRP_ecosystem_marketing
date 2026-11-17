@@ -136,9 +136,10 @@ class Canvas:
             self.o.append(text(x + 16, y + 28, label, FS_KICKER, color if color != LINE else MUTED, "start", 800, 0.6, w - 32))
 
     def box(self, x, y, w, title=None, lines=(), status=(), stroke=TEAL, h=None, title_size=15, pad=14,
-            fill=PANEL, center=False):
+            fill=PANEL, center=False, valign="middle"):
         """A card. `lines` are muted body lines (auto-wrapped), `status` is a list of (text, colour)
-        written in bold. Returns (x, y, w, h) so arrows can attach to it."""
+        written in bold. With a fixed `h`, content is centred vertically unless valign="top".
+        `center=True` centres text horizontally. Returns (x, y, w, h) so arrows can attach to it."""
         inner = w - 2 * pad
         rows = []
         if title:
@@ -157,7 +158,7 @@ class Canvas:
             raise SystemExit("box %r needs %d px, has %d" % (title, need, h))
         self.o.append("<rect x='%s' y='%s' width='%s' height='%s' rx='%d' fill='%s' stroke='%s' stroke-width='1.6'/>"
                       % (x, y, w, h, RADIUS, fill, stroke))
-        cy = y + pad + (h - need) / 2
+        cy = y + pad + ((h - need) / 2 if valign == "middle" else 0)
         for ln, size, col, weight, adv in rows:
             cy += adv
             if center:

@@ -8,7 +8,7 @@
 
 </div>
 
-> Migrated verbatim from the pre-2026-11 root README (snapshot `cfd1940`, archived in [`archive/`](../archive/README_2026-11-17_pre-marketing-update.md)). Statuses and figures are as stated in that source, mostly dated 2026-Q2, and have not been re-verified since.
+> Statuses and figures on this page are as of 2026-Q2 unless a date is given, and are stated by the project; they have not been independently re-verified.
 
 ---
 

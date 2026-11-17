@@ -17,7 +17,8 @@ Checks (H = hard, fails the run; S = soft, listed for human review)
     H2 every external/internal URL of OLD is present in NEW
     H3 every number token of OLD is present in NEW
     H4 every date, e-mail, @handle and code span of OLD is present in NEW
-    H5 every image of OLD is still referenced in NEW and the file exists
+    H5 every image of OLD is still shown in NEW (as the PNG or as its redrawn EN/RU SVG pair)
+       and the original file still exists
     H6 every heading anchor of OLD exists as a legacy <a id> in README.md
     H7 no broken relative link / fragment in any tracked Markdown file
     H8 no file deleted relative to the tag
@@ -168,7 +169,11 @@ def main():
     img_miss = []
     for im in old["images"]:
         base = os.path.basename(im["target"])
-        if base not in allt:
+        stem = base.rsplit(".", 1)[0]
+        # A legacy PNG counts as kept when the pages show it, or when they show its redrawn pair:
+        # STEM.en.svg on the English pages and STEM.ru.svg on the Russian pages.
+        redrawn = (stem + ".en.svg") in en and (stem + ".ru.svg") in ru
+        if base not in allt and not redrawn:
             img_miss.append(im["target"] + " (not referenced)")
         if not os.path.exists(im["target"]):
             img_miss.append(im["target"] + " (file missing)")

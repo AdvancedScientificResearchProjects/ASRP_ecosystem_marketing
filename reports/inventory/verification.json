@@ -26,7 +26,9 @@
    "5-10",
    "51.4"
   ],
-  "S1_names_missing": [],
+  "S1_names_missing": [
+   "TABLE OF CONTENTS"
+  ],
   "S2_low_coverage_segments": [
    {
     "line": 9,
@@ -88,36 +90,36 @@
  "stats": {
   "archive_sha256": "7fdfdf196292ee9ca3dc1e5fe3c4d6d69c55ca53ce2033cd04280d709d110bc4",
   "new_files": {
-   "README.md": 63127,
-   "README.ru.md": 56656,
-   "docs/ECOSYSTEM.md": 12161,
-   "docs/ECOSYSTEM.ru.md": 12308,
-   "docs/FUNDING.md": 3660,
-   "docs/FUNDING.ru.md": 3582,
-   "docs/LEGAL_ENTITIES.md": 5584,
-   "docs/LEGAL_ENTITIES.ru.md": 5854,
-   "docs/MEDIA_AND_CHANNELS.md": 11974,
-   "docs/MEDIA_AND_CHANNELS.ru.md": 12312,
-   "docs/OUTREACH.md": 7064,
-   "docs/OUTREACH.ru.md": 7507,
-   "docs/PARTNERSHIPS_AND_TERMS.md": 2323,
-   "docs/PARTNERSHIPS_AND_TERMS.ru.md": 2421,
-   "docs/PATHS_TO_MONEY_PRODUCTS.md": 13858,
-   "docs/PATHS_TO_MONEY_PRODUCTS.ru.md": 14592,
-   "docs/PATHS_TO_MONEY_RESEARCH.md": 10055,
-   "docs/PATHS_TO_MONEY_RESEARCH.ru.md": 10442,
-   "docs/README.md": 4433,
-   "docs/README.ru.md": 4939,
-   "docs/RESEARCH_AND_IP.md": 7577,
-   "docs/RESEARCH_AND_IP.ru.md": 7612,
-   "docs/ROADMAP.md": 2200,
-   "docs/ROADMAP.ru.md": 2275,
-   "docs/TARGET_MARKETS.md": 5808,
-   "docs/TARGET_MARKETS.ru.md": 5936,
-   "docs/TEAM.md": 1939,
-   "docs/TEAM.ru.md": 1908,
-   "docs/TRACK_RECORD.md": 6013,
-   "docs/TRACK_RECORD.ru.md": 6076
+   "README.md": 61388,
+   "README.ru.md": 55990,
+   "docs/ECOSYSTEM.md": 12051,
+   "docs/ECOSYSTEM.ru.md": 12200,
+   "docs/FUNDING.md": 3550,
+   "docs/FUNDING.ru.md": 3474,
+   "docs/LEGAL_ENTITIES.md": 5474,
+   "docs/LEGAL_ENTITIES.ru.md": 5746,
+   "docs/MEDIA_AND_CHANNELS.md": 11864,
+   "docs/MEDIA_AND_CHANNELS.ru.md": 12204,
+   "docs/OUTREACH.md": 6954,
+   "docs/OUTREACH.ru.md": 7399,
+   "docs/PARTNERSHIPS_AND_TERMS.md": 2213,
+   "docs/PARTNERSHIPS_AND_TERMS.ru.md": 2313,
+   "docs/PATHS_TO_MONEY_PRODUCTS.md": 13748,
+   "docs/PATHS_TO_MONEY_PRODUCTS.ru.md": 14484,
+   "docs/PATHS_TO_MONEY_RESEARCH.md": 9945,
+   "docs/PATHS_TO_MONEY_RESEARCH.ru.md": 10334,
+   "docs/README.md": 4272,
+   "docs/README.ru.md": 4777,
+   "docs/RESEARCH_AND_IP.md": 7467,
+   "docs/RESEARCH_AND_IP.ru.md": 7504,
+   "docs/ROADMAP.md": 2090,
+   "docs/ROADMAP.ru.md": 2167,
+   "docs/TARGET_MARKETS.md": 5698,
+   "docs/TARGET_MARKETS.ru.md": 5828,
+   "docs/TEAM.md": 1829,
+   "docs/TEAM.ru.md": 1800,
+   "docs/TRACK_RECORD.md": 5903,
+   "docs/TRACK_RECORD.ru.md": 5968
   },
   "segments_checked": {
    "en": 1029,
@@ -127,8 +129,8 @@
   "segments_low": 9,
   "table_rows": {
    "old": 158,
-   "new_en": 318,
-   "new_ru": 318
+   "new_en": 295,
+   "new_ru": 295
   },
   "old_counts": {
    "chars": 152972,

@@ -8,7 +8,7 @@
 
 </div>
 
-> Migrated verbatim from the pre-2026-11 root README (snapshot `cfd1940`, archived in [`archive/`](../archive/README_2026-11-17_pre-marketing-update.md)). Statuses and figures are as stated in that source, mostly dated 2026-Q2, and have not been re-verified since.
+> Statuses and figures on this page are as of 2026-Q2 unless a date is given, and are stated by the project; they have not been independently re-verified.
 
 ---
 
@@ -51,17 +51,17 @@ Two separate views for clarity: **what we have** (taxonomy) and **how money move
 
 ### A. Taxonomy — main clusters
 
-![ASRP Ecosystem Taxonomy](../assets/diagrams/01-taxonomy.png)
+![ASRP Ecosystem Taxonomy](assets/diagrams/01-taxonomy.en.svg)
 
 > **Edu & Audience is also a raw-data source for the ecosystem.** Arcanum12th courses (extrasensory perception, expanded cognitive perception, TORO, bodybuilding, etc.) collect **raw biological data** from enrolled students: genetic analysis, EEG, electrodermal / skin-galvanic response, parasympathetic / autonomic nervous-system metrics, medical workup. Together with the Arcanum12th_BOT dream-and-biosensor stream, these flows feed the analytical layer that produces **scientific publications, GFS forecasts, and GMS consciousness-state tokens**. The clusters are not isolated silos — Edu → R&D → Content & Media → Commerce is a single data-and-revenue pipeline.
 
-![ASRP Data Flow — Raw Biosignals → Analytics → Outputs](../assets/diagrams/18-data-flow.png)
+![ASRP Data Flow — Raw Biosignals → Analytics → Outputs](assets/diagrams/18-data-flow.en.svg)
 
 > The diagram above shows the **data semantics the taxonomy above does not**: Arcanum12 courses + Arcanum12th_BOT feed the analytical layer → three downstream outputs (publications, GFS forecasts, GMS tokens) → the **Kapusta rating substrate** closes the loop by filtering low-quality forecasts, promoting accurate contributors, and motivating biological sensors (documented in the GFS patent).
 
 ### B. Money flow — who pays for what
 
-![Money flow](../assets/diagrams/02-money-flow.png)
+![Money flow](assets/diagrams/02-money-flow.en.svg)
 
 > One dashed flow is shown explicitly: the bot supplies biosensor data to R&D (feeding GFS). The full flow chain from research to media and audience lives in the separate [Frequency Ladder](MEDIA_AND_CHANNELS.md) diagram below.
 
