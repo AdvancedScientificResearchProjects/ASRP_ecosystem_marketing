@@ -30,7 +30,7 @@
 
 ### Стек финансирования
 
-![Стек финансирования](../assets/diagrams/06-funding-stack.png)
+![Стек финансирования](assets/diagrams/06-funding-stack.ru.svg)
 
 ### Текущие меценаты
 

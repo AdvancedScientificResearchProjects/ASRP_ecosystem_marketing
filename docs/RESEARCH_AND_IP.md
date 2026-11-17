@@ -68,4 +68,4 @@ See [`whitepaper/README.md`](../whitepaper/README.md) for the **complete publica
 
 > The timeline below tracks **five event classes** — company registrations and re-instatements (SunBiz/KZ registries), patent filings and copyright registrations, scientific publications and preregistrations, accreditations (DARPA · Tesla · OSF), and public events (hackathons, pitch battles).
 
-![Accreditations & epochs timeline](../assets/diagrams/03-accreditations-timeline.png)
+![Accreditations & epochs timeline](assets/diagrams/03-accreditations-timeline.en.svg)

@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1582" width="1200" height="1582" role="img" aria-labelledby="t d">
+<title id="t">ASRP credentials timeline</title>
+<desc id="d">ASRP credentials timeline. Legal entity: 10 Oct 2017, ASRP LLC filed (FL) | 28 Feb 2018, FL LLC name change | 27 Jan 2024, KZ TOO filed (Baikonur) | 10 Jun 2025, FL LLC reinstated | 28 Feb 2026, FL LLC 2026 report + address change. Patent / Copyright: 2024, US Copyright · BFS | 27 Nov 2024, Kazpatent · GFS | 20 Sep 2025, Kazpatent · Inspira-X | 8 Nov 2025, Kazpatent · Fractal + Biophotonic | 2026, Kazpatent · ASRP.art PCT | 24 Mar 2026, Kazpatent · ASRP.drift. Paper / preprint: Jan 2024, Preprint · Dream Sync | 2024, Peer-review · ASRP.drift | Oct 2024, Whitepaper · GMS/GFS | Jan 2025, Journal pub. · JIBF. Accreditation: 22 Aug 2025, Tesla Business Program | 16 Sep 2025, DARPA BAA portal access. Event: 11 Sep 2025, Theta Hackathon · Berlin | Nov 2025, AstanaHub · Industry 4.0 Pitch. OSF preregistration: Apr 2026, OSF · Yeast preregistration.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='1582' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>ASRP credentials timeline</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Legal entities, patents, papers, accreditations and events</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ASRP · CREDENTIALS</text>
+<rect x='212' y='96' width='209.2' height='74' rx='12' fill='#0b1430' stroke='#8ea0d6' stroke-width='1.6'/>
+<text x='316.6' y='140.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>2017–2018 · Foundation</text>
+<rect x='465.2' y='96' width='280.3' height='74' rx='12' fill='#0b1430' stroke='#8ea0d6' stroke-width='1.6'/>
+<text x='605.4' y='140.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>2024 · Science &amp; KZ entity</text>
+<rect x='749.5' y='96' width='280.3' height='74' rx='12' fill='#0b1430' stroke='#8ea0d6' stroke-width='1.6'/>
+<text x='889.6' y='140.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>2025 · Accreditations</text>
+<rect x='1033.8' y='96' width='138.2' height='74' rx='12' fill='#0b1430' stroke='#8ea0d6' stroke-width='1.6'/>
+<text x='1102.9' y='130.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026 · Patents &amp;</text>
+<text x='1102.9' y='150.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>preregistrations</text>
+<rect x='212' y='184' width='213.2' height='1254' fill='#0d1530' fill-opacity='0.55'/>
+<rect x='749.5' y='184' width='284.3' height='1254' fill='#0d1530' fill-opacity='0.55'/>
+<rect x='24' y='184' width='168' height='202' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='34' y='292.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>■ Legal entity</text>
+<line x1='212' y1='286' x2='425.2307692307692' y2='286' stroke='#2a3b78' stroke-width='2'/>
+<line x1='465.2307692307692' y1='286' x2='1176' y2='286' stroke='#2a3b78' stroke-width='2'/>
+<line x1='290.2' y1='286' x2='290.2' y2='300' stroke='#6f9bff' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='290.2' y='293' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#6f9bff' text-anchor='middle' font-weight='800'>■</text>
+<line x1='399.2' y1='286' x2='399.2' y2='272' stroke='#6f9bff' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='399.2' y='293' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#6f9bff' text-anchor='middle' font-weight='800'>■</text>
+<line x1='485.8' y1='286' x2='485.8' y2='300' stroke='#6f9bff' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='485.8' y='293' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#6f9bff' text-anchor='middle' font-weight='800'>■</text>
+<line x1='875.1' y1='286' x2='875.1' y2='300' stroke='#6f9bff' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='875.1' y='293' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#6f9bff' text-anchor='middle' font-weight='800'>■</text>
+<line x1='1078.9' y1='286' x2='1078.9' y2='300' stroke='#6f9bff' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='1078.9' y='293' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#6f9bff' text-anchor='middle' font-weight='800'>■</text>
+<rect x='212' y='302' width='190' height='72' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='220' y='325.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>10 Oct 2017</text>
+<text x='220' y='345.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ASRP LLC filed (FL)</text>
+<rect x='304.2' y='198' width='190' height='72' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='312.2' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>28 Feb 2018</text>
+<text x='312.2' y='241.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>FL LLC name change</text>
+<rect x='435.8' y='302' width='190' height='72' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='443.8' y='325.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>27 Jan 2024</text>
+<text x='443.8' y='345.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>KZ TOO filed (Baikonur)</text>
+<rect x='780.1' y='302' width='190' height='72' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='788.1' y='325.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>10 Jun 2025</text>
+<text x='788.1' y='345.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>FL LLC reinstated</text>
+<rect x='983.9' y='302' width='190' height='72' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='991.9' y='325.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>28 Feb 2026</text>
+<text x='991.9' y='345.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>FL LLC 2026 report +</text>
+<text x='991.9' y='365.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>address change</text>
+<rect x='24' y='394' width='168' height='366' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='34' y='584.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>▲ Patent / Copyright</text>
+<line x1='212' y1='578' x2='425.2307692307692' y2='578' stroke='#2a3b78' stroke-width='2'/>
+<line x1='465.2307692307692' y1='578' x2='1176' y2='578' stroke='#2a3b78' stroke-width='2'/>
+<line x1='607.4' y1='578' x2='607.4' y2='592' stroke='#a78bfa' stroke-width='1.6' stroke-dasharray='4 4'/>
+<rect x='465.2' y='574' width='284.3' height='8' rx='4' fill='#a78bfa' fill-opacity='0.7'/>
+<line x1='722.7' y1='578' x2='722.7' y2='564' stroke='#a78bfa' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='722.7' y='585' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#a78bfa' text-anchor='middle' font-weight='800'>▲</text>
+<line x1='954.1' y1='578' x2='954.1' y2='592' stroke='#a78bfa' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='954.1' y='585' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#a78bfa' text-anchor='middle' font-weight='800'>▲</text>
+<line x1='992.0' y1='578' x2='992.0' y2='564' stroke='#a78bfa' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='992.0' y='585' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#a78bfa' text-anchor='middle' font-weight='800'>▲</text>
+<line x1='1104.9' y1='578' x2='1104.9' y2='674' stroke='#a78bfa' stroke-width='1.6' stroke-dasharray='4 4'/>
+<rect x='1033.8' y='574' width='142.2' height='8' rx='4' fill='#a78bfa' fill-opacity='0.7'/>
+<line x1='1099.4' y1='578' x2='1099.4' y2='482' stroke='#a78bfa' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='1099.4' y='585' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#a78bfa' text-anchor='middle' font-weight='800'>▲</text>
+<rect x='512.4' y='594' width='190' height='72' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='520.4' y='617.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>2024</text>
+<text x='520.4' y='637.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>US Copyright · BFS</text>
+<rect x='627.7' y='490' width='190' height='72' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='635.7' y='513.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>27 Nov 2024</text>
+<text x='635.7' y='533.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Kazpatent · GFS</text>
+<rect x='859.1' y='594' width='190' height='72' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='867.1' y='617.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>20 Sep 2025</text>
+<text x='867.1' y='637.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Kazpatent · Inspira-X</text>
+<rect x='897.0' y='490' width='190' height='72' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='905.0' y='513.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>8 Nov 2025</text>
+<text x='905.0' y='533.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Kazpatent · Fractal +</text>
+<text x='905.0' y='553.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Biophotonic</text>
+<rect x='986' y='676' width='190' height='72' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='994' y='699.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>2026</text>
+<text x='994' y='719.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Kazpatent · ASRP.art PCT</text>
+<rect x='986' y='408' width='190' height='72' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='994' y='431.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>24 Mar 2026</text>
+<text x='994' y='451.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Kazpatent · ASRP.drift</text>
+<rect x='24' y='768' width='168' height='162' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='34' y='856.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>● Paper / preprint</text>
+<line x1='212' y1='850' x2='425.2307692307692' y2='850' stroke='#2a3b78' stroke-width='2'/>
+<line x1='465.2307692307692' y1='850' x2='1176' y2='850' stroke='#2a3b78' stroke-width='2'/>
+<line x1='607.4' y1='850' x2='607.4' y2='864' stroke='#4ecdc4' stroke-width='1.6' stroke-dasharray='4 4'/>
+<rect x='465.2' y='846' width='284.3' height='8' rx='4' fill='#4ecdc4' fill-opacity='0.7'/>
+<line x1='476.3' y1='850' x2='476.3' y2='864' stroke='#4ecdc4' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='476.3' y='857' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#4ecdc4' text-anchor='middle' font-weight='800'>●</text>
+<line x1='689.5' y1='850' x2='689.5' y2='836' stroke='#4ecdc4' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='689.5' y='857' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#4ecdc4' text-anchor='middle' font-weight='800'>●</text>
+<line x1='760.6' y1='850' x2='760.6' y2='864' stroke='#4ecdc4' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='760.6' y='857' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#4ecdc4' text-anchor='middle' font-weight='800'>●</text>
+<rect x='512.4' y='866' width='190' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='520.4' y='889.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>2024</text>
+<text x='520.4' y='909.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Peer-review · ASRP.drift</text>
+<rect x='300.3' y='866' width='190' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='308.3' y='889.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>Jan 2024</text>
+<text x='308.3' y='909.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Preprint · Dream Sync</text>
+<rect x='594.5' y='782' width='190' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='602.5' y='805.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>Oct 2024</text>
+<text x='602.5' y='825.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Whitepaper · GMS/GFS</text>
+<rect x='710.6' y='866' width='190' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='718.6' y='889.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>Jan 2025</text>
+<text x='718.6' y='909.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Journal pub. · JIBF</text>
+<rect x='24' y='938' width='168' height='162' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='34' y='1026.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>◆ Accreditation</text>
+<line x1='212' y1='1020' x2='425.2307692307692' y2='1020' stroke='#2a3b78' stroke-width='2'/>
+<line x1='465.2307692307692' y1='1020' x2='1176' y2='1020' stroke='#2a3b78' stroke-width='2'/>
+<line x1='932.0' y1='1020' x2='932.0' y2='1034' stroke='#ffcf5c' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='932.0' y='1027' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◆</text>
+<line x1='950.9' y1='1020' x2='950.9' y2='1006' stroke='#ffcf5c' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='950.9' y='1027' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◆</text>
+<rect x='837.0' y='1036' width='190' height='52' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='845.0' y='1059.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>22 Aug 2025</text>
+<text x='845.0' y='1079.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Tesla Business Program</text>
+<rect x='855.9' y='952' width='190' height='52' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='863.9' y='975.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>16 Sep 2025</text>
+<text x='863.9' y='995.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>DARPA BAA portal access</text>
+<rect x='24' y='1108' width='168' height='202' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='34' y='1216.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>★ Event</text>
+<line x1='212' y1='1210' x2='425.2307692307692' y2='1210' stroke='#2a3b78' stroke-width='2'/>
+<line x1='465.2307692307692' y1='1210' x2='1176' y2='1210' stroke='#2a3b78' stroke-width='2'/>
+<line x1='947.0' y1='1210' x2='947.0' y2='1224' stroke='#34d399' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='947.0' y='1217' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#34d399' text-anchor='middle' font-weight='800'>★</text>
+<line x1='997.5' y1='1210' x2='997.5' y2='1196' stroke='#34d399' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='997.5' y='1217' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#34d399' text-anchor='middle' font-weight='800'>★</text>
+<rect x='852.0' y='1226' width='190' height='72' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='860.0' y='1249.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>11 Sep 2025</text>
+<text x='860.0' y='1269.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Theta Hackathon · Berlin</text>
+<rect x='902.5' y='1122' width='190' height='72' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='910.5' y='1145.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>Nov 2025</text>
+<text x='910.5' y='1165.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>AstanaHub · Industry 4.0</text>
+<text x='910.5' y='1185.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Pitch</text>
+<rect x='24' y='1318' width='168' height='120' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='34' y='1375.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>○ OSF</text>
+<text x='34' y='1395.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>preregistration</text>
+<line x1='212' y1='1338' x2='425.2307692307692' y2='1338' stroke='#2a3b78' stroke-width='2'/>
+<line x1='465.2307692307692' y1='1338' x2='1176' y2='1338' stroke='#2a3b78' stroke-width='2'/>
+<line x1='1116.0' y1='1338' x2='1116.0' y2='1352' stroke='#ffa657' stroke-width='1.6' stroke-dasharray='4 4'/>
+<text x='1116.0' y='1345' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#ffa657' text-anchor='middle' font-weight='800'>○</text>
+<rect x='986' y='1354' width='190' height='72' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='994' y='1377.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='700'>Apr 2026</text>
+<text x='994' y='1397.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>OSF · Yeast</text>
+<text x='994' y='1417.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>preregistration</text>
+<line x1='212' y1='1448' x2='425.2307692307692' y2='1448' stroke='#8ea0d6' stroke-width='2'/>
+<line x1='465.2307692307692' y1='1448' x2='1176' y2='1448' stroke='#8ea0d6' stroke-width='2'/>
+<line x1='536.3' y1='1448' x2='536.3' y2='1454' stroke='#8ea0d6' stroke-width='1.4'/>
+<line x1='607.4' y1='1448' x2='607.4' y2='1454' stroke='#8ea0d6' stroke-width='1.4'/>
+<line x1='678.5' y1='1448' x2='678.5' y2='1454' stroke='#8ea0d6' stroke-width='1.4'/>
+<line x1='820.6' y1='1448' x2='820.6' y2='1454' stroke='#8ea0d6' stroke-width='1.4'/>
+<line x1='891.7' y1='1448' x2='891.7' y2='1454' stroke='#8ea0d6' stroke-width='1.4'/>
+<line x1='962.8' y1='1448' x2='962.8' y2='1454' stroke='#8ea0d6' stroke-width='1.4'/>
+<line x1='1104.9' y1='1448' x2='1104.9' y2='1454' stroke='#8ea0d6' stroke-width='1.4'/>
+<line x1='354.2' y1='1445' x2='354.2' y2='1458' stroke='#e6ecff' stroke-width='2.4'/>
+<text x='354.2' y='1476' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>2018</text>
+<line x1='465.2' y1='1445' x2='465.2' y2='1458' stroke='#e6ecff' stroke-width='2.4'/>
+<text x='465.2' y='1476' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>2024</text>
+<line x1='749.5' y1='1445' x2='749.5' y2='1458' stroke='#e6ecff' stroke-width='2.4'/>
+<text x='749.5' y='1476' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>2025</text>
+<line x1='1033.8' y1='1445' x2='1033.8' y2='1458' stroke='#e6ecff' stroke-width='2.4'/>
+<text x='1033.8' y='1476' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026</text>
+<path d='M449.2,1442 l-6,12 M457.2,1442 l-6,12' stroke='#8ea0d6' stroke-width='2' fill='none'/>
+<text x='445.2307692307692' y='1500' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>2019–2023</text>
+<text x='445.2307692307692' y='1517' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(no events)</text>
+<rect x='24' y='1538' width='40' height='8' rx='4' fill='#8ea0d6' fill-opacity='0.7'/>
+<text x='74' y='1546' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>bar over a year: only the year is given in the source</text>
+</svg>

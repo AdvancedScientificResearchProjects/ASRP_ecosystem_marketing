@@ -18,8 +18,19 @@ class NoLossTest(unittest.TestCase):
 
     def test_visuals_build_and_fit(self):
         """The generator aborts when a label does not fit its container or a font is too small."""
-        r = subprocess.run([sys.executable, "tools/build_visuals.py"], cwd=ROOT, capture_output=True, text=True)
-        self.assertEqual(r.returncode, 0, r.stdout[-2000:] + r.stderr[-2000:])
+        for tool in ("tools/build_visuals.py", "tools/build_diagrams.py"):
+            r = subprocess.run([sys.executable, tool], cwd=ROOT, capture_output=True, text=True)
+            self.assertEqual(r.returncode, 0, tool + ": " + r.stdout[-2000:] + r.stderr[-2000:])
+
+    def test_every_diagram_has_both_languages_and_metadata(self):
+        d = os.path.join(ROOT, "docs", "assets", "diagrams")
+        names = sorted(os.listdir(d))
+        for n in names:
+            twin = n.replace(".en.svg", ".ru.svg") if n.endswith(".en.svg") else n.replace(".ru.svg", ".en.svg")
+            self.assertIn(twin, names, "missing language twin for " + n)
+            svg = open(os.path.join(d, n), encoding="utf-8").read()
+            for need in ("<title", "<desc", "viewBox", 'role="img"'):
+                self.assertIn(need, svg, n + " lacks " + need)
 
     def test_readme_excerpts_are_in_sync_with_docs(self):
         """README sections pulled from docs/ must equal a fresh build (no hand edits, no drift)."""

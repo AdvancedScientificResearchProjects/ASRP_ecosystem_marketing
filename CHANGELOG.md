@@ -16,7 +16,7 @@
 - The front page shows every area itself (ecosystem map, component tables, patents, accreditations and
   timeline, legal entities, funnels, track record, funding, media, roadmap, team); these parts are pulled
   from the `docs/` pages by a script, so there is no second copy of the text.
-- Diagrams are being redrawn as separate English and Russian SVG files in one style
+- All 17 diagrams redrawn as separate English and Russian SVG files in one style
   (`tools/build_diagrams.py`); the original PNG files stay in `assets/diagrams/`.
 - Links to the earlier section anchors keep working through invisible anchors at the matching sections.
 - Not changed: `whitepaper/`, `graph/`, `assets/diagrams/`.

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-labelledby="t d">
+<title id="t">Funding stack</title>
+<desc id="d">Seven funding sources: Patrons (~$165k cumulative), Investors (non-equity), Crowdfunding (Inspira-X), Government, Research grants, B2B licensing, Ads and Affiliate. All seven feed Operations and R&amp;D, which feeds Products and Patents. A dashed arrow leads from Products and Patents back to Patrons.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='900' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Funding stack</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Seven sources feed Operations and R&amp;D, then Products and Patents</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ASRP · FUNDING</text>
+<rect x='60' y='140' width='360' height='88' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='240.0' y='172.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Patrons</text>
+<text x='240.0' y='192.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(~$165k cumulative)</text>
+<text x='240.0' y='213.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>● ACTIVE</text>
+<defs><marker id='m8ea0d6' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#8ea0d6'/></marker></defs>
+<path d='M423.0,184.0 L497.0,184.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='60' y='242' width='360' height='88' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='240.0' y='274.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Investors</text>
+<text x='240.0' y='294.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(non-equity)</text>
+<text x='240.0' y='315.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>○ OPEN</text>
+<path d='M423.0,286.0 L497.0,286.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='60' y='344' width='360' height='88' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='240.0' y='376.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Crowdfunding</text>
+<text x='240.0' y='396.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(Inspira-X)</text>
+<text x='240.0' y='417.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>○ PLANNED</text>
+<path d='M423.0,388.0 L497.0,388.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='60' y='446' width='360' height='88' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='240.0' y='488.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Government</text>
+<text x='240.0' y='509.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>○ TARGET</text>
+<path d='M423.0,490.0 L497.0,490.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='60' y='548' width='360' height='88' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='240.0' y='590.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Research grants</text>
+<text x='240.0' y='611.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◐ IN PIPELINE</text>
+<path d='M423.0,592.0 L497.0,592.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='60' y='650' width='360' height='88' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='240.0' y='692.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>B2B licensing</text>
+<text x='240.0' y='713.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>◐ IN PIPELINE</text>
+<path d='M423.0,694.0 L497.0,694.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='60' y='752' width='360' height='88' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='240.0' y='794.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Ads &amp; Affiliate</text>
+<text x='240.0' y='815.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>● ACTIVE</text>
+<path d='M423.0,796.0 L497.0,796.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<line x1='500' y1='184.0' x2='500' y2='796.0' stroke='#8ea0d6' stroke-width='2'/>
+<rect x='600' y='440.0' width='250' height='100' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='725.0' y='499.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='17' fill='#e6ecff' text-anchor='middle' font-weight='700'>Operations &amp; R&amp;D</text>
+<path d='M500.0,490.0 L596.0,490.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='930' y='440.0' width='240' height='100' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='1050.0' y='499.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='17' fill='#e6ecff' text-anchor='middle' font-weight='700'>Products &amp; Patents</text>
+<path d='M853.0,490.0 L926.0,490.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<defs><marker id='mffcf5c' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffcf5c'/></marker></defs>
+<path d='M1050.0,436.0 L1050.0,106.0 L240.0,106.0 L240.0,136.0' fill='none' stroke='#ffcf5c' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#mffcf5c)'><animate attributeName='stroke-dashoffset' from='26' to='0' dur='1.6s' repeatCount='indefinite'/></path>
+<line x1='24' y1='872' x2='64' y2='872' stroke='#ffcf5c' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#mffcf5c)'/>
+<text x='74' y='876' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>dashed arrow: from Products &amp; Patents back to Patrons</text>
+</svg>

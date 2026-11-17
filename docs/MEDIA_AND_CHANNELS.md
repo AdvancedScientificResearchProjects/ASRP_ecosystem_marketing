@@ -16,7 +16,7 @@
 
 **Same research, different complexity, different audience.**
 
-![Frequency Ladder](../assets/diagrams/07-frequency-ladder.png)
+![Frequency Ladder](assets/diagrams/07-frequency-ladder.en.svg)
 
 - Journal builds credibility.
 - Media translates for general audience.
@@ -30,7 +30,7 @@
 
 **Not one channel — one system.** ASRP's media surface is not a collection of independent accounts; it is a **cross-platform content factory** in which every project (ASRP.art, ASRP.science, ASRP.fashion, ASRP.drift, ASRP.media, Arcanum12th, GMS, Inspira-X, Kapusta.money, BFS) has its own presence on every available channel, and the channels are orchestrated to feed a single discovery-and-monetisation funnel.
 
-![ASRP Media Strategy — Unified Content Factory](../assets/diagrams/17-media-strategy.png)
+![ASRP Media Strategy — Unified Content Factory](assets/diagrams/17-media-strategy.en.svg)
 
 ### Content-factory pipeline
 

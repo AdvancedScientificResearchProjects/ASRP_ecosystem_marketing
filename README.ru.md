@@ -75,7 +75,7 @@
 **[English](README.md) | Русский.** Каждая страница существует в двух языковых версиях: `*.md` (английская) и
 `*.ru.md` (русская); графика — `*.en.svg` / `*.ru.svg`. Языки в тексте не смешиваются. Исключения:
 [`whitepaper/README.md`](whitepaper/README.md) и страницы в [`graph/`](graph/README.md) пока содержат оба
-языка на одной странице, а [отчёт о проверке](reports/MARKETING_UPDATE_REPORT.md) есть только на русском.
+языка на одной странице.
 
 ---
 
@@ -98,7 +98,6 @@
 | <img src="docs/assets/icons/legal.svg" width="44" alt="значок юрлиц"> | **[Юридические лица](docs/LEGAL_ENTITIES.ru.md)** | данные реестров по Florida LLC и казахстанскому ТОО, примечание о владении и UBO |
 | <img src="docs/assets/icons/terms.svg" width="44" alt="значок условий"> | **[Партнёрство и условия](docs/PARTNERSHIPS_AND_TERMS.ru.md)** | что предлагаем и что ищем по типам партнёров, контакты, важные примечания, лицензия |
 | <img src="docs/assets/icons/graph.svg" width="44" alt="значок графа"> | **[Интерактивный граф](graph/README.md)** | карта сущностей и связей в браузере, заметки о потоках денег, исходные данные |
-| <img src="docs/assets/icons/report.svg" width="44" alt="значок отчёта"> | **[Отчёт о проверке](reports/MARKETING_UPDATE_REPORT.md)** | что и как проверялось, непроверенные утверждения, открытые вопросы |
 
 Полный список: [указатель документации](docs/README.ru.md).
 
@@ -354,7 +353,7 @@ YouTube-канал и программы на исследовательской
 
 > Ниже показаны **пять классов событий** — регистрации и восстановления компаний (реестры SunBiz и КЗ), подачи патентов и регистрации авторских прав, научные публикации и предрегистрации, аккредитации (DARPA · Tesla · OSF), публичные события (хакатоны, pitch-battle).
 
-![Хронология аккредитаций и эпох](assets/diagrams/03-accreditations-timeline.png)
+![Хронология аккредитаций и эпох](docs/assets/diagrams/03-accreditations-timeline.ru.svg)
 <!-- /excerpt -->
 
 ---
@@ -364,7 +363,7 @@ YouTube-канал и программы на исследовательской
 <!-- excerpt LEGAL_ENTITIES 0 stop=^#### -->
 **ASRP — мультиюрисдикционная группа.** В текущий периметр входят три юридических лица: операционный US LLC **ASRP LLC** (Флорида, с 2017), исследовательско-патентное **ТОО** (Байконур, 2024) и компания в **Великобритании** (на стадии восстановления корпоративного статуса — reinstatement). Florida LLC и ТОО верифицируются через публичные реестры; UK-компания — на стадии восстановления и отражена здесь в рамках продолжающейся консолидации группы (см. UBO-примечание ниже).
 
-![Хронология юр. лиц](assets/diagrams/12-company-epochs.png)
+![Хронология юр. лиц](docs/assets/diagrams/12-company-epochs.ru.svg)
 
 ### ООО «ASRP» (Флорида, США)
 
@@ -432,17 +431,17 @@ YouTube-канал и программы на исследовательской
 Продукты и платформы:
 
 <!-- excerpt PATHS_TO_MONEY_PRODUCTS 4 mode=images -->
-<a href="docs/PATHS_TO_MONEY_PRODUCTS.ru.md#паттерн-кросс-промо"><img src="assets/diagrams/11-cross-promo.png" width="100%" alt="Путь денег кросс-промо"></a>
+<a href="docs/PATHS_TO_MONEY_PRODUCTS.ru.md#паттерн-кросс-промо"><img src="docs/assets/diagrams/11-cross-promo.ru.svg" width="100%" alt="Путь денег кросс-промо"></a>
 
 <!-- /excerpt -->
 <!-- excerpt PATHS_TO_MONEY_PRODUCTS 7 mode=images -->
-<a href="docs/PATHS_TO_MONEY_PRODUCTS.ru.md#daat-кристаллы--премиум-когнитивное-усиление"><img src="assets/diagrams/08-cognitive-stack.png" width="100%" alt="Стек когнитивного усиления"></a>
+<a href="docs/PATHS_TO_MONEY_PRODUCTS.ru.md#daat-кристаллы--премиум-когнитивное-усиление"><img src="docs/assets/diagrams/08-cognitive-stack.ru.svg" width="100%" alt="Стек когнитивного усиления"></a>
 
-<a href="docs/PATHS_TO_MONEY_PRODUCTS.ru.md#daat-кристаллы--премиум-когнитивное-усиление"><img src="assets/diagrams/09-daat-loop.png" width="100%" alt="Измерительная петля DAAT-кристалла"></a>
+<a href="docs/PATHS_TO_MONEY_PRODUCTS.ru.md#daat-кристаллы--премиум-когнитивное-усиление"><img src="docs/assets/diagrams/09-daat-loop.ru.svg" width="100%" alt="Измерительная петля DAAT-кристалла"></a>
 
 <!-- /excerpt -->
 <!-- excerpt PATHS_TO_MONEY_PRODUCTS 8 mode=images -->
-<a href="docs/PATHS_TO_MONEY_PRODUCTS.ru.md#gms--banchenko-market"><img src="assets/diagrams/10-banchenko-market.png" width="100%" alt="Поток Banchenko-Market"></a>
+<a href="docs/PATHS_TO_MONEY_PRODUCTS.ru.md#gms--banchenko-market"><img src="docs/assets/diagrams/10-banchenko-market.ru.svg" width="100%" alt="Поток Banchenko-Market"></a>
 
 <!-- /excerpt -->
 
@@ -520,7 +519,7 @@ YouTube-канал и программы на исследовательской
 
 ### Стек финансирования
 
-![Стек финансирования](assets/diagrams/06-funding-stack.png)
+![Стек финансирования](docs/assets/diagrams/06-funding-stack.ru.svg)
 <!-- /excerpt -->
 
 Уровни меценатства, текущие меценаты и способы поддержать:
@@ -533,7 +532,7 @@ YouTube-канал и программы на исследовательской
 <!-- excerpt MEDIA_AND_CHANNELS 0 -->
 **Одно и то же исследование, разная сложность, разная аудитория.**
 
-![Частотная лестница контента](assets/diagrams/07-frequency-ladder.png)
+![Частотная лестница контента](docs/assets/diagrams/07-frequency-ladder.ru.svg)
 
 - Журнал строит доверие.
 - Медиа переводит для массовой аудитории.
@@ -543,7 +542,7 @@ YouTube-канал и программы на исследовательской
 <!-- /excerpt -->
 
 <!-- excerpt MEDIA_AND_CHANNELS 1 mode=images -->
-<a href="docs/MEDIA_AND_CHANNELS.ru.md#медиа-стратегия--единый-контент-завод"><img src="assets/diagrams/17-media-strategy.png" width="100%" alt="Медиа-стратегия ASRP — единый контент-завод"></a>
+<a href="docs/MEDIA_AND_CHANNELS.ru.md#медиа-стратегия--единый-контент-завод"><img src="docs/assets/diagrams/17-media-strategy.ru.svg" width="100%" alt="Медиа-стратегия ASRP — единый контент-завод"></a>
 
 <!-- /excerpt -->
 

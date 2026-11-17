@@ -16,7 +16,7 @@
 
 **ASRP operates as a multi-jurisdiction group.** The three legal entities currently in scope are: the U.S. operational **ASRP LLC** (Florida, active since 2017), the Kazakhstan research-and-patent **ТОО** (Baikonur, 2024), and a **United Kingdom entity** (currently on corporate-status reinstatement). The Florida and Kazakhstan entities are verifiable through public registries; the UK entity is in the reinstatement stage and is documented here as part of the group's ongoing legal consolidation (see UBO note below).
 
-![Legal entities epochs](../assets/diagrams/12-company-epochs.png)
+![Legal entities epochs](assets/diagrams/12-company-epochs.en.svg)
 
 ### Advanced Scientific Research Projects LLC (Florida, USA)
 

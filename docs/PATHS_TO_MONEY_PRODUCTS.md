@@ -68,7 +68,7 @@ Research-driven paths (UAP reverse engineering, blood plasma / hyperbolic biomed
 
 **Every piece of content — article, interview, video, course — carries a targeted banner. Two kinds:**
 
-![Cross-promotion money path](../assets/diagrams/11-cross-promo.png)
+![Cross-promotion money path](assets/diagrams/11-cross-promo.en.svg)
 
 - 🟢 **Internal banner** — our own product (direct sale, 100% revenue). Examples:
   - ASRP.science article on Inspira-X → banner → purchase via ASRPshop.
@@ -115,9 +115,9 @@ This pattern applies consistently across **ASRP.science, ASRP.media, YouTube, Ar
 - **Channel:** Premium direct sales via `asrp.tech` + **ASRPshop** (🟡 domain reportedly acquired, final URL pending · B2C storefront for crystals and ASRP.fashion items) + Arcanum12th community + ASRP.media / ASRP.art content marketing.
 - **Strategic positioning:** As AI advances displace cognitive-routine labour, DAAT Crystal + Inspira-X + neurointerface becomes a **mass-market candidate for biological-intelligence amplification** — one of the highest-potential monetisable technologies inside ASRP's portfolio.
 
-![Cognitive Enhancement Stack](../assets/diagrams/08-cognitive-stack.png)
+![Cognitive Enhancement Stack](assets/diagrams/08-cognitive-stack.en.svg)
 
-![DAAT Crystal measurement loop](../assets/diagrams/09-daat-loop.png)
+![DAAT Crystal measurement loop](assets/diagrams/09-daat-loop.en.svg)
 
 ## GMS → Banchenko-Market
 
@@ -125,7 +125,7 @@ This pattern applies consistently across **ASRP.science, ASRP.media, YouTube, Ar
 
 **Concept.** *Banchenko-Market* — the internal name for the Global Market of Lucid Dreams and Other Transcendental States of Consciousness. Consciousness states are recorded via neurointerface, objectified as stable neural patterns (EEG / MEG / fMRI), classified by AI, tokenized on a quantum-resistant ledger and traded on the marketplace layer. **Naming.** `ASRP.exchange`, `ASRP Market` and `stock.asrp.*` are three public aliases used interchangeably for the **same product** (the CEO uses all three in conversation; unified branding to be fixed later). A Mental Object is framed as a **proposed new asset class** — conceptually analogous to tokenized real estate or securities, but with consciousness state as the underlying asset (priced similarly to how tokenized music or tokenized real estate is traded).
 
-![Banchenko-Market flow](../assets/diagrams/10-banchenko-market.png)
+![Banchenko-Market flow](assets/diagrams/10-banchenko-market.en.svg)
 
 - **Client:** End-users (dreamers, artists, forecasters), platforms buying mental-state content, enterprises running GMS-based internal programs.
 - **Offer:** Unified marketplace (ASRP.exchange / ASRP Market) + crypto settlement layer (Kapusta.money, quantum-resistant) + education & certification (Arcanum12th) + forecast layer (GFS) + art certification (ASRP.art).

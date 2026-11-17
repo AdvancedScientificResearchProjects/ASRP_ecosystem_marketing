@@ -73,8 +73,7 @@ isolated sales but publishes no revenue figures. Details:
 **English | [Русский](README.ru.md).** Every page exists in two language versions: `*.md` (English) and
 `*.ru.md` (Russian); graphics as `*.en.svg` / `*.ru.svg`. Languages are not mixed in the body text.
 Exceptions: [`whitepaper/README.md`](whitepaper/README.md) and the pages in [`graph/`](graph/README.md) still
-carry both languages on one page, and the [verification report](reports/MARKETING_UPDATE_REPORT.md) exists
-in Russian only.
+carry both languages on one page.
 
 ---
 
@@ -97,7 +96,6 @@ in Russian only.
 | <img src="docs/assets/icons/legal.svg" width="44" alt="legal icon"> | **[Legal entities](docs/LEGAL_ENTITIES.md)** | Florida LLC and Kazakhstan LLP registry data, ownership and UBO note |
 | <img src="docs/assets/icons/terms.svg" width="44" alt="terms icon"> | **[Partnerships and terms](docs/PARTNERSHIPS_AND_TERMS.md)** | what we offer and seek per partner type, contacts, important notes, license |
 | <img src="docs/assets/icons/graph.svg" width="44" alt="graph icon"> | **[Interactive graph](graph/README.md)** | browser map of entities and connections, money-flow notes, source data |
-| <img src="docs/assets/icons/report.svg" width="44" alt="report icon"> | **[Verification report](reports/MARKETING_UPDATE_REPORT.md)** | what was checked and how, unverified claims, open questions |
 
 Full list: [documentation index](docs/README.md).
 
@@ -358,7 +356,7 @@ Complete publication list: [whitepaper/README.md](whitepaper/README.md).
 
 > The timeline below tracks **five event classes** — company registrations and re-instatements (SunBiz/KZ registries), patent filings and copyright registrations, scientific publications and preregistrations, accreditations (DARPA · Tesla · OSF), and public events (hackathons, pitch battles).
 
-![Accreditations & epochs timeline](assets/diagrams/03-accreditations-timeline.png)
+![Accreditations & epochs timeline](docs/assets/diagrams/03-accreditations-timeline.en.svg)
 <!-- /excerpt -->
 
 ---
@@ -369,7 +367,7 @@ Complete publication list: [whitepaper/README.md](whitepaper/README.md).
 <!-- excerpt LEGAL_ENTITIES 0 stop=^#### -->
 **ASRP operates as a multi-jurisdiction group.** The three legal entities currently in scope are: the U.S. operational **ASRP LLC** (Florida, active since 2017), the Kazakhstan research-and-patent **ТОО** (Baikonur, 2024), and a **United Kingdom entity** (currently on corporate-status reinstatement). The Florida and Kazakhstan entities are verifiable through public registries; the UK entity is in the reinstatement stage and is documented here as part of the group's ongoing legal consolidation (see UBO note below).
 
-![Legal entities epochs](assets/diagrams/12-company-epochs.png)
+![Legal entities epochs](docs/assets/diagrams/12-company-epochs.en.svg)
 
 ### Advanced Scientific Research Projects LLC (Florida, USA)
 
@@ -438,17 +436,17 @@ one to open the section with client, offer, proof and channel. Research tracks:
 Products and platforms:
 
 <!-- excerpt PATHS_TO_MONEY_PRODUCTS 4 mode=images -->
-<a href="docs/PATHS_TO_MONEY_PRODUCTS.md#cross-promotion-pattern"><img src="assets/diagrams/11-cross-promo.png" width="100%" alt="Cross-promotion money path"></a>
+<a href="docs/PATHS_TO_MONEY_PRODUCTS.md#cross-promotion-pattern"><img src="docs/assets/diagrams/11-cross-promo.en.svg" width="100%" alt="Cross-promotion money path"></a>
 
 <!-- /excerpt -->
 <!-- excerpt PATHS_TO_MONEY_PRODUCTS 7 mode=images -->
-<a href="docs/PATHS_TO_MONEY_PRODUCTS.md#daat-crystals--premium-cognitive-enhancement"><img src="assets/diagrams/08-cognitive-stack.png" width="100%" alt="Cognitive Enhancement Stack"></a>
+<a href="docs/PATHS_TO_MONEY_PRODUCTS.md#daat-crystals--premium-cognitive-enhancement"><img src="docs/assets/diagrams/08-cognitive-stack.en.svg" width="100%" alt="Cognitive Enhancement Stack"></a>
 
-<a href="docs/PATHS_TO_MONEY_PRODUCTS.md#daat-crystals--premium-cognitive-enhancement"><img src="assets/diagrams/09-daat-loop.png" width="100%" alt="DAAT Crystal measurement loop"></a>
+<a href="docs/PATHS_TO_MONEY_PRODUCTS.md#daat-crystals--premium-cognitive-enhancement"><img src="docs/assets/diagrams/09-daat-loop.en.svg" width="100%" alt="DAAT Crystal measurement loop"></a>
 
 <!-- /excerpt -->
 <!-- excerpt PATHS_TO_MONEY_PRODUCTS 8 mode=images -->
-<a href="docs/PATHS_TO_MONEY_PRODUCTS.md#gms--banchenko-market"><img src="assets/diagrams/10-banchenko-market.png" width="100%" alt="Banchenko-Market flow"></a>
+<a href="docs/PATHS_TO_MONEY_PRODUCTS.md#gms--banchenko-market"><img src="docs/assets/diagrams/10-banchenko-market.en.svg" width="100%" alt="Banchenko-Market flow"></a>
 
 <!-- /excerpt -->
 
@@ -529,7 +527,7 @@ Logged cases:
 
 ### Funding stack
 
-![Funding Stack](assets/diagrams/06-funding-stack.png)
+![Funding Stack](docs/assets/diagrams/06-funding-stack.en.svg)
 <!-- /excerpt -->
 
 Patron tiers, current patrons and ways to support: [Funding sources and patrons](docs/FUNDING.md#current-patrons).
@@ -542,7 +540,7 @@ Patron tiers, current patrons and ways to support: [Funding sources and patrons]
 <!-- excerpt MEDIA_AND_CHANNELS 0 -->
 **Same research, different complexity, different audience.**
 
-![Frequency Ladder](assets/diagrams/07-frequency-ladder.png)
+![Frequency Ladder](docs/assets/diagrams/07-frequency-ladder.en.svg)
 
 - Journal builds credibility.
 - Media translates for general audience.
@@ -552,7 +550,7 @@ Patron tiers, current patrons and ways to support: [Funding sources and patrons]
 <!-- /excerpt -->
 
 <!-- excerpt MEDIA_AND_CHANNELS 1 mode=images -->
-<a href="docs/MEDIA_AND_CHANNELS.md#media-strategy--unified-content-factory"><img src="assets/diagrams/17-media-strategy.png" width="100%" alt="ASRP Media Strategy — Unified Content Factory"></a>
+<a href="docs/MEDIA_AND_CHANNELS.md#media-strategy--unified-content-factory"><img src="docs/assets/diagrams/17-media-strategy.en.svg" width="100%" alt="ASRP Media Strategy — Unified Content Factory"></a>
 
 <!-- /excerpt -->
 

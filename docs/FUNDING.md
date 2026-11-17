@@ -30,7 +30,7 @@
 
 ### Funding stack
 
-![Funding Stack](../assets/diagrams/06-funding-stack.png)
+![Funding Stack](assets/diagrams/06-funding-stack.en.svg)
 
 ### Current patrons
 

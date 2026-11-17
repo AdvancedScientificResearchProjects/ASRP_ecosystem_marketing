@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1405" width="1200" height="1405" role="img" aria-labelledby="t d">
+<title id="t">Медиа-стратегия ASRP — единый контент-завод</title>
+<desc id="d">Исходные ассеты (1 исследовательское событие, 1 съёмка, 1 публикация: исследовательское событие, релиз продукта, веха / съёмка) поступают в слой AI-производства (класс Vidrush): текстовый промпт, сценарий, футаж, голос + SFX, таймлайн монтажа через чат. Он передаёт результат мультиплатформенному паблишеру (класс DOHOO): 1 исходный ассет превращается в ≈11 платформенных единиц (7 видеокласса + 4 текстового, автоматически). Видеоединицы, 7 штук: Pinterest Video, YouTube Shorts, Instagram Reels, Threads Video, LinkedIn Video, Facebook Reels, TikTok. Текстовые, 4 штуки через Video-to-Text и ChatGPT: посты и группы Facebook, Telegram, текстовые посты Threads, блоги проектов на WordPress. Параллельные треки с ручной курацией, не входящие в автоматический веер, получают исходные ассеты: длинное видео на YouTube и VK Video; длинные тексты на Medium, ASRP.science, X (Twitter) и VK; длинные посты LinkedIn. Единицы веера и параллельные треки питают слой открытия: автоматизация Pinterest, открытие на платформах, классическое SEO, AI-SEO (LLM). Открытие ведёт в воронку монетизации: asrp.tech и поддомены проектов, ASRPshop (планируемая B2C-витрина), платные курсы Arcanum12th и сертификация, партнёрские баннеры ASRP.media, ASRP.exchange / ASRP Market / stock.asrp.*, прямые B2B / B2G-каналы. Длинные посты LinkedIn идут в воронку и напрямую как B2B direct.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='1405' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Медиа-стратегия ASRP — единый контент-завод</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ASRP · МЕДИА</text>
+<rect x='24' y='90' width='300' height='174' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#8ea0d6'/>
+<text x='40' y='116' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='800'>Исходные ассеты (1</text>
+<text x='40' y='134' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='800'>исследовательское событие · 1</text>
+<text x='40' y='152' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='800'>съёмка · 1 публикация)</text>
+<rect x='36' y='166' width='276.0' height='84' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='50' y='195.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Исследовательское событие</text>
+<text x='50' y='215.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Релиз продукта</text>
+<text x='50' y='235.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Веха / съёмка</text>
+<rect x='24' y='304' width='300' height='156' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#6f9bff'/>
+<text x='40' y='330' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#6f9bff' text-anchor='start' font-weight='800'>Слой AI-производства (класс</text>
+<text x='40' y='348' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#6f9bff' text-anchor='start' font-weight='800'>Vidrush)</text>
+<rect x='36' y='362' width='276.0' height='84' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='50' y='391.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Текстовый промпт → сценарий →</text>
+<text x='50' y='411.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>футаж → голос + SFX → таймлайн</text>
+<text x='50' y='431.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>монтажа через чат</text>
+<rect x='24' y='500' width='300' height='176' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#ffa657'/>
+<text x='40' y='526' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#ffa657' text-anchor='start' font-weight='800'>Мультиплатформенный</text>
+<text x='40' y='544' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#ffa657' text-anchor='start' font-weight='800'>паблишер (класс DOHOO)</text>
+<rect x='36' y='558' width='276.0' height='104' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='50' y='587.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>1 исходный ассет → ≈11</text>
+<text x='50' y='607.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>платформенных единиц (7</text>
+<text x='50' y='627.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>видеокласса + 4 текстового,</text>
+<text x='50' y='647.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>автоматически)</text>
+<rect x='24' y='716' width='300' height='372' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#8ea0d6'/>
+<text x='40' y='742' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='800'>Параллельные треки с ручной</text>
+<text x='40' y='760' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='800'>курацией (не входят в</text>
+<text x='40' y='778' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='800'>автоматический веер)</text>
+<rect x='36' y='792' width='276.0' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='50' y='823.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>YouTube · VK Video</text>
+<text x='50' y='843.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>длинное видео</text>
+<text x='50' y='863.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>(@ASRPtech и по проектам)</text>
+<rect x='36' y='890' width='276.0' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='50' y='921.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Medium · ASRP.science</text>
+<text x='50' y='941.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>X (Twitter) · VK</text>
+<text x='50' y='961.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>длинные тексты</text>
+<rect x='36' y='988' width='276.0' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='50' y='1019.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Длинные посты LinkedIn</text>
+<text x='50' y='1039.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>2 компании + группы проектов</text>
+<text x='50' y='1059.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>(ASRP.art · ASRP.science · ...)</text>
+<defs><marker id='m4ecdc4' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#4ecdc4'/></marker></defs>
+<path d='M174.0,267.0 L174.0,300.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<text x='186.0' y='289.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='600'>приём</text>
+<path d='M174.0,463.0 L174.0,496.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<text x='186.0' y='485.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='600'>производство</text>
+<defs><marker id='m8ea0d6' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#8ea0d6'/></marker></defs>
+<path d='M21.0,130.0 L11.0,130.0 L11.0,776.0 L20.0,776.0' fill='none' stroke='#8ea0d6' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#m8ea0d6)'><animate attributeName='stroke-dashoffset' from='26' to='0' dur='1.6s' repeatCount='indefinite'/></path>
+<rect x='356' y='90' width='770' height='356' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#34d399'/>
+<text x='372' y='116' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#34d399' text-anchor='start' font-weight='800'>Видеоединицы — 7 штук</text>
+<rect x='368' y='130' width='240.7' height='106' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='382' y='181.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Pinterest Video</text>
+<text x='382' y='201.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>@asrp.art · @asrp.fashion</text>
+<rect x='620.7' y='130' width='240.7' height='106' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='634.7' y='161.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>YouTube Shorts</text>
+<text x='634.7' y='181.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>@ASRPtech · @ASRPart ·</text>
+<text x='634.7' y='201.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>@ASRPmedia · @ASRPfashion ·</text>
+<text x='634.7' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>@Arcanum12th</text>
+<rect x='873.3' y='130' width='240.7' height='106' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='887.3' y='181.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Instagram Reels</text>
+<text x='887.3' y='201.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>@asrp.media · по проектам</text>
+<rect x='368' y='248' width='240.7' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='382' y='289.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Threads Video</text>
+<text x='382' y='309.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>по проектам</text>
+<rect x='620.7' y='248' width='240.7' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='634.7' y='279.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>LinkedIn Video</text>
+<text x='634.7' y='299.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>2 страницы компаний +</text>
+<text x='634.7' y='319.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>группы проектов</text>
+<rect x='873.3' y='248' width='240.7' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='887.3' y='289.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Facebook Reels</text>
+<text x='887.3' y='309.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>страницы по проектам</text>
+<rect x='368' y='346' width='746.0' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='382' y='377.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>TikTok</text>
+<text x='382' y='397.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>@asrp.tech · @asrp.media · @asrp.science</text>
+<text x='382' y='417.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>@asrp.art · @arcanum12th · @ovseannikova</text>
+<rect x='356' y='480' width='770' height='160' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#ffa657'/>
+<text x='372' y='506' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#ffa657' text-anchor='start' font-weight='800'>Текстовые — 4 штуки (через Video-to-Text → ChatGPT)</text>
+<rect x='368' y='520' width='161.4' height='106' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='382' y='571.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Facebook</text>
+<text x='382' y='591.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>посты + группы</text>
+<rect x='541.4' y='520' width='225.9' height='106' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='555.4' y='551.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Telegram</text>
+<text x='555.4' y='571.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>@ASRPtech ·</text>
+<text x='555.4' y='591.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>@electronics_MD · каналы по</text>
+<text x='555.4' y='611.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>проектам</text>
+<rect x='779.3' y='520' width='161.4' height='106' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='793.3' y='571.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Threads</text>
+<text x='793.3' y='591.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>текстовые посты</text>
+<rect x='952.6' y='520' width='161.4' height='106' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='966.6' y='571.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>WordPress</text>
+<text x='966.6' y='591.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>блоги проектов</text>
+<rect x='356' y='674' width='770' height='278' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#a78bfa'/>
+<text x='372' y='700' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#a78bfa' text-anchor='start' font-weight='800'>Слой открытия</text>
+<rect x='368' y='714' width='367.0' height='126' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='382' y='745.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Автоматизация Pinterest</text>
+<text x='382' y='765.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>почасовой cron · SEO-ключевые слова →</text>
+<text x='382' y='785.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>генерация AI-изображений → 3 доски</text>
+<text x='382' y='805.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>параллельно</text>
+<text x='382' y='825.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>разгон ≈15 дней до трафика из США</text>
+<rect x='747.0' y='714' width='367.0' height='126' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='761.0' y='775.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Открытие на платформах</text>
+<text x='761.0' y='795.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>TikTok FYP · рекомендации YouTube</text>
+<rect x='368' y='852' width='367.0' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='382' y='883.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Классическое SEO</text>
+<text x='382' y='903.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Google · Yandex</text>
+<text x='382' y='923.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>карта сайта + перекрёстные ссылки</text>
+<rect x='747.0' y='852' width='367.0' height='86' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='761.0' y='883.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>AI-SEO (LLM)</text>
+<text x='761.0' y='903.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ChatGPT · Perplexity · Gemini · Claude цитируют</text>
+<text x='761.0' y='923.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ASRP</text>
+<path d='M327.0,588.0 L340.0,588.0 L340.0,268.0 L352.0,268.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M327.0,588.0 L340.0,588.0 L340.0,560.0 L352.0,560.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<defs><marker id='ma78bfa' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#a78bfa'/></marker></defs>
+<path d='M741.0,643.0 L741.0,670.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ma78bfa)'><animate attributeName='stroke-dashoffset' from='26' to='0' dur='1.6s' repeatCount='indefinite'/></path>
+<path d='M1129.0,268.0 L1150.0,268.0 L1150.0,813.0 L1130.0,813.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ma78bfa)'><animate attributeName='stroke-dashoffset' from='26' to='0' dur='1.6s' repeatCount='indefinite'/></path>
+<path d='M327.0,813.0 L352.0,813.0' fill='none' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ma78bfa)'><animate attributeName='stroke-dashoffset' from='26' to='0' dur='1.6s' repeatCount='indefinite'/></path>
+<rect x='24' y='1132' width='1152' height='219' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#ffa657'/>
+<text x='40' y='1158' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#ffa657' text-anchor='start' font-weight='800'>Воронка монетизации</text>
+<rect x='36' y='1172' width='1128.0' height='165' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='600.0' y='1201.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>asrp.tech + поддомены проектов</text>
+<text x='600.0' y='1221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Платные курсы Arcanum12th + сертификация</text>
+<text x='600.0' y='1241.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Партнёрские баннеры ASRP.media (Amazon и др.)</text>
+<text x='600.0' y='1261.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>ASRP.exchange / ASRP Market / stock.asrp.*</text>
+<text x='600.0' y='1281.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Прямые B2B / B2G-каналы</text>
+<text x='600.0' y='1301.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(оборонка · фарма · корпоративный wellness · агро)</text>
+<text x='600.0' y='1322.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>○ ПЛАНИРУЕТСЯ: ASRPshop (B2C-витрина)</text>
+<defs><marker id='mffa657' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffa657'/></marker></defs>
+<path d='M174.0,1077.0 L174.0,1128.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<text x='186.0' y='1116.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='start' font-weight='600'>B2B direct</text>
+<path d='M741.0,955.0 L741.0,1128.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<line x1='24' y1='1385' x2='64' y2='1385' stroke='#a78bfa' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#ma78bfa)'/>
+<text x='74' y='1389' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>пунктир: питает слой открытия</text>
+<line x1='318.49999999999994' y1='1385' x2='358.49999999999994' y2='1385' stroke='#8ea0d6' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#m8ea0d6)'/>
+<text x='368.49999999999994' y='1389' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>пунктир: ручной трек вне веера</text>
+<line x1='612.9999999999999' y1='1385' x2='652.9999999999999' y2='1385' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'/>
+<text x='662.9999999999999' y='1389' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>сплошная: шаг конвейера</text>
+</svg>

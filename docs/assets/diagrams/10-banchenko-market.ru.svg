@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="t d">
+<title id="t">Поток Banchenko-Market</title>
+<desc id="d">Линейный поток из восьми шагов. 1: пользователь в Arcanum12th. 2: контент сознания (сны, искусство, прогнозы). 3: объективизация (нейро-паттерны ЭЭГ / МЭГ / фМРТ). 4: AI-классификация (извлечение устойчивого паттерна). 5: Ментальный объект (новый класс активов). 6: токенизация (Kapusta.money (QRL), квантово-устойчивый ledger). 7: ASRP.exchange / ASRP Market (биржа + база /stock). 8: выручка (комиссии транзакций, комиссии, премиум-подписки).</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='400' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Поток Banchenko-Market</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ASRP · GMS</text>
+<rect x='24' y='100' width='252' height='110' rx='12' fill='#0b1430' stroke='#e6ecff' stroke-width='1.6'/>
+<text x='150.0' y='152.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Пользователь в</text>
+<text x='150.0' y='175.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Arcanum12th</text>
+<rect x='324' y='100' width='252' height='110' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='450.0' y='153.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Контент сознания</text>
+<text x='450.0' y='173.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>сны · искусство · прогнозы</text>
+<rect x='624' y='100' width='252' height='110' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='750.0' y='143.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Объективизация</text>
+<text x='750.0' y='163.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>нейро-паттерны (ЭЭГ / МЭГ /</text>
+<text x='750.0' y='183.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>фМРТ)</text>
+<rect x='924' y='100' width='252' height='110' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='1050.0' y='143.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>AI-классификация</text>
+<text x='1050.0' y='163.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>извлечение устойчивого</text>
+<text x='1050.0' y='183.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>паттерна</text>
+<rect x='24' y='270' width='252' height='110' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='150.0' y='323.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Ментальный объект</text>
+<text x='150.0' y='343.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>новый класс активов</text>
+<rect x='324' y='270' width='252' height='110' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='450.0' y='313.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Токенизация</text>
+<text x='450.0' y='333.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Kapusta.money (QRL)</text>
+<text x='450.0' y='353.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>квантово-устойчивый ledger</text>
+<rect x='624' y='270' width='252' height='110' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='750.0' y='312.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>ASRP.exchange / ASRP</text>
+<text x='750.0' y='335.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Market</text>
+<text x='750.0' y='355.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>биржа + база /stock</text>
+<rect x='924' y='270' width='252' height='110' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='1050.0' y='313.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Выручка</text>
+<text x='1050.0' y='333.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>комиссии транзакций ·</text>
+<text x='1050.0' y='353.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>комиссии · премиум-подписки</text>
+<defs><marker id='m4ecdc4' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#4ecdc4'/></marker></defs>
+<path d='M279.0,155.0 L320.0,155.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M579.0,155.0 L620.0,155.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M879.0,155.0 L920.0,155.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M1050.0,213.0 L1050.0,236.0 L150.0,236.0 L150.0,266.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M279.0,325.0 L320.0,325.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M579.0,325.0 L620.0,325.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M879.0,325.0 L920.0,325.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+</svg>

@@ -90,8 +90,8 @@
  "stats": {
   "archive_sha256": "7fdfdf196292ee9ca3dc1e5fe3c4d6d69c55ca53ce2033cd04280d709d110bc4",
   "new_files": {
-   "README.md": 61029,
-   "README.ru.md": 55516,
+   "README.md": 60811,
+   "README.ru.md": 55301,
    "docs/ECOSYSTEM.md": 12051,
    "docs/ECOSYSTEM.ru.md": 12200,
    "docs/FUNDING.md": 3550,
@@ -108,8 +108,8 @@
    "docs/PATHS_TO_MONEY_PRODUCTS.ru.md": 14484,
    "docs/PATHS_TO_MONEY_RESEARCH.md": 9945,
    "docs/PATHS_TO_MONEY_RESEARCH.ru.md": 10334,
-   "docs/README.md": 4272,
-   "docs/README.ru.md": 4777,
+   "docs/README.md": 4403,
+   "docs/README.ru.md": 4892,
    "docs/RESEARCH_AND_IP.md": 7467,
    "docs/RESEARCH_AND_IP.ru.md": 7504,
    "docs/ROADMAP.md": 2090,
@@ -129,8 +129,8 @@
   "segments_low": 9,
   "table_rows": {
    "old": 158,
-   "new_en": 295,
-   "new_ru": 295
+   "new_en": 294,
+   "new_ru": 294
   },
   "old_counts": {
    "chars": 152972,

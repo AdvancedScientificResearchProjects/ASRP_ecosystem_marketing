@@ -41,4 +41,4 @@
 
 ## Графика
 
-`assets/banner/`, `assets/infographics/` и `assets/icons/` создаются скриптом [`tools/build_visuals.py`](../tools/build_visuals.py) и вручную не правятся. Баннер — сгенерированная иллюстрация, а не скриншот продукта; числа на инфографике взяты из [ECOSYSTEM.ru.md](ECOSYSTEM.ru.md). 17 PNG-схем, которые используются на страницах, лежат в [`../assets/diagrams/`](../assets/diagrams/).
+`assets/banner/`, `assets/infographics/` и `assets/icons/` создаются скриптом [`tools/build_visuals.py`](../tools/build_visuals.py) и вручную не правятся. Баннер — сгенерированная иллюстрация, а не скриншот продукта; числа на инфографике взяты из [ECOSYSTEM.ru.md](ECOSYSTEM.ru.md). Схемы в `assets/diagrams/` создаются скриптом [`tools/build_diagrams.py`](../tools/build_diagrams.py) отдельными файлами на русском и английском; исходные PNG сохранены в [`../assets/diagrams/`](../assets/diagrams/).
