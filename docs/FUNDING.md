@@ -26,7 +26,7 @@
 | 💼 **B2B licensing** | 🔄 In pipeline | Active talks — Cortical Labs (blood plasma) |
 | 📰 **Ads & Affiliate** | ✅ Active | ASRP.media CPM / CPC + Amazon affiliate via banner placements |
 
-> ⚠️ EN/RU divergence in the source — see [open questions](../reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ The English and Russian versions of this passage differ in the source.
 
 ### Funding stack
 

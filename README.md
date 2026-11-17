@@ -125,8 +125,7 @@ Check status legend: **VERIFIED** = checked by an automated request on 17 Novemb
 | Channel reach, e.g. TikTok `@asrp.tech` 6 014 followers | [Media and channels](docs/MEDIA_AND_CHANNELS.md) | **STATED** as of 2026-Q2, not re-measured |
 
 Every detail page ends with its own "Evidence status" table that does the same for the statements on that
-page. The full list of unverified statements is in the
-[verification report](reports/MARKETING_UPDATE_REPORT.md#not-verified).
+page.
 
 ---
 
@@ -164,7 +163,7 @@ As AI and robotics progressively displace mid-skill labour (accounting, law, tra
 
 ASRP's public surface is fragmented across sites, repos, papers and social channels — which has historically blocked serious conversations with investors and partners. This repository consolidates **the full monetisation narrative** in one place so marketers, investors, prime contractors and new team members get a coherent entry point without a 10-thread chat.
 
-> ⚠️ EN/RU divergence in the source — see [open questions](reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ The English and Russian versions of this passage differ in the source.
 
 **Core clusters:**
 
@@ -228,7 +227,7 @@ project's own, dated 2026-Q2.
 | 🔬 **ASRP.science** | [asrp.science](https://asrp.science) | Peer-review scientific journal | Paid publications, subscriptions |
 | ⚙️ **asrp.tech** | [asrp.tech](https://asrp.tech) | Projects & patents portfolio | B2B leads, licensing inquiries |
 
-> ⚠️ EN/RU divergence in the source — see [open questions](reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ The English and Russian versions of this passage differ in the source.
 
 ### Active Development
 
@@ -283,7 +282,7 @@ project's own, dated 2026-Q2.
 | Hyperbolic Field Plants Study | Germination, growth kinetics, yield modulation on expanded species list | 🟡 OSF preregistration planned (2026-04-22) | Agri-holdings, food-security grants |
 | Hyperbolic Field Fish Caviar Study | Aquaculture embryonic-development kinetics under hyperbolic-field exposure | 🟡 OSF preregistration planned (2026-04-22) | Aquaculture industry, biopharma |
 
-> ⚠️ EN/RU divergence in the source — see [open questions](reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ The English and Russian versions of this passage differ in the source.
 
 > 🔐 Some materials require NDA.
 <!-- /excerpt -->
@@ -326,7 +325,7 @@ See [`whitepaper/README.md`](whitepaper/README.md) for the **complete publicatio
 | 6 | **Inspira-X — Respiratory Analysis** | KZ 2025/0914.1 (399693) | ✅ Formal exam done → Substantive pending | [patent repo](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) |
 | 7 | **Body Food System** | US Copyright TXu002116250 | ✅ Registered (US) | [patent repo](https://github.com/denisbanchenko/Kazpatent_Body_Food_System_Patent) |
 
-> ⚠️ EN/RU divergence in the source — see [open questions](reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ The English and Russian versions of this passage differ in the source.
 
 **Inventors on patents:** Ovseannicova V.A. (MD), Kapustin M.M. (DE), Banchenko D.Y. (KZ).
 <!-- /excerpt -->
@@ -398,7 +397,7 @@ Complete publication list: [whitepaper/README.md](whitepaper/README.md).
 | **Director** | Denis Banchenko |
 | **Public registries** | [infostats.co](https://infostats.co/companies/kz/3235213) · [kyc.kz](https://kyc.kz/search/bin/240140033296) |
 
-> ⚠️ EN/RU divergence in the source — see [open questions](reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ The English and Russian versions of this passage differ in the source.
 
 > The Kazakhstan entity holds the **patent portfolio** (6 Kazpatent filings + 1 PCT); the Florida LLC is the **operational / commercial** entity (Tesla Business Program, DARPA BAA, USD contracting).
 <!-- /excerpt -->
@@ -522,7 +521,7 @@ Logged cases:
 | 💼 **B2B licensing** | 🔄 In pipeline | Active talks — Cortical Labs (blood plasma) |
 | 📰 **Ads & Affiliate** | ✅ Active | ASRP.media CPM / CPC + Amazon affiliate via banner placements |
 
-> ⚠️ EN/RU divergence in the source — see [open questions](reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ The English and Russian versions of this passage differ in the source.
 
 ### Funding stack
 
@@ -700,7 +699,6 @@ ASRP_ecosystem_marketing/
 ├── whitepaper/                       # publication list and abstracts (README.md / README.ru.md)
 ├── graph/                            # interactive graph: data, viewer, generator, money-flow notes
 ├── archive/                          # earlier README versions, kept verbatim
-├── reports/                          # verification report, inventories, check output
 ├── tools/                            # inventory, no-loss check, visual generators
 └── tests/                            # regression gate for the no-loss check
 ```
@@ -716,8 +714,8 @@ Rebuild the visuals: `python3 tools/build_visuals.py` and `python3 tools/build_d
 This repository describes an early-stage ecosystem. It is not a public offer; use of the intellectual
 property requires written permission. Research hypotheses described in the detail pages, including
 biomedical ones, are working hypotheses, and this page makes no regulatory or clinical-efficacy claim. The
-detail pages carry the project's own wording, which in places is stronger than the evidence shown; those places are
-listed in the [verification report](reports/MARKETING_UPDATE_REPORT.md#not-verified). Some defense-facing
+detail pages carry the project's own wording, which in places is stronger than the evidence shown; the
+"Evidence status" table at the end of each page says where. Some defense-facing
 materials require an NDA. The full notes are in
 [Partnerships and terms](docs/PARTNERSHIPS_AND_TERMS.md#important-notes).
 

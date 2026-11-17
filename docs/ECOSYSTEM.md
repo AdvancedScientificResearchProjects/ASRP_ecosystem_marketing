@@ -32,7 +32,7 @@ As AI and robotics progressively displace mid-skill labour (accounting, law, tra
 
 ASRP's public surface is fragmented across sites, repos, papers and social channels — which has historically blocked serious conversations with investors and partners. This repository consolidates **the full monetisation narrative** in one place so marketers, investors, prime contractors and new team members get a coherent entry point without a 10-thread chat.
 
-> ⚠️ EN/RU divergence in the source — see [open questions](../reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ The English and Russian versions of this passage differ in the source.
 
 **Core clusters:**
 
@@ -78,7 +78,7 @@ Two separate views for clarity: **what we have** (taxonomy) and **how money move
 | 🔬 **ASRP.science** | [asrp.science](https://asrp.science) | Peer-review scientific journal | Paid publications, subscriptions |
 | ⚙️ **asrp.tech** | [asrp.tech](https://asrp.tech) | Projects & patents portfolio | B2B leads, licensing inquiries |
 
-> ⚠️ EN/RU divergence in the source — see [open questions](../reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ The English and Russian versions of this passage differ in the source.
 
 ### Active Development
 
@@ -133,7 +133,7 @@ Two separate views for clarity: **what we have** (taxonomy) and **how money move
 | Hyperbolic Field Plants Study | Germination, growth kinetics, yield modulation on expanded species list | 🟡 OSF preregistration planned (2026-04-22) | Agri-holdings, food-security grants |
 | Hyperbolic Field Fish Caviar Study | Aquaculture embryonic-development kinetics under hyperbolic-field exposure | 🟡 OSF preregistration planned (2026-04-22) | Aquaculture industry, biopharma |
 
-> ⚠️ EN/RU divergence in the source — see [open questions](../reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ The English and Russian versions of this passage differ in the source.
 
 > 🔐 Some materials require NDA.
 

@@ -44,7 +44,7 @@ See [`whitepaper/README.md`](../whitepaper/README.md) for the **complete publica
 | 6 | **Inspira-X — Respiratory Analysis** | KZ 2025/0914.1 (399693) | ✅ Formal exam done → Substantive pending | [patent repo](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) |
 | 7 | **Body Food System** | US Copyright TXu002116250 | ✅ Registered (US) | [patent repo](https://github.com/denisbanchenko/Kazpatent_Body_Food_System_Patent) |
 
-> ⚠️ EN/RU divergence in the source — see [open questions](../reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ The English and Russian versions of this passage differ in the source.
 
 **Inventors on patents:** Ovseannicova V.A. (MD), Kapustin M.M. (DE), Banchenko D.Y. (KZ).
 

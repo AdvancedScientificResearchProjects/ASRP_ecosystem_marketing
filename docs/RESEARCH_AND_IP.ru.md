@@ -44,7 +44,7 @@
 | 6 | **Инспира-Х** (Inspira-X — Respiratory Analysis) | KZ 2025/0914.1 (399693) | Ожидает | [репозиторий патента](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) |
 | 7 | **Система Питания Тела** (Body Food System) | US Copyright TXu002116250 | ✅ Зарегистрировано (США) | [репозиторий патента](https://github.com/denisbanchenko/Kazpatent_Body_Food_System_Patent) |
 
-> ⚠️ Расхождение EN/RU в исходнике — см. [открытые вопросы](../reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ Русская и английская версии этого места в исходнике расходятся.
 
 **Авторы патентов:** Овсянникова В.А. (MD), Капустин М.М. (DE), Банченко Д.Ю. (KZ).
 

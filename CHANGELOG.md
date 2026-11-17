@@ -24,7 +24,6 @@
 - Every detail page ends with an "Evidence status" table: statement, evidence, check status.
 - Added `LICENSE`, `.asrp/project.yaml` and a ready-to-enable CI workflow (`tools/ci/verify.yml`) that runs
   the tests on every pull request.
-- Details, evidence and open questions: [reports/MARKETING_UPDATE_REPORT.md](reports/MARKETING_UPDATE_REPORT.md) (in Russian).
 
 ## 2026-04-28 — `cfd1940`
 

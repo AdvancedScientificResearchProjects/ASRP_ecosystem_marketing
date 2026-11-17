@@ -2,13 +2,12 @@
 """No-loss verification: old root README (archived) vs the new page structure.
 
 Usage (from the repository root):
-    python3 tools/verify_no_loss.py [--json reports/inventory/verification.json]
-                                    [--md reports/inventory/verification.md]
+    python3 tools/verify_no_loss.py [--json out.json] [--md out.md]
 
 What is compared
     OLD  = archive/README_2026-11-17_pre-marketing-update.md (byte-identical to tag
            pre-marketing-update-2026-11:README.md; the script checks that too)
-    NEW  = README.md, README.ru.md, docs/*.md  (archive/ and reports/ are NOT counted,
+    NEW  = README.md, README.ru.md, docs/*.md  (archive/ is NOT counted,
            otherwise everything would trivially "survive")
     EN corpus = NEW files that are not *.ru.md, RU corpus = NEW *.ru.md files.
 
@@ -45,7 +44,7 @@ from inventory import inventory, github_slug, MDLINK_RE  # noqa: E402
 ARCHIVE = "archive/README_2026-11-17_pre-marketing-update.md"
 TAG = "pre-marketing-update-2026-11"
 THRESHOLD = 0.8
-WAIVERS = "reports/inventory/waivers.json"
+WAIVERS = "tools/waivers.json"
 # (label, archived original, English page, Russian page, table-row divisor)
 EXTRA_PAIRS = [
     ("whitepaper", "archive/whitepaper_README_2026-11-17.md", "whitepaper/README.md", "whitepaper/README.ru.md", 1),
@@ -81,9 +80,8 @@ def new_files():
 def tracked_markdown():
     out = subprocess.run(["git", "ls-files", "-co", "--exclude-standard", "*.md"],
                          capture_output=True, text=True).stdout.split("\n")
-    # archive/ holds originals as they were; reports/inventory/ holds this script's own output, which
-    # quotes old link text
-    return [f for f in out if f and not f.startswith(("archive/", "reports/inventory/"))]
+    # archive/ holds originals as they were
+    return [f for f in out if f and not f.startswith("archive/")]
 
 
 def anchors_of(path):

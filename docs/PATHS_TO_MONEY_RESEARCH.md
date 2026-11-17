@@ -24,7 +24,7 @@ Product and platform paths (ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, cross
 
 - **Client:** DoD primes — named engagement tracks: **Boeing** (reverse-engineering patents and DoD reverse-engineering spend under congressional scrutiny), **Stanford (Nolan Lab)** for Gulf War Syndrome veterans treatment, **DoE / Los Alamos National Laboratory** (UAP-adjacent reverse-engineering side that funded IBM-supercomputer simulations), plus DARPA-class R&D funds and VA (Gulf War Syndrome programs).
 
-  > ⚠️ EN/RU divergence in the source — see [open questions](../reports/MARKETING_UPDATE_REPORT.md#open-questions).
+  > ⚠️ The English and Russian versions of this passage differ in the source.
 - **Offer:** Proven reverse-engineering capability — demonstrated through **open public research** (UAP study + Hyperbolic Field Blood Plasma) rather than claimed competence → subcontracts on engineered-object research.
 - **Proof:** `UAP_Reverse_Engineering_Study` repo, Hyperbolic Field Blood Plasma study, ECP-2026-04-04 session results; **U.S. Department of Energy read the UAP repository within hours of publication** (first tracked federal reader) — independently confirms the work is read at target level.
 - **Channel:** LinkedIn + direct intros + scientific publications + public repositories timed to industry hype windows.
@@ -43,7 +43,7 @@ Product and platform paths (ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, cross
 
 > For the UAP-adjacent oncology and pre-oncology subclass, ASRP proceeds from the working hypothesis that the **primary pathogenic factor is temporal desynchronization of biological processes**, not classical mutagenic damage. Therapy is therefore framed as **targeted correction of process kinetics** (restoration of coherence at the biofield ↔ spacetime interface), not cytotoxic intervention. Preliminary internal experimental observations (not yet peer-reviewed; pending IP resolution) suggest the approach warrants further investigation. ⚠️ These are pre-publication research observations under a working hypothesis; **no regulatory or clinical-efficacy claim is made** in this document. This is the same hypothesis carried into the Dr. Garry Nolan / Stanford dialogue (see [Outreach Dynamics #3](OUTREACH.md)).
 
-> ⚠️ EN/RU divergence in the source — see [open questions](../reports/MARKETING_UPDATE_REPORT.md#open-questions). The Russian original of this passage lists specific preclinical observations and has no caveat; the English wording above, with its explicit "no regulatory or clinical-efficacy claim", is the more conservative of the two.
+> ⚠️ The English and Russian versions of this passage differ in the source. The Russian original of this passage lists specific preclinical observations and has no caveat; the English wording above, with its explicit "no regulatory or clinical-efficacy claim", is the more conservative of the two.
 
 **Temporal-regime notation (ASRP → external):**
 
@@ -92,7 +92,7 @@ Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or
 | UAP_Reverse_Engineering_Study repository is published | GitHub URL returned 200 on 2026-11-17 (repository now at ASRP_UAP_Reverse_Engineering_Study) | **VERIFIED** |
 | The U.S. Department of Energy read the UAP repository within hours of publication ("first tracked federal reader") | none on this page; GitHub does not show reader IP addresses to repository owners, so no checkable source exists | **NOT VERIFIED** |
 | Named engagement tracks exist with Boeing, Stanford (Nolan Lab), DoE / Los Alamos and VA | none on this page; no contract, correspondence or public statement by any of these parties is linked | **NOT VERIFIED** |
-| Passage on client tracks (EN and RU versions differ) | the two language versions differ; see the divergence note on the page and the open questions in reports/MARKETING_UPDATE_REPORT.md | **NOT VERIFIED** |
+| Passage on client tracks (EN and RU versions differ) | the two language versions differ; see the divergence note on the page | **NOT VERIFIED** |
 | DoD reverse-engineering spend of about $40 M / year per technology line; a subcontractor could target about $2 M / year (illustrative, per founder) | none on this page; "congressional disclosure patterns" are not cited | **NOT VERIFIED** |
 | Cortical Labs: active negotiations, contact "Natasha" (2026-Q2, under review) | none on this page; private correspondence, no public statement by Cortical Labs | **NOT VERIFIED** |
 | Hyperbolic_Field_BloodPlasma_Study repository is public | GitHub URL returned 200 on 2026-11-17 (repository now at ASRP_Hyperbolic_Field_BloodPlasma_Study) | **VERIFIED** |

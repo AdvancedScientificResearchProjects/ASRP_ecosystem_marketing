@@ -157,7 +157,7 @@ LinkedIn is the **highest-yield single channel** in the ASRP stack for three rea
 | 6 | «Sleep and code — how vivid dreams inspire programmers» |
 | 7 | «The exchange — how it works and how you earn on it» (ASRP.exchange expert comment) |
 
-> ⚠️ EN/RU divergence in the source — see [open questions](../reports/MARKETING_UPDATE_REPORT.md#open-questions).
+> ⚠️ The English and Russian versions of this passage differ in the source.
 
 ---
 
