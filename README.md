@@ -35,7 +35,7 @@
 - **What exists today.** 4 public services online, 12 components listed as in active development, 3
   planned, and 7 research studies: 4 with open repositories on GitHub, 1 in a private repository, 2 at the
   planned-preregistration stage.
-- **What backs it.** Checked during this update: 4 public study repositories and 7 public
+- **What backs it.** Checked on 17 November 2026: 4 public study repositories and 7 public
   patent-documentation repositories. Stated by the project and linked, not re-checked: 8 publications
   listed on ResearchGate (7 journal articles, 1 technical report), 6 Kazpatent applications + 1 PCT + 1 US
   copyright, two legal entities with registry numbers, ≈$165 k from 22 named patrons. Evidence and check
@@ -43,8 +43,7 @@
 - **What this page does not claim.** No revenue figures, no signed customers, no clinical or regulatory
   claims. The first isolated sales the project reports (an affiliate commission, crystals bought for a pilot)
   are unverified and carry no figures. Outreach targets are targets, contacts are contacts, and the DARPA
-  item is portal access, not an award. The detail pages reproduce the project's earlier wording unchanged,
-  dated 2026-Q2.
+  item is portal access, not an award. The detail pages carry the project's own wording, dated 2026-Q2.
 - **Who is behind it.** Founders: Denis Banchenko (CEO), Valeria Ovseannicova, Mykhailo Kapustin.
   [Team](docs/TEAM.md).
 - **What to do next.** Write to `info@asrp.tech`. Investors and B2B / B2G partners: paths to money for
@@ -74,31 +73,31 @@ isolated sales but publishes no revenue figures. Details:
 **English | [Русский](README.ru.md).** Every page exists in two language versions: `*.md` (English) and
 `*.ru.md` (Russian); graphics as `*.en.svg` / `*.ru.svg`. Languages are not mixed in the body text.
 Exceptions: [`whitepaper/README.md`](whitepaper/README.md) and the pages in [`graph/`](graph/README.md) still
-use the previous mixed layout and were left untouched by this update, and the
-[update report](reports/MARKETING_UPDATE_REPORT.md) exists in Russian only.
+carry both languages on one page, and the [verification report](reports/MARKETING_UPDATE_REPORT.md) exists
+in Russian only.
 
 ---
 
 ## Quick navigation
 
-| | Section | What is inside | Document |
-|---|---|---|---|
-| <img src="docs/assets/icons/ecosystem.svg" width="40" alt="ecosystem icon"> | **Ecosystem** | strategic thesis, six clusters, taxonomy / data-flow / money-flow diagrams, status of every component | [docs/ECOSYSTEM.md](docs/ECOSYSTEM.md) |
-| <img src="docs/assets/icons/research.svg" width="40" alt="research icon"> | **Research and IP** | flagship papers, patent applications with numbers and exam status, accreditations, timeline | [docs/RESEARCH_AND_IP.md](docs/RESEARCH_AND_IP.md) |
-| <img src="docs/assets/icons/whitepaper.svg" width="40" alt="whitepaper icon"> | **Whitepapers** | complete publication list, abstracts, authors, external scientific references | [whitepaper/README.md](whitepaper/README.md) |
-| <img src="docs/assets/icons/money.svg" width="40" alt="money icon"> | **Paths to money: research** | UAP reverse engineering, blood plasma / hyperbolic biomed, agricultural study, GFS forecasting | [docs/PATHS_TO_MONEY_RESEARCH.md](docs/PATHS_TO_MONEY_RESEARCH.md) |
-| <img src="docs/assets/icons/products.svg" width="40" alt="products icon"> | **Paths to money: products** | ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, cross-promotion, ASRP.dance, ASRP.fashion, DAAT Crystals, GMS | [docs/PATHS_TO_MONEY_PRODUCTS.md](docs/PATHS_TO_MONEY_PRODUCTS.md) |
-| <img src="docs/assets/icons/track.svg" width="40" alt="track record icon"> | **Track record** | nine documented cases, including the ones that did not work out | [docs/TRACK_RECORD.md](docs/TRACK_RECORD.md) |
-| <img src="docs/assets/icons/outreach.svg" width="40" alt="outreach icon"> | **Outreach** | engagement funnel and the log of external reactions | [docs/OUTREACH.md](docs/OUTREACH.md) |
-| <img src="docs/assets/icons/funding.svg" width="40" alt="funding icon"> | **Funding and patrons** | seven funding streams with status, patron tiers and current patrons, how to support | [docs/FUNDING.md](docs/FUNDING.md) |
-| <img src="docs/assets/icons/media.svg" width="40" alt="media icon"> | **Media and channels** | frequency ladder, content-factory pipeline, channel inventory with reach, press topics | [docs/MEDIA_AND_CHANNELS.md](docs/MEDIA_AND_CHANNELS.md) |
-| <img src="docs/assets/icons/markets.svg" width="40" alt="markets icon"> | **Target markets** | companies ASRP intends to approach, by vertical (targets, not partners) | [docs/TARGET_MARKETS.md](docs/TARGET_MARKETS.md) |
-| <img src="docs/assets/icons/roadmap.svg" width="40" alt="roadmap icon"> | **Roadmap** | five-phase product and R&D rollout | [docs/ROADMAP.md](docs/ROADMAP.md) |
-| <img src="docs/assets/icons/team.svg" width="40" alt="team icon"> | **Team** | leadership team and roles | [docs/TEAM.md](docs/TEAM.md) |
-| <img src="docs/assets/icons/legal.svg" width="40" alt="legal icon"> | **Legal entities** | Florida LLC and Kazakhstan LLP registry data, ownership and UBO note | [docs/LEGAL_ENTITIES.md](docs/LEGAL_ENTITIES.md) |
-| <img src="docs/assets/icons/terms.svg" width="40" alt="terms icon"> | **Partnerships and terms** | what we offer and seek per partner type, contacts, important notes, license | [docs/PARTNERSHIPS_AND_TERMS.md](docs/PARTNERSHIPS_AND_TERMS.md) |
-| <img src="docs/assets/icons/graph.svg" width="40" alt="graph icon"> | **Interactive graph** | browser map of entities and connections, money-flow notes, source data | [graph/](graph/README.md) |
-| <img src="docs/assets/icons/report.svg" width="40" alt="report icon"> | **Update report** | what moved where, loss check, open questions | [reports/MARKETING_UPDATE_REPORT.md](reports/MARKETING_UPDATE_REPORT.md) |
+| &nbsp;&nbsp;Icon&nbsp;&nbsp; | Section | What is inside |
+|:---:|---|---|
+| <img src="docs/assets/icons/ecosystem.svg" width="44" alt="ecosystem icon"> | **[Ecosystem](docs/ECOSYSTEM.md)** | strategic thesis, six clusters, taxonomy / data-flow / money-flow diagrams, status of every component |
+| <img src="docs/assets/icons/research.svg" width="44" alt="research icon"> | **[Research and IP](docs/RESEARCH_AND_IP.md)** | flagship papers, patent applications with numbers and exam status, accreditations, timeline |
+| <img src="docs/assets/icons/whitepaper.svg" width="44" alt="whitepaper icon"> | **[Whitepapers](whitepaper/README.md)** | complete publication list, abstracts, authors, external scientific references |
+| <img src="docs/assets/icons/money.svg" width="44" alt="money icon"> | **[Paths to money: research](docs/PATHS_TO_MONEY_RESEARCH.md)** | UAP reverse engineering, blood plasma / hyperbolic biomed, agricultural study, GFS forecasting |
+| <img src="docs/assets/icons/products.svg" width="44" alt="products icon"> | **[Paths to money: products](docs/PATHS_TO_MONEY_PRODUCTS.md)** | ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, cross-promotion, ASRP.dance, ASRP.fashion, DAAT Crystals, GMS |
+| <img src="docs/assets/icons/track.svg" width="44" alt="track record icon"> | **[Track record](docs/TRACK_RECORD.md)** | nine documented cases, including the ones that did not work out |
+| <img src="docs/assets/icons/outreach.svg" width="44" alt="outreach icon"> | **[Outreach](docs/OUTREACH.md)** | engagement funnel and the log of external reactions |
+| <img src="docs/assets/icons/funding.svg" width="44" alt="funding icon"> | **[Funding and patrons](docs/FUNDING.md)** | seven funding streams with status, patron tiers and current patrons, how to support |
+| <img src="docs/assets/icons/media.svg" width="44" alt="media icon"> | **[Media and channels](docs/MEDIA_AND_CHANNELS.md)** | frequency ladder, content-factory pipeline, channel inventory with reach, press topics |
+| <img src="docs/assets/icons/markets.svg" width="44" alt="markets icon"> | **[Target markets](docs/TARGET_MARKETS.md)** | companies ASRP intends to approach, by vertical (targets, not partners) |
+| <img src="docs/assets/icons/roadmap.svg" width="44" alt="roadmap icon"> | **[Roadmap](docs/ROADMAP.md)** | five-phase product and R&D rollout |
+| <img src="docs/assets/icons/team.svg" width="44" alt="team icon"> | **[Team](docs/TEAM.md)** | leadership team and roles |
+| <img src="docs/assets/icons/legal.svg" width="44" alt="legal icon"> | **[Legal entities](docs/LEGAL_ENTITIES.md)** | Florida LLC and Kazakhstan LLP registry data, ownership and UBO note |
+| <img src="docs/assets/icons/terms.svg" width="44" alt="terms icon"> | **[Partnerships and terms](docs/PARTNERSHIPS_AND_TERMS.md)** | what we offer and seek per partner type, contacts, important notes, license |
+| <img src="docs/assets/icons/graph.svg" width="44" alt="graph icon"> | **[Interactive graph](graph/README.md)** | browser map of entities and connections, money-flow notes, source data |
+| <img src="docs/assets/icons/report.svg" width="44" alt="report icon"> | **[Verification report](reports/MARKETING_UPDATE_REPORT.md)** | what was checked and how, unverified claims, open questions |
 
 Full list: [documentation index](docs/README.md).
 
@@ -113,7 +112,7 @@ Full list: [documentation index](docs/README.md).
 
 ## Proof points
 
-Check status legend: **VERIFIED** = checked by an automated request during this update (17 November 2026);
+Check status legend: **VERIFIED** = checked by an automated request on 17 November 2026;
 **STATED** = taken from the source documents with a public link you can follow, not re-checked;
 **NOT VERIFIED** = no public evidence in this repository.
 
@@ -130,7 +129,7 @@ Check status legend: **VERIFIED** = checked by an automated request during this 
 | Channel reach, e.g. TikTok `@asrp.tech` 6 014 followers | [Media and channels](docs/MEDIA_AND_CHANNELS.md) | **STATED** as of 2026-Q2, not re-measured |
 
 The full list of unverified statements and the questions they raise is in the
-[update report](reports/MARKETING_UPDATE_REPORT.md#not-verified).
+[verification report](reports/MARKETING_UPDATE_REPORT.md#not-verified).
 
 ---
 
@@ -419,13 +418,13 @@ Each direction has its own funnel from research to revenue. The diagrams below a
 one to open the section with client, offer, proof and channel. Research tracks:
 
 <!-- excerpt PATHS_TO_MONEY_RESEARCH 0 mode=images -->
-<a href="docs/PATHS_TO_MONEY_RESEARCH.md#uap-reverse-engineering--defense-contracts"><img src="assets/diagrams/04-uap-funnel.png" width="100%" alt="UAP → Defense Contracts funnel"></a>
+<a href="docs/PATHS_TO_MONEY_RESEARCH.md#uap-reverse-engineering--defense-contracts"><img src="docs/assets/diagrams/04-uap-funnel.en.svg" width="100%" alt="UAP → Defense Contracts funnel"></a>
 
-<a href="docs/PATHS_TO_MONEY_RESEARCH.md#blood-plasma--hyperbolic-biomed--medical-centers"><img src="assets/diagrams/13-plasma-funnel.png" width="100%" alt="Blood Plasma funnel"></a>
+<a href="docs/PATHS_TO_MONEY_RESEARCH.md#blood-plasma--hyperbolic-biomed--medical-centers"><img src="docs/assets/diagrams/13-plasma-funnel.en.svg" width="100%" alt="Blood Plasma funnel"></a>
 
-<a href="docs/PATHS_TO_MONEY_RESEARCH.md#agricultural-study--agri-grants--food-security"><img src="assets/diagrams/14-agri-funnel.png" width="100%" alt="Agri funnel"></a>
+<a href="docs/PATHS_TO_MONEY_RESEARCH.md#agricultural-study--agri-grants--food-security"><img src="docs/assets/diagrams/14-agri-funnel.en.svg" width="100%" alt="Agri funnel"></a>
 
-<a href="docs/PATHS_TO_MONEY_RESEARCH.md#gfs--global-forecasting-system--forecast-sales"><img src="assets/diagrams/15-gfs-with-funding.png" width="100%" alt="GFS — forecasts + funding inflows"></a>
+<a href="docs/PATHS_TO_MONEY_RESEARCH.md#gfs--global-forecasting-system--forecast-sales"><img src="docs/assets/diagrams/15-gfs-with-funding.en.svg" width="100%" alt="GFS — forecasts + funding inflows"></a>
 
 <!-- /excerpt -->
 
@@ -495,7 +494,7 @@ them publicly; see [Proof points](#proof-points).
 
 **The same funnel drives every contact — reverse-engineering competence → open scientific repository → preprint / journal publication → LinkedIn content wave timed to the target's own hype window → comment or direct outreach → inbound response → bilateral messaging → negotiation.** The three cases logged below (NSWC IHD, Cortical Labs, Stanford / Nolan Lab) are instances of this pipeline at different stages.
 
-![Engagement funnel](assets/diagrams/16-engagement-funnel.png)
+![Engagement funnel](docs/assets/diagrams/16-engagement-funnel.en.svg)
 <!-- /excerpt -->
 
 Logged cases:
@@ -702,7 +701,7 @@ ASRP_ecosystem_marketing/
 ├── whitepaper/                       # publication list and abstracts
 ├── graph/                            # interactive graph: data, viewer, generator
 ├── archive/                          # earlier README versions, kept verbatim
-├── reports/                          # update report, inventories, verification output
+├── reports/                          # verification report, inventories, check output
 ├── tools/                            # inventory, no-loss check, visual generators
 └── tests/                            # regression gate for the no-loss check
 ```
@@ -718,8 +717,8 @@ Rebuild the visuals: `python3 tools/build_visuals.py` and `python3 tools/build_d
 This repository describes an early-stage ecosystem. It is not a public offer; use of the intellectual
 property requires written permission. Research hypotheses described in the detail pages, including
 biomedical ones, are working hypotheses, and this page makes no regulatory or clinical-efficacy claim. The
-detail pages reproduce earlier wording that in places is stronger than the evidence shown; those places are
-listed in the [update report](reports/MARKETING_UPDATE_REPORT.md#not-verified). Some defense-facing
+detail pages carry the project's own wording, which in places is stronger than the evidence shown; those places are
+listed in the [verification report](reports/MARKETING_UPDATE_REPORT.md#not-verified). Some defense-facing
 materials require an NDA. The full notes are in
 [Partnerships and terms](docs/PARTNERSHIPS_AND_TERMS.md#important-notes).
 

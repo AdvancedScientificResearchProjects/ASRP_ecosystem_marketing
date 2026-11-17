@@ -20,7 +20,7 @@
 
 **The same funnel drives every contact — reverse-engineering competence → open scientific repository → preprint / journal publication → LinkedIn content wave timed to the target's own hype window → comment or direct outreach → inbound response → bilateral messaging → negotiation.** The three cases logged below (NSWC IHD, Cortical Labs, Stanford / Nolan Lab) are instances of this pipeline at different stages.
 
-![Engagement funnel](../assets/diagrams/16-engagement-funnel.png)
+![Engagement funnel](assets/diagrams/16-engagement-funnel.en.svg)
 
 ### 1. NSWCIHD (U.S. Navy) — April 2026
 

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 450" width="1200" height="450" role="img" aria-labelledby="t d">
+<title id="t">Агро-исследование → Гранты и продовольственная безопасность</title>
+<desc id="d">Воронка из шести шагов в два ряда. 1 Полевые испытания (двойная слепая активация). 2 Дельта объёма 4-й день+ к контролю. 3 Грантовые заявки (UA / MD, восстановление почв после конфликта). 4 Пилот с агрохолдингом. 5 Агрохолдинги и фонды продовольственной безопасности. 6 Роялти-модель — финальная стадия.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='450' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Агро-исследование</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>→ Гранты и продовольственная безопасность</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ASRP · ВОРОНКА</text>
+<rect x='24.0' y='112' width='344.0' height='98' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='196.0' y='159.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Полевые испытания</text>
+<text x='196.0' y='179.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(двойная слепая активация)</text>
+<circle cx='46.0' cy='112' r='13' fill='#070b18' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='46.0' y='117' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='800'>1</text>
+<rect x='428.0' y='112' width='344.0' height='98' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='600.0' y='159.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Дельта объёма 4-й день+</text>
+<text x='600.0' y='179.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>к контролю</text>
+<circle cx='450.0' cy='112' r='13' fill='#070b18' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='450.0' y='117' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='800'>2</text>
+<rect x='832.0' y='112' width='344.0' height='98' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='1004.0' y='149.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Грантовые заявки</text>
+<text x='1004.0' y='169.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(UA / MD: восстановление почв после</text>
+<text x='1004.0' y='189.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>конфликта)</text>
+<circle cx='854.0' cy='112' r='13' fill='#070b18' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='854.0' y='117' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='800'>3</text>
+<rect x='24.0' y='272' width='344.0' height='98' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='196.0' y='329.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Пилот с агрохолдингом</text>
+<circle cx='46.0' cy='272' r='13' fill='#070b18' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='46.0' y='277' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='800'>4</text>
+<rect x='428.0' y='272' width='344.0' height='98' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='600.0' y='318.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Агрохолдинги · фонды</text>
+<text x='600.0' y='340.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>продовольственной безопасности</text>
+<circle cx='450.0' cy='272' r='13' fill='#070b18' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='450.0' y='277' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='800'>5</text>
+<rect x='832.0' y='272' width='344.0' height='98' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='1004.0' y='329.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Роялти-модель</text>
+<circle cx='854.0' cy='272' r='13' fill='#070b18' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='854.0' y='277' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='800'>6</text>
+<defs><marker id='m4ecdc4' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#4ecdc4'/></marker></defs>
+<path d='M371.0,161.0 L424.0,161.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M775.0,161.0 L828.0,161.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M1004.0,213.0 L1004.0,241.0 L196.0,241.0 L196.0,268.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M371.0,321.0 L424.0,321.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M775.0,321.0 L828.0,321.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<line x1='24' y1='420' x2='64' y2='420' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'/>
+<text x='74' y='424' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>следующий шаг</text>
+<circle cx='219.2' cy='420' r='5' fill='#ffcf5c'/>
+<text x='233.2' y='424' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>финальная стадия (результат)</text>
+</svg>

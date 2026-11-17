@@ -20,7 +20,7 @@ Product and platform paths (ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, cross
 
 ### UAP Reverse Engineering → Defense Contracts
 
-![UAP → Defense Contracts funnel](../assets/diagrams/04-uap-funnel.png)
+![UAP → Defense Contracts funnel](assets/diagrams/04-uap-funnel.en.svg)
 
 - **Client:** DoD primes — named engagement tracks: **Boeing** (reverse-engineering patents and DoD reverse-engineering spend under congressional scrutiny), **Stanford (Nolan Lab)** for Gulf War Syndrome veterans treatment, **DoE / Los Alamos National Laboratory** (UAP-adjacent reverse-engineering side that funded IBM-supercomputer simulations), plus DARPA-class R&D funds and VA (Gulf War Syndrome programs).
 
@@ -32,7 +32,7 @@ Product and platform paths (ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, cross
 
 ### Blood Plasma / Hyperbolic Biomed → Medical Centers
 
-![Blood Plasma funnel](../assets/diagrams/13-plasma-funnel.png)
+![Blood Plasma funnel](assets/diagrams/13-plasma-funnel.en.svg)
 
 - **Client:** Biocomputing companies (**Cortical Labs — active negotiations, 2026-Q2 under review** · contact: Natasha), top-tier medical centers, pharma.
 - **Offer:** Hyperbolic-field modulation protocols for coagulation and regeneration research (acceleration / deceleration kinetics tracks), plus bio-signal layer for neural compute platforms.
@@ -61,7 +61,7 @@ Product and platform paths (ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, cross
 
 ### Agricultural Study → Agri Grants & Food Security
 
-![Agri funnel](../assets/diagrams/14-agri-funnel.png)
+![Agri funnel](assets/diagrams/14-agri-funnel.en.svg)
 
 - **Client:** UA/MD post-conflict soil-restoration grants, agri-holdings, food-security funds.
 - **Offer:** Hyperbolic-field treatment increases germination and yield (early data: Day-4 volume delta vs control).
@@ -71,7 +71,7 @@ Product and platform paths (ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, cross
 
 ### GFS — Global Forecasting System → Forecast Sales
 
-![GFS — forecasts + funding inflows](../assets/diagrams/15-gfs-with-funding.png)
+![GFS — forecasts + funding inflows](assets/diagrams/15-gfs-with-funding.en.svg)
 
 > Extended funnel: GFS forecasts flow right to buyers; patrons, investors, grants and occasional donations flow into the model itself (left, dashed).
 

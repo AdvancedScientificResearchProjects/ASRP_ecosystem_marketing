@@ -90,8 +90,8 @@
  "stats": {
   "archive_sha256": "7fdfdf196292ee9ca3dc1e5fe3c4d6d69c55ca53ce2033cd04280d709d110bc4",
   "new_files": {
-   "README.md": 61388,
-   "README.ru.md": 55990,
+   "README.md": 61029,
+   "README.ru.md": 55516,
    "docs/ECOSYSTEM.md": 12051,
    "docs/ECOSYSTEM.ru.md": 12200,
    "docs/FUNDING.md": 3550,
