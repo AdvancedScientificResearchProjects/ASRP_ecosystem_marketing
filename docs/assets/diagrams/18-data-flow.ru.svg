@@ -7,11 +7,11 @@
 <text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Поток данных ASRP</text>
 <text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Сырые биосигналы → аналитика → результаты</text>
 <text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ASRP · ПОТОК ДАННЫХ</text>
-<rect x='24' y='96' width='244' height='500' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#34d399'/>
+<rect x='24' y='96' width='244' height='376' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#34d399'/>
 <text x='40' y='124' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#34d399' text-anchor='start' font-weight='800' letter-spacing='0.6'>СЫРЫЕ ДАННЫЕ</text>
-<rect x='722' y='96' width='232' height='560' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#ffcf5c'/>
+<rect x='722' y='96' width='232' height='558' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#ffcf5c'/>
 <text x='738' y='124' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#ffcf5c' text-anchor='start' font-weight='800' letter-spacing='0.6'>РЕЗУЛЬТАТЫ</text>
-<rect x='966' y='250' width='210' height='330' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#a78bfa'/>
+<rect x='966' y='250' width='210' height='294' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#a78bfa'/>
 <text x='982' y='278' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#a78bfa' text-anchor='start' font-weight='800' letter-spacing='0.6'>РЕЙТИНГИ KAPUSTA</text>
 <rect x='30' y='136' width='232' height='206' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
 <text x='44' y='167.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Arcanum12th — курсы</text>
@@ -76,9 +76,9 @@
 <path d='M265.0,284.0 L374.0,284.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
 <text x='323.0' y='260.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>сырые</text>
 <text x='323.0' y='276.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>биоданные</text>
-<path d='M265.0,411.0 L323.0,411.0 L323.0,406.0 L374.0,406.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
-<text x='323.0' y='433.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>сны +</text>
-<text x='323.0' y='449.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>биосенсоры</text>
+<path d='M265.0,411.0 L358.0,411.0 L358.0,406.0 L374.0,406.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<text x='312.0' y='433.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>сны +</text>
+<text x='312.0' y='449.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>биосенсоры</text>
 <path d='M559.0,276.0 L566.0,276.0 L566.0,199.0 L724.0,199.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
 <text x='645.0' y='191.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>черновики статей</text>
 <path d='M559.0,345.0 L566.0,345.0 L566.0,341.0 L724.0,341.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>

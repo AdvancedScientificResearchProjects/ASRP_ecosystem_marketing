@@ -235,6 +235,10 @@ DATA = {
 }
 
 
+# canvas heights follow the content (Russian wraps into more lines)
+DATA_H = {"en": 730, "ru": 800}
+
+
 def gap_label(cv, cx, y_bottom, s, width, color=INK):
     """Wrapped edge label centred on cx whose last line sits just above y_bottom."""
     lines = wrap(s, FS_SMALL, width)
@@ -244,11 +248,9 @@ def gap_label(cv, cx, y_bottom, s, width, color=INK):
 
 def data_flow(lang):
     c = DATA[lang]
-    W, H = 1200, 800
+    W, H = 1200, DATA_H[lang]
     cv = Canvas(W, H, c["title"], c["desc"], c["head"], c["sub"], c["tag"])
-    cv.panel(24, 96, 244, 500, c["p_src"], GREEN)
-    cv.panel(722, 96, 232, 560, c["p_out"], GOLD)
-    cv.panel(966, 250, 210, 330, c["p_kap"], VIOLET)
+    slot = len(cv.o)  # panels are sized to their boxes and inserted behind them below
     courses = cv.box(30, 136, 232, c["courses"][0], c["courses"][1], stroke=GREEN)
     bot = cv.box(30, courses[1] + courses[3] + 16, 232, c["bot"][0], c["bot"][1], stroke=GREEN)
     layer = cv.box(378, 250, 178, c["layer"][0], c["layer"][1], stroke=TEAL, title_size=16)
@@ -256,9 +258,11 @@ def data_flow(lang):
     gfs = cv.box(728, pubs[1] + pubs[3] + 16, 220, c["gfs"][0], c["gfs"][1], stroke=GOLD)
     gms = cv.box(728, gfs[1] + gfs[3] + 16, 220, c["gms"][0], c["gms"][1], stroke=GOLD)
     kap = cv.box(972, 292, 198, c["kap"][0], c["kap"][1], stroke=VIOLET, title_size=13)
-    for box, panel_bottom in ((bot, 596), (gms, 656), (kap, 580)):
-        if box[1] + box[3] + 8 > panel_bottom:
-            raise SystemExit("panel too short for its boxes (%d > %d)" % (box[1] + box[3] + 8, panel_bottom))
+    boxes, cv.o = cv.o[slot:], cv.o[:slot]
+    cv.panel(24, 96, 244, bot[1] + bot[3] + 8 - 96, c["p_src"], GREEN)
+    cv.panel(722, 96, 232, gms[1] + gms[3] + 8 - 96, c["p_out"], GOLD)
+    cv.panel(966, 250, 210, kap[1] + kap[3] + 8 - 250, c["p_kap"], VIOLET)
+    cv.o += boxes
     e = c["e"]
     lt, lb = layer[1], layer[1] + layer[3]
     # sources -> analytical layer (labels sit in the gap, above each arrow)
@@ -266,8 +270,9 @@ def data_flow(lang):
     cv.arrow([(courses[0] + courses[2] + 3, ya), (layer[0] - 4, ya)])
     gap_label(cv, 323, ya, e[0], 104)
     ybot = bot[1] + bot[3] / 2
-    cv.arrow([(bot[0] + bot[2] + 3, ybot), (323, ybot), (323, yb), (layer[0] - 4, yb)])
-    gap_label(cv, 323, ybot + 46, e[1], 104)
+    cv.arrow([(bot[0] + bot[2] + 3, ybot), (358, ybot), (358, yb), (layer[0] - 4, yb)])
+    under = wrap(e[1], FS_SMALL, 84)
+    gap_label(cv, 312, ybot + 14 + 16 * len(under), e[1], 84)
     # analytical layer -> outputs
     bus = 566
     for box, lab, y1 in ((pubs, e[2], lt + 26), (gfs, e[3], (lt + lb) / 2), (gms, e[4], lb - 26)):
@@ -280,13 +285,17 @@ def data_flow(lang):
     cv.label(1071, 240, e[5], FS_SMALL, VIOLET, "middle", 600, 206)
     # feedback lanes from Kapusta back to the left
     kb = kap[1] + kap[3] + 3
-    lanes = ((-60, 690, [(8, 690), (8, courses[1] + 40), (courses[0] - 4, courses[1] + 40)], e[6]),
-             (0, 716, [(layer[0] + layer[2] / 2, 716), (layer[0] + layer[2] / 2, lb + 3)], e[7]),
-             (60, 742, [(bot[0] + 116, 742), (bot[0] + 116, bot[1] + bot[3] + 3)], e[8]))
+    base = max(bot[1] + bot[3], gms[1] + gms[3], kap[1] + kap[3]) + 44
+    y1, y2, y3 = base, base + 26, base + 52
+    lanes = ((-60, y1, [(8, y1), (8, courses[1] + 40), (courses[0] - 4, courses[1] + 40)], e[6]),
+             (0, y2, [(layer[0] + layer[2] / 2, y2), (layer[0] + layer[2] / 2, lb + 3)], e[7]),
+             (60, y3, [(bot[0] + 116, y3), (bot[0] + 116, bot[1] + bot[3] + 3)], e[8]))
     for dx, yl, tail, lab in lanes:
         x = kap[0] + kap[2] / 2 + dx
         cv.arrow([(x, kb), (x, yl)] + tail, color=VIOLET, dashed=True)
         cv.label(950, yl - 7, lab, FS_SMALL, VIOLET, "end", 600, 320)
+    if y3 + 40 > H:
+        raise SystemExit("data flow: canvas too short, needs %d" % (y3 + 40))
     cv.legend(24, H - 16, c["legend"])
     cv.save(OUT + "18-data-flow.%s.svg" % lang)
 

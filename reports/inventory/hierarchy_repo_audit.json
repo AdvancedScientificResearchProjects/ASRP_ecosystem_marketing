@@ -1,7 +1,7 @@
 {
  "schema": "asrp.repo_audit.v1",
  "asrp_attribution": "Created and architected for ASRP by Denis Bachenko, CEO & Founder of Advanced Scientific Research Projects LLC.",
- "generated_at": "2026-11-17T12:43:00+00:00",
+ "generated_at": "2026-11-17T13:10:05+00:00",
  "repository_path": "(local checkout, path omitted)",
  "repository_name": "ASRP_ecosystem_marketing",
  "checks": {
@@ -35,7 +35,7 @@
   },
   "documentation": {
    "status": "PASS",
-   "detail": "README.md (35854 bytes) and docs/ present."
+   "detail": "README.md (64012 bytes) and docs/ present."
   },
   "security": {
    "status": "PASS",
@@ -43,7 +43,7 @@
   },
   "errors": {
    "status": "PASS",
-   "detail": "All 139 relative link(s) in README.md resolve."
+   "detail": "All 119 relative link(s) in README.md resolve."
   },
   "provenance": {
    "status": "PASS",
