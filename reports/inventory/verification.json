@@ -1,0 +1,172 @@
+{
+ "hard": {
+  "H1_archive_identical_to_tag": [],
+  "H2_urls_missing": [],
+  "H3_numbers_missing": [],
+  "H4_identifiers_missing": [],
+  "H5_images_missing": [],
+  "H6_legacy_anchors_missing": [],
+  "H7_broken_links": [],
+  "H8_deleted_files": []
+ },
+ "soft": {
+  "S4_urls_missing_in_en": [],
+  "S4_urls_missing_in_ru": [
+   "https://img.shields.io/badge/license-proprietary-blue",
+   "https://img.shields.io/badge/status-early__stage-yellow",
+   "https://img.shields.io/badge/💛%20Support%20our%20work-asrp.tech%2Fpatrons-FBBF24"
+  ],
+  "S4_numbers_missing_in_en": [
+   "22.04.2026",
+   "51,4"
+  ],
+  "S4_numbers_missing_in_ru": [
+   "1,900",
+   "1:1",
+   "5-10",
+   "51.4"
+  ],
+  "S1_names_missing": [],
+  "S2_low_coverage_segments": [
+   {
+    "line": 9,
+    "lang": "en",
+    "coverage": 0.38,
+    "text": "![Updated](https://img.shields.io/badge/updated-2026--Q2-green)"
+   },
+   {
+    "line": 79,
+    "lang": "mixed",
+    "coverage": 0.6,
+    "text": "Архитектурная статья GMS / GFS (October 2024 → January 2025):"
+   },
+   {
+    "line": 261,
+    "lang": "ru",
+    "coverage": 0.67,
+    "text": "10 October 2017 / 10 октября 2017"
+   },
+   {
+    "line": 387,
+    "lang": "mixed",
+    "coverage": 0.6,
+    "text": "🔹 **0–3 mo / 0–3 мес** — *«Prove it works»"
+   },
+   {
+    "line": 388,
+    "lang": "mixed",
+    "coverage": 0.6,
+    "text": "🔹 **3–6 mo / 3–6 мес** — *«Enter the market»"
+   },
+   {
+    "line": 389,
+    "lang": "mixed",
+    "coverage": 0.6,
+    "text": "🔹 **6–12 mo / 6–12 мес** — *«Become the standard»"
+   },
+   {
+    "line": 472,
+    "lang": "ru",
+    "coverage": 0.75,
+    "text": "Репозиторий исследования (фаза набора), патенты KZ 2025/1095.1 (ФБСГП) + KZ 413554 (ASRP.drift)."
+   },
+   {
+    "line": 894,
+    "lang": "ru",
+    "coverage": 0.33,
+    "text": "Полный запуск школы и подписки"
+   },
+   {
+    "line": 936,
+    "lang": "mixed",
+    "coverage": 0.5,
+    "text": "Double opt-in, GDPR/152-ФЗ."
+   }
+  ],
+  "S3_table_rows_short": []
+ },
+ "stats": {
+  "archive_sha256": "7fdfdf196292ee9ca3dc1e5fe3c4d6d69c55ca53ce2033cd04280d709d110bc4",
+  "new_files": {
+   "README.md": 33244,
+   "README.ru.md": 26123,
+   "docs/ECOSYSTEM.md": 12161,
+   "docs/ECOSYSTEM.ru.md": 12308,
+   "docs/FUNDING.md": 3660,
+   "docs/FUNDING.ru.md": 3582,
+   "docs/LEGAL_ENTITIES.md": 5584,
+   "docs/LEGAL_ENTITIES.ru.md": 5854,
+   "docs/MEDIA_AND_CHANNELS.md": 11974,
+   "docs/MEDIA_AND_CHANNELS.ru.md": 12312,
+   "docs/OUTREACH.md": 7064,
+   "docs/OUTREACH.ru.md": 7507,
+   "docs/PARTNERSHIPS_AND_TERMS.md": 2323,
+   "docs/PARTNERSHIPS_AND_TERMS.ru.md": 2421,
+   "docs/PATHS_TO_MONEY_PRODUCTS.md": 13858,
+   "docs/PATHS_TO_MONEY_PRODUCTS.ru.md": 14592,
+   "docs/PATHS_TO_MONEY_RESEARCH.md": 10055,
+   "docs/PATHS_TO_MONEY_RESEARCH.ru.md": 10442,
+   "docs/README.md": 4433,
+   "docs/README.ru.md": 4939,
+   "docs/RESEARCH_AND_IP.md": 7577,
+   "docs/RESEARCH_AND_IP.ru.md": 7612,
+   "docs/ROADMAP.md": 2200,
+   "docs/ROADMAP.ru.md": 2275,
+   "docs/TARGET_MARKETS.md": 5808,
+   "docs/TARGET_MARKETS.ru.md": 5936,
+   "docs/TEAM.md": 1939,
+   "docs/TEAM.ru.md": 1908,
+   "docs/TRACK_RECORD.md": 6013,
+   "docs/TRACK_RECORD.ru.md": 6076
+  },
+  "segments_checked": {
+   "en": 1029,
+   "ru": 741,
+   "mixed": 117
+  },
+  "segments_low": 9,
+  "table_rows": {
+   "old": 158,
+   "new_en": 234,
+   "new_ru": 234
+  },
+  "old_counts": {
+   "chars": 152972,
+   "lines": 964,
+   "headings": 81,
+   "links": 167,
+   "images": 17,
+   "badges": 4,
+   "urls": 107,
+   "internal_targets": 63,
+   "tables": 22,
+   "table_rows": 158,
+   "numbers": 120,
+   "dates": 46,
+   "emails": 1,
+   "handles": 13,
+   "code_spans": 48,
+   "code_blocks": 2,
+   "names": 458,
+   "legal_lines": 43,
+   "segments": 1901,
+   "blockquote_lines": 43,
+   "list_items": 166
+  }
+ },
+ "waived": [
+  {
+   "check": "H2_urls_missing",
+   "match": "https://img.shields.io/badge/updated-2026--Q2-green",
+   "reason": "Badge 'updated 2026-Q2' replaced by two badges ('content as of 2026-Q2' and 'structure updated 2026-11'): after a November 2026 restructuring a single 'updated Q2' badge would misdate the page, while dropping the Q2 date would hide that the content is that old. The old badge is preserved in the archive.",
+   "items": 1
+  },
+  {
+   "check": "H7_broken_links",
+   "match": "../QUESTIONS.md",
+   "reason": "Pre-existing broken link in whitepaper/README.md (the file QUESTIONS.md is not in the repository at the tag either). whitepaper/ is out of scope of this update and was not edited; listed in the report as an open question.",
+   "items": 1
+  }
+ ],
+ "result": "PASS"
+}

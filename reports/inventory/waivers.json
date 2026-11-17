@@ -1,0 +1,14 @@
+{
+ "waivers": [
+  {
+   "check": "H2_urls_missing",
+   "match": "https://img.shields.io/badge/updated-2026--Q2-green",
+   "reason": "Badge 'updated 2026-Q2' replaced by two badges ('content as of 2026-Q2' and 'structure updated 2026-11'): after a November 2026 restructuring a single 'updated Q2' badge would misdate the page, while dropping the Q2 date would hide that the content is that old. The old badge is preserved in the archive."
+  },
+  {
+   "check": "H7_broken_links",
+   "match": "../QUESTIONS.md",
+   "reason": "Pre-existing broken link in whitepaper/README.md (the file QUESTIONS.md is not in the repository at the tag either). whitepaper/ is out of scope of this update and was not edited; listed in the report as an open question."
+  }
+ ]
+}

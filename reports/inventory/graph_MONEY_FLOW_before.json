@@ -1,0 +1,1996 @@
+{
+ "chars": 16906,
+ "lines": 161,
+ "headings": [
+  {
+   "line": 1,
+   "level": 1,
+   "text": "ASRP — Money Flow / Денежные потоки",
+   "anchor": "asrp--money-flow--денежные-потоки"
+  },
+  {
+   "line": 8,
+   "level": 2,
+   "text": "EN",
+   "anchor": "en"
+  },
+  {
+   "line": 10,
+   "level": 3,
+   "text": "1. Legal structure",
+   "anchor": "1-legal-structure"
+  },
+  {
+   "line": 18,
+   "level": 3,
+   "text": "2. Income streams",
+   "anchor": "2-income-streams"
+  },
+  {
+   "line": 31,
+   "level": 3,
+   "text": "3. Per-project revenue route",
+   "anchor": "3-per-project-revenue-route"
+  },
+  {
+   "line": 50,
+   "level": 3,
+   "text": "4. Patent → product → revenue chain",
+   "anchor": "4-patent--product--revenue-chain"
+  },
+  {
+   "line": 66,
+   "level": 3,
+   "text": "5. Worked example",
+   "anchor": "5-worked-example"
+  },
+  {
+   "line": 70,
+   "level": 3,
+   "text": "6. Cumulative funding + 12-month targets",
+   "anchor": "6-cumulative-funding--12-month-targets"
+  },
+  {
+   "line": 86,
+   "level": 2,
+   "text": "RU",
+   "anchor": "ru"
+  },
+  {
+   "line": 88,
+   "level": 3,
+   "text": "1. Юридическая структура",
+   "anchor": "1-юридическая-структура"
+  },
+  {
+   "line": 96,
+   "level": 3,
+   "text": "2. Каналы выручки",
+   "anchor": "2-каналы-выручки"
+  },
+  {
+   "line": 109,
+   "level": 3,
+   "text": "3. Денежный канал по проектам",
+   "anchor": "3-денежный-канал-по-проектам"
+  },
+  {
+   "line": 128,
+   "level": 3,
+   "text": "4. Цепочка «патент → продукт → канал выручки»",
+   "anchor": "4-цепочка-патент--продукт--канал-выручки"
+  },
+  {
+   "line": 144,
+   "level": 3,
+   "text": "5. Рабочий пример",
+   "anchor": "5-рабочий-пример"
+  },
+  {
+   "line": 148,
+   "level": 3,
+   "text": "6. Накопленное финансирование + цели на 12 месяцев",
+   "anchor": "6-накопленное-финансирование--цели-на-12-месяцев"
+  }
+ ],
+ "links": [],
+ "images": [],
+ "badges": [],
+ "urls": [],
+ "internal_targets": [],
+ "tables": [
+  {
+   "line": 20,
+   "header": "| # | Stream | Status | Mechanism / scale |",
+   "rows": 8
+  },
+  {
+   "line": 54,
+   "header": "| Patent (le-kz holds) | Product / channel | Revenue stream |",
+   "rows": 9
+  },
+  {
+   "line": 72,
+   "header": "| Line | Today | Next 12 months |",
+   "rows": 7
+  },
+  {
+   "line": 98,
+   "header": "| # | Поток | Статус | Механизм / scale |",
+   "rows": 8
+  },
+  {
+   "line": 132,
+   "header": "| Патент (держит le-kz) | Продукт / канал | Канал выручки |",
+   "rows": 9
+  },
+  {
+   "line": 150,
+   "header": "| Линия | Сегодня | Ближайшие 12 месяцев |",
+   "rows": 7
+  }
+ ],
+ "table_rows": [
+  {
+   "line": 22,
+   "text": "| 1 | 💝 Patrons | ✅ active | 7 tiers · lead $100k (Alexander Ovsyannikov) · cumulative ≈$165k confirmed |"
+  },
+  {
+   "line": 23,
+   "text": "| 2 | 📰 Ads & affiliate | ✅ realised | ASRP.media CPM/CPC + Amazon affiliate via banner placements; **proof-of-mechanism: neurointerface affiliate sale already realised** through ASRP.media banner |"
+  },
+  {
+   "line": 24,
+   "text": "| 3 | 💎 Direct sales | ✅ realised | DAAT crystals (premium tier) to bank top-management cohort + Forbes-list individual wearers (founder-disclosed; institution and names not disclosed) |"
+  },
+  {
+   "line": 25,
+   "text": "| 4 | 💼 Investors (non-equity) | ✅ open | Co-operation models without share transfer — `asrp.tech/ru/investors` |"
+  },
+  {
+   "line": 26,
+   "text": "| 5 | 🚀 Crowdfunding | 🟡 planned | Kickstarter-class campaign on Inspira-X; donate link live at `asrp.tech/ru/donate/asrp` |"
+  },
+  {
+   "line": 27,
+   "text": "| 6 | 🏛️ Government contracts | 🎯 target | DoD primes (Boeing-class), VA (Gulf War Syndrome), DARPA-class R&D (BAA portal active), NCI SBIR FY26 ready for re-submission |"
+  },
+  {
+   "line": 28,
+   "text": "| 7 | 📜 Research grants | 🔄 pipeline | UA/MD post-conflict soil-restoration grants; foundation outbound (MJFF for neurodegenerative, cultured-meat foundations) |"
+  },
+  {
+   "line": 29,
+   "text": "| 8 | 💼 B2B licensing *(emerging)* | 🔄 pipeline | Active talks: Cortical Labs (blood plasma) Q2 2026; long-tail to neurointerface vendors, premium fashion brands, agri-holdings |"
+  },
+  {
+   "line": 56,
+   "text": "| **pat-fbhfs** — KZ 2025/1095.1 Fractal Biomedical Hyperbolic Field System | DAAT Crystal · ASRP.fashion · plasma study · agri study | Direct sales · Licensing (Cortical Labs) · Grants · B2B corp-wellness |"
+  },
+  {
+   "line": 57,
+   "text": "| **pat-inspira** — KZ 2025/0914.1 Inspira-X | Inspira-X biofeedback device · DAAT-stack component | Crowdfunding · Direct sales · B2B licensing |"
+  },
+  {
+   "line": 58,
+   "text": "| **pat-drift** — KZ 413554 ASRP.drift Neurointegration | ASRP.drift PlayOne · DAAT-stack AI layer | Defense / clinical / sports R&D contracts · DAAT bundle |"
+  },
+  {
+   "line": 59,
+   "text": "| **pat-gfs** — Global Forecasting System | GFS product + Kapusta rating substrate | B2G forecasts · B2B terminal API · B2C ASRP.exchange |"
+  },
+  {
+   "line": 60,
+   "text": "| **pat-gms** — Global Mental System | ASRP.exchange / Banchenko-Market umbrella | Tx fees on Kapusta + exchange commissions + cert fees |"
+  },
+  {
+   "line": 61,
+   "text": "| **pat-banchenko-tech** — combined methods | Arcanum12th_BOT (dream sync, mnemonic sync, GFS, market) | Arcanum12th courses + GFS + ASRP.exchange |"
+  },
+  {
+   "line": 62,
+   "text": "| **pat-biophoton** — KZ 2025/1097.1 Biophotonic Neurodiagnostic | Inspira-X neurodiagnostic complement | Future B2B licensing (clinical) |"
+  },
+  {
+   "line": 63,
+   "text": "| **pat-art** — KZ 2025/0592.1 + PCT 412362 ASRP.art | SPR — auction-house / gallery integration | Paid SPR certification + gallery / auction-house partnerships |"
+  },
+  {
+   "line": 64,
+   "text": "| *(le-us holds)* **pat-bfs-us** — US Copyright TXu002116250 Body Food System | Personalised-nutrition methodology | Future B2C / clinical licensing |"
+  },
+  {
+   "line": 74,
+   "text": "| Patrons | ≈$165k cumulative (7 tiers · 22+ named contributors) | Maintain inflow; new lead-tier conversion |"
+  },
+  {
+   "line": 75,
+   "text": "| Direct sales | ✅ DAAT pilots (founder-disclosed) | ASRPshop launch · scale crystal production |"
+  },
+  {
+   "line": 76,
+   "text": "| Affiliate | ✅ Proof-of-mechanism logged | Scale via Pinterest US-traffic engine + AI-SEO citations |"
+  },
+  {
+   "line": 77,
+   "text": "| B2B licensing | Cortical Labs Q2 2026 negotiations | First licensing revenue |"
+  },
+  {
+   "line": 78,
+   "text": "| Government | DARPA BAA portal access · NCI SBIR re-submission ready | First BAA / VA submission cycle |"
+  },
+  {
+   "line": 79,
+   "text": "| Crowdfunding | Donate link live | Inspira-X Kickstarter campaign launch |"
+  },
+  {
+   "line": 80,
+   "text": "| Grants | UA/MD agri pipeline · foundation outbound | First confirmed agri-grant or foundation contract |"
+  },
+  {
+   "line": 100,
+   "text": "| 1 | 💝 Меценаты | ✅ active | 7 уровней · ведущий $100 тыс. (Александр Овсянников) · накопленное ≈$165 тыс. |"
+  },
+  {
+   "line": 101,
+   "text": "| 2 | 📰 Реклама и партнёрки | ✅ реализовано | CPM/CPC ASRP.media + Amazon-партнёрка через баннеры; **рабочий пример: партнёрская продажа нейроинтерфейса уже реализована** через баннер в ASRP.media |"
+  },
+  {
+   "line": 102,
+   "text": "| 3 | 💎 Прямые продажи | ✅ реализовано | DAAT-кристаллы (премиум) — топ-менеджеры банка + индивидуальные носители из списка Forbes (со слов основателя; имена и название учреждения не раскрываются) |"
+  },
+  {
+   "line": 103,
+   "text": "| 4 | 💼 Инвесторы (без долей) | ✅ open | Модели сотрудничества без передачи долей — `asrp.tech/ru/investors` |"
+  },
+  {
+   "line": 104,
+   "text": "| 5 | 🚀 Краудфандинг | 🟡 planned | Кампания Kickstarter-уровня под Inspira-X; донат-линк уже работает на `asrp.tech/ru/donate/asrp` |"
+  },
+  {
+   "line": 105,
+   "text": "| 6 | 🏛️ Госконтракты | 🎯 target | Подрядчики DoD (Boeing-класс), VA (Gulf War Syndrome), R&D уровня DARPA (портал BAA активен), NCI SBIR FY26 готов к повторной подаче |"
+  },
+  {
+   "line": 106,
+   "text": "| 7 | 📜 Научные гранты | 🔄 pipeline | Гранты UA/MD на восстановление почв; аутбаунд в фонды (MJFF, фонды клеточного мяса) |"
+  },
+  {
+   "line": 107,
+   "text": "| 8 | 💼 B2B-лицензирование *(emerging)* | 🔄 pipeline | Активные переговоры: Cortical Labs (плазма крови) Q2 2026; long-tail — производители нейроинтерфейсов, премиум-fashion-бренды, агрохолдинги |"
+  },
+  {
+   "line": 134,
+   "text": "| **pat-fbhfs** — KZ 2025/1095.1 Фрактальная биомед. система гиперб. поля | DAAT Crystal · ASRP.fashion · плазма · агро | Прямые продажи · Лицензирование (Cortical Labs) · Гранты · B2B corp-wellness |"
+  },
+  {
+   "line": 135,
+   "text": "| **pat-inspira** — KZ 2025/0914.1 Inspira-X | Прибор Inspira-X · компонент DAAT-стека | Краудфандинг · Прямые продажи · B2B-лицензирование |"
+  },
+  {
+   "line": 136,
+   "text": "| **pat-drift** — KZ 413554 ASRP.drift Нейроинтеграция | ASRP.drift PlayOne · AI-слой DAAT | Оборонные / клинические / спортивные R&D · DAAT-бандл |"
+  },
+  {
+   "line": 137,
+   "text": "| **pat-gfs** — Global Forecasting System | GFS-продукт + субстрат рейтингов Kapusta | B2G прогнозы · B2B-терминал API · B2C ASRP.exchange |"
+  },
+  {
+   "line": 138,
+   "text": "| **pat-gms** — Global Mental System | Зонтик ASRP.exchange / Banchenko-Market | Tx-комиссии Kapusta + комиссии биржи + сертификации |"
+  },
+  {
+   "line": 139,
+   "text": "| **pat-banchenko-tech** — комбинированные методы | Arcanum12th_BOT (синхронизация снов, мнемоника, GFS, market) | Курсы Arcanum12th + GFS + ASRP.exchange |"
+  },
+  {
+   "line": 140,
+   "text": "| **pat-biophoton** — KZ 2025/1097.1 Биофотонная нейродиагностика | Нейродиагностический комплемент Inspira-X | Будущее B2B-лицензирование (клиника) |"
+  },
+  {
+   "line": 141,
+   "text": "| **pat-art** — KZ 2025/0592.1 + PCT 412362 ASRP.art | SPR — интеграция с аукц. домами / галереями | Платная SPR-сертификация + партнёрства галерей / аукц. домов |"
+  },
+  {
+   "line": 142,
+   "text": "| *(держит le-us)* **pat-bfs-us** — US Copyright TXu002116250 Body Food System | Методология персонализированного питания | Будущее B2C / клиническое лицензирование |"
+  },
+  {
+   "line": 152,
+   "text": "| Меценаты | ≈$165 тыс. накопленно (7 уровней · 22+ имени) | Поддержание потока; конверсия нового lead-tier |"
+  },
+  {
+   "line": 153,
+   "text": "| Прямые продажи | ✅ Пилоты DAAT (со слов основателя) | Запуск ASRPshop · масштабирование производства |"
+  },
+  {
+   "line": 154,
+   "text": "| Партнёрки | ✅ Proof-of-mechanism зафиксирован | Масштаб через Pinterest US-движок + AI-SEO цитирования |"
+  },
+  {
+   "line": 155,
+   "text": "| B2B-лицензирование | Cortical Labs Q2 2026 — переговоры | Первая лицензионная выручка |"
+  },
+  {
+   "line": 156,
+   "text": "| Госконтракты | DARPA BAA портал · NCI SBIR готов к повторной подаче | Первый цикл подачи BAA / VA |"
+  },
+  {
+   "line": 157,
+   "text": "| Краудфандинг | Донат-линк работает | Запуск кампании Inspira-X на Kickstarter |"
+  },
+  {
+   "line": 158,
+   "text": "| Гранты | Агро-пайплайн UA/MD · аутбаунд в фонды | Первый подтверждённый агро-грант или контракт фонда |"
+  }
+ ],
+ "numbers": [
+  "1",
+  "10",
+  "100",
+  "12",
+  "165",
+  "2",
+  "2017",
+  "2024",
+  "2025",
+  "2025/0592.1",
+  "2025/0914.1",
+  "2025/1095.1",
+  "2025/1097.1",
+  "2026",
+  "22",
+  "240140033296",
+  "27",
+  "29–99",
+  "3",
+  "30–70",
+  "4",
+  "412362",
+  "413554",
+  "5",
+  "5–50",
+  "6",
+  "7",
+  "8",
+  "9",
+  "9–499"
+ ],
+ "dates": [
+  "10 Jun 2025",
+  "10 июня 2025",
+  "27 Jan 2024",
+  "27 янв. 2024",
+  "Q2 2026"
+ ],
+ "emails": [],
+ "handles": [],
+ "code_spans": [
+  "#L17000209665",
+  "README.md",
+  "asrp.tech/ru/donate/asrp",
+  "asrp.tech/ru/investors"
+ ],
+ "code_blocks": [],
+ "names": [
+  "AI-SEO",
+  "AI-слой DAAT",
+  "ASRP LLC",
+  "ASRP Market",
+  "ASRP UK",
+  "ASRP.drift Neurointegration",
+  "ASRP.drift PlayOne",
+  "ASRP.drift Нейроинтеграция",
+  "ASRP.exchange UI",
+  "ASRP.media CPM",
+  "Agricultural Study",
+  "Alexander Ovsyannikov",
+  "B2B API",
+  "B2B-терминал API",
+  "B2C ASRP.exchange",
+  "Banchenko-Market",
+  "Biophotonic Neurodiagnostic",
+  "Blood Plasma",
+  "CPC ASRP.media",
+  "Cortical Labs",
+  "Cortical Labs Q2",
+  "D. Banchenko",
+  "DAAT Crystal",
+  "DAAT Crystals",
+  "DAAT-stack AI",
+  "DARPA BAA",
+  "DARPA-class R",
+  "Denis Banchenko",
+  "First BAA",
+  "Fractal Biomedical Hyperbolic Field System",
+  "Funding Sources",
+  "Future B2B",
+  "Future B2C",
+  "Global Forecasting System",
+  "Global Mental System",
+  "Gulf War Syndrome",
+  "How ASRP",
+  "Hyperbolic Biomed",
+  "Inspira-X",
+  "Inspira-X Kickstarter",
+  "Kazakhstan ТОО",
+  "Legal Entities",
+  "M. Kapustin",
+  "Mental-Object",
+  "Money Flow",
+  "NCI SBIR",
+  "NCI SBIR FY26",
+  "Paid SPR",
+  "Pinterest US-traffic",
+  "Pinterest US-движок",
+  "Tesla Business Program",
+  "Tx-комиссии Kapusta",
+  "UAP Reverse Engineering",
+  "UI ASRP.exchange",
+  "US Copyright TXu002116250 Body Food System",
+  "V. Ovseannicova",
+  "Агро-пайплайн UA",
+  "Александр Овсянников",
+  "Будущее B2B-лицензирование",
+  "Будущее B2C",
+  "В. Овсянникова",
+  "Гранты UA",
+  "Д. Банченко",
+  "Дениса Банченко",
+  "Запуск ASRPshop",
+  "Зонтик ASRP.exchange",
+  "Кампания Kickstarter-уровня",
+  "Курсы Arcanum12th",
+  "М. Капустин",
+  "Ментальных Объектов",
+  "Пилоты DAAT",
+  "Платная SPR-сертификация",
+  "Подрядчики DoD",
+  "Прибор Inspira-X",
+  "ТОО ПНИР"
+ ],
+ "legal_lines": [
+  {
+   "line": 16,
+   "text": "- Formal registration on Denis Banchenko in Kazakhstan is **legal-technical only**; the actual UBO triad is **V. Ovseannicova · M. Kapustin · D. Banchenko**, regardless of jurisdiction."
+  },
+  {
+   "line": 28,
+   "text": "| 7 | 📜 Research grants | 🔄 pipeline | UA/MD post-conflict soil-restoration grants; foundation outbound (MJFF for neurodegenerative, cultured-meat foundations) |"
+  },
+  {
+   "line": 34,
+   "text": "- 🩸 **Blood Plasma / Hyperbolic Biomed** — biocomputing (Cortical Labs Q2 2026) + medcentres + pharma license hyperbolic-field plasma protocols via the LinkedIn engagement playbook · 🔄 active talks"
+  },
+  {
+   "line": 64,
+   "text": "| *(le-us holds)* **pat-bfs-us** — US Copyright TXu002116250 Body Food System | Personalised-nutrition methodology | Future B2C / clinical licensing |"
+  },
+  {
+   "line": 80,
+   "text": "| Grants | UA/MD agri pipeline · foundation outbound | First confirmed agri-grant or foundation contract |"
+  },
+  {
+   "line": 94,
+   "text": "- Регистрация на Дениса Банченко в Казахстане — **юридико-техническая**; фактический UBO-треугольник: **В. Овсянникова · М. Капустин · Д. Банченко** независимо от юрисдикции."
+  },
+  {
+   "line": 107,
+   "text": "| 8 | 💼 B2B-лицензирование *(emerging)* | 🔄 pipeline | Активные переговоры: Cortical Labs (плазма крови) Q2 2026; long-tail — производители нейроинтерфейсов, премиум-fashion-бренды, агрохолдинги |"
+  },
+  {
+   "line": 112,
+   "text": "- 🩸 **Плазма крови / гиперболическая биомедицина** — биокомпьютинг (Cortical Labs Q2 2026) + медцентры + фарма лицензируют протоколы плазмы через LinkedIn-плейбук аутрича · 🔄 активные переговоры"
+  },
+  {
+   "line": 120,
+   "text": "- 👗 **ASRP.fashion** — премиум-fashion + wellness-ритейл + медтекстиль + космический/оборонный R&D платят за живые биосовместимые ткани через дизайнерские пилоты → лицензирование биотканей · 🟡 active-dev"
+  },
+  {
+   "line": 134,
+   "text": "| **pat-fbhfs** — KZ 2025/1095.1 Фрактальная биомед. система гиперб. поля | DAAT Crystal · ASRP.fashion · плазма · агро | Прямые продажи · Лицензирование (Cortical Labs) · Гранты · B2B corp-wellness |"
+  },
+  {
+   "line": 135,
+   "text": "| **pat-inspira** — KZ 2025/0914.1 Inspira-X | Прибор Inspira-X · компонент DAAT-стека | Краудфандинг · Прямые продажи · B2B-лицензирование |"
+  },
+  {
+   "line": 140,
+   "text": "| **pat-biophoton** — KZ 2025/1097.1 Биофотонная нейродиагностика | Нейродиагностический комплемент Inspira-X | Будущее B2B-лицензирование (клиника) |"
+  },
+  {
+   "line": 142,
+   "text": "| *(держит le-us)* **pat-bfs-us** — US Copyright TXu002116250 Body Food System | Методология персонализированного питания | Будущее B2C / клиническое лицензирование |"
+  },
+  {
+   "line": 155,
+   "text": "| B2B-лицензирование | Cortical Labs Q2 2026 — переговоры | Первая лицензионная выручка |"
+  }
+ ],
+ "segments": [
+  {
+   "line": 1,
+   "lang": "ru",
+   "text": "ASRP — Money Flow / Денежные потоки",
+   "code": false
+  },
+  {
+   "line": 3,
+   "lang": "en",
+   "text": "One-page money map. How ASRP earns, where the channels are, where Kazakhstan ТОО sits.",
+   "code": false
+  },
+  {
+   "line": 4,
+   "lang": "mixed",
+   "text": "Источник истины: `README.md` «Paths to Money» + «Funding Sources» + «Legal Entities».",
+   "code": false
+  },
+  {
+   "line": 8,
+   "lang": "en",
+   "text": "EN",
+   "code": false
+  },
+  {
+   "line": 10,
+   "lang": "en",
+   "text": "Legal structure",
+   "code": false
+  },
+  {
+   "line": 12,
+   "lang": "en",
+   "text": "ASRP operates as a multi-jurisdiction group.",
+   "code": false
+  },
+  {
+   "line": 13,
+   "lang": "en",
+   "text": "**ASRP LLC (Florida)** — `#L17000209665`, active since 2017 (reinstated 10 Jun 2025) — the operational and commercial entity. Carries the Tesla Business Program enrolment, the DARPA BAA proposal-portal access, and all USD contracting (target counterparties: DARPA, DoD primes, VA, Tesla).",
+   "code": false
+  },
+  {
+   "line": 14,
+   "lang": "en",
+   "text": "**ТОО ПНИР** (Baikonur, BIN 240140033296, 27 Jan 2024) — the patent-holding entity: 8 patents (6 Kazpatent + PCT 412362 + biophotonic + ASRP.art). KZ jurisdiction is driven by founder-residency requirements + KZ corporate-regulation specifics; phased consolidation (holding companies, shareholder agreements, joint-activity agreements) is in progress.",
+   "code": false
+  },
+  {
+   "line": 15,
+   "lang": "en",
+   "text": "**ASRP UK entity** — undergoing corporate-status reinstatement.",
+   "code": false
+  },
+  {
+   "line": 16,
+   "lang": "en",
+   "text": "Formal registration on Denis Banchenko in Kazakhstan is **legal-technical only**; the actual UBO triad is **V. Ovseannicova · M. Kapustin · D. Banchenko**, regardless of jurisdiction.",
+   "code": false
+  },
+  {
+   "line": 18,
+   "lang": "en",
+   "text": "Income streams",
+   "code": false
+  },
+  {
+   "line": 20,
+   "lang": "en",
+   "text": "Stream",
+   "code": false
+  },
+  {
+   "line": 20,
+   "lang": "en",
+   "text": "Status",
+   "code": false
+  },
+  {
+   "line": 20,
+   "lang": "en",
+   "text": "Mechanism / scale",
+   "code": false
+  },
+  {
+   "line": 22,
+   "lang": "none",
+   "text": "1",
+   "code": false
+  },
+  {
+   "line": 22,
+   "lang": "en",
+   "text": "💝 Patrons",
+   "code": false
+  },
+  {
+   "line": 22,
+   "lang": "en",
+   "text": "✅ active",
+   "code": false
+  },
+  {
+   "line": 22,
+   "lang": "en",
+   "text": "7 tiers · lead $100k (Alexander Ovsyannikov) · cumulative ≈$165k confirmed",
+   "code": false
+  },
+  {
+   "line": 23,
+   "lang": "none",
+   "text": "2",
+   "code": false
+  },
+  {
+   "line": 23,
+   "lang": "en",
+   "text": "📰 Ads & affiliate",
+   "code": false
+  },
+  {
+   "line": 23,
+   "lang": "en",
+   "text": "✅ realised",
+   "code": false
+  },
+  {
+   "line": 23,
+   "lang": "en",
+   "text": "ASRP.media CPM/CPC + Amazon affiliate via banner placements; **proof-of-mechanism: neurointerface affiliate sale already realised** through ASRP.media banner",
+   "code": false
+  },
+  {
+   "line": 24,
+   "lang": "none",
+   "text": "3",
+   "code": false
+  },
+  {
+   "line": 24,
+   "lang": "en",
+   "text": "💎 Direct sales",
+   "code": false
+  },
+  {
+   "line": 24,
+   "lang": "en",
+   "text": "✅ realised",
+   "code": false
+  },
+  {
+   "line": 24,
+   "lang": "en",
+   "text": "DAAT crystals (premium tier) to bank top-management cohort + Forbes-list individual wearers (founder-disclosed; institution and names not disclosed)",
+   "code": false
+  },
+  {
+   "line": 25,
+   "lang": "none",
+   "text": "4",
+   "code": false
+  },
+  {
+   "line": 25,
+   "lang": "en",
+   "text": "💼 Investors (non-equity)",
+   "code": false
+  },
+  {
+   "line": 25,
+   "lang": "en",
+   "text": "✅ open",
+   "code": false
+  },
+  {
+   "line": 25,
+   "lang": "en",
+   "text": "Co-operation models without share transfer — `asrp.tech/ru/investors`",
+   "code": false
+  },
+  {
+   "line": 26,
+   "lang": "none",
+   "text": "5",
+   "code": false
+  },
+  {
+   "line": 26,
+   "lang": "en",
+   "text": "🚀 Crowdfunding",
+   "code": false
+  },
+  {
+   "line": 26,
+   "lang": "en",
+   "text": "🟡 planned",
+   "code": false
+  },
+  {
+   "line": 26,
+   "lang": "en",
+   "text": "Kickstarter-class campaign on Inspira-X; donate link live at `asrp.tech/ru/donate/asrp`",
+   "code": false
+  },
+  {
+   "line": 27,
+   "lang": "none",
+   "text": "6",
+   "code": false
+  },
+  {
+   "line": 27,
+   "lang": "en",
+   "text": "🏛️ Government contracts",
+   "code": false
+  },
+  {
+   "line": 27,
+   "lang": "en",
+   "text": "🎯 target",
+   "code": false
+  },
+  {
+   "line": 27,
+   "lang": "en",
+   "text": "DoD primes (Boeing-class), VA (Gulf War Syndrome), DARPA-class R&D (BAA portal active), NCI SBIR FY26 ready for re-submission",
+   "code": false
+  },
+  {
+   "line": 28,
+   "lang": "none",
+   "text": "7",
+   "code": false
+  },
+  {
+   "line": 28,
+   "lang": "en",
+   "text": "📜 Research grants",
+   "code": false
+  },
+  {
+   "line": 28,
+   "lang": "en",
+   "text": "🔄 pipeline",
+   "code": false
+  },
+  {
+   "line": 28,
+   "lang": "en",
+   "text": "UA/MD post-conflict soil-restoration grants; foundation outbound (MJFF for neurodegenerative, cultured-meat foundations)",
+   "code": false
+  },
+  {
+   "line": 29,
+   "lang": "none",
+   "text": "8",
+   "code": false
+  },
+  {
+   "line": 29,
+   "lang": "en",
+   "text": "💼 B2B licensing *(emerging)",
+   "code": false
+  },
+  {
+   "line": 29,
+   "lang": "en",
+   "text": "🔄 pipeline",
+   "code": false
+  },
+  {
+   "line": 29,
+   "lang": "en",
+   "text": "Active talks: Cortical Labs (blood plasma) Q2 2026; long-tail to neurointerface vendors, premium fashion brands, agri-holdings",
+   "code": false
+  },
+  {
+   "line": 31,
+   "lang": "en",
+   "text": "Per-project revenue route",
+   "code": false
+  },
+  {
+   "line": 33,
+   "lang": "en",
+   "text": "🛸 **UAP Reverse Engineering** — DoD primes + DARPA + DoE + VA pay for reverse-engineering subcontracts via LinkedIn + open-repo timing · target ~$2M/yr entry R&D · 🎯 target",
+   "code": false
+  },
+  {
+   "line": 34,
+   "lang": "en",
+   "text": "🩸 **Blood Plasma / Hyperbolic Biomed** — biocomputing (Cortical Labs Q2 2026) + medcentres + pharma license hyperbolic-field plasma protocols via the LinkedIn engagement playbook · 🔄 active talks",
+   "code": false
+  },
+  {
+   "line": 35,
+   "lang": "en",
+   "text": "🌱 **Agricultural Study** — UA/MD post-conflict soil-restoration grants + agri-holdings pay for hyperbolic-field germination/yield protocols via grant proposals → pilots → royalty · 🔄 pipeline",
+   "code": false
+  },
+  {
+   "line": 36,
+   "lang": "en",
+   "text": "🌐 **GFS — Global Forecasting System** — governments + private desks + B2C bettors pay for forecasts via B2G direct + B2B API + ASRP.exchange UI · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 37,
+   "lang": "en",
+   "text": "🎨 **ASRP.art** — artists → galleries → collectors → auction houses pay for SPR scoring; bottom-up to top-tier auction houses (Phase-4 targets, names withheld pre-contact) · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 38,
+   "lang": "en",
+   "text": "🧠 **ASRP.drift (PlayOne)** — clinical research + sports science + defense augmentation pay for resonant neurointegration via institutional partnerships post-validation · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 39,
+   "lang": "en",
+   "text": "📰 **ASRP.media** — advertisers + Amazon affiliates pay via CPM/CPC banners + deep-links; neurointerface sale already realised · ✅ realised",
+   "code": false
+  },
+  {
+   "line": 40,
+   "lang": "en",
+   "text": "🎓 **Arcanum12th** — B2C learners pay $9–499 courses + $5–50/mo subs + $29–99 certs; 30–70% rev-share with authors · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 41,
+   "lang": "en",
+   "text": "💃 **ASRP.dance** — neuro/rehab clinics + high-perf sports + wellness studios + cog-neuro labs pay for movement-cortex protocols via institutional pilots → whitelabel + Arcanum12th cert · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 42,
+   "lang": "en",
+   "text": "👗 **ASRP.fashion** — premium fashion + wellness retail + medical textiles + space/defense R&D pay for living biocompatible textiles via designer pilots → bio-fabric licensing · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 43,
+   "lang": "en",
+   "text": "💎 **DAAT Crystals** — premium B2C + B2B corporate-wellness pay for crystal+Inspira-X+neurointerface+ASRP.drift stack via asrp.tech / ASRPshop / Arcanum12th community · ✅ realised (founder-disclosed pilots)",
+   "code": false
+  },
+  {
+   "line": 44,
+   "lang": "en",
+   "text": "🧘 **Global Mental System / Banchenko-Market** — end-users + content platforms + GMS-program enterprises pay tx fees on Kapusta.money + exchange commissions + Arcanum12th cert fees + premium subs · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 45,
+   "lang": "en",
+   "text": "🔁 **ASRP.exchange / ASRP Market** — bettors + Mental-Object holders + governments pay forecast/stake fees + listing/cert + B2G subscriptions; settled in Kapusta.money · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 46,
+   "lang": "en",
+   "text": "🛒 **ASRPshop** — premium B2C buyers pay direct for DAAT crystals + ASRP.fashion items via own storefront · 🟠 planned",
+   "code": false
+  },
+  {
+   "line": 47,
+   "lang": "en",
+   "text": "🚀 **Inspira-X crowdfunding** — backers pre-pay for the dual-channel pneumograph+ECG via Kickstarter-class campaign · 🟡 in preparation",
+   "code": false
+  },
+  {
+   "line": 48,
+   "lang": "en",
+   "text": "🫁 **Inspira-X (product)** — backers + B2C wellness + B2B clinics pay for the biofeedback device + DAAT-stack component via crowdfunding launch + direct sales · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 50,
+   "lang": "en",
+   "text": "Patent → product → revenue chain",
+   "code": false
+  },
+  {
+   "line": 52,
+   "lang": "en",
+   "text": "Reads top-to-bottom: 8 of 9 IP assets sit in ТОО ПНИР; every product line ladders to a revenue stream through the **le-kz → le-us** corporate bridge.",
+   "code": false
+  },
+  {
+   "line": 54,
+   "lang": "en",
+   "text": "Patent (le-kz holds)",
+   "code": false
+  },
+  {
+   "line": 54,
+   "lang": "en",
+   "text": "Product / channel",
+   "code": false
+  },
+  {
+   "line": 54,
+   "lang": "en",
+   "text": "Revenue stream",
+   "code": false
+  },
+  {
+   "line": 56,
+   "lang": "en",
+   "text": "pat-fbhfs** — KZ 2025/1095.1 Fractal Biomedical Hyperbolic Field System",
+   "code": false
+  },
+  {
+   "line": 56,
+   "lang": "en",
+   "text": "DAAT Crystal · ASRP.fashion · plasma study · agri study",
+   "code": false
+  },
+  {
+   "line": 56,
+   "lang": "en",
+   "text": "Direct sales · Licensing (Cortical Labs) · Grants · B2B corp-wellness",
+   "code": false
+  },
+  {
+   "line": 57,
+   "lang": "en",
+   "text": "pat-inspira** — KZ 2025/0914.1 Inspira-X",
+   "code": false
+  },
+  {
+   "line": 57,
+   "lang": "en",
+   "text": "Inspira-X biofeedback device · DAAT-stack component",
+   "code": false
+  },
+  {
+   "line": 57,
+   "lang": "en",
+   "text": "Crowdfunding · Direct sales · B2B licensing",
+   "code": false
+  },
+  {
+   "line": 58,
+   "lang": "en",
+   "text": "pat-drift** — KZ 413554 ASRP.drift Neurointegration",
+   "code": false
+  },
+  {
+   "line": 58,
+   "lang": "en",
+   "text": "ASRP.drift PlayOne · DAAT-stack AI layer",
+   "code": false
+  },
+  {
+   "line": 58,
+   "lang": "en",
+   "text": "Defense / clinical / sports R&D contracts · DAAT bundle",
+   "code": false
+  },
+  {
+   "line": 59,
+   "lang": "en",
+   "text": "pat-gfs** — Global Forecasting System",
+   "code": false
+  },
+  {
+   "line": 59,
+   "lang": "en",
+   "text": "GFS product + Kapusta rating substrate",
+   "code": false
+  },
+  {
+   "line": 59,
+   "lang": "en",
+   "text": "B2G forecasts · B2B terminal API · B2C ASRP.exchange",
+   "code": false
+  },
+  {
+   "line": 60,
+   "lang": "en",
+   "text": "pat-gms** — Global Mental System",
+   "code": false
+  },
+  {
+   "line": 60,
+   "lang": "en",
+   "text": "ASRP.exchange / Banchenko-Market umbrella",
+   "code": false
+  },
+  {
+   "line": 60,
+   "lang": "en",
+   "text": "Tx fees on Kapusta + exchange commissions + cert fees",
+   "code": false
+  },
+  {
+   "line": 61,
+   "lang": "en",
+   "text": "pat-banchenko-tech** — combined methods",
+   "code": false
+  },
+  {
+   "line": 61,
+   "lang": "en",
+   "text": "Arcanum12th_BOT (dream sync, mnemonic sync, GFS, market)",
+   "code": false
+  },
+  {
+   "line": 61,
+   "lang": "en",
+   "text": "Arcanum12th courses + GFS + ASRP.exchange",
+   "code": false
+  },
+  {
+   "line": 62,
+   "lang": "en",
+   "text": "pat-biophoton** — KZ 2025/1097.1 Biophotonic Neurodiagnostic",
+   "code": false
+  },
+  {
+   "line": 62,
+   "lang": "en",
+   "text": "Inspira-X neurodiagnostic complement",
+   "code": false
+  },
+  {
+   "line": 62,
+   "lang": "en",
+   "text": "Future B2B licensing (clinical)",
+   "code": false
+  },
+  {
+   "line": 63,
+   "lang": "en",
+   "text": "pat-art** — KZ 2025/0592.1 + PCT 412362 ASRP.art",
+   "code": false
+  },
+  {
+   "line": 63,
+   "lang": "en",
+   "text": "SPR — auction-house / gallery integration",
+   "code": false
+  },
+  {
+   "line": 63,
+   "lang": "en",
+   "text": "Paid SPR certification + gallery / auction-house partnerships",
+   "code": false
+  },
+  {
+   "line": 64,
+   "lang": "en",
+   "text": "(le-us holds)* **pat-bfs-us** — US Copyright TXu002116250 Body Food System",
+   "code": false
+  },
+  {
+   "line": 64,
+   "lang": "en",
+   "text": "Personalised-nutrition methodology",
+   "code": false
+  },
+  {
+   "line": 64,
+   "lang": "en",
+   "text": "Future B2C / clinical licensing",
+   "code": false
+  },
+  {
+   "line": 66,
+   "lang": "en",
+   "text": "Worked example",
+   "code": false
+  },
+  {
+   "line": 68,
+   "lang": "en",
+   "text": "The cross-promotion model is **not theoretical**. ASRP.media ran a banner ad for a neurointerface device embedded in adjacent editorial content; a reader clicked through and completed a purchase; ASRP received the affiliate commission. This single transaction is the canonical proof-of-mechanism for the entire content-factory funnel — every other content channel (ASRP.science, YouTube, Arcanum12th, ASRP.art) applies the same 🟢 internal-banner / 🟡 external-affiliate pattern. The mechanism is **already operational** at the smallest unit of revenue; everything else is the same loop scaled up.",
+   "code": false
+  },
+  {
+   "line": 70,
+   "lang": "en",
+   "text": "Cumulative funding + 12-month targets",
+   "code": false
+  },
+  {
+   "line": 72,
+   "lang": "en",
+   "text": "Line",
+   "code": false
+  },
+  {
+   "line": 72,
+   "lang": "en",
+   "text": "Today",
+   "code": false
+  },
+  {
+   "line": 72,
+   "lang": "en",
+   "text": "Next 12 months",
+   "code": false
+  },
+  {
+   "line": 74,
+   "lang": "en",
+   "text": "Patrons",
+   "code": false
+  },
+  {
+   "line": 74,
+   "lang": "en",
+   "text": "≈$165k cumulative (7 tiers · 22+ named contributors)",
+   "code": false
+  },
+  {
+   "line": 74,
+   "lang": "en",
+   "text": "Maintain inflow; new lead-tier conversion",
+   "code": false
+  },
+  {
+   "line": 75,
+   "lang": "en",
+   "text": "Direct sales",
+   "code": false
+  },
+  {
+   "line": 75,
+   "lang": "en",
+   "text": "✅ DAAT pilots (founder-disclosed)",
+   "code": false
+  },
+  {
+   "line": 75,
+   "lang": "en",
+   "text": "ASRPshop launch · scale crystal production",
+   "code": false
+  },
+  {
+   "line": 76,
+   "lang": "en",
+   "text": "Affiliate",
+   "code": false
+  },
+  {
+   "line": 76,
+   "lang": "en",
+   "text": "✅ Proof-of-mechanism logged",
+   "code": false
+  },
+  {
+   "line": 76,
+   "lang": "en",
+   "text": "Scale via Pinterest US-traffic engine + AI-SEO citations",
+   "code": false
+  },
+  {
+   "line": 77,
+   "lang": "en",
+   "text": "B2B licensing",
+   "code": false
+  },
+  {
+   "line": 77,
+   "lang": "en",
+   "text": "Cortical Labs Q2 2026 negotiations",
+   "code": false
+  },
+  {
+   "line": 77,
+   "lang": "en",
+   "text": "First licensing revenue",
+   "code": false
+  },
+  {
+   "line": 78,
+   "lang": "en",
+   "text": "Government",
+   "code": false
+  },
+  {
+   "line": 78,
+   "lang": "en",
+   "text": "DARPA BAA portal access · NCI SBIR re-submission ready",
+   "code": false
+  },
+  {
+   "line": 78,
+   "lang": "en",
+   "text": "First BAA / VA submission cycle",
+   "code": false
+  },
+  {
+   "line": 79,
+   "lang": "en",
+   "text": "Crowdfunding",
+   "code": false
+  },
+  {
+   "line": 79,
+   "lang": "en",
+   "text": "Donate link live",
+   "code": false
+  },
+  {
+   "line": 79,
+   "lang": "en",
+   "text": "Inspira-X Kickstarter campaign launch",
+   "code": false
+  },
+  {
+   "line": 80,
+   "lang": "en",
+   "text": "Grants",
+   "code": false
+  },
+  {
+   "line": 80,
+   "lang": "en",
+   "text": "UA/MD agri pipeline · foundation outbound",
+   "code": false
+  },
+  {
+   "line": 80,
+   "lang": "en",
+   "text": "First confirmed agri-grant or foundation contract",
+   "code": false
+  },
+  {
+   "line": 82,
+   "lang": "en",
+   "text": "Numbers without explicit anchors are deliberately omitted — Denis updates the right column when hard targets are signed.",
+   "code": false
+  },
+  {
+   "line": 86,
+   "lang": "en",
+   "text": "RU",
+   "code": false
+  },
+  {
+   "line": 88,
+   "lang": "ru",
+   "text": "Юридическая структура",
+   "code": false
+  },
+  {
+   "line": 90,
+   "lang": "ru",
+   "text": "ASRP — мультиюрисдикционная группа.",
+   "code": false
+  },
+  {
+   "line": 91,
+   "lang": "ru",
+   "text": "**ASRP LLC (Флорида)** — `#L17000209665`, действует с 2017 (восстановление 10 июня 2025) — операционно-коммерческое юрлицо. На нём аккредитация Tesla Business Program, доступ к порталу DARPA BAA и все расчёты в USD (контрагенты — DARPA, подрядчики DoD, VA, Tesla).",
+   "code": false
+  },
+  {
+   "line": 92,
+   "lang": "ru",
+   "text": "**ТОО ПНИР** (Байконыр, БИН 240140033296, 27 янв. 2024) — патентодержатель: 8 патентов (6 Казпатент + PCT 412362 + биофотонный + ASRP.art). KZ-юрисдикция обусловлена требованиями к резидентности учредителей и спецификой корпоративного регулирования РК; идёт поэтапная консолидация (холдинги, акционерные соглашения, договоры о совместной деятельности).",
+   "code": false
+  },
+  {
+   "line": 93,
+   "lang": "mixed",
+   "text": "**UK-юрлицо** — на стадии reinstatement.",
+   "code": false
+  },
+  {
+   "line": 94,
+   "lang": "ru",
+   "text": "Регистрация на Дениса Банченко в Казахстане — **юридико-техническая**; фактический UBO-треугольник: **В. Овсянникова · М. Капустин · Д. Банченко** независимо от юрисдикции.",
+   "code": false
+  },
+  {
+   "line": 96,
+   "lang": "ru",
+   "text": "Каналы выручки",
+   "code": false
+  },
+  {
+   "line": 98,
+   "lang": "ru",
+   "text": "Поток",
+   "code": false
+  },
+  {
+   "line": 98,
+   "lang": "ru",
+   "text": "Статус",
+   "code": false
+  },
+  {
+   "line": 98,
+   "lang": "ru",
+   "text": "Механизм / scale",
+   "code": false
+  },
+  {
+   "line": 100,
+   "lang": "none",
+   "text": "1",
+   "code": false
+  },
+  {
+   "line": 100,
+   "lang": "ru",
+   "text": "💝 Меценаты",
+   "code": false
+  },
+  {
+   "line": 100,
+   "lang": "en",
+   "text": "✅ active",
+   "code": false
+  },
+  {
+   "line": 100,
+   "lang": "ru",
+   "text": "7 уровней · ведущий $100 тыс. (Александр Овсянников) · накопленное ≈$165 тыс.",
+   "code": false
+  },
+  {
+   "line": 101,
+   "lang": "none",
+   "text": "2",
+   "code": false
+  },
+  {
+   "line": 101,
+   "lang": "ru",
+   "text": "📰 Реклама и партнёрки",
+   "code": false
+  },
+  {
+   "line": 101,
+   "lang": "ru",
+   "text": "✅ реализовано",
+   "code": false
+  },
+  {
+   "line": 101,
+   "lang": "ru",
+   "text": "CPM/CPC ASRP.media + Amazon-партнёрка через баннеры; **рабочий пример: партнёрская продажа нейроинтерфейса уже реализована** через баннер в ASRP.media",
+   "code": false
+  },
+  {
+   "line": 102,
+   "lang": "none",
+   "text": "3",
+   "code": false
+  },
+  {
+   "line": 102,
+   "lang": "ru",
+   "text": "💎 Прямые продажи",
+   "code": false
+  },
+  {
+   "line": 102,
+   "lang": "ru",
+   "text": "✅ реализовано",
+   "code": false
+  },
+  {
+   "line": 102,
+   "lang": "ru",
+   "text": "DAAT-кристаллы (премиум) — топ-менеджеры банка + индивидуальные носители из списка Forbes (со слов основателя; имена и название учреждения не раскрываются)",
+   "code": false
+  },
+  {
+   "line": 103,
+   "lang": "none",
+   "text": "4",
+   "code": false
+  },
+  {
+   "line": 103,
+   "lang": "ru",
+   "text": "💼 Инвесторы (без долей)",
+   "code": false
+  },
+  {
+   "line": 103,
+   "lang": "en",
+   "text": "✅ open",
+   "code": false
+  },
+  {
+   "line": 103,
+   "lang": "ru",
+   "text": "Модели сотрудничества без передачи долей — `asrp.tech/ru/investors`",
+   "code": false
+  },
+  {
+   "line": 104,
+   "lang": "none",
+   "text": "5",
+   "code": false
+  },
+  {
+   "line": 104,
+   "lang": "ru",
+   "text": "🚀 Краудфандинг",
+   "code": false
+  },
+  {
+   "line": 104,
+   "lang": "en",
+   "text": "🟡 planned",
+   "code": false
+  },
+  {
+   "line": 104,
+   "lang": "ru",
+   "text": "Кампания Kickstarter-уровня под Inspira-X; донат-линк уже работает на `asrp.tech/ru/donate/asrp`",
+   "code": false
+  },
+  {
+   "line": 105,
+   "lang": "none",
+   "text": "6",
+   "code": false
+  },
+  {
+   "line": 105,
+   "lang": "ru",
+   "text": "🏛️ Госконтракты",
+   "code": false
+  },
+  {
+   "line": 105,
+   "lang": "en",
+   "text": "🎯 target",
+   "code": false
+  },
+  {
+   "line": 105,
+   "lang": "ru",
+   "text": "Подрядчики DoD (Boeing-класс), VA (Gulf War Syndrome), R&D уровня DARPA (портал BAA активен), NCI SBIR FY26 готов к повторной подаче",
+   "code": false
+  },
+  {
+   "line": 106,
+   "lang": "none",
+   "text": "7",
+   "code": false
+  },
+  {
+   "line": 106,
+   "lang": "ru",
+   "text": "📜 Научные гранты",
+   "code": false
+  },
+  {
+   "line": 106,
+   "lang": "en",
+   "text": "🔄 pipeline",
+   "code": false
+  },
+  {
+   "line": 106,
+   "lang": "ru",
+   "text": "Гранты UA/MD на восстановление почв; аутбаунд в фонды (MJFF, фонды клеточного мяса)",
+   "code": false
+  },
+  {
+   "line": 107,
+   "lang": "none",
+   "text": "8",
+   "code": false
+  },
+  {
+   "line": 107,
+   "lang": "ru",
+   "text": "💼 B2B-лицензирование *(emerging)",
+   "code": false
+  },
+  {
+   "line": 107,
+   "lang": "en",
+   "text": "🔄 pipeline",
+   "code": false
+  },
+  {
+   "line": 107,
+   "lang": "ru",
+   "text": "Активные переговоры: Cortical Labs (плазма крови) Q2 2026; long-tail — производители нейроинтерфейсов, премиум-fashion-бренды, агрохолдинги",
+   "code": false
+  },
+  {
+   "line": 109,
+   "lang": "ru",
+   "text": "Денежный канал по проектам",
+   "code": false
+  },
+  {
+   "line": 111,
+   "lang": "ru",
+   "text": "🛸 **UAP Reverse Engineering** — подрядчики DoD + DARPA + DoE + VA платят за субконтракты по реверс-инжинирингу через LinkedIn и публикации репозиториев · цель ~$2 млн/год входной R&D · 🎯 цель",
+   "code": false
+  },
+  {
+   "line": 112,
+   "lang": "ru",
+   "text": "🩸 **Плазма крови / гиперболическая биомедицина** — биокомпьютинг (Cortical Labs Q2 2026) + медцентры + фарма лицензируют протоколы плазмы через LinkedIn-плейбук аутрича · 🔄 активные переговоры",
+   "code": false
+  },
+  {
+   "line": 113,
+   "lang": "ru",
+   "text": "🌱 **Агроисследование** — гранты UA/MD на восстановление почв + агрохолдинги платят за протоколы гиперболического поля через гранты → пилоты → роялти · 🔄 pipeline",
+   "code": false
+  },
+  {
+   "line": 114,
+   "lang": "ru",
+   "text": "🌐 **GFS — Глобальная система прогнозирования** — государства + частные дески + B2C-ставочники платят за прогнозы через B2G-канал + B2B API + UI ASRP.exchange · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 115,
+   "lang": "ru",
+   "text": "🎨 **ASRP.art** — художники → галереи → коллекционеры → аукционные дома платят за SPR-оценку; bottom-up к аукционным домам высшего эшелона (Phase-4, имена не раскрываются до контакта) · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 116,
+   "lang": "ru",
+   "text": "🧠 **ASRP.drift (PlayOne)** — клинические исследования + спортивная наука + оборонные программы усиления платят за резонансную нейроинтеграцию через институциональные партнёрства · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 117,
+   "lang": "ru",
+   "text": "📰 **ASRP.media** — рекламодатели + Amazon-партнёрки платят через CPM/CPC-баннеры и deep-link; продажа нейроинтерфейса уже реализована · ✅ реализовано",
+   "code": false
+  },
+  {
+   "line": 118,
+   "lang": "ru",
+   "text": "🎓 **Arcanum12th** — B2C-ученики платят $9–499 за курсы + $5–50/мес подписки + $29–99 сертификаты; 30–70% rev-share с авторами · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 119,
+   "lang": "ru",
+   "text": "💃 **ASRP.dance** — клиники + спорт высоких достижений + wellness-студии + лаборатории когнитивной нейронауки платят за моторно-кортикальные протоколы через институциональные пилоты → whitelabel + сертификация Arcanum12th · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 120,
+   "lang": "ru",
+   "text": "👗 **ASRP.fashion** — премиум-fashion + wellness-ритейл + медтекстиль + космический/оборонный R&D платят за живые биосовместимые ткани через дизайнерские пилоты → лицензирование биотканей · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 121,
+   "lang": "ru",
+   "text": "💎 **DAAT Crystals** — премиум B2C + корпоративный wellness платят за стек кристалл+Inspira-X+нейроинтерфейс+ASRP.drift через asrp.tech / ASRPshop / сообщество Arcanum12th · ✅ реализовано (пилоты со слов основателя)",
+   "code": false
+  },
+  {
+   "line": 122,
+   "lang": "ru",
+   "text": "🧘 **Global Mental System / Banchenko-Market** — конечные пользователи + контент-платформы + корпорации с GMS-программами платят комиссии транзакций Kapusta.money + комиссии биржи + сертификации Arcanum12th + премиум-подписки · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 123,
+   "lang": "ru",
+   "text": "🔁 **ASRP.exchange / ASRP Market** — ставочники + держатели Ментальных Объектов + государства платят за прогнозы/ставки + листинг/сертификацию + B2G-подписки; расчёты в Kapusta.money · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 124,
+   "lang": "ru",
+   "text": "🛒 **ASRPshop** — премиум B2C платят напрямую за DAAT-кристаллы + изделия ASRP.fashion через собственную витрину · 🟠 planned",
+   "code": false
+  },
+  {
+   "line": 125,
+   "lang": "ru",
+   "text": "🚀 **Inspira-X — краудфандинг** — бэкеры предоплачивают двухканальный пневмограф + ЭКГ через кампанию Kickstarter-уровня · 🟡 в подготовке",
+   "code": false
+  },
+  {
+   "line": 126,
+   "lang": "ru",
+   "text": "🫁 **Inspira-X (продукт)** — бэкеры + B2C wellness + B2B-клиники платят за прибор биообратной связи + компонент DAAT-стека через краудфандинг и прямые продажи · 🟡 active-dev",
+   "code": false
+  },
+  {
+   "line": 128,
+   "lang": "ru",
+   "text": "Цепочка «патент → продукт → канал выручки»",
+   "code": false
+  },
+  {
+   "line": 130,
+   "lang": "ru",
+   "text": "Читается сверху вниз: 8 из 9 IP-активов в ТОО ПНИР; каждая продуктовая линия выходит на канал выручки через мост **le-kz → le-us**.",
+   "code": false
+  },
+  {
+   "line": 132,
+   "lang": "ru",
+   "text": "Патент (держит le-kz)",
+   "code": false
+  },
+  {
+   "line": 132,
+   "lang": "ru",
+   "text": "Продукт / канал",
+   "code": false
+  },
+  {
+   "line": 132,
+   "lang": "ru",
+   "text": "Канал выручки",
+   "code": false
+  },
+  {
+   "line": 134,
+   "lang": "ru",
+   "text": "pat-fbhfs** — KZ 2025/1095.1 Фрактальная биомед. система гиперб. поля",
+   "code": false
+  },
+  {
+   "line": 134,
+   "lang": "mixed",
+   "text": "DAAT Crystal · ASRP.fashion · плазма · агро",
+   "code": false
+  },
+  {
+   "line": 134,
+   "lang": "ru",
+   "text": "Прямые продажи · Лицензирование (Cortical Labs) · Гранты · B2B corp-wellness",
+   "code": false
+  },
+  {
+   "line": 135,
+   "lang": "en",
+   "text": "pat-inspira** — KZ 2025/0914.1 Inspira-X",
+   "code": false
+  },
+  {
+   "line": 135,
+   "lang": "ru",
+   "text": "Прибор Inspira-X · компонент DAAT-стека",
+   "code": false
+  },
+  {
+   "line": 135,
+   "lang": "ru",
+   "text": "Краудфандинг · Прямые продажи · B2B-лицензирование",
+   "code": false
+  },
+  {
+   "line": 136,
+   "lang": "mixed",
+   "text": "pat-drift** — KZ 413554 ASRP.drift Нейроинтеграция",
+   "code": false
+  },
+  {
+   "line": 136,
+   "lang": "mixed",
+   "text": "ASRP.drift PlayOne · AI-слой DAAT",
+   "code": false
+  },
+  {
+   "line": 136,
+   "lang": "ru",
+   "text": "Оборонные / клинические / спортивные R&D · DAAT-бандл",
+   "code": false
+  },
+  {
+   "line": 137,
+   "lang": "en",
+   "text": "pat-gfs** — Global Forecasting System",
+   "code": false
+  },
+  {
+   "line": 137,
+   "lang": "ru",
+   "text": "GFS-продукт + субстрат рейтингов Kapusta",
+   "code": false
+  },
+  {
+   "line": 137,
+   "lang": "mixed",
+   "text": "B2G прогнозы · B2B-терминал API · B2C ASRP.exchange",
+   "code": false
+  },
+  {
+   "line": 138,
+   "lang": "en",
+   "text": "pat-gms** — Global Mental System",
+   "code": false
+  },
+  {
+   "line": 138,
+   "lang": "mixed",
+   "text": "Зонтик ASRP.exchange / Banchenko-Market",
+   "code": false
+  },
+  {
+   "line": 138,
+   "lang": "ru",
+   "text": "Tx-комиссии Kapusta + комиссии биржи + сертификации",
+   "code": false
+  },
+  {
+   "line": 139,
+   "lang": "ru",
+   "text": "pat-banchenko-tech** — комбинированные методы",
+   "code": false
+  },
+  {
+   "line": 139,
+   "lang": "ru",
+   "text": "Arcanum12th_BOT (синхронизация снов, мнемоника, GFS, market)",
+   "code": false
+  },
+  {
+   "line": 139,
+   "lang": "mixed",
+   "text": "Курсы Arcanum12th + GFS + ASRP.exchange",
+   "code": false
+  },
+  {
+   "line": 140,
+   "lang": "ru",
+   "text": "pat-biophoton** — KZ 2025/1097.1 Биофотонная нейродиагностика",
+   "code": false
+  },
+  {
+   "line": 140,
+   "lang": "ru",
+   "text": "Нейродиагностический комплемент Inspira-X",
+   "code": false
+  },
+  {
+   "line": 140,
+   "lang": "ru",
+   "text": "Будущее B2B-лицензирование (клиника)",
+   "code": false
+  },
+  {
+   "line": 141,
+   "lang": "en",
+   "text": "pat-art** — KZ 2025/0592.1 + PCT 412362 ASRP.art",
+   "code": false
+  },
+  {
+   "line": 141,
+   "lang": "ru",
+   "text": "SPR — интеграция с аукц. домами / галереями",
+   "code": false
+  },
+  {
+   "line": 141,
+   "lang": "ru",
+   "text": "Платная SPR-сертификация + партнёрства галерей / аукц. домов",
+   "code": false
+  },
+  {
+   "line": 142,
+   "lang": "mixed",
+   "text": "(держит le-us)* **pat-bfs-us** — US Copyright TXu002116250 Body Food System",
+   "code": false
+  },
+  {
+   "line": 142,
+   "lang": "ru",
+   "text": "Методология персонализированного питания",
+   "code": false
+  },
+  {
+   "line": 142,
+   "lang": "ru",
+   "text": "Будущее B2C / клиническое лицензирование",
+   "code": false
+  },
+  {
+   "line": 144,
+   "lang": "ru",
+   "text": "Рабочий пример",
+   "code": false
+  },
+  {
+   "line": 146,
+   "lang": "ru",
+   "text": "Модель кросс-промо **не теоретическая**. ASRP.media запустила баннер с нейроинтерфейсом в смежной редакторской ленте; читатель кликнул и купил; ASRP получила партнёрскую комиссию. Эта одна транзакция — канонический proof-of-mechanism всей контент-воронки: каждый другой контент-канал (ASRP.science, YouTube, Arcanum12th, ASRP.art) применяет тот же паттерн 🟢 внутренний баннер / 🟡 внешняя партнёрка. Механизм **уже работает** на минимальной единице выручки; всё остальное — тот же цикл, отмасштабированный.",
+   "code": false
+  },
+  {
+   "line": 148,
+   "lang": "ru",
+   "text": "Накопленное финансирование + цели на 12 месяцев",
+   "code": false
+  },
+  {
+   "line": 150,
+   "lang": "ru",
+   "text": "Линия",
+   "code": false
+  },
+  {
+   "line": 150,
+   "lang": "ru",
+   "text": "Сегодня",
+   "code": false
+  },
+  {
+   "line": 150,
+   "lang": "ru",
+   "text": "Ближайшие 12 месяцев",
+   "code": false
+  },
+  {
+   "line": 152,
+   "lang": "ru",
+   "text": "Меценаты",
+   "code": false
+  },
+  {
+   "line": 152,
+   "lang": "ru",
+   "text": "≈$165 тыс. накопленно (7 уровней · 22+ имени)",
+   "code": false
+  },
+  {
+   "line": 152,
+   "lang": "ru",
+   "text": "Поддержание потока; конверсия нового lead-tier",
+   "code": false
+  },
+  {
+   "line": 153,
+   "lang": "ru",
+   "text": "Прямые продажи",
+   "code": false
+  },
+  {
+   "line": 153,
+   "lang": "ru",
+   "text": "✅ Пилоты DAAT (со слов основателя)",
+   "code": false
+  },
+  {
+   "line": 153,
+   "lang": "ru",
+   "text": "Запуск ASRPshop · масштабирование производства",
+   "code": false
+  },
+  {
+   "line": 154,
+   "lang": "ru",
+   "text": "Партнёрки",
+   "code": false
+  },
+  {
+   "line": 154,
+   "lang": "mixed",
+   "text": "✅ Proof-of-mechanism зафиксирован",
+   "code": false
+  },
+  {
+   "line": 154,
+   "lang": "ru",
+   "text": "Масштаб через Pinterest US-движок + AI-SEO цитирования",
+   "code": false
+  },
+  {
+   "line": 155,
+   "lang": "ru",
+   "text": "B2B-лицензирование",
+   "code": false
+  },
+  {
+   "line": 155,
+   "lang": "mixed",
+   "text": "Cortical Labs Q2 2026 — переговоры",
+   "code": false
+  },
+  {
+   "line": 155,
+   "lang": "ru",
+   "text": "Первая лицензионная выручка",
+   "code": false
+  },
+  {
+   "line": 156,
+   "lang": "ru",
+   "text": "Госконтракты",
+   "code": false
+  },
+  {
+   "line": 156,
+   "lang": "ru",
+   "text": "DARPA BAA портал · NCI SBIR готов к повторной подаче",
+   "code": false
+  },
+  {
+   "line": 156,
+   "lang": "ru",
+   "text": "Первый цикл подачи BAA / VA",
+   "code": false
+  },
+  {
+   "line": 157,
+   "lang": "ru",
+   "text": "Краудфандинг",
+   "code": false
+  },
+  {
+   "line": 157,
+   "lang": "ru",
+   "text": "Донат-линк работает",
+   "code": false
+  },
+  {
+   "line": 157,
+   "lang": "mixed",
+   "text": "Запуск кампании Inspira-X на Kickstarter",
+   "code": false
+  },
+  {
+   "line": 158,
+   "lang": "ru",
+   "text": "Гранты",
+   "code": false
+  },
+  {
+   "line": 158,
+   "lang": "ru",
+   "text": "Агро-пайплайн UA/MD · аутбаунд в фонды",
+   "code": false
+  },
+  {
+   "line": 158,
+   "lang": "ru",
+   "text": "Первый подтверждённый агро-грант или контракт фонда",
+   "code": false
+  },
+  {
+   "line": 160,
+   "lang": "ru",
+   "text": "Числа без явных якорей намеренно опущены — правая колонка обновляется, когда есть подписанные цели.",
+   "code": false
+  }
+ ],
+ "blockquote_lines": 6,
+ "list_items": 40,
+ "counts": {
+  "chars": 16906,
+  "lines": 161,
+  "headings": 15,
+  "links": 0,
+  "images": 0,
+  "badges": 0,
+  "urls": 0,
+  "internal_targets": 0,
+  "tables": 6,
+  "table_rows": 48,
+  "numbers": 30,
+  "dates": 5,
+  "emails": 0,
+  "handles": 0,
+  "code_spans": 4,
+  "code_blocks": 0,
+  "names": 75,
+  "legal_lines": 14,
+  "segments": 243,
+  "blockquote_lines": 6,
+  "list_items": 40
+ },
+ "source": "graph/MONEY_FLOW.md"
+}

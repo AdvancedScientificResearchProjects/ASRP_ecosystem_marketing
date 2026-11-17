@@ -1,0 +1,74 @@
+**English | [Русский](LEGAL_ENTITIES.ru.md)**
+
+[← ASRP Ecosystem](../README.md) · [Documentation index](README.md)
+
+<div align="center">
+
+# ASRP Ecosystem — Legal Entities and Registry Verification
+
+</div>
+
+> Migrated verbatim from the pre-2026-11 root README (snapshot `cfd1940`, archived in [`archive/`](../archive/README_2026-11-17_pre-marketing-update.md)). Statuses and figures are as stated in that source, mostly dated 2026-Q2, and have not been re-verified since.
+
+---
+
+## Legal Entities & Registry Verification
+
+**ASRP operates as a multi-jurisdiction group.** The three legal entities currently in scope are: the U.S. operational **ASRP LLC** (Florida, active since 2017), the Kazakhstan research-and-patent **ТОО** (Baikonur, 2024), and a **United Kingdom entity** (currently on corporate-status reinstatement). The Florida and Kazakhstan entities are verifiable through public registries; the UK entity is in the reinstatement stage and is documented here as part of the group's ongoing legal consolidation (see UBO note below).
+
+![Legal entities epochs](../assets/diagrams/12-company-epochs.png)
+
+### Advanced Scientific Research Projects LLC (Florida, USA)
+
+| Field | Value |
+|---|---|
+| **Entity type** | Florida Limited Liability Company |
+| **Document #** | L17000209665 |
+| **FEI / EIN** | provided to verified counterparties · public via Florida SunBiz registry |
+| **Date Filed** | **10 October 2017** |
+| **Status** | ACTIVE |
+| **Last Event** | REINSTATEMENT — 10 Jun 2025 |
+| **Name change** | 28 Feb 2018 |
+| **Principal address** | 7901 4th St N, Ste 300, St. Petersburg, FL 33702 (changed 28 Feb 2026) |
+| **Registered Agent** | Registered Agents Inc |
+| **Authorized Members** | Valeria Ovseannicova · Mykhailo Kapustin · Denis Banchenko |
+| **Annual Reports** | 2024 (filed 10 Jun 2025) · 2025 (filed 10 Jun 2025) · 2026 (filed 28 Feb 2026) |
+| **Public registry** | [search.sunbiz.org — Florida Division of Corporations](https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=ADVANCEDSCIENTIFICRESEARCHPROJ%20L170002096650&aggregateId=flal-l17000209665-9ae2294a-abd3-46c7-944f-b49e0eb2f7f4&searchTerm=ADVANCED%20SCIENTIFIC%20RESEARCH%20PROJECTS%20LLC&listNameOrder=ADVANCEDSCIENTIFICRESEARCHPROJ%20L170002096650) |
+
+### ASRP LLP (Kazakhstan)
+
+| Field | Value |
+|---|---|
+| **Entity type** | Limited Liability Partnership |
+| **BIN** | 240140033296 |
+| **Registration** | **27 January 2024** |
+| **OKED** | 72199 — Other research and development in natural and technical sciences |
+| **Legal address** | Komarova St., 37, apt. 56, Baikonur, Kyzylorda region, 468320, Republic of Kazakhstan |
+| **KATO code** | 431910000 (Baikonur) |
+| **Director** | Denis Banchenko |
+| **Public registries** | [infostats.co](https://infostats.co/companies/kz/3235213) · [kyc.kz](https://kyc.kz/search/bin/240140033296) |
+
+> ⚠️ EN/RU divergence in the source — see [open questions](../reports/MARKETING_UPDATE_REPORT.md#open-questions).
+
+> The Kazakhstan entity holds the **patent portfolio** (6 Kazpatent filings + 1 PCT); the Florida LLC is the **operational / commercial** entity (Tesla Business Program, DARPA BAA, USD contracting).
+
+#### Ownership, UBO and corporate-affiliation disclaimer
+
+> This note accompanies the Kazakhstan entity above and applies to the multi-jurisdiction group as a whole (US + KZ + UK).
+
+This confirms that the legal entity registered in the Republic of Kazakhstan is part of the international ASRP group of companies (the "Group"), which also includes legal entities and corporate structures in the **United States** and the **United Kingdom** (including an entity currently undergoing corporate-status reinstatement).
+
+Due to national-law constraints — including founder-residency requirements and specifics of Kazakhstan corporate regulation — the KZ entity is formally registered on **Denis Banchenko**, who currently acts as the nominal founder and/or sole executive body (director).
+
+This registration is strictly of a **legal-technical and operational** character and **does not reflect the actual structure of ownership, control or economic-interest distribution** within the Group.
+
+The **actual beneficial owners (UBO)** — and the persons exercising joint strategic and management control over the Group's assets and activities — are:
+- **Valeria A. Ovseannicova**
+- **Mykhailo M. Kapustin**
+- **Denis Y. Banchenko**
+
+These individuals act as co-owners and partners within a unified corporate and investment strategy of the ASRP Group, independent of the formal distribution of shares in individual jurisdictions.
+
+Any discrepancies between the legal registration of specific companies and the actual ownership structure are attributable to the **current stage of corporate restructuring** and to the need to comply with the applicable legislation of the relevant jurisdictions (including, but not limited to, questions of tax residency, currency control and corporate law).
+
+The ASRP Group is executing a **phased model** of consolidating assets and legal structure — including the possible formation of holding companies, formalisation of cross-jurisdictional links (via share-ownership mechanisms, shareholders' agreements, joint-activity agreements and other instruments), and synchronisation of beneficial control. Until these processes are completed, all legal entities within the Group — regardless of their formal registration — are regarded as interconnected and operating within a unified economic model and in the interests of the ASRP Group.

@@ -1,0 +1,900 @@
+{
+ "chars": 6647,
+ "lines": 112,
+ "headings": [
+  {
+   "line": 1,
+   "level": 1,
+   "text": "ASRP Marketing Ecosystem — Interactive Graph",
+   "anchor": "asrp-marketing-ecosystem--interactive-graph"
+  },
+  {
+   "line": 9,
+   "level": 2,
+   "text": "What's inside",
+   "anchor": "whats-inside"
+  },
+  {
+   "line": 19,
+   "level": 2,
+   "text": "Option 1 — Open the live deploy",
+   "anchor": "option-1--open-the-live-deploy"
+  },
+  {
+   "line": 25,
+   "level": 2,
+   "text": "Option 2 — Run locally",
+   "anchor": "option-2--run-locally"
+  },
+  {
+   "line": 42,
+   "level": 2,
+   "text": "Option 2 — Import into Kumu.io for a hosted, shareable map",
+   "anchor": "option-2--import-into-kumuio-for-a-hosted-shareable-map"
+  },
+  {
+   "line": 56,
+   "level": 2,
+   "text": "Graph structure",
+   "anchor": "graph-structure"
+  },
+  {
+   "line": 79,
+   "level": 2,
+   "text": "Updating the graph",
+   "anchor": "updating-the-graph"
+  },
+  {
+   "line": 89,
+   "level": 2,
+   "text": "What this is good for",
+   "anchor": "what-this-is-good-for"
+  },
+  {
+   "line": 96,
+   "level": 2,
+   "text": "Notes / open items",
+   "anchor": "notes--open-items"
+  },
+  {
+   "line": 105,
+   "level": 2,
+   "text": "💛 Support / Поддержать",
+   "anchor": "-support--поддержать"
+  }
+ ],
+ "links": [],
+ "images": [],
+ "badges": [],
+ "urls": [
+  "https://asrp-graph.surge.sh/preview.html",
+  "https://asrp.tech/en/patrons",
+  "https://asrp.tech/ru/donate/asrp",
+  "https://asrp.tech/ru/patrons",
+  "https://kumu.io/signup"
+ ],
+ "internal_targets": [],
+ "tables": [
+  {
+   "line": 58,
+   "header": "| Type | Count | What it is |",
+   "rows": 14
+  }
+ ],
+ "table_rows": [
+  {
+   "line": 60,
+   "text": "| `project` | 26 | All ASRP products: live (4), active-dev (13), planned (3), research repos (6) |"
+  },
+  {
+   "line": 61,
+   "text": "| `channel` | 21 | Social channels — TikTok / YouTube / Telegram / LinkedIn / Facebook / X / IG / RG |"
+  },
+  {
+   "line": 62,
+   "text": "| `institution` | 14 | DARPA, Tesla, NIH/NCI, DoE/LANL, Stanford, Cortical Labs, NSWC IHD, VA, Boeing, JINR Dubna, etc. |"
+  },
+  {
+   "line": 63,
+   "text": "| `patent` | 8 | 6 Kazpatent + 1 PCT + 1 US Copyright |"
+  },
+  {
+   "line": 64,
+   "text": "| `publication` | 8 | All 8 canonical ASRP works on ResearchGate (Inspira-X, BCI report, GMS/GFS, Grivtsova, Forecasting, Dream-sync, Banchenko-Market, Lucid-dream induction) |"
+  },
+  {
+   "line": 65,
+   "text": "| `person · team` | 7 | Leadership team (Ovseannicova, Kapustin, Bilovodenko, Savelev, Sepehri, Grivtsova, Banchenko) |"
+  },
+  {
+   "line": 66,
+   "text": "| `funding-source` | 7 | Patrons, investors, crowdfunding, gov-contracts, grants, affiliate, direct sales |"
+  },
+  {
+   "line": 67,
+   "text": "| `outreach` | 6 | Cortical Labs, NSWC IHD (Cardillo), Stanford/Nolan, NCI SBIR, DoE first-read, investor log |"
+  },
+  {
+   "line": 68,
+   "text": "| `person · external` | 5 | Cardillo, Nolan, Dalton, Renwick, Natasha |"
+  },
+  {
+   "line": 69,
+   "text": "| `theory-anchor` | 4 | Temporal-desync hypothesis, 3D-Time framework, Channel-19/21 taxonomy, hyperbolic-dispersion paper |"
+  },
+  {
+   "line": 70,
+   "text": "| `legal-entity` | 3 | US LLC (Florida) + KZ ТОО ПНИР + UK reinstatement |"
+  },
+  {
+   "line": 71,
+   "text": "| `event` | 3 | Theta Hackathon Berlin, AstanaHub Pitch Battle, ECP-2026-04-04 |"
+  },
+  {
+   "line": 72,
+   "text": "| `accreditation` | 2 | DARPA BAA portal access + Tesla Business Program |"
+  },
+  {
+   "line": 73,
+   "text": "| `legal-disclosure` | 1 | UBO clause |"
+  }
+ ],
+ "numbers": [
+  "1",
+  "10",
+  "11",
+  "115",
+  "12",
+  "13",
+  "138",
+  "14",
+  "147",
+  "16",
+  "19/21",
+  "2",
+  "2.4",
+  "2026-04-04",
+  "21",
+  "24/7",
+  "245",
+  "26",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "700",
+  "8",
+  "8765",
+  "9"
+ ],
+ "dates": [
+  "2026-04-04"
+ ],
+ "emails": [],
+ "handles": [],
+ "code_spans": [
+  "ASRP.drift",
+  "ASRP.fashion",
+  "Arcanum12th",
+  "C()",
+  "E()",
+  "UAP_Reverse_Engineering_Study",
+  "accreditation",
+  "asrp_kumu.json",
+  "build_blueprint.py",
+  "channel",
+  "concentric",
+  "cose",
+  "event",
+  "funding-source",
+  "id",
+  "institution",
+  "legal-disclosure",
+  "legal-entity",
+  "outreach",
+  "patent",
+  "person · external",
+  "person · team",
+  "project",
+  "publication",
+  "theory-anchor",
+  "tree"
+ ],
+ "code_blocks": [
+  {
+   "end_line": 17,
+   "text": "asrp_kumu.json     — the graph data (Kumu blueprint format)\npreview.html       — self-hosted interactive viewer (no signup needed)\nbuild_blueprint.py — Python source that generates asrp_kumu.json\nlibs/              — vendored cytoscape.js + fcose + cose-bilkent (~700 KB)\nREADME.md          — this file"
+  },
+  {
+   "end_line": 31,
+   "text": "cd graph/\npython3 -m http.server 8765\n# then open http://localhost:8765/preview.html in a browser"
+  },
+  {
+   "end_line": 85,
+   "text": "python3 build_blueprint.py"
+  }
+ ],
+ "names": [
+  "ASRP LLC",
+  "ASRP Marketing Ecosystem",
+  "All ASRP",
+  "AstanaHub Pitch Battle",
+  "Banchenko-Market",
+  "Cortical Labs",
+  "DARPA BAA",
+  "Denis Banchenko",
+  "Import JSON",
+  "Inspira-X",
+  "Interactive Graph",
+  "JINR Dubna",
+  "KZ ТОО ПНИР",
+  "Live URL",
+  "Mewery Brno",
+  "NCI SBIR",
+  "NSWC IHD",
+  "New Project",
+  "Stanford-Nolan",
+  "Tesla Business Program",
+  "Theta Hackathon Berlin",
+  "Two LinkedIn",
+  "US Copyright",
+  "US LLC"
+ ],
+ "legal_lines": [
+  {
+   "line": 63,
+   "text": "| `patent` | 8 | 6 Kazpatent + 1 PCT + 1 US Copyright |"
+  },
+  {
+   "line": 73,
+   "text": "| `legal-disclosure` | 1 | UBO clause |"
+  }
+ ],
+ "segments": [
+  {
+   "line": 1,
+   "lang": "en",
+   "text": "ASRP Marketing Ecosystem — Interactive Graph",
+   "code": false
+  },
+  {
+   "line": 3,
+   "lang": "en",
+   "text": "🌐 **Live URL:** **<https://asrp-graph.surge.sh/preview.html>** — open on any device, no signup.",
+   "code": false
+  },
+  {
+   "line": 5,
+   "lang": "en",
+   "text": "entities · 245 connections · bilingual EN ⇄ RU · 16 entity types · fcose label-aware layout · per-type emoji icons · type filter / search / PNG export.",
+   "code": false
+  },
+  {
+   "line": 7,
+   "lang": "mixed",
+   "text": "💛 **Like the graph? Support the work behind it / Понравился граф? Поддержите работу:** **<https://asrp.tech/en/patrons>** · **<https://asrp.tech/ru/patrons>",
+   "code": false
+  },
+  {
+   "line": 9,
+   "lang": "en",
+   "text": "What's inside",
+   "code": false
+  },
+  {
+   "line": 12,
+   "lang": "en",
+   "text": "asrp_kumu.json     — the graph data (Kumu blueprint format)",
+   "code": true
+  },
+  {
+   "line": 13,
+   "lang": "en",
+   "text": "preview.html       — self-hosted interactive viewer (no signup needed)",
+   "code": true
+  },
+  {
+   "line": 14,
+   "lang": "en",
+   "text": "build_blueprint.py — Python source that generates asrp_kumu.json",
+   "code": true
+  },
+  {
+   "line": 15,
+   "lang": "en",
+   "text": "libs/              — vendored cytoscape.js + fcose + cose-bilkent (~700 KB)",
+   "code": true
+  },
+  {
+   "line": 16,
+   "lang": "en",
+   "text": "README.md          — this file",
+   "code": true
+  },
+  {
+   "line": 19,
+   "lang": "en",
+   "text": "Option 1 — Open the live deploy",
+   "code": false
+  },
+  {
+   "line": 21,
+   "lang": "en",
+   "text": "<https://asrp-graph.surge.sh/preview.html>",
+   "code": false
+  },
+  {
+   "line": 23,
+   "lang": "en",
+   "text": "Hosted on Surge.sh free tier (24/7, unlimited bandwidth, HTTPS, CDN edge in 10 cities). No account required to view.",
+   "code": false
+  },
+  {
+   "line": 25,
+   "lang": "en",
+   "text": "Option 2 — Run locally",
+   "code": false
+  },
+  {
+   "line": 28,
+   "lang": "en",
+   "text": "cd graph/",
+   "code": true
+  },
+  {
+   "line": 29,
+   "lang": "en",
+   "text": "python3 -m http.server 8765",
+   "code": true
+  },
+  {
+   "line": 30,
+   "lang": "en",
+   "text": "then open http://localhost:8765/preview.html in a browser",
+   "code": true
+  },
+  {
+   "line": 33,
+   "lang": "en",
+   "text": "What you can do in the preview:",
+   "code": false
+  },
+  {
+   "line": 34,
+   "lang": "en",
+   "text": "Click any node → see all fields + connections (in/out arrows + relationship type)",
+   "code": false
+  },
+  {
+   "line": 35,
+   "lang": "en",
+   "text": "Type-filter chips (top-right) → toggle whole categories on/off",
+   "code": false
+  },
+  {
+   "line": 36,
+   "lang": "en",
+   "text": "Search box → highlights matching nodes + their immediate neighbours",
+   "code": false
+  },
+  {
+   "line": 37,
+   "lang": "en",
+   "text": "Three layouts: `cose` (force-directed), `concentric` (hubs in centre), `tree`",
+   "code": false
+  },
+  {
+   "line": 38,
+   "lang": "en",
+   "text": "**PNG export** button → saves a 2× resolution screenshot of the current view",
+   "code": false
+  },
+  {
+   "line": 39,
+   "lang": "en",
+   "text": "Drag, zoom, pan the canvas",
+   "code": false
+  },
+  {
+   "line": 40,
+   "lang": "en",
+   "text": "All 14 entity types colour-coded (see legend in the panel)",
+   "code": false
+  },
+  {
+   "line": 42,
+   "lang": "en",
+   "text": "Option 2 — Import into Kumu.io for a hosted, shareable map",
+   "code": false
+  },
+  {
+   "line": 44,
+   "lang": "en",
+   "text": "Step-by-step:",
+   "code": false
+  },
+  {
+   "line": 46,
+   "lang": "en",
+   "text": "1. Sign up for Kumu (free for public projects): https://kumu.io/signup",
+   "code": false
+  },
+  {
+   "line": 47,
+   "lang": "en",
+   "text": "2. New Project → name it e.g. *ASRP Marketing Ecosystem* → choose **Public** (free) or Private (trial)",
+   "code": false
+  },
+  {
+   "line": 48,
+   "lang": "en",
+   "text": "3. Click the green **+** at the bottom of the empty map → **Import** → **Advanced** → **Import JSON file** → upload `asrp_kumu.json`",
+   "code": false
+  },
+  {
+   "line": 49,
+   "lang": "en",
+   "text": "4. Kumu auto-renders the graph. You can:",
+   "code": false
+  },
+  {
+   "line": 50,
+   "lang": "en",
+   "text": "Use the legend / decorate panel to set per-type colours and shapes",
+   "code": false
+  },
+  {
+   "line": 51,
+   "lang": "en",
+   "text": "Add custom fields, view filters, perspectives",
+   "code": false
+  },
+  {
+   "line": 52,
+   "lang": "en",
+   "text": "Get a public shareable URL (any browser, no Kumu account needed by viewers)",
+   "code": false
+  },
+  {
+   "line": 53,
+   "lang": "en",
+   "text": "Export to PNG/SVG/PDF directly from Kumu's download menu",
+   "code": false
+  },
+  {
+   "line": 54,
+   "lang": "en",
+   "text": "5. Re-import workflow: edit `build_blueprint.py`, regenerate `asrp_kumu.json`, drag-drop the new file into the Kumu project (Kumu deduplicates by `id`)",
+   "code": false
+  },
+  {
+   "line": 56,
+   "lang": "en",
+   "text": "Graph structure",
+   "code": false
+  },
+  {
+   "line": 58,
+   "lang": "en",
+   "text": "Type",
+   "code": false
+  },
+  {
+   "line": 58,
+   "lang": "en",
+   "text": "Count",
+   "code": false
+  },
+  {
+   "line": 58,
+   "lang": "en",
+   "text": "What it is",
+   "code": false
+  },
+  {
+   "line": 59,
+   "lang": "none",
+   "text": ":",
+   "code": false
+  },
+  {
+   "line": 60,
+   "lang": "en",
+   "text": "`project`",
+   "code": false
+  },
+  {
+   "line": 60,
+   "lang": "none",
+   "text": "26",
+   "code": false
+  },
+  {
+   "line": 60,
+   "lang": "en",
+   "text": "All ASRP products: live (4), active-dev (13), planned (3), research repos (6)",
+   "code": false
+  },
+  {
+   "line": 61,
+   "lang": "en",
+   "text": "`channel`",
+   "code": false
+  },
+  {
+   "line": 61,
+   "lang": "none",
+   "text": "21",
+   "code": false
+  },
+  {
+   "line": 61,
+   "lang": "en",
+   "text": "Social channels — TikTok / YouTube / Telegram / LinkedIn / Facebook / X / IG / RG",
+   "code": false
+  },
+  {
+   "line": 62,
+   "lang": "en",
+   "text": "`institution`",
+   "code": false
+  },
+  {
+   "line": 62,
+   "lang": "none",
+   "text": "14",
+   "code": false
+  },
+  {
+   "line": 62,
+   "lang": "en",
+   "text": "DARPA, Tesla, NIH/NCI, DoE/LANL, Stanford, Cortical Labs, NSWC IHD, VA, Boeing, JINR Dubna, etc.",
+   "code": false
+  },
+  {
+   "line": 63,
+   "lang": "en",
+   "text": "`patent`",
+   "code": false
+  },
+  {
+   "line": 63,
+   "lang": "none",
+   "text": "8",
+   "code": false
+  },
+  {
+   "line": 63,
+   "lang": "en",
+   "text": "6 Kazpatent + 1 PCT + 1 US Copyright",
+   "code": false
+  },
+  {
+   "line": 64,
+   "lang": "en",
+   "text": "`publication`",
+   "code": false
+  },
+  {
+   "line": 64,
+   "lang": "none",
+   "text": "8",
+   "code": false
+  },
+  {
+   "line": 64,
+   "lang": "en",
+   "text": "All 8 canonical ASRP works on ResearchGate (Inspira-X, BCI report, GMS/GFS, Grivtsova, Forecasting, Dream-sync, Banchenko-Market, Lucid-dream induction)",
+   "code": false
+  },
+  {
+   "line": 65,
+   "lang": "en",
+   "text": "`person · team`",
+   "code": false
+  },
+  {
+   "line": 65,
+   "lang": "none",
+   "text": "7",
+   "code": false
+  },
+  {
+   "line": 65,
+   "lang": "en",
+   "text": "Leadership team (Ovseannicova, Kapustin, Bilovodenko, Savelev, Sepehri, Grivtsova, Banchenko)",
+   "code": false
+  },
+  {
+   "line": 66,
+   "lang": "en",
+   "text": "`funding-source`",
+   "code": false
+  },
+  {
+   "line": 66,
+   "lang": "none",
+   "text": "7",
+   "code": false
+  },
+  {
+   "line": 66,
+   "lang": "en",
+   "text": "Patrons, investors, crowdfunding, gov-contracts, grants, affiliate, direct sales",
+   "code": false
+  },
+  {
+   "line": 67,
+   "lang": "en",
+   "text": "`outreach`",
+   "code": false
+  },
+  {
+   "line": 67,
+   "lang": "none",
+   "text": "6",
+   "code": false
+  },
+  {
+   "line": 67,
+   "lang": "en",
+   "text": "Cortical Labs, NSWC IHD (Cardillo), Stanford/Nolan, NCI SBIR, DoE first-read, investor log",
+   "code": false
+  },
+  {
+   "line": 68,
+   "lang": "en",
+   "text": "`person · external`",
+   "code": false
+  },
+  {
+   "line": 68,
+   "lang": "none",
+   "text": "5",
+   "code": false
+  },
+  {
+   "line": 68,
+   "lang": "en",
+   "text": "Cardillo, Nolan, Dalton, Renwick, Natasha",
+   "code": false
+  },
+  {
+   "line": 69,
+   "lang": "en",
+   "text": "`theory-anchor`",
+   "code": false
+  },
+  {
+   "line": 69,
+   "lang": "none",
+   "text": "4",
+   "code": false
+  },
+  {
+   "line": 69,
+   "lang": "en",
+   "text": "Temporal-desync hypothesis, 3D-Time framework, Channel-19/21 taxonomy, hyperbolic-dispersion paper",
+   "code": false
+  },
+  {
+   "line": 70,
+   "lang": "en",
+   "text": "`legal-entity`",
+   "code": false
+  },
+  {
+   "line": 70,
+   "lang": "none",
+   "text": "3",
+   "code": false
+  },
+  {
+   "line": 70,
+   "lang": "mixed",
+   "text": "US LLC (Florida) + KZ ТОО ПНИР + UK reinstatement",
+   "code": false
+  },
+  {
+   "line": 71,
+   "lang": "en",
+   "text": "`event`",
+   "code": false
+  },
+  {
+   "line": 71,
+   "lang": "none",
+   "text": "3",
+   "code": false
+  },
+  {
+   "line": 71,
+   "lang": "en",
+   "text": "Theta Hackathon Berlin, AstanaHub Pitch Battle, ECP-2026-04-04",
+   "code": false
+  },
+  {
+   "line": 72,
+   "lang": "en",
+   "text": "`accreditation`",
+   "code": false
+  },
+  {
+   "line": 72,
+   "lang": "none",
+   "text": "2",
+   "code": false
+  },
+  {
+   "line": 72,
+   "lang": "en",
+   "text": "DARPA BAA portal access + Tesla Business Program",
+   "code": false
+  },
+  {
+   "line": 73,
+   "lang": "en",
+   "text": "`legal-disclosure`",
+   "code": false
+  },
+  {
+   "line": 73,
+   "lang": "none",
+   "text": "1",
+   "code": false
+  },
+  {
+   "line": 73,
+   "lang": "en",
+   "text": "UBO clause",
+   "code": false
+  },
+  {
+   "line": 75,
+   "lang": "en",
+   "text": "Total: 115 entities, 138 connections, average degree 2.4.",
+   "code": false
+  },
+  {
+   "line": 77,
+   "lang": "en",
+   "text": "Top hubs (most-connected nodes): Denis Banchenko (12), ASRP LLC (11), GFS (10), GMS/GFS architectural whitepaper (10), KZ entity (9), Arcanum12th.education (8), Banchenko-Market whitepaper (8), Arcanum12th_BOT (7).",
+   "code": false
+  },
+  {
+   "line": 79,
+   "lang": "en",
+   "text": "Updating the graph",
+   "code": false
+  },
+  {
+   "line": 81,
+   "lang": "en",
+   "text": "Edit `build_blueprint.py` (Python — adds entities + connections via two helper functions `E()` and `C()`), then run:",
+   "code": false
+  },
+  {
+   "line": 84,
+   "lang": "en",
+   "text": "python3 build_blueprint.py",
+   "code": true
+  },
+  {
+   "line": 87,
+   "lang": "en",
+   "text": "Re-imports keep IDs stable, so Kumu / preview pick up only the deltas.",
+   "code": false
+  },
+  {
+   "line": 89,
+   "lang": "en",
+   "text": "What this is good for",
+   "code": false
+  },
+  {
+   "line": 91,
+   "lang": "en",
+   "text": "**Investor / partner walk-throughs**: open the preview, click on Cortical Labs → see plasma study → see Valeria as reproducer → see GMS/GFS whitepaper → see Banchenko-Market commercial layer → all in one screen.",
+   "code": false
+  },
+  {
+   "line": 92,
+   "lang": "en",
+   "text": "**OSINT-style exploration**: filter to just `outreach` + `person · external` + `institution` → see the engagement web (Cortical Labs / Stanford-Nolan / NSWC IHD / DoE / NCI).",
+   "code": false
+  },
+  {
+   "line": 93,
+   "lang": "en",
+   "text": "**Coverage check**: filter to `patent` and verify each patent links to its product project.",
+   "code": false
+  },
+  {
+   "line": 94,
+   "lang": "en",
+   "text": "**Data completeness**: filter to `publication` and check authorship lines — every paper has at least Denis as co-author, plus the right team members.",
+   "code": false
+  },
+  {
+   "line": 96,
+   "lang": "en",
+   "text": "Notes / open items",
+   "code": false
+  },
+  {
+   "line": 98,
+   "lang": "en",
+   "text": "**JINR Dubna + element 115** entity is included as institutional context for the UAP work, but the full UAP-repo graph (Lazar timeline, Chernobrov archive, Kazatomprom, etc.) deliberately lives in the separate `UAP_Reverse_Engineering_Study` repo per Denis's routing. This graph references the institution but does not duplicate the UAP-internal entity web.",
+   "code": false
+  },
+  {
+   "line": 99,
+   "lang": "en",
+   "text": "**Two LinkedIn companies + project groups**: the second company page and additional project groups (`ASRP.fashion` / `ASRP.drift` / `Arcanum12th`) are skeletons; populate when you confirm the live URLs.",
+   "code": false
+  },
+  {
+   "line": 100,
+   "lang": "en",
+   "text": "**Investor outreach log**: the placeholder node is in the graph; populate once Denis sends the source list of fund/individual contacts.",
+   "code": false
+  },
+  {
+   "line": 101,
+   "lang": "en",
+   "text": "**Mewery Brno**: included as a placeholder pending Denis's confirmation that the Czech cultured-meat partner can be named publicly.",
+   "code": false
+  },
+  {
+   "line": 105,
+   "lang": "ru",
+   "text": "💛 Support / Поддержать",
+   "code": false
+  },
+  {
+   "line": 107,
+   "lang": "en",
+   "text": "If this graph helps you understand or evaluate ASRP — investor walk-throughs, OSINT work, partner pitches — please support the work behind it. The patron tiers fund the labs, the open-source tooling, and keep this graph maintained and bilingual.",
+   "code": false
+  },
+  {
+   "line": 109,
+   "lang": "ru",
+   "text": "Если этот граф помогает вам разобраться с ASRP — для разговора с инвесторами, OSINT-работы, партнёрских питчей — поддержите работу за ним. Уровни меценатства финансируют лаборатории, open-source инструменты и поддержание этого графа в двуязычном виде.",
+   "code": false
+  },
+  {
+   "line": 111,
+   "lang": "en",
+   "text": "→ **<https://asrp.tech/en/patrons>** · **<https://asrp.tech/ru/patrons>** · **<https://asrp.tech/ru/donate/asrp>** (Inspira-X pre-launch)",
+   "code": false
+  }
+ ],
+ "blockquote_lines": 4,
+ "list_items": 24,
+ "counts": {
+  "chars": 6647,
+  "lines": 112,
+  "headings": 10,
+  "links": 0,
+  "images": 0,
+  "badges": 0,
+  "urls": 5,
+  "internal_targets": 0,
+  "tables": 1,
+  "table_rows": 14,
+  "numbers": 27,
+  "dates": 1,
+  "emails": 0,
+  "handles": 0,
+  "code_spans": 26,
+  "code_blocks": 3,
+  "names": 24,
+  "legal_lines": 2,
+  "segments": 103,
+  "blockquote_lines": 4,
+  "list_items": 24
+ },
+ "source": "graph/README.md"
+}

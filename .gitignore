@@ -41,3 +41,7 @@ openai*
 *.orig
 .cache/
 node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
