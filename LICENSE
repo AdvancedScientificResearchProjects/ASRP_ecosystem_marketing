@@ -1,0 +1,41 @@
+© 2023–2026 ASRP LLC + ТОО «Перспективные Научно-Исследовательские Разработки». All rights reserved.
+
+This repository describes the ASRP ecosystem. It is not a public offer.
+
+No licence is granted by publication. Use of the intellectual property described or contained in this
+repository (text, diagrams, data, software, patent-pending and patented subject matter) requires prior
+written permission from the rights holders.
+
+Exceptions stated by the rights holders:
+
+- The scientific papers listed in whitepaper/README.md are published by their authors under the Creative
+  Commons Attribution-NonCommercial-NoDerivatives 4.0 International licence (CC BY-NC-ND 4.0). They are
+  hosted on ResearchGate and OSF and are not stored in this repository.
+- The JavaScript libraries in graph/libs/ (cytoscape.js and its layout extensions) are third-party
+  software distributed under their own licences.
+
+Some defence-facing materials referenced from this repository require a non-disclosure agreement.
+
+Contact: info@asrp.tech · https://asrp.tech
+
+------------------------------------------------------------------------------------------------------
+
+© 2023–2026 ASRP LLC + ТОО «Перспективные Научно-Исследовательские Разработки». Все права защищены.
+
+Этот репозиторий описывает экосистему ASRP. Это не публичная оферта.
+
+Публикация не даёт лицензии. Использование интеллектуальной собственности, описанной или содержащейся в
+этом репозитории (тексты, схемы, данные, программный код, заявленные и запатентованные решения), возможно
+только с предварительного письменного согласия правообладателей.
+
+Исключения, заявленные правообладателями:
+
+- Научные статьи из списка в whitepaper/README.ru.md опубликованы авторами по лицензии Creative Commons
+  Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). Они размещены на
+  ResearchGate и OSF и в этом репозитории не хранятся.
+- Библиотеки JavaScript в graph/libs/ (cytoscape.js и расширения раскладки) являются сторонним программным
+  обеспечением и распространяются по собственным лицензиям.
+
+Часть оборонных материалов, на которые ссылается этот репозиторий, требует соглашения о неразглашении.
+
+Контакты: info@asrp.tech · https://asrp.tech

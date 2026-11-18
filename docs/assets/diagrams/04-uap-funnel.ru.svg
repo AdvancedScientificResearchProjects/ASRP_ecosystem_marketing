@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+<title id="t">Реверс UAP → Оборонные подряды</title>
+<desc id="d">Воронка из пяти шагов. 1 Открытый реверс на GitHub. 2 Научная публикация (ASRP.science). 3 Видимость в LinkedIn. 4 Входящие от крупных подрядчиков. 5 Субконтракт / R&amp;D-грант (DoD, VA, уровня DARPA) — финальная стадия.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='300' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Реверс UAP → Оборонные подряды</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ASRP · ВОРОНКА</text>
+<rect x='24.0' y='120' width='198.4' height='112' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='123.2' y='174.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Открытый реверс</text>
+<text x='123.2' y='194.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>на GitHub</text>
+<circle cx='46.0' cy='120' r='13' fill='#070b18' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='46.0' y='125' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='800'>1</text>
+<rect x='262.4' y='120' width='198.4' height='112' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='361.6' y='174.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Научная публикация</text>
+<text x='361.6' y='194.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(ASRP.science)</text>
+<circle cx='284.4' cy='120' r='13' fill='#070b18' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='284.4' y='125' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='800'>2</text>
+<rect x='500.8' y='120' width='198.4' height='112' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='600.0' y='173.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Видимость в</text>
+<text x='600.0' y='195.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LinkedIn</text>
+<circle cx='522.8' cy='120' r='13' fill='#070b18' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='522.8' y='125' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='800'>3</text>
+<rect x='739.2' y='120' width='198.4' height='112' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='838.4' y='162.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Входящие от</text>
+<text x='838.4' y='184.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>крупных</text>
+<text x='838.4' y='206.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>подрядчиков</text>
+<circle cx='761.2' cy='120' r='13' fill='#070b18' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='761.2' y='125' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='800'>4</text>
+<rect x='977.6' y='120' width='198.4' height='112' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='1076.8' y='153.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Субконтракт /</text>
+<text x='1076.8' y='175.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>R&amp;D-грант</text>
+<text x='1076.8' y='195.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>(DoD · VA · уровня</text>
+<text x='1076.8' y='215.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>DARPA)</text>
+<circle cx='999.6' cy='120' r='13' fill='#070b18' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='999.6' y='125' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='800'>5</text>
+<defs><marker id='m4ecdc4' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#4ecdc4'/></marker></defs>
+<path d='M225.4,176.0 L258.4,176.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M463.8,176.0 L496.8,176.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M702.2,176.0 L735.2,176.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M940.6,176.0 L973.6,176.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<line x1='24' y1='270' x2='64' y2='270' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'/>
+<text x='74' y='274' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>следующий шаг</text>
+<circle cx='219.2' cy='270' r='5' fill='#ffcf5c'/>
+<text x='233.2' y='274' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>финальная стадия (результат)</text>
+</svg>

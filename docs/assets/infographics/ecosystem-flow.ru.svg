@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-labelledby="t d">
+<title id="t">Как связаны части</title>
+<desc id="d">Схема потоков, в каждом блоке статус написан словами. Образование и аудитория (Telegram-бот: работает; курсы Arcanum12th: пилот) передаёт данные и внимание в R&amp;D и deep tech (исследования, патентные заявки: в разработке), оттуда результаты идут в Науку и медиа (статьи, открытые репозитории, ASRP.media: работает). Пунктирные целевые стрелки: доверие и охват от Науки и медиа к Коммерции (B2B / B2G, продукты, лицензирование: планируется) и выручка от Коммерции обратно в R&amp;D. Финансирование (меценаты: активно; гранты: в работе; инвесторы: открыто) поступает в R&amp;D.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='470' rx='18' fill='url(#bg)'/>
+
+<defs><marker id='as' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='8' markerHeight='8' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#4ecdc4'/></marker><marker id='ad' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='8' markerHeight='8' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffa657'/></marker></defs>
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Как связаны части</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Модель самого проекта. В каждом блоке статус написан словами.</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ASRP · ЭКОСИСТЕМА</text>
+<rect x='46' y='128' width='244' height='136' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='62' y='162' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Образование и аудитория</text>
+<text x='62' y='188' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Telegram-бот · Arcanum12th</text>
+<text x='62' y='212' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='start' font-weight='800'>● РАБОТАЕТ · бот</text>
+<text x='62' y='236' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='start' font-weight='800'>◐ ПИЛОТ · курсы</text>
+<rect x='334' y='128' width='244' height='136' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='350' y='162' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>R&amp;D и deep tech</text>
+<text x='350' y='188' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>исследования</text>
+<text x='350' y='212' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>патентные заявки</text>
+<text x='350' y='236' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='start' font-weight='800'>◐ В РАЗРАБОТКЕ</text>
+<rect x='622' y='128' width='244' height='136' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='638' y='162' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Наука и медиа</text>
+<text x='638' y='188' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>статьи · репозитории</text>
+<text x='638' y='212' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ASRP.media</text>
+<text x='638' y='236' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='start' font-weight='800'>● РАБОТАЕТ</text>
+<rect x='910' y='128' width='244' height='136' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='926' y='162' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Коммерция</text>
+<text x='926' y='188' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>B2B / B2G · продукты</text>
+<text x='926' y='212' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>лицензирование</text>
+<text x='926' y='236' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='start' font-weight='800'>○ ПЛАНИРУЕТСЯ</text>
+<line x1='294' y1='196' x2='329' y2='196' stroke='#4ecdc4' stroke-width='2.2' marker-end='url(#as)'/>
+<text x='312' y='114' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>данные и внимание</text>
+<line x1='312' y1='120' x2='312' y2='190' stroke='#2a3b78' stroke-opacity='0.6'/>
+<line x1='582' y1='196' x2='617' y2='196' stroke='#4ecdc4' stroke-width='2.2' marker-end='url(#as)'/>
+<text x='600' y='114' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>результаты</text>
+<line x1='600' y1='120' x2='600' y2='190' stroke='#2a3b78' stroke-opacity='0.6'/>
+<line x1='870' y1='196' x2='905' y2='196' stroke='#ffa657' stroke-width='2.2' stroke-dasharray='7 6' marker-end='url(#ad)'><animate attributeName='stroke-dashoffset' from='26' to='0' dur='1.6s' repeatCount='indefinite'/></line>
+<text x='888' y='114' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='600'>доверие и охват (цель)</text>
+<line x1='888' y1='120' x2='888' y2='190' stroke='#2a3b78' stroke-opacity='0.6'/>
+<rect x='46' y='308' width='244' height='122' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='62' y='340' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Финансирование</text>
+<text x='62' y='366' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='start' font-weight='800'>● АКТИВНО · меценаты</text>
+<text x='62' y='390' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='start' font-weight='800'>◐ В РАБОТЕ · гранты</text>
+<text x='62' y='414' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>○ ОТКРЫТО · инвесторы</text>
+<path d='M294,354 H434 V270' fill='none' stroke='#4ecdc4' stroke-width='2.2' marker-end='url(#as)'/>
+<text x='302' y='344' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='start' font-weight='600'>финансирование</text>
+<path d='M1032,268 V342 H508 V270' fill='none' stroke='#ffa657' stroke-width='2.2' stroke-dasharray='7 6' marker-end='url(#ad)'><animate attributeName='stroke-dashoffset' from='26' to='0' dur='1.6s' repeatCount='indefinite'/></path>
+<text x='770' y='332' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='600'>выручка (цель)</text>
+<line x1='374' y1='432' x2='418' y2='432' stroke='#4ecdc4' stroke-width='2.2' marker-end='url(#as)'/>
+<text x='428' y='436' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>сплошная стрелка: работает сегодня</text>
+<line x1='718' y1='432' x2='762' y2='432' stroke='#ffa657' stroke-width='2.2' stroke-dasharray='7 6' marker-end='url(#ad)'/>
+<text x='772' y='436' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>пунктирная стрелка: цель, контур ещё не замкнут</text>
+</svg>

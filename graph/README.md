@@ -1,10 +1,22 @@
-# ASRP Marketing Ecosystem — Interactive Graph
+**English | [Русский](README.ru.md)**
+
+[← ASRP Ecosystem](../README.md) · [Documentation index](../docs/README.md)
+
+<div align="center">
+
+# ASRP Ecosystem — Interactive Graph
+
+</div>
+
+> Statuses and figures on this page are as of 2026-Q2 unless a date is given, and are stated by the project; they have not been independently re-verified.
+
+---
 
 > 🌐 **Live URL:** **<https://asrp-graph.surge.sh/preview.html>** — open on any device, no signup.
 >
-> 147 entities · 245 connections · bilingual EN ⇄ RU · 16 entity types · fcose label-aware layout · per-type emoji icons · type filter / search / PNG export.
+> 147 entities · 256 connections · bilingual EN ⇄ RU · 16 entity types · fcose label-aware layout · per-type emoji icons · type filter / search / PNG export.
 
-> 💛 **Like the graph? Support the work behind it / Понравился граф? Поддержите работу:** **<https://asrp.tech/en/patrons>** · **<https://asrp.tech/ru/patrons>**
+> 💛 **Like the graph? Support the work behind it:** **<https://asrp.tech/en/patrons>** · **<https://asrp.tech/ru/patrons>**
 
 ## What's inside
 
@@ -37,9 +49,9 @@ python3 -m http.server 8765
 - Three layouts: `cose` (force-directed), `concentric` (hubs in centre), `tree`
 - **PNG export** button → saves a 2× resolution screenshot of the current view
 - Drag, zoom, pan the canvas
-- All 14 entity types colour-coded (see legend in the panel)
+- All 16 entity types colour-coded (see legend in the panel)
 
-## Option 2 — Import into Kumu.io for a hosted, shareable map
+## Option 3 — Import into Kumu.io for a hosted, shareable map
 
 Step-by-step:
 
@@ -58,23 +70,27 @@ Step-by-step:
 | Type | Count | What it is |
 |---|---:|---|
 | `project` | 26 | All ASRP products: live (4), active-dev (13), planned (3), research repos (6) |
-| `channel` | 21 | Social channels — TikTok / YouTube / Telegram / LinkedIn / Facebook / X / IG / RG |
-| `institution` | 14 | DARPA, Tesla, NIH/NCI, DoE/LANL, Stanford, Cortical Labs, NSWC IHD, VA, Boeing, JINR Dubna, etc. |
-| `patent` | 8 | 6 Kazpatent + 1 PCT + 1 US Copyright |
+| `channel` | 24 | Social channels — TikTok / YouTube / Telegram / LinkedIn / Facebook / X / IG / RG |
+| `institution` | 21 | DARPA, Tesla, NIH/NCI, DoE/LANL, Stanford, Cortical Labs, NSWC IHD, VA, Boeing, JINR Dubna, etc. |
+| `person · external` | 11 | Cardillo, Nolan, Dalton, Renwick, Natasha |
+| `person · team` | 10 | Leadership team (Ovseannicova, Kapustin, Bilovodenko, Savelev, Sepehri, Grivtsova, Banchenko) |
+| `patent` | 9 | 6 Kazpatent + 1 PCT + 1 US Copyright |
 | `publication` | 8 | All 8 canonical ASRP works on ResearchGate (Inspira-X, BCI report, GMS/GFS, Grivtsova, Forecasting, Dream-sync, Banchenko-Market, Lucid-dream induction) |
-| `person · team` | 7 | Leadership team (Ovseannicova, Kapustin, Bilovodenko, Savelev, Sepehri, Grivtsova, Banchenko) |
+| `outreach` | 8 | Cortical Labs, NSWC IHD (Cardillo), Stanford/Nolan, NCI SBIR, DoE first-read, investor log |
 | `funding-source` | 7 | Patrons, investors, crowdfunding, gov-contracts, grants, affiliate, direct sales |
-| `outreach` | 6 | Cortical Labs, NSWC IHD (Cardillo), Stanford/Nolan, NCI SBIR, DoE first-read, investor log |
-| `person · external` | 5 | Cardillo, Nolan, Dalton, Renwick, Natasha |
-| `theory-anchor` | 4 | Temporal-desync hypothesis, 3D-Time framework, Channel-19/21 taxonomy, hyperbolic-dispersion paper |
+| `theory-anchor` | 5 | Temporal-desync hypothesis, 3D-Time framework, Channel-19/21 taxonomy, hyperbolic-dispersion paper |
+| `cluster` | 5 | Target-company groups: cultured-meat, big-pharma / functional foods, bioreactor / algae producers, seeds & agri-inputs, sports nutrition |
+| `event` | 4 | Theta Hackathon Berlin, AstanaHub Pitch Battle, ECP-2026-04-04 |
 | `legal-entity` | 3 | US LLC (Florida) + KZ ТОО ПНИР + UK reinstatement |
-| `event` | 3 | Theta Hackathon Berlin, AstanaHub Pitch Battle, ECP-2026-04-04 |
+| `tooling-class` | 3 | Classes of content-factory tooling: AI video production, multi-platform publishing, Pinterest hourly automation |
 | `accreditation` | 2 | DARPA BAA portal access + Tesla Business Program |
 | `legal-disclosure` | 1 | UBO clause |
 
-**Total: 115 entities, 138 connections, average degree 2.4.**
+Counts computed from `asrp_kumu.json` on 17 November 2026.
 
-Top hubs (most-connected nodes): Denis Banchenko (12), ASRP LLC (11), GFS (10), GMS/GFS architectural whitepaper (10), KZ entity (9), Arcanum12th.education (8), Banchenko-Market whitepaper (8), Arcanum12th_BOT (7).
+**Total: 147 entities, 256 connections, average degree 3.5.**
+
+Top hubs (most-connected nodes): ASRP LLC (Florida) (23), ASRP ТОО ПНИР (Kazakhstan) (21), DAAT Crystal (17), Denis Y. Banchenko (14), UAP_Reverse_Engineering_Study (14), ASRP.media (13), GFS — Global Forecasting System (11), Arcanum12th.education (10).
 
 ## Updating the graph
 
@@ -102,10 +118,8 @@ Re-imports keep IDs stable, so Kumu / preview pick up only the deltas.
 
 ---
 
-## 💛 Support / Поддержать
+## Support
 
 If this graph helps you understand or evaluate ASRP — investor walk-throughs, OSINT work, partner pitches — please support the work behind it. The patron tiers fund the labs, the open-source tooling, and keep this graph maintained and bilingual.
-
-Если этот граф помогает вам разобраться с ASRP — для разговора с инвесторами, OSINT-работы, партнёрских питчей — поддержите работу за ним. Уровни меценатства финансируют лаборатории, open-source инструменты и поддержание этого графа в двуязычном виде.
 
 → **<https://asrp.tech/en/patrons>** · **<https://asrp.tech/ru/patrons>** · **<https://asrp.tech/ru/donate/asrp>** (Inspira-X pre-launch)

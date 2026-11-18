@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-labelledby="t d">
+<title id="t">Экосистема ASRP</title>
+<desc id="d">Сгенерированная иллюстрация, не скриншот продукта. Шесть кластеров (образование, наука, медиа, R&amp;D и deep tech, технологии сознания, коммерция) связаны с одним узлом ASRP; заголовок; три числа из этого репозитория: 8 публикаций, 6 патентных заявок плюс 1 PCT, 4 открытых репозитория исследований.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='330' rx='18' fill='url(#bg)'/>
+
+<path d='M232.0,66.0 L361.9,116.0 L361.9,216.0 L232.0,266.0 L102.1,216.0 L102.1,116.0 Z' fill='none' stroke='#2a3b78' stroke-opacity='0.55'/>
+<line x1='232' y1='166' x2='232.0' y2='66.0' stroke='#ffcf5c' stroke-width='1.6' stroke-opacity='0.75' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='2.4s' repeatCount='indefinite'/></line>
+<line x1='232' y1='166' x2='361.9' y2='116.0' stroke='#4ecdc4' stroke-width='1.6' stroke-opacity='0.75' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='2.7s' repeatCount='indefinite'/></line>
+<line x1='232' y1='166' x2='361.9' y2='216.0' stroke='#a78bfa' stroke-width='1.6' stroke-opacity='0.75' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='3.0s' repeatCount='indefinite'/></line>
+<line x1='232' y1='166' x2='232.0' y2='266.0' stroke='#34d399' stroke-width='1.6' stroke-opacity='0.75' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='3.3s' repeatCount='indefinite'/></line>
+<line x1='232' y1='166' x2='102.1' y2='216.0' stroke='#6f9bff' stroke-width='1.6' stroke-opacity='0.75' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='3.6s' repeatCount='indefinite'/></line>
+<line x1='232' y1='166' x2='102.1' y2='116.0' stroke='#ffa657' stroke-width='1.6' stroke-opacity='0.75' stroke-dasharray='5 7'><animate attributeName='stroke-dashoffset' from='24' to='0' dur='3.9s' repeatCount='indefinite'/></line>
+<circle cx='232' cy='166' r='36' fill='#0b1430' stroke='#4ecdc4' stroke-width='2' filter='url(#glow)'/>
+<text x='232' y='173' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='20' fill='#e6ecff' text-anchor='middle' font-weight='800' letter-spacing='1'>ASRP</text>
+<circle cx='232.0' cy='66.0' r='9' fill='#070b18' stroke='#ffcf5c' stroke-width='2.4'/>
+<text x='232.0' y='48.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>Образование</text>
+<circle cx='361.9' cy='116.0' r='9' fill='#070b18' stroke='#4ecdc4' stroke-width='2.4'/>
+<text x='361.9' y='143.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>Наука</text>
+<circle cx='361.9' cy='216.0' r='9' fill='#070b18' stroke='#a78bfa' stroke-width='2.4'/>
+<text x='361.9' y='243.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>Медиа</text>
+<circle cx='232.0' cy='266.0' r='9' fill='#070b18' stroke='#34d399' stroke-width='2.4'/>
+<text x='232.0' y='293.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>R&amp;D / Deep Tech</text>
+<circle cx='102.1' cy='216.0' r='9' fill='#070b18' stroke='#6f9bff' stroke-width='2.4'/>
+<text x='102.1' y='243.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>Технологии сознания</text>
+<circle cx='102.1' cy='116.0' r='9' fill='#070b18' stroke='#ffa657' stroke-width='2.4'/>
+<text x='102.1' y='143.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='600'>Коммерция</text>
+<text x='520' y='66' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700' letter-spacing='2'>ADVANCED SCIENTIFIC RESEARCH PROJECTS</text>
+<text x='1164' y='36' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='end' font-weight='700' letter-spacing='2'>ХАБ МАРКЕТИНГА И МОНЕТИЗАЦИИ</text>
+<text x='520' y='128' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='54' fill='#e6ecff' text-anchor='start' font-weight='800'>Экосистема ASRP</text>
+<text x='520' y='170' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='21' fill='#8ea0d6' text-anchor='start' font-weight='400'>Исследования, образование, медиа и deep tech</text>
+<text x='520' y='198' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='21' fill='#8ea0d6' text-anchor='start' font-weight='400'>в одной связанной системе</text>
+<rect x='520.0' y='246' width='132.6' height='38' rx='19' fill='#ffcf5c' fill-opacity='0.08' stroke='#ffcf5c'/>
+<text x='586.3' y='271' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>8 публикаций</text>
+<rect x='664.6' y='246' width='249.1' height='38' rx='19' fill='#4ecdc4' fill-opacity='0.08' stroke='#4ecdc4'/>
+<text x='789.1' y='271' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>6 патентных заявок + 1 PCT</text>
+<rect x='925.7' y='246' width='226.9' height='38' rx='19' fill='#34d399' fill-opacity='0.08' stroke='#34d399'/>
+<text x='1039.1' y='271' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>4 открытых репозитория</text>
+</svg>

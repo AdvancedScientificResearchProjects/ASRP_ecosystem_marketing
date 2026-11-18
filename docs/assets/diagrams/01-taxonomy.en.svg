@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 496" width="1200" height="496" role="img" aria-labelledby="t d">
+<title id="t">ASRP ecosystem taxonomy</title>
+<desc id="d">Single Sign-On (asrp.tech, arcanum12th) on top, linked to five clusters. Edu and Audience: Arcanum12th (school, bot), YouTube @ASRPtech. Content and Media: ASRP.science (journal), ASRP.media (news and ads). R&amp;D and Patents: UAP reverse engineering, ASRP.drift (PlayOne), ASRP.dance, Hyperbolic Field Studies (plasma, agri, yeast, crystals), Inspira-X, Biophotonic, Body Food System. GMS meta-cluster: GFS, Arcanum12th, ASRP.art, ASRP.exchange / ASRP Market (/stock planned), Kapusta.money. Commerce and Lifestyle: ASRP.fashion, DAAT Crystal (product), ASRPshop planned B2C storefront.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='496' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>ASRP ecosystem taxonomy</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Main clusters under one account</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ASRP · ECOSYSTEM</text>
+<rect x='430' y='96' width='340' height='68' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='600.0' y='129.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='17' fill='#e6ecff' text-anchor='middle' font-weight='700'>Single Sign-On</text>
+<text x='600.0' y='149.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>one account · asrp.tech · arcanum12th</text>
+<rect x='24.0' y='232' width='219.2' height='236' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='38.0' y='264.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Edu &amp; Audience</text>
+<text x='38.0' y='284.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Arcanum12th (school · bot)</text>
+<text x='38.0' y='304.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>YouTube @ASRPtech</text>
+<defs><marker id='m34d399' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#34d399'/></marker></defs>
+<path d='M486.7,167.0 L486.7,196.0 L133.6,196.0 L133.6,228.0' fill='none' stroke='#34d399' stroke-width='2' marker-end='url(#m34d399)'></path>
+<rect x='257.2' y='232' width='219.2' height='236' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='271.2' y='264.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Content &amp; Media</text>
+<text x='271.2' y='284.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ASRP.science (journal)</text>
+<text x='271.2' y='304.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ASRP.media (news + ads)</text>
+<defs><marker id='m6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M543.3,167.0 L543.3,196.0 L366.8,196.0 L366.8,228.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#m6f9bff)'></path>
+<rect x='490.4' y='232' width='219.2' height='236' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='504.4' y='264.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>R&amp;D &amp; Patents</text>
+<text x='504.4' y='284.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>UAP reverse engineering</text>
+<text x='504.4' y='304.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ASRP.drift (PlayOne) ·</text>
+<text x='504.4' y='324.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ASRP.dance</text>
+<text x='504.4' y='344.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Hyperbolic Field Studies</text>
+<text x='504.4' y='364.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>(plasma, agri, yeast,</text>
+<text x='504.4' y='384.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>crystals)</text>
+<text x='504.4' y='404.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Inspira-X · Biophotonic ·</text>
+<text x='504.4' y='424.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Body Food System</text>
+<defs><marker id='mffcf5c' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffcf5c'/></marker></defs>
+<path d='M600.0,167.0 L600.0,196.0 L600.0,196.0 L600.0,228.0' fill='none' stroke='#ffcf5c' stroke-width='2' marker-end='url(#mffcf5c)'></path>
+<rect x='723.6' y='232' width='219.2' height='236' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='737.6' y='264.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>GMS meta-cluster</text>
+<text x='737.6' y='284.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>GFS · Arcanum12th ·</text>
+<text x='737.6' y='304.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ASRP.art</text>
+<text x='737.6' y='324.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ASRP.exchange / ASRP</text>
+<text x='737.6' y='344.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Market</text>
+<text x='737.6' y='364.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Kapusta.money</text>
+<text x='737.6' y='385.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='start' font-weight='800'>○ PLANNED · /stock</text>
+<defs><marker id='ma78bfa' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#a78bfa'/></marker></defs>
+<path d='M656.7,167.0 L656.7,196.0 L833.2,196.0 L833.2,228.0' fill='none' stroke='#a78bfa' stroke-width='2' marker-end='url(#ma78bfa)'></path>
+<rect x='956.8' y='232' width='219.2' height='236' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='970.8' y='264.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Commerce &amp; Lifestyle</text>
+<text x='970.8' y='284.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ASRP.fashion · DAAT Crystal</text>
+<text x='970.8' y='304.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>(product)</text>
+<text x='970.8' y='325.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='start' font-weight='800'>○ PLANNED · ASRPshop,</text>
+<text x='970.8' y='346.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='start' font-weight='800'>B2C storefront</text>
+<defs><marker id='mffa657' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffa657'/></marker></defs>
+<path d='M713.3,167.0 L713.3,196.0 L1066.4,196.0 L1066.4,228.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+</svg>

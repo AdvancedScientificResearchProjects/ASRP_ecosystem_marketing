@@ -41,3 +41,10 @@ openai*
 *.orig
 .cache/
 node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Working reports of repository audits (kept locally, not published)
+reports/

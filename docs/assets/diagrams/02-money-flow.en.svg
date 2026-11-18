@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-labelledby="t d">
+<title id="t">Money flow: who pays for what</title>
+<desc id="d">Left: clusters that generate value. Right: who pays. R&amp;D and Patents is paid by B2B (licensing, R&amp;D contracts) and B2G / Defense (DoD, VA, government forecasts). GMS meta-cluster is paid by B2G / Defense and by transaction fees (Kapusta.money). Content and Media is paid by Ads and Affiliate (CPM, CPC, Amazon). Edu and Audience and Commerce and Lifestyle are paid by B2C (courses, subscriptions, products). One dashed data flow: Arcanum12th_BOT (dream data) feeds biosensor data into GMS.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='600' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Money flow: who pays for what</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Clusters on the left, revenue sources on the right</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ASRP · MONEY FLOW</text>
+<text x='40' y='108' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='800'>WHAT CREATES VALUE</text>
+<text x='1160' y='108' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='end' font-weight='800'>WHO PAYS</text>
+<rect x='860' y='124' width='300' height='70' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='874' y='157.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>B2B</text>
+<text x='874' y='177.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>licensing · R&amp;D contracts</text>
+<rect x='860' y='206' width='300' height='70' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='874' y='239.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>B2G / Defense</text>
+<text x='874' y='259.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>DoD · VA · gov forecasts</text>
+<rect x='860' y='288' width='300' height='70' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='874' y='321.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>TX fees</text>
+<text x='874' y='341.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>transaction fees (Kapusta.money)</text>
+<rect x='860' y='370' width='300' height='70' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='874' y='403.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Ads &amp; Affiliate</text>
+<text x='874' y='423.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>CPM · CPC · Amazon</text>
+<rect x='860' y='452' width='300' height='70' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='874' y='485.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>B2C</text>
+<text x='874' y='505.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>courses · subs · products</text>
+<rect x='450' y='150' width='270' height='70' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='464' y='193.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>R&amp;D &amp; Patents</text>
+<rect x='450' y='262' width='270' height='70' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='464' y='295.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>GMS</text>
+<text x='464' y='315.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>meta-cluster</text>
+<rect x='40' y='262' width='270' height='70' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='54' y='295.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Arcanum12th_BOT</text>
+<text x='54' y='315.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>dream data</text>
+<rect x='40' y='370' width='270' height='70' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='54' y='413.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Content &amp; Media</text>
+<rect x='40' y='446' width='270' height='56' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='54' y='482.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Edu &amp; Audience</text>
+<rect x='40' y='512' width='270' height='56' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='54' y='548.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Commerce &amp; Lifestyle</text>
+<defs><marker id='m4ecdc4' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#4ecdc4'/></marker></defs>
+<path d='M723.0,185.0 L856.0,159.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M723.0,185.0 L856.0,241.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M723.0,297.0 L856.0,241.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M723.0,297.0 L856.0,323.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M313.0,405.0 L856.0,405.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M313.0,474.0 L856.0,487.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M313.0,540.0 L856.0,487.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<defs><marker id='mffcf5c' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffcf5c'/></marker></defs>
+<path d='M313.0,297.0 L446.0,297.0' fill='none' stroke='#ffcf5c' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#mffcf5c)'><animate attributeName='stroke-dashoffset' from='26' to='0' dur='1.6s' repeatCount='indefinite'/></path>
+<text x='379.5' y='289.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='600'>biosensor feed</text>
+<line x1='450' y1='574' x2='490' y2='574' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'/>
+<text x='500' y='578' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>payment flow</text>
+<line x1='619.4399999999999' y1='574' x2='659.4399999999999' y2='574' stroke='#ffcf5c' stroke-width='2' stroke-dasharray='7 6' marker-end='url(#mffcf5c)'/>
+<text x='669.4399999999999' y='578' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>data feed, not a payment</text>
+</svg>
