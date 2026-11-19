@@ -22,7 +22,7 @@ All sub-products reinforce each other: the bot feeds data to the forecasting sys
 
 A meta-cluster — **Global Mental System (GMS)** — binds GFS, Arcanum12th, ASRP.Exchange, ASRP.art and Kapusta.money into a single consciousness-economy layer.
 
-The organisation holds **active DARPA BAA proposal-portal access and a Tesla Business Program accreditation** (see [Accreditations](RESEARCH_AND_IP.md) for the distinction), plus 6 Kazpatent filings, 1 PCT, 1 US Copyright and a peer-reviewed ASRP.drift publication.
+The organisation holds **active DARPA BAA proposal-portal access and a Tesla Business Program accreditation** (see [Accreditations](RESEARCH_AND_IP.md) for the distinction), plus 6 Kazpatent filings, 1 PCT, 1 US Copyright and a 2024 International Internal Medicine Journal paper cited on the ASRP.drift product page (per the ASRP_Drift_Study README it is the dream-synchronization paper of the sibling Banchenko_Dream_Research_Study; peer review is not documented in this repository).
 
 ### Strategic thesis
 
@@ -37,7 +37,7 @@ ASRP's public surface is fragmented across sites, repos, papers and social chann
 **Core clusters:**
 
 - 🎓 **Education** — Arcanum12th platform, Telegram bot, courses, certification.
-- 🔬 **Science** — peer-reviewed journal, research repositories, IP portfolio (6 KZ patents + 1 PCT + 1 US copyright).
+- 🔬 **Science** — journal (self-published; peer review not documented in the asrp.science-documents repository), research repositories, IP portfolio (6 KZ patents + 1 PCT + 1 US copyright).
 - 📰 **Media** — official media outlet with ad-based monetization and affiliate integrations.
 - ⚙️ **R&D / Deep Tech** — UAP reverse engineering, hyperbolic field studies, forecasting, neurointerfaces, biomed, AI.
 - 🎨 **Consciousness Technology** — ASRP.art, ASRP.drift (PlayOne), Global Mental System, ASRP.dance.
@@ -75,7 +75,7 @@ Two separate views for clarity: **what we have** (taxonomy) and **how money move
 |---|---|---|---|
 | 🤖 **Arcanum12th_BOT** | [@Arcanum12th_BOT](https://t.me/Arcanum12th_BOT) | Dreams journal → lead & biosensor data for GFS | Lead gen, tripwire |
 | 📰 **ASRP.media** | [asrp.media](https://asrp.media) | Official media, science-popularising content | CPM/CPC ads, native, Amazon affiliate |
-| 🔬 **ASRP.science** | [asrp.science](https://asrp.science) | Peer-review scientific journal | Paid publications, subscriptions |
+| 🔬 **ASRP.science** | [asrp.science](https://asrp.science) | Scientific journal (self-published; peer review not documented in the asrp.science-documents repository) | Paid publications, subscriptions |
 | ⚙️ **asrp.tech** | [asrp.tech](https://asrp.tech) | Projects & patents portfolio | B2B leads, licensing inquiries |
 
 > ⚠️ The English and Russian versions of this passage differ in the source.
@@ -88,7 +88,7 @@ Two separate views for clarity: **what we have** (taxonomy) and **how money move
 |---|---|---|---|
 | 🎓 **Arcanum12th.education** | [arcanum12th.education](https://arcanum12th.education) | Educational platform | Course sales, certification |
 | ▶️ **YouTube @ASRPtech** | [@ASRPtech](https://www.youtube.com/@ASRPtech) | Science & research video | AdSense, sponsorships |
-| 🎨 **ASRP.art** | [asrp.tech/projects](https://asrp.tech/ru/projects) · [repo](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art) | Neurophysiological art valuation | Art marketplaces, galleries |
+| 🎨 **ASRP.art** | [asrp.tech/projects](https://asrp.tech/ru/projects) · [repo](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art) *(private repository)* | Neurophysiological art valuation | Art marketplaces, galleries |
 | 🧠 **ASRP.drift (PlayOne)** | [asrp.tech/projects](https://asrp.tech/ru/projects) | Neurointegration for team synchronization | B2B clinical, defense, sports |
 | 🌐 **GFS — Global Forecasting System** | [asrp.tech/projects](https://asrp.tech/ru/projects) · [repo (code private)](https://github.com/AdvancedScientificResearchProjects/gfs-model) | Dream + biosensor analysis → forecasts · **product narrative fully public** (see [GFS path to money](PATHS_TO_MONEY_RESEARCH.md)) · source code private for security | B2G, B2B forecasts + Kapusta-rewarded user bets |
 | 🧘 **Global Mental System** | [asrp.tech/projects](https://asrp.tech/ru/projects) | Cognitive process synchronization | Enterprise performance, wellness |
@@ -96,7 +96,7 @@ Two separate views for clarity: **what we have** (taxonomy) and **how money move
 | 💓 **Inspira-X** | [patent repo](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) · [asrp.tech](https://asrp.tech/ru/projects/inspira-x) | Dual-channel pneumograph + ECG, 22 breathing methodics · **primary placement: DAAT Crystal cognitive-enhancement stack** (respiratory biosensor) · also serves as an ASRP.drift module | DAAT Crystal bundle + medical B2B + crowdfunding planned |
 | 💃 **ASRP.dance** | [asrp.tech](https://asrp.tech/ru/projects/asrp.dance) | Movement neuroscience — cortical activation via ritual/complex motion sequences | B2B clinics, sports, wellness |
 | 👗 **ASRP.fashion** | [asrp.tech](https://asrp.tech/ru/projects/asrp.fashion) · [YouTube @ASRPfashion](https://www.youtube.com/@ASRPfashion) | Living biocompatible textiles grown from plants/bacteria/fungi under hyperbolic + quantum field exposure | Premium fashion, medical textiles, licensing |
-| 💎 **DAAT Crystal** (product) | [repo](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) · [asrp.tech](https://asrp.tech/ru/projects) | Premium cognitive-enhancement device (crystal + Inspira-X + neurointerface stack) | Premium B2C + B2B executive wellness |
+| 💎 **DAAT Crystal** (product) | [repo](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) *(private repository)* · [asrp.tech](https://asrp.tech/ru/projects) | Premium cognitive-enhancement device (crystal + Inspira-X + neurointerface stack) | Premium B2C + B2B executive wellness |
 | 🔄 **ASRP.exchange / ASRP Market** | [asrp.tech](https://asrp.tech/ru/projects/asrp.exchange) | Consciousness-state marketplace (`/stock` subdomain = Mental Objects DB) | Exchange commissions, TX fees via Kapusta.money |
 
 ### Planned
@@ -126,10 +126,10 @@ Two separate views for clarity: **what we have** (taxonomy) and **how money move
 | Repository | Focus | Stage | Target Client |
 |---|---|---|---|
 | [UAP Reverse Engineering](https://github.com/AdvancedScientificResearchProjects/UAP_Reverse_Engineering_Study) | Aerospace reverse engineering | 🔐 Public w/ NDA-tier materials | Defense contractors, DoD |
-| [Hyperbolic Field Blood Plasma](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_BloodPlasma_Study) | Blood plasma coagulation | 🧪 Lab results published | Pharma, Stanford-class centers |
-| [Hyperbolic Field Agricultural](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Agricultural_Study) | Germination, plant yield | 🧪 Field trials (Day 4+) | Agri-holdings, UA/MD grants |
+| [Hyperbolic Field Blood Plasma](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_BloodPlasma_Study) | Blood plasma coagulation | 🧪 Preliminary, hypothesis-generating results | Pharma, Stanford-class centers |
+| [Hyperbolic Field Agricultural](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Agricultural_Study) | Germination, plant yield | 🧪 Trial planned; no RCT results yet, pilot analyses preliminary | Agri-holdings, UA/MD grants |
 | [Hyperbolic Field Yeast](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_SaccharomycesCerevisiae_Study) | Fermentation kinetics | 🧪 OSF registered | Food industry, biopharma |
-| [DAAT Crystal Study](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) | Crystal-human interaction, cognitive enhancement research | 🧪 Recruitment | Premium B2C + B2B — see [DAAT Crystal Path to Money](PATHS_TO_MONEY_PRODUCTS.md) |
+| [DAAT Crystal Study](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) *(private repository)* | Crystal-human interaction, cognitive enhancement research | 🧪 Recruitment | Premium B2C + B2B — see [DAAT Crystal Path to Money](PATHS_TO_MONEY_PRODUCTS.md) |
 | Hyperbolic Field Plants Study | Germination, growth kinetics, yield modulation on expanded species list | 🟡 OSF preregistration planned (2026-04-22) | Agri-holdings, food-security grants |
 | Hyperbolic Field Fish Caviar Study | Aquaculture embryonic-development kinetics under hyperbolic-field exposure | 🟡 OSF preregistration planned (2026-04-22) | Aquaculture industry, biopharma |
 
@@ -147,9 +147,9 @@ Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or
 |---|---|---|
 | asrp.media, asrp.science, asrp.tech, Arcanum12th_BOT, Arcanum12th.education and YouTube @ASRPtech are live | The listed URLs returned HTTP 200 on 2026-11-17; this shows the pages exist, not what they contain or their usage | **STATED** |
 | One account gives access to every service (media, journal, school, bot, marketplace layer) | none on this page | **NOT VERIFIED** |
-| ASRP.science is a peer-review scientific journal | Link asrp.science returned 200; no review process, issues or editorial board shown on this page | **STATED** |
+| ASRP.science is a scientific journal (self-published; peer review not documented in the asrp.science-documents repository) | Link asrp.science returned 200; no review process, issues or editorial board shown on this page | **STATED** |
 | The organisation holds active DARPA BAA proposal-portal access and a Tesla Business Program accreditation | Refers to the Research and IP page; there the DARPA login is described as provided under NDA and no public document is linked | **NOT VERIFIED** |
-| 6 Kazpatent filings, 1 PCT, 1 US Copyright and a peer-reviewed ASRP.drift publication | Project statement; patent repositories and the asrp.drift page (200) are linked from the Research and IP page; no registry record was checked | **STATED** |
+| 6 Kazpatent filings, 1 PCT, 1 US Copyright and a 2024 International Internal Medicine Journal paper cited on the ASRP.drift product page (per the ASRP_Drift_Study README it is the dream-synchronization paper of Banchenko_Dream_Research_Study; peer review not documented here) | Project statement; patent repositories and the asrp.drift page (200) are linked from the Research and IP page; no registry record was checked | **STATED** |
 | Public repositories exist for the Body Food System and Inspira-X patents | Both GitHub URLs returned 200 on 2026-11-17 | **VERIFIED** |
 | Arcanum12th courses collect raw biological data from students (genetic analysis, EEG, skin-galvanic response, autonomic metrics, medical workup) that feeds publications, GFS forecasts and GMS tokens | none on this page | **NOT VERIFIED** |
 | The Kapusta rating mechanism (accuracy raises status, inaccuracy lowers it) is documented in the GFS patent | The GFS patent text is not on this page and was not read; the GFS patent repository is linked on the Research and IP page | **NOT VERIFIED** |

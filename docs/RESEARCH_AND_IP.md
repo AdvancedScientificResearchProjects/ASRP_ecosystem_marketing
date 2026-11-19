@@ -14,7 +14,7 @@
 
 ## Scientific whitepapers
 
-The ASRP business model and scientific foundation are documented across **a family of peer-reviewed publications on ResearchGate** — each carrying a complete history of rejections (typically 4–5) before acceptance. Every canonical work has been published in a journal **except the BCI / Neural-Interfaces Technical Report**, which is currently issued as a report and will be released as a journal article shortly. Three flagship works are summarised below; the complete publication list (8+ canonical works including multiple versions) lives in [`whitepaper/README.md → Complete publication list`](../whitepaper/README.md#-complete-publication-list--полный-список-публикаций).
+The ASRP business model and scientific foundation are documented across **a family of publications on ResearchGate (peer-review status is not documented in this repository)** — each carrying a complete history of rejections (typically 4–5) before acceptance. Every canonical work has been published in a journal **except the BCI / Neural-Interfaces Technical Report**, which is currently issued as a report and will be released as a journal article shortly. Three flagship works are summarised below; the complete publication list (8+ canonical works including multiple versions) lives in [`whitepaper/README.md → Complete publication list`](../whitepaper/README.md#-complete-publication-list--полный-список-публикаций).
 
 **GMS / GFS architectural whitepaper (October 2024 → January 2025):**
 > Banchenko D., Kapustin M., Bilovodenko V., Ovseannicova V., Savelev I., Sepehri A., Grivtsova I. *«Technological transformations, formation of GMS (Global Mental System) and GFS (Global Forecasting System) — right-brain technologies based on biological entities with consciousness, artificial intelligence, quantum computing, and blockchain: Banchenko-Market (Global Market of Lucid Dreams and Other Transcendental States of Consciousness)»* · Preprint: [RG 384668260](https://www.researchgate.net/publication/384668260) (October 2024) · Extended preprint: [RG 384706504](https://www.researchgate.net/publication/384706504) · **Published article: [RG 388438082](https://www.researchgate.net/publication/388438082)** in *Journal of Investment Banking and Finance*, January 2025 · [DOI: 10.17605/OSF.IO/P9KHU](https://doi.org/10.17605/OSF.IO/P9KHU) · License: CC BY-NC-ND 4.0.
@@ -38,7 +38,7 @@ See [`whitepaper/README.md`](../whitepaper/README.md) for the **complete publica
 |---|---|---|---|---|
 | 1 | **GFS — Global Forecasting System** | KZ 2025/1096.1 | ✅ Formal exam done → Substantive exam | [patent repo](https://github.com/denisbanchenko/Kazpatent_Global_Forecasting_System_Patent) |
 | 2 | **ASRP.drift — Advanced Synchro Resonance Platform** | KZ 413554 | 🟡 Registration pending | [patent repo](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent) |
-| 3 | **ASRP.art — Axionetic Sensing Reactions Platform in Art** | KZ 2025/0592.1 + PCT 412362 | ✅ Substantive exam | [patent repo](https://github.com/denisbanchenko/Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent) |
+| 3 | **ASRP.art — Axionetic Sensing Reactions Platform in Art** | KZ 2025/0592.1 + PCT 412362 | ✅ Substantive exam (KZ 2025/0592.1); per the ASRP.art study README the PCT application PCT/KZ2026/000010 is deemed withdrawn (2026-05-12); none is granted | [patent repo](https://github.com/denisbanchenko/Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent) |
 | 4 | **Biophotonic Neurodiagnostic System** | KZ 2025/1097.1 | ✅ Formal exam done → Substantive | [patent repo](https://github.com/denisbanchenko/Kazpatent_Biophotonic_Neurodiagnostic_System_Patent) |
 | 5 | **Fractal Biomedical Hyperbolic Field System** | KZ 2025/1095.1 | ✅ Formal exam done → Substantive | [patent repo](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
 | 6 | **Inspira-X — Respiratory Analysis** | KZ 2025/0914.1 (399693) | ✅ Formal exam done → Substantive pending | [patent repo](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) |
@@ -52,7 +52,7 @@ See [`whitepaper/README.md`](../whitepaper/README.md) for the **complete publica
 
 ## Accreditations & Credentials
 
-**External credentials we hold — these are the trust signals an investor or prime contractor verifies before the first serious conversation.** The top-line headline is **active DARPA BAA proposal-portal access (U.S. defense R&D solicitations)** paired with a **Tesla Business Program accreditation (U.S. corporate enterprise)** — plus patent-office, copyright and peer-review signals below. The DARPA item grants authenticated access to submit and track Broad Agency Announcement proposals; it is not a merit-based award and should not be presented as one.
+**External credentials we hold — these are the trust signals an investor or prime contractor verifies before the first serious conversation.** The top-line headline is **active DARPA BAA proposal-portal access (U.S. defense R&D solicitations)** paired with a **Tesla Business Program accreditation (U.S. corporate enterprise)** — plus patent-office, copyright and publication signals below (peer review is not documented in this repository). The DARPA item grants authenticated access to submit and track Broad Agency Announcement proposals; it is not a merit-based award and should not be presented as one.
 
 | Authority | Program | Date | Reference |
 |---|---|---|---|
@@ -61,7 +61,7 @@ See [`whitepaper/README.md`](../whitepaper/README.md) for the **complete publica
 | 🇰🇿 **Kazpatent** (Ministry of Justice of RK) | 6 patent filings + 1 PCT | 2024–2026 | See [Research & Patents Portfolio](#research--patents-portfolio) |
 | 🇺🇸 **U.S. Copyright Office** | Body Food System | 2024 | TXu002116250 |
 | 🌐 **OSF Registry** | Yeast study preregistration | 2026 | [osf.io/Jgt3h](https://osf.io/Jgt3h) |
-| 📝 **International Internal Medicine Journal** | ASRP.drift peer-reviewed publication | 2024 | Linked from [asrp.tech/projects/asrp.drift](https://asrp.tech/ru/projects/asrp.drift) |
+| 📝 **International Internal Medicine Journal** | Paper cited on the ASRP.drift product page; per the ASRP_Drift_Study README it is the dream-synchronization paper (DOI 10.33140/iimj.02.01.06) of Banchenko_Dream_Research_Study; peer review not documented here | 2024 | Linked from [asrp.tech/projects/asrp.drift](https://asrp.tech/ru/projects/asrp.drift) |
 | 🧪 **ResearchGate** | Institutional lab page | Active | [researchgate.net](https://www.researchgate.net/lab/Advanced-Scientific-Research-Projects-Denis-Banchenko) |
 
 ### Epochs — chronology of registrations, filings and events
@@ -78,7 +78,7 @@ Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or
 
 | Statement on this page | Evidence | Status |
 |---|---|---|
-| The business model and science are documented in peer-reviewed publications on ResearchGate | Six ResearchGate links on the page returned 403 to the automated request; review status not checked | **STATED** |
+| The business model and science are documented in publications on ResearchGate (peer-review status is not documented in this repository) | Six ResearchGate links on the page returned 403 to the automated request; review status not checked | **STATED** |
 | Each canonical work was rejected typically 4-5 times before acceptance | none on this page | **NOT VERIFIED** |
 | The complete publication list has 8+ canonical works | whitepaper/README.md lists 8 canonical works (table rows 1-8) | **VERIFIED** |
 | Every canonical work is journal-published except the BCI / Neural-Interfaces Technical Report | The status column of whitepaper/README.md says so; the file is the project's own, journal pages not checked | **STATED** |
@@ -94,5 +94,5 @@ Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or
 | DARPA BAA proposal-portal access, active, dated 16 Sep 2025 | Login provided under NDA; no public document | **NOT VERIFIED** |
 | Tesla Business Program accreditation dated 22 Aug 2025, registered entity ASRP LLC (FL) | none on this page beyond the entity name and a contact email | **NOT VERIFIED** |
 | OSF preregistration of the Yeast study, 2026 | osf.io/Jgt3h returned 200; registration content not checked | **STATED** |
-| Peer-reviewed ASRP.drift publication in the International Internal Medicine Journal, 2024 | Linked asrp.tech project page returned 200; the journal article itself is not linked | **STATED** |
+| A 2024 International Internal Medicine Journal paper is cited on the ASRP.drift product page (the ASRP_Drift_Study README says it is the dream-synchronization paper of Banchenko_Dream_Research_Study; peer review not documented here) | Linked asrp.tech project page returned 200; the journal article itself is not linked | **STATED** |
 | ResearchGate institutional lab page is active | Lab URL returned 403 to the automated request | **STATED** |

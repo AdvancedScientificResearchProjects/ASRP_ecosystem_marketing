@@ -22,7 +22,7 @@
 
 Мета-кластер **Global Mental System (GMS)** объединяет GFS, Arcanum12th, ASRP.Exchange, ASRP.art и Kapusta.money в единый слой экономики сознания.
 
-Организация держит **активный доступ к порталу DARPA BAA и аккредитацию Tesla Business Program** (различие — см. раздел [«Аккредитации»](RESEARCH_AND_IP.ru.md)), плюс 6 патентных заявок Казпатент, 1 PCT, 1 авторское свидетельство США и рецензируемую публикацию по ASRP.drift.
+Организация держит **активный доступ к порталу DARPA BAA и аккредитацию Tesla Business Program** (различие — см. раздел [«Аккредитации»](RESEARCH_AND_IP.ru.md)), плюс 6 патентных заявок Казпатент, 1 PCT, 1 авторское свидетельство США и статью 2024 года в International Internal Medicine Journal, на которую ссылается страница продукта ASRP.drift (по README ASRP_Drift_Study это статья о синхронизации сновидений из соседнего исследования Banchenko_Dream_Research_Study; рецензирование в этом репозитории не задокументировано).
 
 ### Стратегический тезис
 
@@ -37,7 +37,7 @@
 **Ключевые кластеры:**
 
 - 🎓 **Образование** — Платформа Arcanum12th, Telegram-бот, курсы, сертификация.
-- 🔬 **Наука** — Рецензируемый журнал, исследовательские репозитории, портфель ИС (6 патентов KZ + 1 PCT + 1 авторское свидетельство США).
+- 🔬 **Наука** — журнал (самиздат; рецензирование не задокументировано в репозитории asrp.science-documents), исследовательские репозитории, портфель ИС (6 патентов KZ + 1 PCT + 1 авторское свидетельство США).
 - 📰 **Медиа** — Официальное СМИ с рекламной монетизацией и партнёрскими интеграциями.
 - ⚙️ **R&D / Deep Tech** — Реверс UAP, исследования гиперболических полей, прогнозирование, нейроинтерфейсы, биомед, AI.
 - 🎨 **Технологии сознания** — ASRP.art, ASRP.drift (PlayOne), Global Mental System, ASRP.dance.
@@ -75,7 +75,7 @@
 |---|---|---|---|
 | 🤖 **Arcanum12th_BOT** | [@Arcanum12th_BOT](https://t.me/Arcanum12th_BOT) | Дневник снов → лид + биодатчик для GFS | Лид-ген, трипваер |
 | 📰 **ASRP.media** | [asrp.media](https://asrp.media) | СМИ, популяризация науки | Реклама, нативка, Amazon |
-| 🔬 **ASRP.science** | [asrp.science](https://asrp.science) | Рецензируемый научный журнал | Платные публикации, подписка |
+| 🔬 **ASRP.science** | [asrp.science](https://asrp.science) | Научный журнал (самиздат; рецензирование не задокументировано в репозитории asrp.science-documents) | Платные публикации, подписка |
 | ⚙️ **asrp.tech** | [asrp.tech](https://asrp.tech) | Портфолио проектов и патентов | B2B-лиды, лицензирование |
 
 > ⚠️ Русская и английская версии этого места в исходнике расходятся.
@@ -88,7 +88,7 @@
 |---|---|---|---|
 | 🎓 **Arcanum12th.education** | [arcanum12th.education](https://arcanum12th.education) | Образовательная платформа | Продажа курсов, сертификация |
 | ▶️ **YouTube @ASRPtech** | [@ASRPtech](https://www.youtube.com/@ASRPtech) | Видео о науке | AdSense, спонсорство |
-| 🎨 **ASRP.art** | [asrp.tech/projects](https://asrp.tech/ru/projects) · [репозиторий](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art) | Нейрофизиологическая оценка искусства | Арт-площадки, галереи |
+| 🎨 **ASRP.art** | [asrp.tech/projects](https://asrp.tech/ru/projects) · [репозиторий](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art) *(закрытый репозиторий)* | Нейрофизиологическая оценка искусства | Арт-площадки, галереи |
 | 🧠 **ASRP.drift (PlayOne)** | [asrp.tech/projects](https://asrp.tech/ru/projects) | Нейроинтеграция для синхронизации команд | B2B клиника, оборонка, спорт |
 | 🌐 **GFS — Global Forecasting System** | [asrp.tech/projects](https://asrp.tech/ru/projects) · [репозиторий (код закрыт)](https://github.com/AdvancedScientificResearchProjects/gfs-model) | Сны + биосенсоры → прогнозы · **продуктовый нарратив полностью публичен** (см. [путь к деньгам GFS](PATHS_TO_MONEY_RESEARCH.ru.md)) · исходный код закрыт по соображениям безопасности | B2G, B2B прогнозы + пользовательские ставки с начислением Kapusta |
 | 🧘 **Global Mental System** | [asrp.tech/projects](https://asrp.tech/ru/projects) | Синхронизация когнитивных процессов | Корпоративные программы, wellness |
@@ -96,7 +96,7 @@
 | 💓 **Inspira-X** | [репозиторий патента](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) · [asrp.tech](https://asrp.tech/ru/projects/inspira-x) | Двухканальный пневмограф + ЭКГ, 22 дыхательные методики · **основное место в стеке DAAT Crystal** (респираторный биосенсор) · также используется как модуль ASRP.drift | Бандл с DAAT Crystal + медицинский B2B + краудфандинг планируется |
 | 💃 **ASRP.dance** | [asrp.tech](https://asrp.tech/ru/projects/asrp.dance) | Нейронаука движений — активация коры через сложные / ритуальные последовательности | B2B клиники, спорт, wellness |
 | 👗 **ASRP.fashion** | [asrp.tech](https://asrp.tech/ru/projects/asrp.fashion) · [YouTube @ASRPfashion](https://www.youtube.com/@ASRPfashion) | Живые биосовместимые ткани из растений/бактерий/грибов под гиперболическими и квантовыми полями | Премиум-мода, медицинский текстиль, лицензирование |
-| 💎 **DAAT Crystal** (продукт) | [репозиторий](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) · [asrp.tech](https://asrp.tech/ru/projects) | Премиум-устройство когнитивного усиления (кристалл + Inspira-X + нейроинтерфейс) | Премиум B2C + B2B для топ-менеджмента |
+| 💎 **DAAT Crystal** (продукт) | [репозиторий](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) *(закрытый репозиторий)* · [asrp.tech](https://asrp.tech/ru/projects) | Премиум-устройство когнитивного усиления (кристалл + Inspira-X + нейроинтерфейс) | Премиум B2C + B2B для топ-менеджмента |
 | 🔄 **ASRP.exchange / ASRP Market** | [asrp.tech](https://asrp.tech/ru/projects/asrp.exchange) | Биржа состояний сознания (субдомен `/stock` = БД ментальных объектов) | Комиссии биржи, TX-комиссии Kapusta.money |
 
 ### Планируется
@@ -126,10 +126,10 @@
 | Репозиторий | Направление | Стадия | Клиент |
 |---|---|---|---|
 | [Реверс-инжиниринг UAP](https://github.com/AdvancedScientificResearchProjects/UAP_Reverse_Engineering_Study) | Реверс аэрокосмических технологий | 🔐 Публичный + материалы под NDA | Оборонка, Минобороны США |
-| [Плазма крови в гиперболическом поле](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_BloodPlasma_Study) | Свёртывание плазмы | 🧪 Опубликованы | Фарма, центры уровня Стэнфорда |
-| [Агро-исследование в гиперболическом поле](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Agricultural_Study) | Прорастание, урожайность | 🧪 Полевые (день 4+) | Агрохолдинги, гранты UA/MD |
+| [Плазма крови в гиперболическом поле](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_BloodPlasma_Study) | Свёртывание плазмы | 🧪 Предварительные, порождающие гипотезы результаты | Фарма, центры уровня Стэнфорда |
+| [Агро-исследование в гиперболическом поле](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Agricultural_Study) | Прорастание, урожайность | 🧪 Испытание запланировано; результатов RCT пока нет, пилотные анализы предварительные | Агрохолдинги, гранты UA/MD |
 | [Дрожжи в гиперболическом поле](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_SaccharomycesCerevisiae_Study) | Кинетика ферментации | 🧪 OSF зарегистрировано | Пищевая промышленность, биофарма |
-| [Исследование DAAT-кристалла](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) | Взаимодействие кристалл-человек, исследование когнитивного усиления | 🧪 Набор участников | Премиум B2C + B2B — см. [Path to Money](PATHS_TO_MONEY_PRODUCTS.ru.md) |
+| [Исследование DAAT-кристалла](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) *(закрытый репозиторий)* | Взаимодействие кристалл-человек, исследование когнитивного усиления | 🧪 Набор участников | Премиум B2C + B2B — см. [Path to Money](PATHS_TO_MONEY_PRODUCTS.ru.md) |
 | Исследование растений в гиперболическом поле | Прорастание, кинетика роста, модуляция урожайности на расширенном списке видов | 🟡 Предрегистрация OSF планируется (22.04.2026) | Агрохолдинги, гранты по продовольственной безопасности |
 | Исследование икры рыбы в гиперболическом поле | Кинетика эмбрионального развития в аквакультуре под воздействием гиперболического поля | 🟡 Предрегистрация OSF планируется (22.04.2026) | Аквакультура, биофарма |
 
@@ -147,9 +147,9 @@
 |---|---|---|
 | Опубликованные адреса asrp.media, asrp.science, asrp.tech, Arcanum12th_BOT, Arcanum12th.education и YouTube @ASRPtech работают | Перечисленные URL вернули HTTP 200 17.11.2026; это показывает, что страницы существуют, но не их содержание и не использование | **ЗАЯВЛЕНО** |
 | Один аккаунт даёт доступ ко всем сервисам (медиа, журнал, школа, бот, маркетплейс) | на странице нет | **НЕ ПРОВЕРЕНО** |
-| ASRP.science — рецензируемый научный журнал | Ссылка asrp.science вернула 200; процесс рецензирования, выпуски и редколлегия на странице не показаны | **ЗАЯВЛЕНО** |
+| ASRP.science — научный журнал (самиздат; рецензирование не задокументировано в репозитории asrp.science-documents) | Ссылка asrp.science вернула 200; процесс рецензирования, выпуски и редколлегия на странице не показаны | **ЗАЯВЛЕНО** |
 | Организация имеет действующий доступ к порталу DARPA BAA и аккредитацию Tesla Business Program | Отсылка на страницу «Исследования и IP»; там вход в DARPA указан как предоставляемый под NDA, публичного документа нет | **НЕ ПРОВЕРЕНО** |
-| 6 заявок в Kazpatent, 1 PCT, 1 авторское право США и рецензируемая публикация ASRP.drift | Заявление проекта; репозитории патентов и страница asrp.drift (200) приведены на странице «Исследования и IP»; записи в реестрах не проверялись | **ЗАЯВЛЕНО** |
+| 6 заявок в Kazpatent, 1 PCT, 1 авторское право США и статья 2024 года в International Internal Medicine Journal, на которую ссылается страница продукта ASRP.drift (README ASRP_Drift_Study: это статья о синхронизации сновидений из Banchenko_Dream_Research_Study; рецензирование здесь не задокументировано) | Заявление проекта; репозитории патентов и страница asrp.drift (200) приведены на странице «Исследования и IP»; записи в реестрах не проверялись | **ЗАЯВЛЕНО** |
 | Для патентов Body Food System и Inspira-X есть публичные репозитории | Оба адреса GitHub вернули 200 17.11.2026 | **ПРОВЕРЕНО** |
 | Курсы Arcanum12th собирают сырые биологические данные учеников (генетика, ЭЭГ, кожно-гальваническая реакция, вегетативные метрики, медобследование), которые питают публикации, прогнозы GFS и токены GMS | на странице нет | **НЕ ПРОВЕРЕНО** |
 | Механизм рейтинга Kapusta (точность повышает статус, неточность снижает) описан в патенте GFS | Текст патента GFS на этой странице отсутствует и не читался; репозиторий патента GFS приведён на странице «Исследования и IP» | **НЕ ПРОВЕРЕНО** |

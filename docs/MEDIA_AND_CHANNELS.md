@@ -122,7 +122,7 @@ LinkedIn is the **highest-yield single channel** in the ASRP stack for three rea
 |---|---|---|---|
 | 🎥 TikTok `@asrp.tech` | [tiktok.com/@asrp.tech](https://www.tiktok.com/@asrp.tech) | 6 014 followers · 51.4 K likes | Main — ecosystem highlights |
 | 🎥 TikTok `@asrp.media` | [tiktok.com/@asrp.media](https://www.tiktok.com/@asrp.media) | 325 followers · 2 499 likes | Science pop content |
-| 🎥 TikTok `@asrp.science` | [tiktok.com/@asrp.science](https://www.tiktok.com/@asrp.science) | 20 followers · 353 likes | Peer-review teasers |
+| 🎥 TikTok `@asrp.science` | [tiktok.com/@asrp.science](https://www.tiktok.com/@asrp.science) | 20 followers · 353 likes | Journal teasers (peer review not documented) |
 | 🎥 TikTok `@asrp.art` | [tiktok.com/@asrp.art](https://www.tiktok.com/@asrp.art) | 12 followers · 34 likes | Art in altered states |
 | 🎥 TikTok `@arcanum12th` | [tiktok.com/@arcanum12th](https://www.tiktok.com/@arcanum12th) | New | School content |
 | 🎥 TikTok `@ovseannikova` | [tiktok.com/@ovseannikova](https://www.tiktok.com/@ovseannikova) | Personal | Valeria Ovseannicova (CBE, co-founder) |

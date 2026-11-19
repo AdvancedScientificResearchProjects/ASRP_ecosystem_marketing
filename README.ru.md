@@ -154,7 +154,7 @@
 
 Мета-кластер **Global Mental System (GMS)** объединяет GFS, Arcanum12th, ASRP.Exchange, ASRP.art и Kapusta.money в единый слой экономики сознания.
 
-Организация держит **активный доступ к порталу DARPA BAA и аккредитацию Tesla Business Program** (различие — см. раздел [«Аккредитации»](docs/RESEARCH_AND_IP.ru.md)), плюс 6 патентных заявок Казпатент, 1 PCT, 1 авторское свидетельство США и рецензируемую публикацию по ASRP.drift.
+Организация держит **активный доступ к порталу DARPA BAA и аккредитацию Tesla Business Program** (различие — см. раздел [«Аккредитации»](docs/RESEARCH_AND_IP.ru.md)), плюс 6 патентных заявок Казпатент, 1 PCT, 1 авторское свидетельство США и статью 2024 года в International Internal Medicine Journal, на которую ссылается страница продукта ASRP.drift (по README ASRP_Drift_Study это статья о синхронизации сновидений из соседнего исследования Banchenko_Dream_Research_Study; рецензирование в этом репозитории не задокументировано).
 
 ### Стратегический тезис
 
@@ -169,7 +169,7 @@
 **Ключевые кластеры:**
 
 - 🎓 **Образование** — Платформа Arcanum12th, Telegram-бот, курсы, сертификация.
-- 🔬 **Наука** — Рецензируемый журнал, исследовательские репозитории, портфель ИС (6 патентов KZ + 1 PCT + 1 авторское свидетельство США).
+- 🔬 **Наука** — журнал (самиздат; рецензирование не задокументировано в репозитории asrp.science-documents), исследовательские репозитории, портфель ИС (6 патентов KZ + 1 PCT + 1 авторское свидетельство США).
 - 📰 **Медиа** — Официальное СМИ с рекламной монетизацией и партнёрскими интеграциями.
 - ⚙️ **R&D / Deep Tech** — Реверс UAP, исследования гиперболических полей, прогнозирование, нейроинтерфейсы, биомед, AI.
 - 🎨 **Технологии сознания** — ASRP.art, ASRP.drift (PlayOne), Global Mental System, ASRP.dance.
@@ -223,7 +223,7 @@ YouTube-канал и программы на исследовательской
 |---|---|---|---|
 | 🤖 **Arcanum12th_BOT** | [@Arcanum12th_BOT](https://t.me/Arcanum12th_BOT) | Дневник снов → лид + биодатчик для GFS | Лид-ген, трипваер |
 | 📰 **ASRP.media** | [asrp.media](https://asrp.media) | СМИ, популяризация науки | Реклама, нативка, Amazon |
-| 🔬 **ASRP.science** | [asrp.science](https://asrp.science) | Рецензируемый научный журнал | Платные публикации, подписка |
+| 🔬 **ASRP.science** | [asrp.science](https://asrp.science) | Научный журнал (самиздат; рецензирование не задокументировано в репозитории asrp.science-documents) | Платные публикации, подписка |
 | ⚙️ **asrp.tech** | [asrp.tech](https://asrp.tech) | Портфолио проектов и патентов | B2B-лиды, лицензирование |
 
 > ⚠️ Русская и английская версии этого места в исходнике расходятся.
@@ -236,7 +236,7 @@ YouTube-канал и программы на исследовательской
 |---|---|---|---|
 | 🎓 **Arcanum12th.education** | [arcanum12th.education](https://arcanum12th.education) | Образовательная платформа | Продажа курсов, сертификация |
 | ▶️ **YouTube @ASRPtech** | [@ASRPtech](https://www.youtube.com/@ASRPtech) | Видео о науке | AdSense, спонсорство |
-| 🎨 **ASRP.art** | [asrp.tech/projects](https://asrp.tech/ru/projects) · [репозиторий](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art) | Нейрофизиологическая оценка искусства | Арт-площадки, галереи |
+| 🎨 **ASRP.art** | [asrp.tech/projects](https://asrp.tech/ru/projects) · [репозиторий](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art) *(закрытый репозиторий)* | Нейрофизиологическая оценка искусства | Арт-площадки, галереи |
 | 🧠 **ASRP.drift (PlayOne)** | [asrp.tech/projects](https://asrp.tech/ru/projects) | Нейроинтеграция для синхронизации команд | B2B клиника, оборонка, спорт |
 | 🌐 **GFS — Global Forecasting System** | [asrp.tech/projects](https://asrp.tech/ru/projects) · [репозиторий (код закрыт)](https://github.com/AdvancedScientificResearchProjects/gfs-model) | Сны + биосенсоры → прогнозы · **продуктовый нарратив полностью публичен** (см. [путь к деньгам GFS](docs/PATHS_TO_MONEY_RESEARCH.ru.md)) · исходный код закрыт по соображениям безопасности | B2G, B2B прогнозы + пользовательские ставки с начислением Kapusta |
 | 🧘 **Global Mental System** | [asrp.tech/projects](https://asrp.tech/ru/projects) | Синхронизация когнитивных процессов | Корпоративные программы, wellness |
@@ -244,7 +244,7 @@ YouTube-канал и программы на исследовательской
 | 💓 **Inspira-X** | [репозиторий патента](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) · [asrp.tech](https://asrp.tech/ru/projects/inspira-x) | Двухканальный пневмограф + ЭКГ, 22 дыхательные методики · **основное место в стеке DAAT Crystal** (респираторный биосенсор) · также используется как модуль ASRP.drift | Бандл с DAAT Crystal + медицинский B2B + краудфандинг планируется |
 | 💃 **ASRP.dance** | [asrp.tech](https://asrp.tech/ru/projects/asrp.dance) | Нейронаука движений — активация коры через сложные / ритуальные последовательности | B2B клиники, спорт, wellness |
 | 👗 **ASRP.fashion** | [asrp.tech](https://asrp.tech/ru/projects/asrp.fashion) · [YouTube @ASRPfashion](https://www.youtube.com/@ASRPfashion) | Живые биосовместимые ткани из растений/бактерий/грибов под гиперболическими и квантовыми полями | Премиум-мода, медицинский текстиль, лицензирование |
-| 💎 **DAAT Crystal** (продукт) | [репозиторий](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) · [asrp.tech](https://asrp.tech/ru/projects) | Премиум-устройство когнитивного усиления (кристалл + Inspira-X + нейроинтерфейс) | Премиум B2C + B2B для топ-менеджмента |
+| 💎 **DAAT Crystal** (продукт) | [репозиторий](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) *(закрытый репозиторий)* · [asrp.tech](https://asrp.tech/ru/projects) | Премиум-устройство когнитивного усиления (кристалл + Inspira-X + нейроинтерфейс) | Премиум B2C + B2B для топ-менеджмента |
 | 🔄 **ASRP.exchange / ASRP Market** | [asrp.tech](https://asrp.tech/ru/projects/asrp.exchange) | Биржа состояний сознания (субдомен `/stock` = БД ментальных объектов) | Комиссии биржи, TX-комиссии Kapusta.money |
 
 ### Планируется
@@ -274,10 +274,10 @@ YouTube-канал и программы на исследовательской
 | Репозиторий | Направление | Стадия | Клиент |
 |---|---|---|---|
 | [Реверс-инжиниринг UAP](https://github.com/AdvancedScientificResearchProjects/UAP_Reverse_Engineering_Study) | Реверс аэрокосмических технологий | 🔐 Публичный + материалы под NDA | Оборонка, Минобороны США |
-| [Плазма крови в гиперболическом поле](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_BloodPlasma_Study) | Свёртывание плазмы | 🧪 Опубликованы | Фарма, центры уровня Стэнфорда |
-| [Агро-исследование в гиперболическом поле](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Agricultural_Study) | Прорастание, урожайность | 🧪 Полевые (день 4+) | Агрохолдинги, гранты UA/MD |
+| [Плазма крови в гиперболическом поле](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_BloodPlasma_Study) | Свёртывание плазмы | 🧪 Предварительные, порождающие гипотезы результаты | Фарма, центры уровня Стэнфорда |
+| [Агро-исследование в гиперболическом поле](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Agricultural_Study) | Прорастание, урожайность | 🧪 Испытание запланировано; результатов RCT пока нет, пилотные анализы предварительные | Агрохолдинги, гранты UA/MD |
 | [Дрожжи в гиперболическом поле](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_SaccharomycesCerevisiae_Study) | Кинетика ферментации | 🧪 OSF зарегистрировано | Пищевая промышленность, биофарма |
-| [Исследование DAAT-кристалла](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) | Взаимодействие кристалл-человек, исследование когнитивного усиления | 🧪 Набор участников | Премиум B2C + B2B — см. [Path to Money](docs/PATHS_TO_MONEY_PRODUCTS.ru.md) |
+| [Исследование DAAT-кристалла](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) *(закрытый репозиторий)* | Взаимодействие кристалл-человек, исследование когнитивного усиления | 🧪 Набор участников | Премиум B2C + B2B — см. [Path to Money](docs/PATHS_TO_MONEY_PRODUCTS.ru.md) |
 | Исследование растений в гиперболическом поле | Прорастание, кинетика роста, модуляция урожайности на расширенном списке видов | 🟡 Предрегистрация OSF планируется (22.04.2026) | Агрохолдинги, гранты по продовольственной безопасности |
 | Исследование икры рыбы в гиперболическом поле | Кинетика эмбрионального развития в аквакультуре под воздействием гиперболического поля | 🟡 Предрегистрация OSF планируется (22.04.2026) | Аквакультура, биофарма |
 
@@ -293,7 +293,7 @@ YouTube-канал и программы на исследовательской
 ### Научные статьи
 
 <!-- excerpt RESEARCH_AND_IP 0 -->
-Бизнес-модель и научная основа ASRP задокументированы **семьёй рецензируемых публикаций на ResearchGate** — у каждой работы полный историй отказов (обычно 4–5 штук) до принятия в журнал. **Все канонические работы опубликованы в журналах**, кроме **технического отчёта по BCI / нейроинтерфейсам**, который сейчас выпущен как отчёт и в скором времени будет опубликован как статья. Три флагманских работы — ниже; полный список публикаций (8+ канонических работ с учётом разных версий) — в [`whitepaper/README.ru.md → Полный список публикаций`](whitepaper/README.ru.md#-complete-publication-list--полный-список-публикаций).
+Бизнес-модель и научная основа ASRP задокументированы **семьёй публикаций на ResearchGate (статус рецензирования в этом репозитории не задокументирован)** — у каждой работы полный историй отказов (обычно 4–5 штук) до принятия в журнал. **Все канонические работы опубликованы в журналах**, кроме **технического отчёта по BCI / нейроинтерфейсам**, который сейчас выпущен как отчёт и в скором времени будет опубликован как статья. Три флагманских работы — ниже; полный список публикаций (8+ канонических работ с учётом разных версий) — в [`whitepaper/README.ru.md → Полный список публикаций`](whitepaper/README.ru.md#-complete-publication-list--полный-список-публикаций).
 
 **Архитектурная статья GMS / GFS (октябрь 2024 → январь 2025):**
 > Banchenko D., Kapustin M., Bilovodenko V., Ovseannicova V., Savelev I., Sepehri A., Grivtsova I. *«Technological transformations, formation of GMS (Global Mental System) and GFS (Global Forecasting System) — right-brain technologies based on biological entities with consciousness, artificial intelligence, quantum computing, and blockchain: Banchenko-Market (Global Market of Lucid Dreams and Other Transcendental States of Consciousness)»* · Препринт: [RG 384668260](https://www.researchgate.net/publication/384668260) (October 2024) · Расширенный препринт: [RG 384706504](https://www.researchgate.net/publication/384706504) · **Опубликованная статья: [RG 388438082](https://www.researchgate.net/publication/388438082)** в *Journal of Investment Banking and Finance*, January 2025 · [DOI: 10.17605/OSF.IO/P9KHU](https://doi.org/10.17605/OSF.IO/P9KHU) · Лицензия: CC BY-NC-ND 4.0.
@@ -317,7 +317,7 @@ YouTube-канал и программы на исследовательской
 |---|---|---|---|---|
 | 1 | **ГСП** (GFS — Global Forecasting System) | KZ 2025/1096.1 | Ответ на формальную экспертизу отправлен | [репозиторий патента](https://github.com/denisbanchenko/Kazpatent_Global_Forecasting_System_Patent) |
 | 2 | **ПНИР.дрифт** (ASRP.drift — Advanced Synchro Resonance Platform) | KZ 413554 | 🟡 Ожидает регистрации | [репозиторий патента](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent) |
-| 3 | **ПНИР.искусство** (ASRP.art — Axionetic Sensing Reactions Platform in Art) | KZ 2025/0592.1 + PCT 412362 | ✅ Экспертиза по существу | [репозиторий патента](https://github.com/denisbanchenko/Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent) |
+| 3 | **ПНИР.искусство** (ASRP.art — Axionetic Sensing Reactions Platform in Art) | KZ 2025/0592.1 + PCT 412362 | ✅ Экспертиза по существу (KZ 2025/0592.1); по README исследования ASRP.art заявка PCT/KZ2026/000010 считается отозванной (2026-05-12); ни одна не выдана | [репозиторий патента](https://github.com/denisbanchenko/Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent) |
 | 4 | **Биофотонная Нейродиагностика** (Biophotonic Neurodiagnostic System) | KZ 2025/1097.1 | ✅ Формальная → по существу | [репозиторий патента](https://github.com/denisbanchenko/Kazpatent_Biophotonic_Neurodiagnostic_System_Patent) |
 | 5 | **ФБСГП** (Fractal Biomedical Hyperbolic Field System) | KZ 2025/1095.1 | ✅ Формальная → по существу | [репозиторий патента](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
 | 6 | **Инспира-Х** (Inspira-X — Respiratory Analysis) | KZ 2025/0914.1 (399693) | Ожидает | [репозиторий патента](https://github.com/denisbanchenko/Kazpatent_Inspira-X_Respiratory_Analysis_Patent) |
@@ -335,7 +335,7 @@ YouTube-канал и программы на исследовательской
 ## Аккредитации и хронология
 
 <!-- excerpt RESEARCH_AND_IP 2 -->
-**Внешние регистрации и аккредитации — это доверительные сигналы, которые инвестор или подрядчик проверяет до первого серьёзного разговора.** Главный заголовок — **активный доступ к порталу подачи заявок DARPA BAA (оборонные R&D-конкурсы США)** плюс **аккредитация Tesla Business Program (корпоративный сегмент США)** — плюс патентные, авторско-правовые и рецензионные сигналы ниже. DARPA-пункт даёт аутентифицированный доступ для подачи и трекинга предложений по BAA; это не merit-based награда и не должно подаваться как она.
+**Внешние регистрации и аккредитации — это доверительные сигналы, которые инвестор или подрядчик проверяет до первого серьёзного разговора.** Главный заголовок — **активный доступ к порталу подачи заявок DARPA BAA (оборонные R&D-конкурсы США)** плюс **аккредитация Tesla Business Program (корпоративный сегмент США)** — плюс патентные, авторско-правовые и публикационные сигналы ниже (рецензирование в этом репозитории не задокументировано). DARPA-пункт даёт аутентифицированный доступ для подачи и трекинга предложений по BAA; это не merit-based награда и не должно подаваться как она.
 
 | Орган | Программа | Дата | Идентификатор |
 |---|---|---|---|
@@ -344,7 +344,7 @@ YouTube-канал и программы на исследовательской
 | 🇰🇿 **Казпатент** (Минюст РК) | 6 патентных заявок + 1 PCT | 2024–2026 | см. раздел [«Портфель исследований и патентов»](docs/RESEARCH_AND_IP.ru.md#портфель-исследований-и-патентов) |
 | 🇺🇸 **Бюро по авторским правам США** | Система Питания Тела | 2024 | TXu002116250 |
 | 🌐 **Реестр OSF** | Предрегистрация дрожжевого исследования | 2026 | [osf.io/Jgt3h](https://osf.io/Jgt3h) |
-| 📝 **Международный журнал внутренней медицины** | Рецензируемая публикация ASRP.drift | 2024 | ссылка с [asrp.tech/projects/asrp.drift](https://asrp.tech/ru/projects/asrp.drift) |
+| 📝 **Международный журнал внутренней медицины** | Статья, на которую ссылается страница продукта ASRP.drift; по README ASRP_Drift_Study это статья о синхронизации сновидений (DOI 10.33140/iimj.02.01.06) из Banchenko_Dream_Research_Study; рецензирование здесь не задокументировано | 2024 | ссылка с [asrp.tech/projects/asrp.drift](https://asrp.tech/ru/projects/asrp.drift) |
 | 🧪 **ResearchGate** | Страница лаборатории | Активно | [researchgate.net](https://www.researchgate.net/lab/Advanced-Scientific-Research-Projects-Denis-Banchenko) |
 
 ### Эпохи — хронология регистраций, подач и событий
@@ -395,7 +395,7 @@ YouTube-канал и программы на исследовательской
 
 > ⚠️ Русская и английская версии этого места в исходнике расходятся.
 
-> Казахстанская компания держит **патентный портфель** (6 заявок Казпатент + 1 PCT); Florida LLC — **операционная/коммерческая** компания (Tesla Business Program, DARPA BAA, расчёты в USD).
+> Заявители 6 заявок Казпатент + 1 PCT на этой странице **не названы** (README исследований GFS и ASRP.art называют заявителями трёх физических лиц; заявка не является выданным патентом); Florida LLC — **операционная/коммерческая** компания (Tesla Business Program, DARPA BAA, расчёты в USD).
 <!-- /excerpt -->
 
 Оговорка о структуре владения, бенефициарном контроле и корпоративной принадлежности — на полной странице:
@@ -639,7 +639,7 @@ YouTube-канал и программы на исследовательской
 | Тип партнёрства | Предлагаем | Ищем |
 |---|---|---|
 | 🎓 Авторы курсов | Аудитория, платформа, продвижение | Эксперты с уникальным знанием |
-| 🔬 Учёные | Журнал, рецензирование, индексация | Качественные работы, рецензенты |
+| 🔬 Учёные | Журнал, индексация (рецензирование не задокументировано в репозитории asrp.science-documents) | Качественные работы, рецензенты |
 | 💼 Бизнес и инвесторы | Патенты, технологии, пилоты | Финансирование, внедрение, масштаб |
 | 📢 Медиа и инфлюенсеры | Эксклюзивный контент, темы | Охват, продвижение, кросс-коллабы |
 | 🏛️ Госсектор и оборонка | Реверс, прогнозирование, биомед | Контракты, гранты, доступ к объектам |

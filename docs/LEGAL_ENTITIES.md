@@ -50,7 +50,7 @@
 
 > ⚠️ The English and Russian versions of this passage differ in the source.
 
-> The Kazakhstan entity holds the **patent portfolio** (6 Kazpatent filings + 1 PCT); the Florida LLC is the **operational / commercial** entity (Tesla Business Program, DARPA BAA, USD contracting).
+> The applicants of record of the 6 Kazpatent filings + 1 PCT are **not named on this page** (the GFS and ASRP.art study READMEs name three individuals as applicants of their applications; an application is not a granted patent); the Florida LLC is the **operational / commercial** entity (Tesla Business Program, DARPA BAA, USD contracting).
 
 #### Ownership, UBO and corporate-affiliation disclaimer
 
@@ -88,7 +88,7 @@ Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or
 | Kazakhstan entity: BIN 240140033296, registered 27 Jan 2024, OKED 72199, KATO 431910000, Baikonur address, director Banchenko | Registry links not reachable: infostats.co no response, kyc.kz 410 | **NOT VERIFIED** |
 | Name of the Kazakhstan entity: ASRP LLP in English, Перспективные Научно-Исследовательские Разработки (ТОО) in Russian | The two language versions differ; see the report linked in the page note; no registry name confirmed | **NOT VERIFIED** |
 | A United Kingdom entity exists and is under corporate-status reinstatement | none on this page; no registry link | **NOT VERIFIED** |
-| The Kazakhstan entity holds the patent portfolio (6 Kazpatent filings + 1 PCT) | The patent repositories are public (200) but are not linked here and do not show the applicant of record; no Kazpatent record | **NOT VERIFIED** |
+| The applicants of the 6 Kazpatent filings + 1 PCT are not named on this page (the Kazakhstan entity is not shown as applicant) | The patent repositories are public (200) but are not linked here and do not show the applicant of record; no Kazpatent record | **NOT VERIFIED** |
 | The Florida LLC is the operational entity (Tesla Business Program, DARPA BAA, USD contracting) | none on this page | **NOT VERIFIED** |
 | The KZ entity is formally registered on Banchenko because of founder-residency and corporate-law constraints | none on this page; no legal opinion or registry extract | **NOT VERIFIED** |
 | The actual beneficial owners (UBO) are Ovseannicova, Kapustin and Banchenko, acting as co-owners | none on this page; no shareholder agreement, register entry or UBO declaration is linked | **NOT VERIFIED** |

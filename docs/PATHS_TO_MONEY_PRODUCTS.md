@@ -20,7 +20,7 @@ Research-driven paths (UAP reverse engineering, blood plasma / hyperbolic biomed
 
 - **Client:** mid-tier artists (fastest entry), galleries (key multiplier), collectors (risk reduction), top-tier international auction houses (later stage; names withheld pre-contact).
 - **Offer:** Objective scoring via consciousness-state imprinting measurement; positioned as **an additional valuation layer** (not a market-disruption narrative) — "like provenance, but for state".
-- **Proof:** Patent PCT 412362, prototype platform, research base, bilingual podcast on [asrp.tech/projects/asrp.art](https://asrp.tech/ru/projects/asrp.art).
+- **Proof:** PCT application 412362 (per the ASRP.art study README the PCT application is deemed withdrawn; an application is not a granted patent), a synthetic-only demo (study README: "platform, synthetic demo only"), research base, bilingual podcast on [asrp.tech/projects/asrp.art](https://asrp.tech/ru/projects/asrp.art).
 - **Channel:** Bottom-up pressure (artists → galleries → public cases) → private introductions via curators / advisory boards → pilot integration with 5-10 works in auction flow.
 
 **Go-to-Market rollout:**
@@ -111,7 +111,7 @@ This pattern applies consistently across **ASRP.science, ASRP.media, YouTube, Ar
 - **Pricing tier:** Premium tier — the crystal is **not a low-cost product**. Individual B2C purchase for high-load professionals; emerging corporate-buyer pattern where companies acquire crystals for their top-manager cohort (so executives can sustain elevated cognitive load). Specific dollar range pending founder confirmation.
 - **B2B pilots (public signal):** Bank-executive testing programme — crystals already acquired by top-management at a financial institution (institution name undisclosed; testing phase). Individual wearers include persons **on the Forbes list** (publicly announced by the founder in a broadcast Telegram post on 2026-04-20, views:288 · forwards:2 — names not disclosed). These are early pilot signals, not revenue-stage pipelines.
 - **Scientific basis:** neuroplasticity (LTP, gamma oscillations, synaptic reinforcement), adult neurogenesis (BDNF, NGF, IGF-1, VEGF surrogate markers), heart-brain coherence (HRV), neuroendocrine axes (pineal, pituitary, thalamus, vagus nerve).
-- **Proof:** [Hyperbolic_Field_DAAT_Crystal_Study](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) (recruitment phase), patents KZ 2025/1095.1 (FBHFS) + KZ 413554 (ASRP.drift).
+- **Proof:** [Hyperbolic_Field_DAAT_Crystal_Study](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_DAAT_Crystal_Study) *(private repository)* (recruitment phase), patents KZ 2025/1095.1 (FBHFS) + KZ 413554 (ASRP.drift).
 - **Channel:** Premium direct sales via `asrp.tech` + **ASRPshop** (🟡 domain reportedly acquired, final URL pending · B2C storefront for crystals and ASRP.fashion items) + Arcanum12th community + ASRP.media / ASRP.art content marketing.
 - **Strategic positioning:** As AI advances displace cognitive-routine labour, DAAT Crystal + Inspira-X + neurointerface becomes a **mass-market candidate for biological-intelligence amplification** — one of the highest-potential monetisable technologies inside ASRP's portfolio.
 
@@ -141,7 +141,7 @@ Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or
 | Statement on this page | Evidence | Status |
 |---|---|---|
 | Global art market turnover is about $600 B / year | none on this page; no source cited | **NOT VERIFIED** |
-| ASRP.art is covered by Patent PCT 412362 | listed with its public patent repository (200) in RESEARCH_AND_IP.md, where the status is "Substantive exam"; no registry record is linked | **STATED** |
+| ASRP.art is the subject of PCT application 412362 (not a granted patent; the ASRP.art study README: deemed withdrawn) | listed with its public patent repository (200) in RESEARCH_AND_IP.md, where the status is "Substantive exam"; no registry record is linked | **STATED** |
 | ASRP.art has a prototype platform, research base and bilingual podcast | asrp.tech project page returned 200; content not re-checked; the Axionetic_Sensing_Reactions_Platform_in_Art study repository returned 404 | **STATED** |
 | SPR yields objective, reproducible reaction metrics for artworks | none on this page; no data or protocol linked | **NOT VERIFIED** |
 | ASRP.drift: Patent KZ 413554 | listed in RESEARCH_AND_IP.md with a public patent repository (200) and status "Registration pending"; the page words it as a patent | **STATED** |

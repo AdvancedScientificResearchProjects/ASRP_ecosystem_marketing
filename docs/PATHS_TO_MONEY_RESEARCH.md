@@ -53,7 +53,7 @@ Product and platform paths (ASRP.art, ASRP.drift, ASRP.media, Arcanum12th, cross
 | `T₊` | Accelerated kinetics (Δt > 0) | **Channel 19** (acceleration) |
 | `T₋` | Decelerated kinetics (Δt < 0) | **Channel 21** (deceleration) |
 
-**Relation:** `T₊ ≫ T₀ ≫ T₋` — reproducible plasma-fibrin clot phenotypes obtained **without thermal, chemical or ionizing exposure**. The T-notation is the public-facing label used in external correspondence (e.g. the Nolan LinkedIn follow-up, 4 Feb 2026); the Channel-19 / Channel-21 taxonomy is the equivalent internal label used within the rest of this document.
+**Relation:** `T₊ ≫ T₀ ≫ T₋` — plasma-fibrin clot phenotypes described as obtained **without thermal, chemical or ionizing exposure**. The T-notation is the public-facing label used in external correspondence (e.g. the Nolan LinkedIn follow-up, 4 Feb 2026); the Channel-19 / Channel-21 taxonomy is the equivalent internal label used within the rest of this document.
 
 **Theoretical anchor:** The temporal-kinetic framework above is formally tractable within the *Three-Dimensional Time* mathematical apparatus (World Scientific, [DOI 10.1142/S2424942425500045](https://www.worldscientific.com/doi/epdf/10.1142/S2424942425500045)) — an external peer-reviewed framework that extends physical time from one dimension to three, giving "localized spacetime curvature at biological scales" a rigorous physics backbone rather than a metaphorical one. See [whitepaper/README.md → External scientific references](../whitepaper/README.md#-external-scientific-references--внешние-научные-ссылки) for the citation.
 

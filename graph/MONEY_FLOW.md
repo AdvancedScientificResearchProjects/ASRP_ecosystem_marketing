@@ -19,7 +19,7 @@
 
 ASRP operates as a multi-jurisdiction group.
 - **ASRP LLC (Florida)** — `#L17000209665`, active since 2017 (reinstated 10 Jun 2025) — the operational and commercial entity. Carries the Tesla Business Program enrolment, the DARPA BAA proposal-portal access, and all USD contracting (target counterparties: DARPA, DoD primes, VA, Tesla).
-- **ТОО ПНИР** (Baikonur, BIN 240140033296, 27 Jan 2024) — the patent-holding entity: 8 patents (6 Kazpatent + PCT 412362 + biophotonic + ASRP.art). KZ jurisdiction is driven by founder-residency requirements + KZ corporate-regulation specifics; phased consolidation (holding companies, shareholder agreements, joint-activity agreements) is in progress.
+- **ТОО ПНИР** (Baikonur, BIN 240140033296, 27 Jan 2024) — an entity of the group; the graph lists 8 patent filings (an application is not a granted patent; applicants of record are not named here) (6 Kazpatent + PCT 412362 + biophotonic + ASRP.art). KZ jurisdiction is driven by founder-residency requirements + KZ corporate-regulation specifics; phased consolidation (holding companies, shareholder agreements, joint-activity agreements) is in progress.
 - **ASRP UK entity** — undergoing corporate-status reinstatement.
 - Formal registration on Denis Banchenko in Kazakhstan is **legal-technical only**; the actual UBO triad is **V. Ovseannicova · M. Kapustin · D. Banchenko**, regardless of jurisdiction.
 
@@ -59,7 +59,7 @@ ASRP operates as a multi-jurisdiction group.
 
 > Reads top-to-bottom: 8 of 9 IP assets sit in ТОО ПНИР; every product line ladders to a revenue stream through the **le-kz → le-us** corporate bridge.
 
-| Patent (le-kz holds) | Product / channel | Revenue stream |
+| Patent application (graph links it to le-kz; applicant not named here) | Product / channel | Revenue stream |
 |---|---|---|
 | **pat-fbhfs** — KZ 2025/1095.1 Fractal Biomedical Hyperbolic Field System | DAAT Crystal · ASRP.fashion · plasma study · agri study | Direct sales · Licensing (Cortical Labs) · Grants · B2B corp-wellness |
 | **pat-inspira** — KZ 2025/0914.1 Inspira-X | Inspira-X biofeedback device · DAAT-stack component | Crowdfunding · Direct sales · B2B licensing |

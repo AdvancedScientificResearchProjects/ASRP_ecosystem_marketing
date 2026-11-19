@@ -17,7 +17,7 @@
 | Partnership Type | We Offer | We Seek |
 |---|---|---|
 | 🎓 Course Authors | Audience, platform, promotion | Experts with unique knowledge |
-| 🔬 Researchers | Journal, peer review, indexing | Quality research, reviewers |
+| 🔬 Researchers | Journal, indexing (peer review is not documented in the asrp.science-documents repository) | Quality research, reviewers |
 | 💼 Business & Investors | Patents, tech, pilot projects | Funding, implementation, scale |
 | 📢 Media & Influencers | Exclusive content, topics | Reach, promotion, cross-collabs |
 | 🏛️ Government / Defense | Reverse engineering, forecasting, biomed | Contracts, grants, facility access |
@@ -27,7 +27,7 @@
 - 📧 Email: `info@asrp.tech`
 - 💬 Telegram: [@Arcanum12th_BOT](https://t.me/Arcanum12th_BOT)
 - 💻 GitHub: [AdvancedScientificResearchProjects](https://github.com/AdvancedScientificResearchProjects)
-- 📍 Entities: **ASRP LLC** (US / Florida, operational) + ТОО «Перспективные Научно-Исследовательские Разработки», Komarova St. 37/56, Baikonur, 468320, Kazakhstan (patent-holding) + **UK entity** (reinstatement stage). See [Legal Entities — UBO disclaimer](LEGAL_ENTITIES.md) for beneficial-ownership note.
+- 📍 Entities: **ASRP LLC** (US / Florida, operational) + ТОО «Перспективные Научно-Исследовательские Разработки», Komarova St. 37/56, Baikonur, 468320, Kazakhstan (not shown here as a patent applicant) + **UK entity** (reinstatement stage). See [Legal Entities — UBO disclaimer](LEGAL_ENTITIES.md) for beneficial-ownership note.
 
 ---
 
@@ -57,14 +57,14 @@ Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or
 
 | Statement on this page | Evidence | Status |
 |---|---|---|
-| ASRP can offer a journal with peer review and indexing, patents, pilot projects, reverse engineering, forecasting and biomedical work | none on this page (an offer table without links) | **NOT VERIFIED** |
+| ASRP can offer a journal with indexing (peer review is not documented in the asrp.science-documents repository), patents, pilot projects, reverse engineering, forecasting and biomedical work | none on this page (an offer table without links) | **NOT VERIFIED** |
 | Website asrp.tech exists | URL returned 200 on 2026-11-17 | **VERIFIED** |
 | GitHub organisation AdvancedScientificResearchProjects is public | URL returned 200 on 2026-11-17 | **VERIFIED** |
 | Telegram bot @Arcanum12th_BOT exists | t.me/Arcanum12th_BOT returned 200 (page exists; the bot's replies were not tested) | **VERIFIED** |
 | Contact email info@asrp.tech is monitored | none on this page; the mailbox was not tested | **NOT VERIFIED** |
 | Contact route asrp.tech/contacts (in the Contributing note) | URL returned 404 on 2026-11-17; the page's only other named routes are the email and the Telegram bot | **NOT VERIFIED** |
 | ASRP LLC (US / Florida) is operational | Registry link is on LEGAL_ENTITIES.md, not on this page; search.sunbiz.org returned 403 to the automated request (bot blocking), not checked | **STATED** |
-| ТОО «Перспективные Научно-Исследовательские Разработки» (Baikonur, Kazakhstan) exists and is patent-holding | Registry links on LEGAL_ENTITIES.md are not reachable: kyc.kz returned 410, infostats.co gave no response (000); no patent record on this page | **NOT VERIFIED** |
+| ТОО «Перспективные Научно-Исследовательские Разработки» (Baikonur, Kazakhstan) exists (patent applicant status is not documented on this page) | Registry links on LEGAL_ENTITIES.md are not reachable: kyc.kz returned 410, infostats.co gave no response (000); no patent record on this page | **NOT VERIFIED** |
 | A UK entity is in the reinstatement stage | none on this page; no registry link in this repository | **NOT VERIFIED** |
 | Practices: double opt-in for email, GDPR / 152-ФЗ handling of personal data, NDA tier for defense-facing materials | none on this page; no policy or process document linked | **NOT VERIFIED** |
 | Campaigns route through asrp.tech or arcanum12th.education | Both URLs returned 200 on 2026-11-17 (they exist); routing practice not checked | **STATED** |
