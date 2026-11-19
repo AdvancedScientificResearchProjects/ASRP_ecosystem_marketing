@@ -1,5 +1,8 @@
 **English | [Русский](README.ru.md)**
 
+<!-- asrp.memory:passport -->
+> **Passport / Паспорт:** `ASRP_ecosystem_marketing` · status `active` · classification `PUBLIC` · mounted in [asrp.memory](https://github.com/AdvancedScientificResearchProjects/asrp.memory) at `sources/ecosystem-map` · machine-readable: [`metadata.yaml`](./metadata.yaml)
+
 <div align="center">
 
 <img src="docs/assets/banner/hero-banner.en.svg" width="100%" alt="ASRP Ecosystem: six clusters linked to one hub (generated illustration)">
