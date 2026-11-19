@@ -1,5 +1,8 @@
 # ASRP Ecosystem — Marketing & Monetization Hub **/** Экосистема ASRP — Маркетинг и монетизация 🌐
 
+<!-- asrp.memory:passport -->
+> **Passport / Паспорт:** `ASRP_ecosystem_marketing` · status `active` · classification `PUBLIC` · mounted in [asrp.memory](https://github.com/AdvancedScientificResearchProjects/asrp.memory) at `sources/ecosystem-map` · machine-readable: [`metadata.yaml`](./metadata.yaml)
+
 > **Advanced Scientific Research Projects (ASRP)** — Unified research, education, science, media & deep-tech ecosystem.
 >
 > **Advanced Scientific Research Projects (ASRP)** — единая экосистема исследований, образования, науки, медиа и глубоких технологий.
