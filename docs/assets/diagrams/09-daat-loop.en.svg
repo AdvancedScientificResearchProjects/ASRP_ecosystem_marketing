@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-labelledby="t d">
+<title id="t">DAAT Crystal measurement loop</title>
+<desc id="d">DAAT Crystal (grown in hyperbolic field) is worn by user. The user is measured by four sensors: EEG (gamma / alpha ratio), HRV (heart-brain coherence), GSR (SNS / PNS balance) and Inspira-X (respiratory biosensor). All four go into the ASRP.drift AI (interpretation), which produces Metrics: plus working memory, minus mental noise, plus cognitive load. Metrics lead to Premium B2C + B2B (individuals, executives).</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='520' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>DAAT Crystal measurement loop</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Metrics are target outcomes; full study results are pending</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ASRP · PRODUCTS</text>
+<rect x='24' y='242.0' width='150' height='110' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='99.0' y='285.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>DAAT Crystal</text>
+<text x='99.0' y='305.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>grown in</text>
+<text x='99.0' y='325.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>hyperbolic field</text>
+<rect x='200' y='242.0' width='170' height='110' rx='12' fill='#0b1430' stroke='#e6ecff' stroke-width='1.6'/>
+<text x='285.0' y='305.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Worn by user</text>
+<rect x='404' y='96' width='215' height='90' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='418' y='139.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>EEG</text>
+<text x='418' y='159.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>gamma / alpha ratio</text>
+<rect x='404' y='200' width='215' height='90' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='418' y='243.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>HRV</text>
+<text x='418' y='263.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>heart-brain coherence</text>
+<rect x='404' y='304' width='215' height='90' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='418' y='347.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>GSR</text>
+<text x='418' y='367.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>SNS / PNS balance</text>
+<rect x='404' y='408' width='215' height='90' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='418' y='451.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='start' font-weight='700'>Inspira-X</text>
+<text x='418' y='471.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>respiratory biosensor</text>
+<rect x='656' y='242.0' width='150' height='110' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='731.0' y='295.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>ASRP.drift AI</text>
+<text x='731.0' y='315.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>interpretation</text>
+<rect x='840' y='212.0' width='140' height='170' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='910.0' y='265.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Metrics</text>
+<text x='910.0' y='285.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>+ working</text>
+<text x='910.0' y='305.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>memory</text>
+<text x='910.0' y='325.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>− mental noise</text>
+<text x='910.0' y='345.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>+ cognitive load</text>
+<rect x='1008' y='212.0' width='168' height='170' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='1092.0' y='274.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>Premium B2C +</text>
+<text x='1092.0' y='297.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='16' fill='#e6ecff' text-anchor='middle' font-weight='700'>B2B</text>
+<text x='1092.0' y='317.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>individuals ·</text>
+<text x='1092.0' y='337.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>executives</text>
+<defs><marker id='m4ecdc4' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#4ecdc4'/></marker></defs>
+<path d='M177.0,297.0 L196.0,297.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M373.0,297.0 L387.0,297.0 L387.0,141.0 L400.0,141.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M622.0,141.0 L637.0,141.0 L637.0,297.0 L652.0,297.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M373.0,297.0 L387.0,297.0 L387.0,245.0 L400.0,245.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M622.0,245.0 L637.0,245.0 L637.0,297.0 L652.0,297.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M373.0,297.0 L387.0,297.0 L387.0,349.0 L400.0,349.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M622.0,349.0 L637.0,349.0 L637.0,297.0 L652.0,297.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M373.0,297.0 L387.0,297.0 L387.0,453.0 L400.0,453.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M622.0,453.0 L637.0,453.0 L637.0,297.0 L652.0,297.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M809.0,297.0 L836.0,297.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<path d='M983.0,297.0 L1004.0,297.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+</svg>

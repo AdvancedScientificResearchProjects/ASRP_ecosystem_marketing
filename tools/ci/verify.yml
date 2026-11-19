@@ -1,0 +1,32 @@
+# GitHub Actions workflow. To enable it, copy this file to .github/workflows/verify.yml
+# (pushing a workflow file needs a token with the `workflow` scope).
+name: verify
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # the no-loss check compares against the tag pre-marketing-update-2026-11
+          fetch-tags: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tests (no-loss check, generated visuals, README excerpts, language twins)
+        run: python3 -m unittest discover -s tests -v
+      - name: Generated files are committed as built
+        run: |
+          python3 tools/build_visuals.py > /dev/null
+          python3 tools/build_diagrams.py > /dev/null
+          python3 tools/build_readme_excerpts.py > /dev/null
+          python3 tools/build_legacy_map.py > /dev/null
+          git diff --exit-code -- docs/assets README.md README.ru.md

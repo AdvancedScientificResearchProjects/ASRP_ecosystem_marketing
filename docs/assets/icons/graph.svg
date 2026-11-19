@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>interactive graph</title>
+<desc>Navigation icon: interactive graph.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#4ecdc4" stroke-width="3"/>
+<g fill='none' stroke='#4ecdc4' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><circle cx='18' cy='20' r='5'/><circle cx='46' cy='18' r='5'/><circle cx='22' cy='46' r='5'/><circle cx='46' cy='44' r='5'/><path d='M23 20h18M19 25l2 16M27 46h14M46 23v16M22 24l20 17'/></g>
+</svg>
