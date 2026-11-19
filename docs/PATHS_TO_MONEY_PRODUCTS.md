@@ -20,7 +20,7 @@ Research-driven paths (UAP reverse engineering, blood plasma / hyperbolic biomed
 
 - **Client:** mid-tier artists (fastest entry), galleries (key multiplier), collectors (risk reduction), top-tier international auction houses (later stage; names withheld pre-contact).
 - **Offer:** Objective scoring via consciousness-state imprinting measurement; positioned as **an additional valuation layer** (not a market-disruption narrative) — "like provenance, but for state".
-- **Proof:** PCT application 412362 (per the ASRP.art study README the PCT application is deemed withdrawn; an application is not a granted patent), a synthetic-only demo (study README: "platform, synthetic demo only"), research base, bilingual podcast on [asrp.tech/projects/asrp.art](https://asrp.tech/ru/projects/asrp.art).
+- **Proof:** PCT application 412362 (an application, not a granted patent; the ASRP.art study README reports PCT application PCT/KZ2026/000010 as deemed withdrawn (2026-05-12); whether this is the same filing as PCT 412362 is not confirmed in the sources), a synthetic-only demo (study README: "platform, synthetic demo only"), research base, bilingual podcast on [asrp.tech/projects/asrp.art](https://asrp.tech/ru/projects/asrp.art).
 - **Channel:** Bottom-up pressure (artists → galleries → public cases) → private introductions via curators / advisory boards → pilot integration with 5-10 works in auction flow.
 
 **Go-to-Market rollout:**
@@ -141,7 +141,7 @@ Checked on 17 November 2026. **VERIFIED** = confirmed by an automated request or
 | Statement on this page | Evidence | Status |
 |---|---|---|
 | Global art market turnover is about $600 B / year | none on this page; no source cited | **NOT VERIFIED** |
-| ASRP.art is the subject of PCT application 412362 (not a granted patent; the ASRP.art study README: deemed withdrawn) | listed with its public patent repository (200) in RESEARCH_AND_IP.md, where the status is "Substantive exam"; no registry record is linked | **STATED** |
+| ASRP.art is the subject of PCT application 412362 (not a granted patent; the ASRP.art study README reports PCT/KZ2026/000010 as deemed withdrawn, same filing not confirmed) | listed with its public patent repository (200) in RESEARCH_AND_IP.md, where the status is "Substantive exam"; no registry record is linked | **STATED** |
 | ASRP.art has a prototype platform, research base and bilingual podcast | asrp.tech project page returned 200; content not re-checked; the Axionetic_Sensing_Reactions_Platform_in_Art study repository returned 404 | **STATED** |
 | SPR yields objective, reproducible reaction metrics for artworks | none on this page; no data or protocol linked | **NOT VERIFIED** |
 | ASRP.drift: Patent KZ 413554 | listed in RESEARCH_AND_IP.md with a public patent repository (200) and status "Registration pending"; the page words it as a patent | **STATED** |
